@@ -1,4 +1,4 @@
-herename: OVL-MD Bot CI
+name: OVL-MD Bot CI
 
 on:
   push:
