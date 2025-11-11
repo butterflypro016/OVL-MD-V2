@@ -41,7 +41,7 @@
 
 ---
 
-### 🗄️ Étape 3 : Créer une base de données  
+### 🗄️ Étape 3 : Créer une base de données (au besoin)
 [![Créer Base de Données](https://img.shields.io/badge/Supabase-Base%20de%20donn%C3%A9es-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 > Ou utilise une base de données existante.
 
