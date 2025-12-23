@@ -1,1 +1,77 @@
-const _0x4419b0=_0x43d9;(function(_0x2eb874,_0x4b017c){const _0x29db91=_0x43d9,_0x858dfe=_0x2eb874();while(!![]){try{const _0x48c735=parseInt(_0x29db91(0xf1))/0x1*(-parseInt(_0x29db91(0xd2))/0x2)+-parseInt(_0x29db91(0xf7))/0x3+parseInt(_0x29db91(0xe5))/0x4*(parseInt(_0x29db91(0xcb))/0x5)+parseInt(_0x29db91(0xdd))/0x6*(parseInt(_0x29db91(0xda))/0x7)+parseInt(_0x29db91(0xf9))/0x8*(parseInt(_0x29db91(0x10a))/0x9)+-parseInt(_0x29db91(0x119))/0xa*(parseInt(_0x29db91(0xe2))/0xb)+parseInt(_0x29db91(0xe4))/0xc;if(_0x48c735===_0x4b017c)break;else _0x858dfe['push'](_0x858dfe['shift']());}catch(_0x492a0a){_0x858dfe['push'](_0x858dfe['shift']());}}}(_0x29d5,0x9936a));const fs=require('fs'),{exec}=require(_0x4419b0(0x123)),{ovlcmd}=require(_0x4419b0(0xd6));function _0x43d9(_0x391d74,_0x30a76b){const _0x1e7eae=_0x29d5();return _0x43d9=function(_0x12a70b,_0x330f2d){_0x12a70b=_0x12a70b-0xc6;let _0x29d5e9=_0x1e7eae[_0x12a70b];if(_0x43d9['kCwXPh']===undefined){var _0x43d910=function(_0x5512e3){const _0x3ac727='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2523ea='',_0x455d3c='',_0x33d61d=_0x2523ea+_0x43d910;for(let _0x2516d5=0x0,_0x38a9af,_0x4c9bf3,_0x53c05c=0x0;_0x4c9bf3=_0x5512e3['charAt'](_0x53c05c++);~_0x4c9bf3&&(_0x38a9af=_0x2516d5%0x4?_0x38a9af*0x40+_0x4c9bf3:_0x4c9bf3,_0x2516d5++%0x4)?_0x2523ea+=_0x33d61d['charCodeAt'](_0x53c05c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x38a9af>>(-0x2*_0x2516d5&0x6)):_0x2516d5:0x0){_0x4c9bf3=_0x3ac727['indexOf'](_0x4c9bf3);}for(let _0x2693ec=0x0,_0x44d11d=_0x2523ea['length'];_0x2693ec<_0x44d11d;_0x2693ec++){_0x455d3c+='%'+('00'+_0x2523ea['charCodeAt'](_0x2693ec)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x455d3c);};_0x43d9['JUBzwO']=_0x43d910,_0x391d74=arguments,_0x43d9['kCwXPh']=!![];}const _0x57e669=_0x1e7eae[0x0],_0x51f8f2=_0x12a70b+_0x57e669,_0x14851b=_0x391d74[_0x51f8f2];if(!_0x14851b){const _0x5d71b1=function(_0x3b5338){this['iQMTYg']=_0x3b5338,this['hiLueI']=[0x1,0x0,0x0],this['vEHOtI']=function(){return'newState';},this['QqqNhS']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['TEllEo']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5d71b1['prototype']['BrKiZh']=function(){const _0x4ad6=new RegExp(this['QqqNhS']+this['TEllEo']),_0x584ba5=_0x4ad6['test'](this['vEHOtI']['toString']())?--this['hiLueI'][0x1]:--this['hiLueI'][0x0];return this['Yxvzvj'](_0x584ba5);},_0x5d71b1['prototype']['Yxvzvj']=function(_0x57b2e2){if(!Boolean(~_0x57b2e2))return _0x57b2e2;return this['EGGiGy'](this['iQMTYg']);},_0x5d71b1['prototype']['EGGiGy']=function(_0x20537a){for(let _0x303362=0x0,_0x5b97f4=this['hiLueI']['length'];_0x303362<_0x5b97f4;_0x303362++){this['hiLueI']['push'](Math['round'](Math['random']())),_0x5b97f4=this['hiLueI']['length'];}return _0x20537a(this['hiLueI'][0x0]);},new _0x5d71b1(_0x43d9)['BrKiZh'](),_0x29d5e9=_0x43d9['JUBzwO'](_0x29d5e9),_0x391d74[_0x51f8f2]=_0x29d5e9;}else _0x29d5e9=_0x14851b;return _0x29d5e9;},_0x43d9(_0x391d74,_0x30a76b);}function addAudioEffectCommand(_0x59cc14,_0x46aa19){const _0x5770be=_0x4419b0,_0x1eddc2={'VVeLb':function(_0x18642a,_0x324949){return _0x18642a+_0x324949;},'EEWaj':_0x5770be(0xd7),'EepOs':function(_0x426812,_0x5aee51){return _0x426812(_0x5aee51);},'wcDXx':_0x5770be(0xd9),'QgFnT':'Erreur\x20AudioFX\x20:','MFSAB':'Une\x20erreur\x20est\x20survenue\x20lors\x20du\x20traitement.','hNCXa':function(_0x1231fe,_0x456fb5,_0x131e95){return _0x1231fe(_0x456fb5,_0x131e95);},'skzZm':function(_0x538b76){return _0x538b76();},'JVtTp':_0x5770be(0x111)},_0x3180f5=(function(){let _0x2b1b47=!![];return function(_0x4acdf9,_0x34058f){const _0x84924e=_0x2b1b47?function(){const _0x42480e=_0x43d9;if(_0x34058f){const _0x4aa55d=_0x34058f[_0x42480e(0xf3)](_0x4acdf9,arguments);return _0x34058f=null,_0x4aa55d;}}:function(){};return _0x2b1b47=![],_0x84924e;};}()),_0x2282f7=_0x1eddc2[_0x5770be(0x10f)](_0x3180f5,this,function(){const _0x51db5d=_0x5770be;return _0x2282f7[_0x51db5d(0x100)]()[_0x51db5d(0x11f)](_0x51db5d(0x10d))['toString']()[_0x51db5d(0xea)](_0x2282f7)[_0x51db5d(0x11f)]('(((.+)+)+)+$');});_0x1eddc2['skzZm'](_0x2282f7),_0x1eddc2['hNCXa'](ovlcmd,{'nom_cmd':_0x59cc14,'classe':_0x1eddc2[_0x5770be(0x116)],'react':'🎶','desc':_0x5770be(0x115)+_0x59cc14+_0x5770be(0x118)},async(_0x4ec733,_0x521a2d,{ms:_0x2a4511,msg_Repondu:_0x3d6425,repondre:_0x3f0f92})=>{const _0xddba0d=_0x5770be,_0x34a6a8={'tmhOP':function(_0x5cd0d4,_0x57b3c3){const _0x7df949=_0x43d9;return _0x1eddc2[_0x7df949(0x113)](_0x5cd0d4,_0x57b3c3);},'tLAgc':_0x1eddc2[_0xddba0d(0xee)]};if(!_0x3d6425?.[_0xddba0d(0xeb)])return _0x1eddc2[_0xddba0d(0xe9)](_0x3f0f92,_0xddba0d(0x11e));try{const _0x4e88c5=await _0x521a2d[_0xddba0d(0xe6)](_0x3d6425['audioMessage']),_0x593511=_0x1eddc2['wcDXx'];exec(_0xddba0d(0xcf)+_0x4e88c5+'\x20'+_0x46aa19+'\x20'+_0x593511,async _0x505999=>{const _0x9edae2=_0xddba0d;fs[_0x9edae2(0xe1)](_0x4e88c5);if(_0x505999)return _0x3f0f92(_0x34a6a8['tmhOP']('Erreur\x20FFmpeg\x20:\x20',_0x505999[_0x9edae2(0xfe)]));const _0x3b5746=fs[_0x9edae2(0xce)](_0x593511);await _0x521a2d['sendMessage'](_0x4ec733,{'audio':_0x3b5746,'mimetype':_0x34a6a8[_0x9edae2(0x124)]},{'quoted':_0x2a4511}),fs[_0x9edae2(0xe1)](_0x593511);});}catch(_0x1b4fcf){console[_0xddba0d(0xd1)](_0x1eddc2[_0xddba0d(0x108)],_0x1b4fcf),_0x3f0f92(_0x1eddc2[_0xddba0d(0x110)]);}});}function _0x29d5(){const _0x1f4243=['iIddOcb1BIbHDwrPBY4','mZKWmdmWD1fUBejX','lwzPBhrLCJPHicjHDgvTCg89mc41lgfZzxrYyxrLpty1mtaWiG','lwfMicjWyw49Bw9UB3XJmd0UnsPJmcSUnsPJmsi','C2XVDW','zwnOBW','uSoPCg9UzhmGW6aGDw4GBwvZC2fNzsbHDwrPBYO','C2vHCMnO','zMXHBMDLCG','lwfMigfJCNvZAgvYps4XoJe6nJq6mdPSB2C','lwfMicjHChvSC2f0B3i9Bw9Kzt1ZAw5LoMH6ptaUnsi','y2HPBgrFChjVy2vZCW','DeXbz2m','lwfMicjHzwnOBZ0WlJy6mc42oJuWoJaUmIi','lwfMicjHzwnOBZ0WlJG6mc44odOXmda6mc4ZiG','DgvSzxbOB25L','DMLUDgfNzq','zMf0','yMfZCW','nwTRCgXqCq','y29TChjLC3nVCG','zgL6ENK','CMvHzezPBgvtEw5J','zMzTCgvNic1Pia','zgLZDg9YDgLVBG','zxjYB3i','mNrMzLbiqq','zwfYCMfWzq','lwzPBhrLCJPHicjHDgvTCg89mc43lgfZzxrYyxrLptq0mtaWiG','lwfMigf0zw1WBZ00lZqSyxnLDhjHDgu9ndq1mdaQmI8Z','lI4VBgLIl292BgnTza','yxvKAw8VBxbLzW','lwfMicjHzwnOBZ0WlJK6mc45oJeWmda6mc41iG','B3v0Chv0lM1WmW','mtu0sefmyLHc','lwfMicjOAwDOCgfZCZ1MptiWmcWGBg93CgfZCZ1MptmWmdaI','lwfMicjMBgfUz2vYiG','mZm2mdzzzhzbtLe','CM9IB3q','BMLNAhrJB3jL','lwfMicjIyxnZpwC9nsi','Dw5SAw5Ru3LUyW','ntvVwwLpvgS','ywXPzw4','otG4odG0me1ur1LWCq','mJu1mduWogzMvuTmEa','zgXFC2f2zv9TzwrPyv9TCW','zgfYAW','lwfMicjHzMz0zg49BMy9lti1lcbSB3DWyxnZpwy9mZaWiG','rwvWt3m','y29UC3rYDwn0B3i','yxvKAw9nzxnZywDL','y2f2zq','CgfUB3jHBwe','ruvxywO','z2HVC3q','Dw5Kzxj3yxrLCG','nZeXodCXr2TOz3Pe','DMLICMf0BW','yxbWBhK','zgvLCa','C3vYCM91BMq','C21VB3rO','mJmYmJa2mfbQELHdta','lwfMicjHDgvTCg89ms41lgfZzxrYyxrLptq0mtaWkJaUnYi','ntC4odm5mKHsD2rKrG','Bxv0zwq','lwfMicj2B2X1Bwu9mc4ZiG','lwfMicjHCgHHC2vYpwLUx2DHAw49mc40iG','lwfMicjHy29TChjLC3nVCJ10AhjLC2HVBgq9mc4ZoNjHDgLVptK6yxr0ywnRptiWmdPYzwXLyxnLpteWmdaI','BwvZC2fNzq','lwfMicjHzwnOBZ0WlJG6mc45oJeWmda6mc4ZiG','Dg9tDhjPBMC','lwfMicjHChvSC2f0B3i9AhO9msi','lwfMigfZzxrYyxrLptq0mtaWkJiUmcXHDgvTCg89mc41','lwfMigvXDwfSAxPLCJ1Mptu0oNDPzhrOx3r5Cgu9BZP3Awr0Ad0YoMC9mJa','CMv2zxjZzq','DhjLBw9SBW','lwfMicjJAg9YDxm9mc41oJaUotO1mdOWlJu6mc40oJqWiG','lwzPBhrLCJP2icjTAw50zxjWB2XHDgu9j21Px21Vzgu9BwnPoM1Jx21Vzgu9yw9IBwm6DNnIBwm9mtPMChm9mtiWjYi','uwDgBLq','lwfMicjZDxjYB3vUzci','owjyqvbPvq','y2HVCNvZ','zMfZDa','kcGOlISPkYKRksSK','CMfKAw8','Ae5dwge','tuztqui','rLHFqxvKAw8','lwfMicj0CMvTB2XVpwy9mta6zd0WlJCI','vLzLtgi','CMv2zxjI','qxbWBgLXDwuGBcDLzMzLDcaI','sLz0vha','Bw9UBW'];_0x29d5=function(){return _0x1f4243;};return _0x29d5();}addAudioEffectCommand(_0x4419b0(0xca),_0x4419b0(0x103)),addAudioEffectCommand('blown',_0x4419b0(0x121)),addAudioEffectCommand(_0x4419b0(0xf4),_0x4419b0(0xd5)),addAudioEffectCommand(_0x4419b0(0xd3),'-af\x20volume=12'),addAudioEffectCommand(_0x4419b0(0x10c),'-filter:a\x20\x22atempo=1.63,asetrate=44100\x22'),addAudioEffectCommand(_0x4419b0(0xc9),'-filter:a\x20\x22atempo=1.6,asetrate=22100\x22'),addAudioEffectCommand(_0x4419b0(0xdf),'-filter:a\x20atempo=1.06,asetrate=44100*1.25'),addAudioEffectCommand(_0x4419b0(0x104),'-filter_complex\x20\x22areverse\x22'),addAudioEffectCommand(_0x4419b0(0xde),'-filter_complex\x20\x22afftfilt=real=\x27hypot(re,im)*sin(0)\x27:imag=\x27hypot(re,im)*cos(0)\x27:win_size=512:overlap=0.75\x22'),addAudioEffectCommand(_0x4419b0(0x11c),_0x4419b0(0xd4)),addAudioEffectCommand(_0x4419b0(0xf6),_0x4419b0(0x107)),addAudioEffectCommand('squirrel',_0x4419b0(0x11a)),addAudioEffectCommand(_0x4419b0(0xfa),_0x4419b0(0xfb)),addAudioEffectCommand(_0x4419b0(0x11d),_0x4419b0(0xff)),addAudioEffectCommand(_0x4419b0(0x114),'-af\x20\x22aecho=0.8:0.88:60:0.4\x22'),addAudioEffectCommand('chipmunk',_0x4419b0(0x102)),addAudioEffectCommand(_0x4419b0(0xf2),'-af\x20\x22vibrato=f=5.0:d=0.5\x22'),addAudioEffectCommand(_0x4419b0(0x105),_0x4419b0(0x112)),addAudioEffectCommand(_0x4419b0(0xec),_0x4419b0(0x125)),addAudioEffectCommand(_0x4419b0(0xf0),_0x4419b0(0xe8)),addAudioEffectCommand(_0x4419b0(0xc7),'-af\x20\x22bandpass=f=1000:width_type=h:width=200\x22'),addAudioEffectCommand('haunting',_0x4419b0(0x122)),addAudioEffectCommand(_0x4419b0(0xd0),_0x4419b0(0xfd)),addAudioEffectCommand(_0x4419b0(0xc8),_0x4419b0(0xdb)),addAudioEffectCommand('phaser',_0x4419b0(0xfc)),addAudioEffectCommand(_0x4419b0(0x10b),_0x4419b0(0x106)),addAudioEffectCommand(_0x4419b0(0x120),_0x4419b0(0xdc)),addAudioEffectCommand(_0x4419b0(0xcc),'-af\x20\x22acompressor\x22'),addAudioEffectCommand(_0x4419b0(0xf5),_0x4419b0(0x109)),addAudioEffectCommand(_0x4419b0(0xed),'-af\x20\x22pan=stereo|c0=c0|c1=c1\x22'),addAudioEffectCommand(_0x4419b0(0x117),_0x4419b0(0x11b)),addAudioEffectCommand('invert','-af\x20\x22aphaser=in_gain=-1\x22'),addAudioEffectCommand(_0x4419b0(0x10e),'-af\x20\x22highpass=f=300,\x20lowpass=f=3400\x22'),addAudioEffectCommand(_0x4419b0(0xe3),_0x4419b0(0xf8)),addAudioEffectCommand(_0x4419b0(0xef),_0x4419b0(0xc6)),addAudioEffectCommand(_0x4419b0(0xcd),_0x4419b0(0x101)),addAudioEffectCommand('buzz','-af\x20\x22superequalizer=1b=5:3b=4:5b=3:7b=2\x22'),addAudioEffectCommand('lofi','-af\x20\x22lowpass=f=500\x22'),addAudioEffectCommand('space',_0x4419b0(0xd8)),addAudioEffectCommand(_0x4419b0(0xe7),_0x4419b0(0xe0));
+const fs = require("fs");
+const { exec } = require("child_process");
+const { ovlcmd } = require("../lib/ovlcmd");
+
+function addAudioEffectCommand(nom_cmd, ffmpeg_filter) {
+    ovlcmd(
+        {
+            nom_cmd: nom_cmd,
+            classe: "FX_Audio",
+            react: "🎶",
+            desc: `Applique l'effet "${nom_cmd}" à un audio.`
+        },
+        async (ms_org, ovl, { ms, msg_Repondu, repondre }) => {
+            if (!msg_Repondu?.audioMessage) {
+                return repondre(`Réponds à un message audio*`);
+            }
+
+            try {
+                const inputPath = await ovl.dl_save_media_ms(msg_Repondu.audioMessage);
+                const outputPath = "output.mp3";
+
+                exec(`ffmpeg -i ${inputPath} ${ffmpeg_filter} ${outputPath}`, async (err) => {
+                    fs.unlinkSync(inputPath);
+                    if (err) return repondre("Erreur FFmpeg : " + err.message);
+
+                    const audioBuffer = fs.readFileSync(outputPath);
+                    await ovl.sendMessage(ms_org, { audio: audioBuffer, mimetype: 'audio/mpeg' }, { quoted: ms });
+                    fs.unlinkSync(outputPath);
+                });
+            } catch (e) {
+                console.error("Erreur AudioFX :", e);
+                repondre("Une erreur est survenue lors du traitement.");
+            }
+        }
+    );
+}
+
+addAudioEffectCommand("bass", '-af equalizer=f=54:width_type=o:width=2:g=20');
+addAudioEffectCommand("blown", '-af acrusher=.1:1:64:0:log');
+addAudioEffectCommand("deep", '-af atempo=4/4,asetrate=44500*2/3');
+addAudioEffectCommand("earrape", '-af volume=12');
+addAudioEffectCommand("fast", '-filter:a "atempo=1.63,asetrate=44100"');
+addAudioEffectCommand("fat", '-filter:a "atempo=1.6,asetrate=22100"');
+addAudioEffectCommand("nightcore", '-filter:a atempo=1.06,asetrate=44100*1.25');
+addAudioEffectCommand("reverse", '-filter_complex "areverse"');
+addAudioEffectCommand("robot", '-filter_complex "afftfilt=real=\'hypot(re,im)*sin(0)\':imag=\'hypot(re,im)*cos(0)\':win_size=512:overlap=0.75"');
+addAudioEffectCommand("slow", '-filter:a "atempo=0.7,asetrate=44100"');
+addAudioEffectCommand("smooth", '-filter:v "minterpolate=\'mi_mode=mci:mc_mode=aobmc:vsbmc=1:fps=120\'"');
+addAudioEffectCommand("squirrel", '-filter:a "atempo=0.5,asetrate=65100"');
+addAudioEffectCommand("muted", '-af "volume=0.3"');
+addAudioEffectCommand("echo", '-af "aecho=0.8:0.9:1000:0.3"');
+addAudioEffectCommand("reverb", '-af "aecho=0.8:0.88:60:0.4"');
+addAudioEffectCommand("chipmunk", '-af asetrate=44100*2.0,atempo=0.5');
+addAudioEffectCommand("vibrato", '-af "vibrato=f=5.0:d=0.5"');
+addAudioEffectCommand("tremolo", '-af "tremolo=f=10:d=0.7"');
+addAudioEffectCommand("cave", '-af "aecho=0.6:0.6:50:0.2"');
+addAudioEffectCommand("underwater", '-af "afftdn=nf=-25, lowpass=f=300"');
+addAudioEffectCommand("telephone", '-af "bandpass=f=1000:width_type=h:width=200"');
+addAudioEffectCommand("haunting", '-af "apulsator=mode=sine:hz=0.5"');
+addAudioEffectCommand("distortion", '-af "acompressor=threshold=0.3:ratio=9:attack=200:release=1000"');
+addAudioEffectCommand("vintage", '-af "highpass=f=200, lowpass=f=3000"');
+addAudioEffectCommand("phaser", '-af "aphaser=in_gain=0.4"');
+addAudioEffectCommand("chorus", '-af "chorus=0.5:0.9:50:0.5:0.4:40"');
+addAudioEffectCommand("flanger", '-af "flanger"');
+addAudioEffectCommand("compressor", '-af "acompressor"');
+addAudioEffectCommand("surround", '-af "surround"');
+addAudioEffectCommand("panorama", '-af "pan=stereo|c0=c0|c1=c1"');
+addAudioEffectCommand("mono", '-af "pan=mono|c0=.5*c0+.5*c1"');
+addAudioEffectCommand("invert", '-af "aphaser=in_gain=-1"');
+addAudioEffectCommand("radio", '-af "highpass=f=300, lowpass=f=3400"');
+addAudioEffectCommand("alien", '-af "atempo=1.5,asetrate=44100*0.7"');
+addAudioEffectCommand("ghost", '-af "aecho=0.8:0.88:100:0.3"');
+addAudioEffectCommand("dizzy", '-af "apulsator=hz=1"');
+addAudioEffectCommand("buzz", '-af "superequalizer=1b=5:3b=4:5b=3:7b=2"');
+addAudioEffectCommand("lofi", '-af "lowpass=f=500"');
+addAudioEffectCommand("space", '-af "aecho=0.9:0.9:1000:0.5"');
+addAudioEffectCommand("dark", '-af "bass=g=5"');

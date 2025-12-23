@@ -1,1 +1,219 @@
-const _0x4bc3ce=_0x4505;(function(_0x15a56b,_0x253659){const _0x29bd5a=_0x4505,_0x1fb1ef=_0x15a56b();while(!![]){try{const _0x4bd33a=parseInt(_0x29bd5a(0x16a))/0x1+-parseInt(_0x29bd5a(0x17e))/0x2+-parseInt(_0x29bd5a(0x151))/0x3+-parseInt(_0x29bd5a(0x191))/0x4+-parseInt(_0x29bd5a(0x14b))/0x5*(parseInt(_0x29bd5a(0x19c))/0x6)+-parseInt(_0x29bd5a(0x153))/0x7*(parseInt(_0x29bd5a(0x19a))/0x8)+parseInt(_0x29bd5a(0x167))/0x9;if(_0x4bd33a===_0x253659)break;else _0x1fb1ef['push'](_0x1fb1ef['shift']());}catch(_0x18da93){_0x1fb1ef['push'](_0x1fb1ef['shift']());}}}(_0x3a9e,0xc59ac));function _0x3a9e(){const _0x44d13b=['C2vUze1LC3nHz2u','ihzLDxqGy8oIBgLUzxiGDg91DcbSzsbTB25KzsaH','DgvTCf8','D2L0Ag91DfrHCMDLDa','ihzLDxqGzw5SywnLCIb0B3v0igXLig1VBMrLice','q3jmvue','igf2zwmGzw50Ag91C2LHC21Lice','igXHBMnLiea','igvZDcbWCSoQDcddOcbHC3nVBw1LCIb0B3v0igXLig1VBMrLice','igXVAw4GzgfUCYbSzxmGywLYCYaH','Dw5SAw5Ru3LUyW','zxHLyW','mtK2nZCYmhz5AKL5Aq','ihbVDxnZzsbKB3vJzw1LBNqGqa','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVAgfWChK','ignYB3f1zsb1BIbTB3jJzwf1igrLiea','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVC2XHCa','lMDPzG','ihzLDxqGBgfUy2vYihf1zwXXDsD1BIbKyw5ZigXLCYbHAxjZice','ihzLDxqGzw1ICMfZC2vYihrVDxqGBguGBw9UzguGiq','uSoPywn0Aw9U','mteYANfby1PW','igrVBM5LihvUigHPz2GTzML2zsddOcba','mtq2ndzQsfjes0W','rmoPC29SW6KSihvUzsbLCNjLDxiGzxn0ihn1CNzLBNvLigXVCNmGzhuGDhjHAxrLBwvUDcbKzsbSysbJB21Tyw5Kzs4','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVy3jPBMDL','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVy3vKzgXL','igvUBgfJzsbJAgfSzxvYzxvZzw1LBNqGqa','ihbSzxvYzsb0B3v0ihnLDwWUlI4','ihnHDxrLihn1CIba','z2v0','ihzLDxqGzg9UBMvYihvUigHPz2GTzML2zsddOcb0B3v0igXLig1VBMrLice','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVEwvLDa','C2vHCMnO','A0rhAM8','ihjVDwDPDcbLBIbYzwDHCMrHBNqGqa','vMjAAwm','DxjS','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVCg9Rzq','qMjKCxy','igrVBM5LihvUignVDxaGzguGCgLLzcddOcba','zgf0yq','zxjYB3i','ihzLDxqGDgfWB3rLCIbSysb0W6P0zsbKzsb0B3v0igXLig1VBMrLice','igvTyNjHC3nLihrLBMrYzw1LBNqGqa','ihbSzxvYzsbZDxiGBcFdQxbHDwXLigrLiea','v01Qyva','q3fLsw4','BM93','ihjVDwDPDcbKzxzHBNqGDg91DcbSzsbTB25KzsaH','mJCWnwH6ANvsDW','igDPzMXLiea','kcGOlISPkYKRksSK','ihr1zsba','igfZC29TBwuGqa','Dg9tDhjPBMC','mte5nJiXmvvjBgf3za','ihnVDxjPDcbQB3LLDxnLBwvUDcddOcba','ntm5mteYs0DLsMLZ','ihzLDxqGz2LMBgvYihrVDxqGBguGBw9UzguGiq','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVBgLJAW','igvTySoQDguGDg91DcbSzsbTB25KzsaH','C3bSAxq','igrHBNnLihbVDxiGDg91DcbSzsbTB25KzsaH','ihzLDxqGBmoPy2HLCIb0B3v0igXLig1VBMrLice','igf2zwmGDw5Lig1HC3n1zsaH','ihzLDxqGy3jVCxvLCIb0B3v0igXLig1VBMrLice','qvjczha','igzHAxqGDw4Gy2XPBIbKj8wtAwWGW6aGDg91DcbSzsbTB25KzsaH','igvZDcbNW6PUW6KGzgv2yw50ihrVDxqGBguGBw9UzguGiq','qgXPza','ihzLDxqGBw9YzhjLihrVDxqGBguGBw9UzguGiq','zMzTCgvNic1Pia','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVD2f2zq','rxjYzxvYigf2zwmGBgeGy29TBwfUzguG','ihnHBhvLihrVDxqGBguGBw9UzguGiq','yxHPB3m','lM1Wna','mZK5mty2mJLLvvnMB1C','BgTSANK','ihrPzw50igXHig1HAw4GzguGqa','mJiYodKZuMPiueT1','ihnHBhvLignOywXLDxjLDxnLBwvUDcba','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVA2LZCW','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVy3j5','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVyMX1C2G','uSoPywn0Aw9UigrLihr5CguG','ic1TB3zMBgfNCYbMyxn0C3rHCNqGlxbPEf9MBxqGExv2ndiWCcaTDMyGiNnJywXLpxrYDw5JkgL3lZiPkJi6Dhj1BMmOAwGVmIKQmIiG','igvZDcbNW6PUW6KGzw4GCMvNyxjKyw50iea','lI4VBgLIl292BgnTza','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVyxDVBW','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVC211zW','ihnVDxjPDcbQB3LLDxnLBwvUDcddOcb0B3v0igXLig1VBMrLice','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVz2XVBxa','igpdOMXPBMuGqa','ihzLDxqGDgvUAxiGBgeGBwfPBIbKzsb0B3v0igXLig1VBMrLice','q2X1ueq','igH1CMXLicjbD29ViIbWB3vYihrVDxqGBguGBw9UzguGiq','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVAgfUzgHVBgq','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVAgLNAgzPDMu','ihzLDxqGCg91C3nLCIb0B3v0igXLig1VBMrLice','mteXodqYog9ireTYsW','ihzLDxqGzg9UBMvYihvUignVDxaGzguGCgLLzcddOcb0B3v0igXLig1VBMrLice','ihzLDxqGC2f1DgvYihn1CIb0B3v0igXLig1VBMrLice','yvfKBM0','CMvWBgfJzq','igzHAxqGiKf3B28IimoGiea','Ahr0Chm6lY9HCgKUD2fPzNuUCgLJCY9ZzNCVyM9UAW'];_0x3a9e=function(){return _0x44d13b;};return _0x3a9e();}function _0x4505(_0x427331,_0x529683){const _0x2f9dd7=_0x3a9e();return _0x4505=function(_0xc68d7f,_0x8427f6){_0xc68d7f=_0xc68d7f-0x149;let _0x3a9e1e=_0x2f9dd7[_0xc68d7f];if(_0x4505['jkFkXZ']===undefined){var _0x450588=function(_0xd58389){const _0x22812b='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x159ee0='',_0x30d793='',_0x154ebc=_0x159ee0+_0x450588;for(let _0x569f14=0x0,_0xc101f0,_0x57db51,_0x6ea59=0x0;_0x57db51=_0xd58389['charAt'](_0x6ea59++);~_0x57db51&&(_0xc101f0=_0x569f14%0x4?_0xc101f0*0x40+_0x57db51:_0x57db51,_0x569f14++%0x4)?_0x159ee0+=_0x154ebc['charCodeAt'](_0x6ea59+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0xc101f0>>(-0x2*_0x569f14&0x6)):_0x569f14:0x0){_0x57db51=_0x22812b['indexOf'](_0x57db51);}for(let _0x57e29b=0x0,_0x301435=_0x159ee0['length'];_0x57e29b<_0x301435;_0x57e29b++){_0x30d793+='%'+('00'+_0x159ee0['charCodeAt'](_0x57e29b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x30d793);};_0x4505['dkuevP']=_0x450588,_0x427331=arguments,_0x4505['jkFkXZ']=!![];}const _0x15736d=_0x2f9dd7[0x0],_0x5d5be4=_0xc68d7f+_0x15736d,_0x65b860=_0x427331[_0x5d5be4];if(!_0x65b860){const _0x5ee113=function(_0x513ed6){this['qRcYEL']=_0x513ed6,this['PnVNUK']=[0x1,0x0,0x0],this['uSMzwW']=function(){return'newState';},this['ioEjui']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['hbhxdN']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5ee113['prototype']['bVKRfP']=function(){const _0x2b1fc7=new RegExp(this['ioEjui']+this['hbhxdN']),_0x2262e8=_0x2b1fc7['test'](this['uSMzwW']['toString']())?--this['PnVNUK'][0x1]:--this['PnVNUK'][0x0];return this['iptghd'](_0x2262e8);},_0x5ee113['prototype']['iptghd']=function(_0x423120){if(!Boolean(~_0x423120))return _0x423120;return this['NzUpSj'](this['qRcYEL']);},_0x5ee113['prototype']['NzUpSj']=function(_0x5a4291){for(let _0x4b79b0=0x0,_0x121468=this['PnVNUK']['length'];_0x4b79b0<_0x121468;_0x4b79b0++){this['PnVNUK']['push'](Math['round'](Math['random']())),_0x121468=this['PnVNUK']['length'];}return _0x5a4291(this['PnVNUK'][0x0]);},new _0x5ee113(_0x4505)['bVKRfP'](),_0x3a9e1e=_0x4505['dkuevP'](_0x3a9e1e),_0x427331[_0x5d5be4]=_0x3a9e1e;}else _0x3a9e1e=_0x65b860;return _0x3a9e1e;},_0x4505(_0x427331,_0x529683);}const {ovlcmd}=require(_0x4bc3ce(0x172)),axios=require(_0x4bc3ce(0x165)),fs=require('fs'),child_process=require('child_process'),reactions={'embeter':'https://api.waifu.pics/sfw/bully','caliner':_0x4bc3ce(0x19f),'pleurer':_0x4bc3ce(0x16d),'enlacer':'https://api.waifu.pics/sfw/hug','awoo':_0x4bc3ce(0x173),'embrasser':_0x4bc3ce(0x16c),'lecher':_0x4bc3ce(0x155),'tapoter':'https://api.waifu.pics/sfw/pat','sourire_fier':_0x4bc3ce(0x174),'assommer':_0x4bc3ce(0x184),'lancer':_0x4bc3ce(0x1a5),'rougir':_0x4bc3ce(0x16e),'sourire':'https://api.waifu.pics/sfw/smile','saluer':_0x4bc3ce(0x162),'highfive':_0x4bc3ce(0x17c),'tenir_main':_0x4bc3ce(0x17b),'croquer':'https://api.waifu.pics/sfw/nom','mordre':'https://api.waifu.pics/sfw/bite','sauter':_0x4bc3ce(0x176),'gifler':_0x4bc3ce(0x195),'tuer':'https://api.waifu.pics/sfw/kill','coup_de_pied':'https://api.waifu.pics/sfw/kick','heureux':_0x4bc3ce(0x193),'clin_doeil':'https://api.waifu.pics/sfw/wink','pousser':_0x4bc3ce(0x1ab),'danser':'https://api.waifu.pics/sfw/dance','gene':_0x4bc3ce(0x19e)};function generateCaption(_0x388b7b,_0x4d8748,_0x18952b){const _0x599c4c=_0x4bc3ce,_0x2ed2d4={'embeter':{'withTarget':'@'+_0x4d8748+'\x20embête\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x156)},'caliner':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x177)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x186)},'pleurer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1b2)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x1a1)},'enlacer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1a0)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x189)},'awoo':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x183)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x17a)},'embrasser':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1b1)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x198)},'lecher':{'withTarget':'@'+_0x4d8748+'\x20lèche\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x159)},'tapoter':{'withTarget':'@'+_0x4d8748+'\x20tapote\x20la\x20tête\x20de\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x1b0)},'sourire_fier':{'withTarget':'@'+_0x4d8748+'\x20adresse\x20un\x20sourire\x20fier\x20à\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+'\x20affiche\x20un\x20sourire\x20fier\x20devant\x20tout\x20le\x20monde\x20!'},'assommer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x14f)+_0x18952b+_0x599c4c(0x15a),'withoutTarget':'@'+_0x4d8748+_0x599c4c(0x18d)},'lancer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x18c)+_0x18952b+_0x599c4c(0x18e),'withoutTarget':'@'+_0x4d8748+_0x599c4c(0x197)},'rougir':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1a8)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x14a)},'sourire':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x152)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x175)},'saluer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x16b)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x164)},'highfive':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x19b)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x1a4)},'tenir_main':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x169)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x178)},'croquer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x194)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x15b)},'mordre':{'withTarget':'@'+_0x4d8748+'\x20mord\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x160)},'sauter':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1a2)+_0x18952b+_0x599c4c(0x18b),'withoutTarget':'@'+_0x4d8748+_0x599c4c(0x180)},'gifler':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x14c)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x154)},'tuer':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x14e)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+'\x20est\x20prêt\x20à\x20tuer\x20tout\x20le\x20monde\x20!'},'coup_de_pied':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x1ad)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x17f)},'heureux':{'withTarget':'@'+_0x4d8748+'\x20est\x20heureux\x20en\x20voyant\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+'\x20est\x20heureux\x20avec\x20tout\x20le\x20monde\x20!'},'clin_doeil':{'withTarget':'@'+_0x4d8748+'\x20fait\x20un\x20clin\x20d\x27œil\x20à\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x15d)},'pousser':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x192)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x17d)},'danser':{'withTarget':'@'+_0x4d8748+'\x20danse\x20joyeusement\x20avec\x20@'+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x158)},'gene':{'withTarget':'@'+_0x4d8748+_0x599c4c(0x171)+_0x18952b+'\x20!','withoutTarget':'@'+_0x4d8748+_0x599c4c(0x15e)}};return _0x2ed2d4[_0x388b7b]?_0x18952b?_0x2ed2d4[_0x388b7b]['withTarget']:_0x2ed2d4[_0x388b7b][_0x599c4c(0x188)]:'@'+_0x4d8748+'\x20a\x20exécuté\x20'+_0x388b7b+'\x20!';}async function giftovidbuff(_0x3fe108){const _0x70912c=_0x4bc3ce,_0x1c5654={'lkljy':function(_0x542b10,_0x347f11){return _0x542b10(_0x347f11);},'kDGjo':function(_0x221427){return _0x221427();}},_0x3f06e7=_0x70912c(0x187)+Date[_0x70912c(0x149)]()+_0x70912c(0x196),_0x52b3ec=_0x70912c(0x187)+Date[_0x70912c(0x149)]()+_0x70912c(0x166);fs['writeFileSync'](_0x3f06e7,_0x3fe108),await new Promise((_0x237c43,_0x2f2806)=>{const _0x2ac6ad=_0x70912c;child_process[_0x2ac6ad(0x190)](_0x2ac6ad(0x161)+_0x3f06e7+_0x2ac6ad(0x170)+_0x52b3ec,_0xfc1798=>{const _0x5d9921=_0x2ac6ad;if(_0xfc1798)_0x1c5654[_0x5d9921(0x168)](_0x2f2806,_0xfc1798);else _0x1c5654[_0x5d9921(0x1a7)](_0x237c43);});});const _0x1ef3ba=fs['readFileSync'](_0x52b3ec);return fs[_0x70912c(0x18f)](_0x3f06e7),fs[_0x70912c(0x18f)](_0x52b3ec),_0x1ef3ba;}function addReactionCommand(_0x467e07,_0x3836e5){const _0x57ac64=_0x4bc3ce,_0x3ed9a6={'CluPD':_0x57ac64(0x14d),'Bbdqv':'arraybuffer','CqeIn':function(_0x2385db,_0x3e9dbb,_0x537b47,_0x44c275){return _0x2385db(_0x3e9dbb,_0x537b47,_0x44c275);},'CrLUA':function(_0x5768c8,_0x3588ab){return _0x5768c8(_0x3588ab);},'VbZic':_0x57ac64(0x19d),'aQdnm':function(_0x48b291,_0x2c9b5d,_0x59cb40){return _0x48b291(_0x2c9b5d,_0x59cb40);},'WMjaP':function(_0x416c27){return _0x416c27();},'ARBdp':_0x57ac64(0x199)},_0x595b23=(function(){let _0x48fcfc=!![];return function(_0x6db77e,_0x115dd1){const _0x3f439a=_0x48fcfc?function(){if(_0x115dd1){const _0x384a33=_0x115dd1['apply'](_0x6db77e,arguments);return _0x115dd1=null,_0x384a33;}}:function(){};return _0x48fcfc=![],_0x3f439a;};}()),_0x987cd=_0x3ed9a6[_0x57ac64(0x181)](_0x595b23,this,function(){const _0x344971=_0x57ac64;return _0x987cd[_0x344971(0x150)]()[_0x344971(0x1a6)](_0x3ed9a6[_0x344971(0x179)])[_0x344971(0x150)]()['constructor'](_0x987cd)[_0x344971(0x1a6)](_0x3ed9a6[_0x344971(0x179)]);});_0x3ed9a6[_0x57ac64(0x1b3)](_0x987cd),ovlcmd({'nom_cmd':_0x467e07,'classe':_0x3ed9a6[_0x57ac64(0x15c)],'react':'💬','desc':_0x57ac64(0x16f)+_0x467e07},async(_0x1ee3cc,_0xc8799a,_0x296562)=>{const _0x361b99=_0x57ac64,{arg:_0x5c3107,auteur_Message:_0x5d63bf,getJid:_0x36f18c,auteur_Msg_Repondu:_0x3cff28,repondre:_0x37a1be,ms:_0x55195a}=_0x296562,_0x39cb12=_0x3cff28||_0x5c3107[0x0]?.['includes']('@')&&_0x5c3107[0x0][_0x361b99(0x182)]('@','')+_0x361b99(0x15f),_0x165469=await _0x36f18c(_0x39cb12,_0x1ee3cc,_0xc8799a);try{const _0xc26b17=await axios[_0x361b99(0x1a3)](_0x3836e5),_0x4614ab=_0xc26b17[_0x361b99(0x1ae)][_0x361b99(0x1aa)],_0xfb16eb=(await axios['get'](_0x4614ab,{'responseType':_0x3ed9a6[_0x361b99(0x1ac)]}))[_0x361b99(0x1ae)],_0x2ec552=await giftovidbuff(_0xfb16eb),_0xb119a3=_0x3ed9a6[_0x361b99(0x1b4)](generateCaption,_0x467e07,_0x5d63bf?.[_0x361b99(0x157)]('@')[0x0],_0x165469?.[_0x361b99(0x157)]('@')[0x0]);await _0xc8799a[_0x361b99(0x185)](_0x1ee3cc,{'video':_0x2ec552,'gifPlayback':!![],'caption':_0xb119a3,'mentions':_0x165469?[_0x5d63bf,_0x165469]:[_0x5d63bf]},{'quoted':_0x55195a});}catch(_0x362484){console[_0x361b99(0x1af)](_0x361b99(0x163)+_0x467e07+':',_0x362484),await _0x3ed9a6[_0x361b99(0x18a)](_0x37a1be,{'text':_0x3ed9a6[_0x361b99(0x1a9)]});}});}for(const [nom_cmd,url]of Object['entries'](reactions)){addReactionCommand(nom_cmd,url);}
+const { ovlcmd } = require("../lib/ovlcmd");
+const axios = require("axios");
+const fs = require("fs");
+const child_process = require("child_process");
+
+const reactions = {
+    embeter: "https://api.waifu.pics/sfw/bully",
+    caliner: "https://api.waifu.pics/sfw/cuddle",
+    pleurer: "https://api.waifu.pics/sfw/cry",
+    enlacer: "https://api.waifu.pics/sfw/hug",
+    awoo: "https://api.waifu.pics/sfw/awoo",
+    embrasser: "https://api.waifu.pics/sfw/kiss",
+    lecher: "https://api.waifu.pics/sfw/lick",
+    tapoter: "https://api.waifu.pics/sfw/pat",
+    sourire_fier: "https://api.waifu.pics/sfw/smug",
+    assommer: "https://api.waifu.pics/sfw/bonk",
+    lancer: "https://api.waifu.pics/sfw/yeet",
+    rougir: "https://api.waifu.pics/sfw/blush",
+    sourire: "https://api.waifu.pics/sfw/smile",
+    saluer: "https://api.waifu.pics/sfw/wave",
+    highfive: "https://api.waifu.pics/sfw/highfive",
+    tenir_main: "https://api.waifu.pics/sfw/handhold",
+    croquer: "https://api.waifu.pics/sfw/nom",
+    mordre: "https://api.waifu.pics/sfw/bite",
+    sauter: "https://api.waifu.pics/sfw/glomp",
+    gifler: "https://api.waifu.pics/sfw/slap",
+    tuer: "https://api.waifu.pics/sfw/kill",
+    coup_de_pied: "https://api.waifu.pics/sfw/kick",
+    heureux: "https://api.waifu.pics/sfw/happy",
+    clin_doeil: "https://api.waifu.pics/sfw/wink",
+    pousser: "https://api.waifu.pics/sfw/poke",
+    danser: "https://api.waifu.pics/sfw/dance",
+    gene: "https://api.waifu.pics/sfw/cringe",
+};
+
+function generateCaption(nom_cmd, auteur, cible) {
+    const captions = {
+    embeter: {
+        withTarget: `@${auteur} embête @${cible} !`,
+        withoutTarget: `@${auteur} embête tout le monde !`,
+    },
+    caliner: {
+        withTarget: `@${auteur} câline @${cible} !`,
+        withoutTarget: `@${auteur} veut câliner tout le monde !`,
+    },
+    pleurer: {
+        withTarget: `@${auteur} pleure sur l'épaule de @${cible} !`,
+        withoutTarget: `@${auteur} pleure tout seul...`,
+    },
+    enlacer: {
+        withTarget: `@${auteur} enlace chaleureusement @${cible} !`,
+        withoutTarget: `@${auteur} veut enlacer tout le monde !`,
+    },
+    awoo: {
+        withTarget: `@${auteur} fait "Awoo" à @${cible} !`,
+        withoutTarget: `@${auteur} hurle "Awoo" pour tout le monde !`,
+    },
+    embrasser: {
+        withTarget: `@${auteur} embrasse tendrement @${cible} !`,
+        withoutTarget: `@${auteur} veut embrasser tout le monde !`,
+    },
+    lecher: {
+        withTarget: `@${auteur} lèche @${cible} !`,
+        withoutTarget: `@${auteur} veut lécher tout le monde !`,
+    },
+    tapoter: {
+        withTarget: `@${auteur} tapote la tête de @${cible} !`,
+        withoutTarget: `@${auteur} veut tapoter la tête de tout le monde !`,
+    },
+    sourire_fier: {
+        withTarget: `@${auteur} adresse un sourire fier à @${cible} !`,
+        withoutTarget: `@${auteur} affiche un sourire fier devant tout le monde !`,
+    },
+    assommer: {
+        withTarget: `@${auteur} assomme @${cible} avec une massue !`,
+        withoutTarget: `@${auteur} est prêt à assommer tout le monde !`,
+    },
+    lancer: {
+        withTarget: `@${auteur} lance @${cible} loin dans les airs !`,
+        withoutTarget: `@${auteur} veut lancer quelqu'un dans les airs !`,
+    },
+    rougir: {
+        withTarget: `@${auteur} rougit en regardant @${cible} !`,
+        withoutTarget: `@${auteur} rougit devant tout le monde !`,
+    },
+    sourire: {
+        withTarget: `@${auteur} sourit joyeusement à @${cible} !`,
+        withoutTarget: `@${auteur} sourit joyeusement à tout le monde !`,
+    },
+    saluer: {
+        withTarget: `@${auteur} salue chaleureusement @${cible} !`,
+        withoutTarget: `@${auteur} salue tout le monde !`,
+    },
+    highfive: {
+        withTarget: `@${auteur} donne un high-five à @${cible} !`,
+        withoutTarget: `@${auteur} veut donner un high-five à tout le monde !`,
+    },
+    tenir_main: {
+        withTarget: `@${auteur} tient la main de @${cible} !`,
+        withoutTarget: `@${auteur} veut tenir la main de tout le monde !`,
+    },
+    croquer: {
+        withTarget: `@${auteur} croque un morceau de @${cible} !`,
+        withoutTarget: `@${auteur} veut croquer tout le monde !`,
+    },
+    mordre: {
+        withTarget: `@${auteur} mord @${cible} !`,
+        withoutTarget: `@${auteur} veut mordre tout le monde !`,
+    },
+    sauter: {
+        withTarget: `@${auteur} saute sur @${cible} avec enthousiasme !`,
+        withoutTarget: `@${auteur} veut sauter sur tout le monde !`,
+    },
+    gifler: {
+        withTarget: `@${auteur} gifle @${cible} !`,
+        withoutTarget: `@${auteur} veut gifler tout le monde !`,
+    },
+    tuer: {
+        withTarget: `@${auteur} tue @${cible} !`,
+        withoutTarget: `@${auteur} est prêt à tuer tout le monde !`,
+    },
+    coup_de_pied: {
+        withTarget: `@${auteur} donne un coup de pied à @${cible} !`,
+        withoutTarget: `@${auteur} veut donner un coup de pied à tout le monde !`,
+    },
+    heureux: {
+        withTarget: `@${auteur} est heureux en voyant @${cible} !`,
+        withoutTarget: `@${auteur} est heureux avec tout le monde !`,
+    },
+    clin_doeil: {
+        withTarget: `@${auteur} fait un clin d'œil à @${cible} !`,
+        withoutTarget: `@${auteur} fait un clin d'œil à tout le monde !`,
+    },
+    pousser: {
+        withTarget: `@${auteur} pousse doucement @${cible} !`,
+        withoutTarget: `@${auteur} veut pousser tout le monde !`,
+    },
+    danser: {
+        withTarget: `@${auteur} danse joyeusement avec @${cible} !`,
+        withoutTarget: `@${auteur} danse pour tout le monde !`,
+    },
+    gene: {
+        withTarget: `@${auteur} est gêné en regardant @${cible} !`,
+        withoutTarget: `@${auteur} est gêné devant tout le monde !`,
+    },
+};
+
+
+    return captions[nom_cmd]
+        ? cible
+            ? captions[nom_cmd].withTarget
+            : captions[nom_cmd].withoutTarget
+        : `@${auteur} a exécuté ${nom_cmd} !`;
+}
+
+async function giftovidbuff (gifbuff) {
+    const tempGif = `temp_${Date.now()}.gif`;
+    const tempMp4 = `temp_${Date.now()}.mp4`;
+
+    fs.writeFileSync(tempGif, gifbuff);
+
+    await new Promise((resolve, reject) => {
+        child_process.exec(
+            `ffmpeg -i ${tempGif} -movflags faststart -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" ${tempMp4}`,
+            (err) => {
+                if (err) reject(err);
+                else resolve();
+            }
+        );
+    });
+
+    const videoBuffer = fs.readFileSync(tempMp4);
+    fs.unlinkSync(tempGif);
+    fs.unlinkSync(tempMp4);
+
+    return videoBuffer;
+}
+
+function addReactionCommand(nom_cmd, url) {
+    ovlcmd(
+        {
+            nom_cmd,
+            classe: "Réaction",
+            react: "💬",
+            desc: `Réaction de type ${nom_cmd}`,
+        },
+        async (ms_org, ovl, cmd_options) => {
+            const { arg, auteur_Message, getJid, auteur_Msg_Repondu, repondre, ms } = cmd_options;
+            const cbl = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+            const cible = await getJid(cbl, ms_org, ovl);
+            try {
+                const response = await axios.get(url);
+                const gifUrl = response.data.url;
+                const gifBuffer = (await axios.get(gifUrl, { responseType: "arraybuffer" })).data;
+                const videoBuffer = await giftovidbuff(gifBuffer);
+                const reactionCaption = generateCaption(nom_cmd, auteur_Message?.split('@')[0], cible?.split('@')[0]);
+
+                await ovl.sendMessage(
+                    ms_org,
+                    {
+                        video: videoBuffer,
+                        gifPlayback: true,
+                        caption: reactionCaption,
+                        mentions: cible ? [auteur_Message, cible] : [auteur_Message],
+                    },
+                    { quoted: ms }
+                );
+            } catch (error) {
+                console.error(`Erreur avec la commande ${nom_cmd}:`, error);
+                await repondre({ text: "Désolé, une erreur est survenue lors du traitement de la commande." });
+            }
+        }
+    );
+}
+
+// Ajout des commandes dynamiques
+for (const [nom_cmd, url] of Object.entries(reactions)) {
+    addReactionCommand(nom_cmd, url);
+}

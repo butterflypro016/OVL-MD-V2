@@ -1,1 +1,358 @@
-function _0xbe0c(){const _0x2e1fce=['Bwf0y2G','BMfTzq','lIdWN4+377IpicPoB20GoIOG','4P2K77IpicPqB3vYie1HzgfTzsdWN5kb8j+pU+kaJEkzGo+4JYO','uxbpDKK','twf4','8j+sLIbwB3vZimoQDgvZigzHAxrZigWNDw4GCg91CIbSj2f1DhjLiceG8j+mUq','ntjOz3PpDgq','uMvUDM9Pzsb1BMuGyMXHz3vL','x1n0EwXLigLUDhjVDxzHyMXLihbVDxiGBcDjrca6ia','DhDVCgfYDa','8j+sLcbqyxmGDNjHAw1LBNqGy29TCgf0AwjSzxmUlI4G8j+yOG','twvUDgLVBM5LihvUzsbWzxjZB25Uzq','C3bSAxq','kcGOlISPkYKRksSK','zNjVBunOyxjdB2rL','zMLUzefSBa','C2v0Dxa','lI4Vrgf0yujHC2uVBgv2zwXZ','qu9Ru0y','qwzMAwnOzsbSzsbYyw5NigqNDw4GDxrPBgLZyxrLDxiGC2vSB24GC2vZig1LC3nHz2vZigvUDM95W6LZigv0igFdQhjLigWNywn0AxzHDgLVBI9KW6LZywn0AxzHDgLVBIbNBg9IywXLigr1igXLDMvSihvWlG','zMv0y2HtDgf0Dxm','lI4VBgLIl292BgnTza','C2XPy2u','tKznv24','C2HPCa','nZmWngf5vvv1AG','AvvPs3m','tK5kve4','zMfUy3KGpeLepIa8Dgv4Dgu+cG','rNjkq2O','v05HyMm','teHNBLm','CMfUzg9T','BuvvyKW','yxv0zxvY','zxHWuMvXDwLYzwq','tKHnsw4','8j+rPcboB206ia','ota1odm4nvD4vfD6CG','ywvKA2G','DhjPBq','zM9YrwfJAa','yMXHz3vL','rwz4tvm','zMfUy3K','BwfSzq','Ew9lAwS','ChjVzMLSzvbPy3r1CMvvCMW','CMvWBgfJzq','C2fPC29U','cUkuGYaGicdWN5sWicPoAxzLyxuGoIOG','BfDjrLq','t1zmluDprc1mrvzfta','y3bW','zMfRzq','tLbtCMW','sw5JB25UDq','qxbWBgLXDwuGDw4GC3r5BguGzMfUy3KGyxuGDgv4Dgu','4P2xieLTCg9ZC2LIBguGzguGCSoPy3vWW6LYzxiGBgvZigLTywDLCY4GuSoPzxnZywLLihbSDxmGDgfYzc4','DhLWzq','ChjVzMLSzq','4P2miefYz3vTzw50CYbPBNzHBgLKzxmUcG','cGOQuSoPCg9UC2uGoIOG','cUkuGYdWN5sWicPoAxzLyxuGoIOG','qxvJDw5LigrVBM7dQwuGzgLZCg9UAwjSzsbWB3vYigXLig1VBwvUDc4','AhbAALy','BMjvCuW','BgvUz3rO','vgvZDcbKzsbJB21WyxrPyMLSAxtdQsbLBNrYzsbKzxv4ihbLCNnVBM5LCW','mta5ntnZA0ntr00','cIPqzxjZB25UywDLidOQia','vM9PCIbSzxmGBwvPBgXLDxjZihv0AwXPC2f0zxvYCW','lI4Vrgf0yujHC2uVCMfUAW','zMvTywXL','CMvWzwf0','vKnzEva','D1jdDxK','wMzUv28','zgf0yq','zMLUze9Uzq','revtqW','zM9cCNC','mteYoeP0uMjyEa','CgvYC29UBMfNzq','A2v5CW','rxHLBxbSzsbWB3vYigXHigXPC3rLidOG','vM91CYbUj2f2zxOGCgfZigvUy29YzsbKzsbYyw5NlIbdB21Tzw5JzxOGW6aGAw50zxjHz2LYihbVDxiGzw4GB2j0zw5PCIb1BIaH','CMv2zxjZzq','C2LUz2XL','rxHLBxbSzsa6ia','cUkuGYdWN6whicPdBgfZC2vTzw50idOQia','BenmvNq','vMv1AwXSzxOGzM91CM5PCIb1BIb0zxH0zsddOcbPBNzLCNnLCIaH','tfP4zhK','AgrtEMm','mti5z3nnuffi','D1vdrK0','uMvUDM9Pzsb1BMuGy2L0yxrPB24','ufjfrKLyrq','zMfUy3KGBgLZDa','zxjYB3i','cVcFKQWGqMLVoIa','u2fPC29UigLUy29UBNvL','cUkvSokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokvRW','4PwW4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4Psa4PwV','qwzMAwnOzsbSzsbUB20SigXLig51BCoPCM8GzxqGBgeGyMLVigqNDw4GDxrPBgLZyxrLDxi','B3nktuG','Dg9WCMfUAW','vxrPBgLZyxrPB24GoIa','vxrPBgLZyxrPB24GoGO','cVcFK7eGtNvTW6LYBZOG','AM9PBG','lGRWN5kwq29TCgf0AwjPBgL0W6KGoIO','x1vUzsbLCNjLDxiGCYDLC3qGChjVzhvPDguGoIHF','icyGqa','vxHmt04','rw52B2LLigrLCYbWAg90B3mGzguGy291CgXLigfUAw3dQwvZlG','CgfKu3rHCNq','Dg9mB3DLCKnHC2u','zgvSAxzLCNK','yxHPB3m','mtaWndu2ndbIzNfct0m','zMfUy3KGBgLZDcbVDMWkcG','mtuXnJaYExfwCLnb','qwPVDxrLihvUigvMzMv0icD2B2LYihbSDxmNigf1ihrLEhrLlG','y2L0yxrPB24','DwvwELu','Ahr0Chm6lY9MAwXLCY5JyxrIB3GUBw9Ll3vSD3f0CI5QCgC','rvDwqLO','zLzqsNu','zMfUy3KGpeLepIa8Dgv4Dgu+iokaLcbbChbSAxf1zxiGDw4GC3r5BguGyxuGDgv4Dguk','ugHKA1i','vMv1AwXSzxOGzM91CM5PCIb1BIb0zxH0zq','tKvSEgG','4PwT4Psa4Psa4Psa8j+pHIaQt1zmlvjbtKSQipcFJ4BILidILidILidILA4k4PsdipcFJ7FVUi8GkK5VBsa6kIa','BgLZDa','C3rHDhvZ','Bgv2zwW','Ahr0Chm6lY92mI5QB2TLyxbPlMrLDI9QB2TLl0fUEt9Syw5NpwzY','ENbSsey','8j+KLcbjBcb5igeGzhuGCg90zw50AwvSlcbTywLZignLBgeGzgvTyw5KzsbKDsb0CMf2ywLSice','z2v0','Dg9tDhjPBMC','r2jTyMe','BwvZC2fNzxm','u1LIwKS','ugvYC29UBMfNzsbPBMnVBM51','4P2mifvZywDLoIbMywTLieb1C2vYigzHA2vFBwvZC2fNzsaVigjVDf9TzxnZywDL','cUkuGYdINiNVUi8GkK1LC3nHz2vZidOQia','zxbPC29Kzq','zMLSDgvY','qgXPza','lI4VBgLIl3n0EwXL','odK1nJrjtuXSwvO','rmoPC29SW6KSigPLig4NywKGCgfZihrYB3v2W6KGzguGy2L0yxrPB24GW6aGDM91CYbKB25UzxiU','kqRILimk','cUkuGYdWN4+ficPuAxrYzsa6kIa','zMfUy3KGBgLZDcbBBM9TxsdIGjqGtgLZDgvYigXLCYbZDhLSzxmGzgLZCg9UAwjSzxmGkg9WDgLVBM5LBca6igzPBhrYzxiGCgfYig5VBsKkcG','rxLqzNi','yxbWBhK','kKnPDgf0Aw9Uigr1igPVDxiGoIOkiG','AM9Rzq','mZK0ndi0nfDREenRsq','nxz0s2DMwq','B3vRyLu','C2rRy3a','Aw5JBhvKzxm','ug91CIb2B2LYigXHigXPC3rLigrLCYbZDhLSzxmGoIa','C2vUze1LC3nHz2u','zMXVB3i','t0TjswS','u0fUA3m','zMfUy3KGmYbizwXSBYbxB3jSzaO','ntq4mdDUAKLzsxC','iGOkkKf1Dgv1CIa6kIa','ugfZigrLigjPBW','kKjSywD1zsbKDsbQB3vYidOQia','Aw5MB3m','rNvU'];_0xbe0c=function(){return _0x2e1fce;};return _0xbe0c();}const _0x1a5f4c=_0x14a2;(function(_0x4a550c,_0x658877){const _0x2e5780=_0x14a2,_0x16bfa6=_0x4a550c();while(!![]){try{const _0x45249a=-parseInt(_0x2e5780(0x143))/0x1*(parseInt(_0x2e5780(0x150))/0x2)+-parseInt(_0x2e5780(0xf5))/0x3*(parseInt(_0x2e5780(0x12f))/0x4)+-parseInt(_0x2e5780(0x139))/0x5*(-parseInt(_0x2e5780(0x138))/0x6)+parseInt(_0x2e5780(0xbc))/0x7+parseInt(_0x2e5780(0x163))/0x8*(-parseInt(_0x2e5780(0xdb))/0x9)+parseInt(_0x2e5780(0x10f))/0xa+parseInt(_0x2e5780(0x111))/0xb*(parseInt(_0x2e5780(0xe8))/0xc);if(_0x45249a===_0x658877)break;else _0x16bfa6['push'](_0x16bfa6['shift']());}catch(_0x35225b){_0x16bfa6['push'](_0x16bfa6['shift']());}}}(_0xbe0c,0xb7bc9));function _0x14a2(_0x2574ec,_0x1917c4){const _0x4eee1e=_0xbe0c();return _0x14a2=function(_0x43e5b9,_0xc3dc35){_0x43e5b9=_0x43e5b9-0xb0;let _0xbe0c0a=_0x4eee1e[_0x43e5b9];if(_0x14a2['qhNQAJ']===undefined){var _0x14a23d=function(_0xd4d76f){const _0x577445='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xaf1c13='',_0x332bd4='',_0x58579d=_0xaf1c13+_0x14a23d;for(let _0x3a25b9=0x0,_0x4cb1c1,_0x15bcc5,_0x93c1f7=0x0;_0x15bcc5=_0xd4d76f['charAt'](_0x93c1f7++);~_0x15bcc5&&(_0x4cb1c1=_0x3a25b9%0x4?_0x4cb1c1*0x40+_0x15bcc5:_0x15bcc5,_0x3a25b9++%0x4)?_0xaf1c13+=_0x58579d['charCodeAt'](_0x93c1f7+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x4cb1c1>>(-0x2*_0x3a25b9&0x6)):_0x3a25b9:0x0){_0x15bcc5=_0x577445['indexOf'](_0x15bcc5);}for(let _0x422fe4=0x0,_0x2e4534=_0xaf1c13['length'];_0x422fe4<_0x2e4534;_0x422fe4++){_0x332bd4+='%'+('00'+_0xaf1c13['charCodeAt'](_0x422fe4)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x332bd4);};_0x14a2['UPJDfV']=_0x14a23d,_0x2574ec=arguments,_0x14a2['qhNQAJ']=!![];}const _0xe1fad7=_0x4eee1e[0x0],_0x145e5f=_0x43e5b9+_0xe1fad7,_0x528f21=_0x2574ec[_0x145e5f];if(!_0x528f21){const _0x24c887=function(_0x122b83){this['cEvobN']=_0x122b83,this['WNLKrm']=[0x1,0x0,0x0],this['LfnGUK']=function(){return'newState';},this['ExWptP']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['cmNbod']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x24c887['prototype']['kOIDGa']=function(){const _0x4785fe=new RegExp(this['ExWptP']+this['cmNbod']),_0x14bb85=_0x4785fe['test'](this['LfnGUK']['toString']())?--this['WNLKrm'][0x1]:--this['WNLKrm'][0x0];return this['HtACJS'](_0x14bb85);},_0x24c887['prototype']['HtACJS']=function(_0x3bcfd5){if(!Boolean(~_0x3bcfd5))return _0x3bcfd5;return this['PSudop'](this['cEvobN']);},_0x24c887['prototype']['PSudop']=function(_0x9524fc){for(let _0x3e6007=0x0,_0x44f6a6=this['WNLKrm']['length'];_0x3e6007<_0x44f6a6;_0x3e6007++){this['WNLKrm']['push'](Math['round'](Math['random']())),_0x44f6a6=this['WNLKrm']['length'];}return _0x9524fc(this['WNLKrm'][0x0]);},new _0x24c887(_0x14a2)['kOIDGa'](),_0xbe0c0a=_0x14a2['UPJDfV'](_0xbe0c0a),_0x2574ec[_0x145e5f]=_0xbe0c0a;}else _0xbe0c0a=_0x528f21;return _0xbe0c0a;},_0x14a2(_0x2574ec,_0x1917c4);}const _0xc3dc35=(function(){let _0x47da6e=!![];return function(_0x235fb0,_0x23f6d6){const _0x3272a7=_0x47da6e?function(){if(_0x23f6d6){const _0x2a01d6=_0x23f6d6['apply'](_0x235fb0,arguments);return _0x23f6d6=null,_0x2a01d6;}}:function(){};return _0x47da6e=![],_0x3272a7;};}()),_0x43e5b9=_0xc3dc35(this,function(){const _0x1edf0a=_0x14a2,_0x340048={'DaqKc':'(((.+)+)+)+$'};return _0x43e5b9['toString']()['search'](_0x340048['DaqKc'])[_0x1edf0a(0x124)]()['constructor'](_0x43e5b9)['search'](_0x1edf0a(0x157));});_0x43e5b9();const {ovlcmd}=require(_0x1a5f4c(0x15f)),fancy=require(_0x1a5f4c(0x12e)),config=require('../set'),fs=require('fs'),axios=require(_0x1a5f4c(0x10e)),{levels}=require(_0x1a5f4c(0x15b)),{Ranks}=require(_0x1a5f4c(0xde));ovlcmd({'nom_cmd':'fliptext','classe':_0x1a5f4c(0x148),'desc':'Inverse\x20le\x20texte\x20fourni.'},async(_0x5428d8,_0x583213,_0x6ece64)=>{const _0x5f57b7=_0x1a5f4c,_0x4dd834={'WNabc':_0x5f57b7(0xf2)},{arg:_0x4eb1ad,ms:_0x1cedcf}=_0x6ece64,_0x1621a1=_0x4eb1ad[_0x5f57b7(0x105)]('\x20');if(!_0x1621a1)return await _0x583213['sendMessage'](_0x5428d8,{'text':_0x4dd834[_0x5f57b7(0xb4)]},{'quoted':_0x1cedcf});const _0x114264=_0x1621a1[_0x5f57b7(0x156)]('')[_0x5f57b7(0xed)]()['join']('');await _0x583213[_0x5f57b7(0x13e)](_0x5428d8,{'text':_0x114264},{'quoted':_0x1cedcf});}),ovlcmd({'nom_cmd':'readmore','classe':'Fun','desc':_0x1a5f4c(0x112)},async(_0x6ba583,_0xd729c1,_0x3ff2aa)=>{const _0x2ab83c=_0x1a5f4c,_0x34d5e5={'hpZjV':_0x2ab83c(0x11a)},{arg:_0x466a8d,ms:_0x55dffb}=_0x3ff2aa,_0x341cc5=_0x466a8d[_0x2ab83c(0x105)]('\x20');if(!_0x341cc5)return await _0xd729c1['sendMessage'](_0x6ba583,{'text':_0x34d5e5[_0x2ab83c(0xd7)]},{'quoted':_0x55dffb});const _0x1a1cae=''+_0x341cc5[_0x2ab83c(0x156)]('\x20')[_0x2ab83c(0x105)]('\x20')+String[_0x2ab83c(0x158)](0x200e)[_0x2ab83c(0xe0)](0xfa1);await _0xd729c1[_0x2ab83c(0x13e)](_0x6ba583,{'text':_0x1a1cae},{'quoted':_0x55dffb});}),ovlcmd({'nom_cmd':_0x1a5f4c(0x162),'classe':_0x1a5f4c(0x148),'desc':_0x1a5f4c(0xda),'alias':[_0x1a5f4c(0x149)]},async(_0x311027,_0x267795,_0x349800)=>{const _0x3fe907=_0x1a5f4c,_0x12195b={'vAipN':function(_0x10ff3f,_0x224fc8){return _0x10ff3f*_0x224fc8;},'ZfnWo':function(_0x55f49b,_0x3f7ba5){return _0x55f49b<=_0x3f7ba5;},'Zvpoa':_0x3fe907(0x154),'fVPJu':function(_0x352962,_0x108a59){return _0x352962<=_0x108a59;},'NHMIn':_0x3fe907(0x14f)},{auteur_Msg_Repondu:_0x2ed500,auteur_Message:_0x391012,arg:_0x98f598,ms:_0x388dd6,getJid:_0x1f9b3c}=_0x349800,_0x30155f=_0x2ed500||_0x98f598[0x0]?.[_0x3fe907(0x13c)]('@')&&_0x98f598[0x0][_0x3fe907(0xc6)]('@','')+_0x3fe907(0x12d),_0x17df25=await _0x1f9b3c(_0x30155f,_0x311027,_0x267795);if(!_0x98f598[0x0])return await _0x267795[_0x3fe907(0x13e)](_0x311027,{'text':_0x3fe907(0x155)},{'quoted':_0x388dd6});const _0x2d924a=Math[_0x3fe907(0x13f)](_0x12195b['vAipN'](Math[_0x3fe907(0xb6)](),0x65));let _0x4971dc;if(_0x12195b[_0x3fe907(0xe3)](_0x2d924a,0x1e))_0x4971dc=_0x12195b['Zvpoa'];else _0x12195b[_0x3fe907(0x117)](_0x2d924a,0x46)?_0x4971dc=_0x3fe907(0x122):_0x4971dc=_0x12195b[_0x3fe907(0xba)];await _0x267795[_0x3fe907(0x13e)](_0x311027,{'text':'💘\x20*Ship*\x0a\x0a\x20@'+_0x17df25[_0x3fe907(0x156)]('@')[0x0]+_0x3fe907(0x108)+_0x391012['split']('@')[0x0]+',\x20'+_0x4971dc+_0x3fe907(0x106)+_0x2d924a+'%*','mentions':[_0x17df25,_0x391012]},{'quoted':_0x388dd6});}),ovlcmd({'nom_cmd':'couplepp','classe':_0x1a5f4c(0x148),'desc':_0x1a5f4c(0x10a),'alias':[_0x1a5f4c(0xcb)]},async(_0x1caa0d,_0x750ea9,_0xfbfc3)=>{const _0x3dae13=_0x1a5f4c,_0x3e3769={'LZxdy':_0x3dae13(0x14c),'AOkSF':'❤️\x20*Pour\x20Monsieur\x20💁🏻‍♂️*','wFQcq':'Erreur\x20lors\x20de\x20la\x20récupération\x20des\x20données\x20:'};try{const {data:_0x34fcb8}=await axios['get']('https://raw.githubusercontent.com/iamriz7/kopel_/main/kopel.json'),_0x30c59c=_0x34fcb8[Math['floor'](Math[_0x3dae13(0xb6)]()*_0x34fcb8[_0x3dae13(0xd9)])];await _0x750ea9[_0x3dae13(0x13e)](_0x1caa0d,{'image':{'url':_0x30c59c[_0x3dae13(0xdf)]},'caption':_0x3e3769[_0x3dae13(0xf3)]},{'quoted':_0xfbfc3['ms']}),await _0x750ea9[_0x3dae13(0x13e)](_0x1caa0d,{'image':{'url':_0x30c59c[_0x3dae13(0xc3)]},'caption':_0x3e3769[_0x3dae13(0x15c)]},{'quoted':_0xfbfc3['ms']});}catch(_0x25dfc5){console[_0x3dae13(0xfa)](_0x3e3769['wFQcq'],_0x25dfc5),await _0x750ea9[_0x3dae13(0x13e)](_0x1caa0d,{'text':_0x3dae13(0xd0)},{'quoted':_0xfbfc3['ms']});}}),ovlcmd({'nom_cmd':_0x1a5f4c(0xc2),'classe':'Fun','react':'✍️','desc':_0x1a5f4c(0xcf)},async(_0x3ce03f,_0x4753d3,_0x2e7d3c)=>{const _0x2d2172=_0x1a5f4c,_0x55a177={'EfxMS':function(_0x353aa7,_0x2311dd){return _0x353aa7+_0x2311dd;},'FrJCj':function(_0x27dcf2,_0x561977){return _0x27dcf2+_0x561977;},'Bdsmn':_0x2d2172(0x11d),'aedkh':'OVL-MD-V2','iWFcW':function(_0x36e235,_0x2ce0af){return _0x36e235(_0x2ce0af);},'SYbZK':function(_0x3d89b1,_0x27671e,_0x56a4cf){return _0x3d89b1(_0x27671e,_0x56a4cf);},'rgcrP':function(_0x3b9190,_0x975a47){return _0x3b9190(_0x975a47);},'Gbmba':function(_0x2dfa65,_0x48186f){return _0x2dfa65(_0x48186f);},'oukbU':function(_0x364a31,_0x59af8e){return _0x364a31(_0x59af8e);},'LHgnS':function(_0x648ad1,_0x40f11e){return _0x648ad1(_0x40f11e);},'SAnks':function(_0x21570f,_0xbcb250){return _0x21570f(_0xbcb250);}},{arg:_0x171b8a,repondre:_0x317804}=_0x2e7d3c,_0x16477b=config[_0x2d2172(0xf8)];if(_0x171b8a[_0x2d2172(0xd9)]===0x0)return await _0x317804(_0x55a177[_0x2d2172(0xc1)](_0x55a177[_0x2d2172(0xb3)](_0x2d2172(0x103)+(_0x16477b+_0x2d2172(0x118))+(_0x16477b+_0x2d2172(0x133)),_0x2d2172(0xef)+_0x16477b+_0x2d2172(0x142)),_0x2d2172(0xeb)+_0x16477b+_0x2d2172(0x110)));if(_0x171b8a[0x0][_0x2d2172(0x10c)]()===_0x55a177['Bdsmn']){const _0x214dc1=_0x171b8a[0x1]||_0x55a177[_0x2d2172(0xbd)];return await _0x55a177['iWFcW'](_0x317804,fancy[_0x2d2172(0x11d)](_0x214dc1,fancy));}const _0x3c78a8=_0x55a177[_0x2d2172(0x127)](parseInt,_0x171b8a[0x0],0xa),_0x1c1de2=_0x171b8a['slice'](0x1)[_0x2d2172(0x105)]('\x20');if(_0x55a177['rgcrP'](isNaN,_0x3c78a8)||!_0x1c1de2)return await _0x55a177[_0x2d2172(0x125)](_0x317804,_0x55a177[_0x2d2172(0xc1)](_0x55a177[_0x2d2172(0xc1)](_0x2d2172(0xd3),_0x2d2172(0x102)+_0x16477b+_0x2d2172(0xb2)),_0x2d2172(0x13d)+_0x16477b+_0x2d2172(0xf9)));try{const _0x92c933=Object[_0x2d2172(0xea)](fancy)[_0x2d2172(0x12c)](_0x24bfe1=>_0x24bfe1['length']<0x3),_0x20ba00=_0x92c933[_0x3c78a8-0x1];if(!_0x20ba00)return await _0x55a177[_0x2d2172(0x13a)](_0x317804,_0x2d2172(0x152)+_0x3c78a8+'_');const _0x262fd3=fancy[_0x20ba00];return await _0x55a177[_0x2d2172(0xb5)](_0x317804,fancy[_0x2d2172(0x135)](_0x262fd3,_0x1c1de2));}catch{return await _0x55a177[_0x2d2172(0x141)](_0x317804,_0x2d2172(0x107));}}),ovlcmd({'nom_cmd':_0x1a5f4c(0xc0),'classe':'Fun','react':'😂','desc':_0x1a5f4c(0x151)},async(_0x5a21c5,_0x398928,_0x39d595)=>{const _0x4bfc45=_0x1a5f4c,_0x104452={'Ckehy':function(_0x4c235a,_0x198454){return _0x4c235a===_0x198454;},'ryFiP':_0x4bfc45(0xee),'pAuVz':function(_0x1451a3,_0x3f85bb){return _0x1451a3===_0x3f85bb;},'DFefZ':'Une\x20erreur\x20s\x27est\x20produite\x20lors\x20de\x20la\x20récupération\x20de\x20la\x20blague.'};try{let _0x415c42=_0x4bfc45(0x120),_0x5f1531=await axios['get'](_0x415c42),_0x50d5c1=_0x5f1531[_0x4bfc45(0xe4)];if(_0x104452['Ckehy'](_0x50d5c1[_0x4bfc45(0xd1)],_0x104452['ryFiP']))_0x398928['sendMessage'](_0x5a21c5,{'text':_0x4bfc45(0x146)+_0x50d5c1[_0x4bfc45(0x137)]},{'quoted':_0x39d595['ms']});else _0x104452['pAuVz'](_0x50d5c1[_0x4bfc45(0xd1)],_0x4bfc45(0x153))?_0x398928['sendMessage'](_0x5a21c5,{'text':_0x4bfc45(0x146)+_0x50d5c1[_0x4bfc45(0x15a)]+_0x4bfc45(0xd4)+_0x50d5c1[_0x4bfc45(0x10d)]},{'quoted':_0x39d595['ms']}):_0x398928[_0x4bfc45(0x13e)](_0x5a21c5,{'text':'Désolé,\x20je\x20n\x27ai\x20pas\x20trouvé\x20de\x20blague\x20à\x20vous\x20raconter.'},{'quoted':_0x39d595['ms']});}catch(_0x1aa249){_0x398928[_0x4bfc45(0x13e)](_0x5a21c5,{'text':_0x104452['DFefZ']},{'quoted':_0x39d595['ms']});}}),ovlcmd({'nom_cmd':_0x1a5f4c(0x113),'classe':'Fun','react':'💬','desc':_0x1a5f4c(0xf7)},async(_0x4d982b,_0x1dca60)=>{const _0x2396c4=_0x1a5f4c,_0x5e790d={'wUCFM':'https://kaamelott.chaudie.re/api/random','KXBPT':_0x2396c4(0xce),'NFMWn':_0x2396c4(0x128),'yoKik':_0x2396c4(0xfc),'PhdkR':'Épisode\x20inconnu','mEUbL':'Une\x20erreur\x20s\x27est\x20produite\x20lors\x20de\x20la\x20récupération\x20de\x20la\x20citation.'};try{const _0x5eb6fd=_0x5e790d[_0x2396c4(0xf6)],_0x41195d=await axios[_0x2396c4(0x123)](_0x5eb6fd),_0x2825c2=_0x41195d[_0x2396c4(0xe4)];if(_0x2825c2[_0x2396c4(0x11e)]===0x1&&_0x2825c2[_0x2396c4(0x113)]){const _0xf3cf2f=_0x2825c2[_0x2396c4(0x113)][_0x2396c4(0x113)],_0x1e1282=_0x2825c2[_0x2396c4(0x113)]['infos'][_0x2396c4(0xb8)]||_0x5e790d['KXBPT'],_0x132edb=_0x2825c2[_0x2396c4(0x113)][_0x2396c4(0x147)][_0x2396c4(0xe9)]||_0x5e790d[_0x2396c4(0x161)],_0x16f3db=_0x2825c2['citation'][_0x2396c4(0x147)][_0x2396c4(0xc7)]||_0x5e790d[_0x2396c4(0xc4)],_0xb191d=_0x2825c2[_0x2396c4(0x113)][_0x2396c4(0x147)][_0x2396c4(0x12b)]||_0x5e790d[_0x2396c4(0x119)],_0x3dee33=_0x2396c4(0x136)+_0xf3cf2f+_0x2396c4(0x144)+_0x1e1282+_0x2396c4(0xdc)+_0x132edb+'\x0a*Saison\x20:*\x20'+_0x16f3db+'\x0a*Épisode\x20:*\x20'+_0xb191d;_0x1dca60[_0x2396c4(0x13e)](_0x4d982b,{'text':_0x3dee33});}else _0x1dca60['sendMessage'](_0x4d982b,{'text':_0x2396c4(0x130)});}catch(_0x203576){_0x1dca60[_0x2396c4(0x13e)](_0x4d982b,{'text':_0x5e790d[_0x2396c4(0xb7)]});}}),ovlcmd({'nom_cmd':'rank','classe':_0x1a5f4c(0x148),'react':'🏆','desc':_0x1a5f4c(0x15d)},async(_0x209567,_0x287579,_0x306779)=>{const _0xd8c489=_0x1a5f4c,_0x51a441={'foBrw':function(_0x53d49d,_0x332606,_0x4a485a,_0x2de6f8){return _0x53d49d(_0x332606,_0x4a485a,_0x2de6f8);},'lWIFT':'image','FBADn':_0xd8c489(0x115),'QpOvI':'messages','OKIIk':_0xd8c489(0xe6),'NPSrl':_0xd8c489(0x14e),'NNJTN':function(_0x2cfc15,_0xee1f22){return _0x2cfc15+_0xee1f22;},'nbUqL':function(_0x510747,_0x1e083e){return _0x510747||_0x1e083e;},'osJMH':_0xd8c489(0xce),'EyPfr':function(_0x533f06,_0x702c6e){return _0x533f06-_0x702c6e;},'IbSfx':function(_0x33f6cb,_0x260ede){return _0x33f6cb||_0x260ede;}},{arg:_0x561da6,auteur_Message:_0x2be7a6,getJid:_0x3d81ea,auteur_Msg_Repondu:_0x14c8f2,ms:_0x517274}=_0x306779,_0x87399a=_0x561da6[0x0]?.[_0xd8c489(0x13c)]('@')&&_0x561da6[0x0][_0xd8c489(0xc6)]('@','')+'@lid'||_0x14c8f2||_0x2be7a6,_0x1c438c=await _0x51a441[_0xd8c489(0xe7)](_0x3d81ea,_0x87399a,_0x209567,_0x287579);let _0x179e8f;try{_0x179e8f=await _0x287579['profilePictureUrl'](_0x1c438c,_0x51a441[_0xd8c489(0xc9)]);}catch{_0x179e8f=_0x51a441['FBADn'];}const _0x474dbc=await Ranks[_0xd8c489(0x159)]({'order':[[_0x51a441[_0xd8c489(0x14d)],_0x51a441[_0xd8c489(0x140)]]]}),_0x3e6b4c=await Ranks[_0xd8c489(0xe5)]({'where':{'id':_0x1c438c}});if(!_0x3e6b4c)return _0x287579['sendMessage'](_0x209567,{'text':_0xd8c489(0xec)},{'quoted':_0x517274});const {name:_0x28f718,level:_0x1c982b,exp:_0x5cd1ce,messages:_0x54c1ea}=_0x3e6b4c,_0x41b6ef=levels[_0x1c982b]?levels[_0x1c982b+0x1][_0xd8c489(0xb9)]:_0x51a441[_0xd8c489(0xcd)],_0x3ebfec=_0x51a441[_0xd8c489(0xb1)](_0x474dbc['findIndex'](_0x27a865=>_0x27a865['id']===_0x1c438c),0x1),_0x42a851=_0x474dbc['length'],_0x4af5c9=_0xd8c489(0x11c)+_0x51a441[_0xd8c489(0xd8)](_0x28f718,_0x51a441[_0xd8c489(0x100)])+_0xd8c489(0xf0)+_0x3ebfec+'/'+_0x42a851+_0xd8c489(0xd5)+_0x1c982b+_0xd8c489(0x132)+(levels[_0x51a441[_0xd8c489(0x134)](_0x1c982b,0x1)]?.[_0xd8c489(0x14a)]||'OVL-GOD-LEVEL')+'\x20\x0a┃\x20📊\x20*EXP\x20:*\x20'+_0x5cd1ce+'/'+_0x51a441['IbSfx'](_0x41b6ef,_0xd8c489(0x14e))+_0xd8c489(0x12a)+_0x54c1ea+_0xd8c489(0xfd);await _0x287579[_0xd8c489(0x13e)](_0x209567,{'image':{'url':_0x179e8f},'caption':_0x4af5c9},{'quoted':_0x517274});}),ovlcmd({'nom_cmd':_0x1a5f4c(0x101),'classe':_0x1a5f4c(0x148),'react':'🥇','desc':_0x1a5f4c(0xdd)},async(_0x3228f9,_0xa110f5,_0x144948)=>{const _0x3831f3=_0x1a5f4c,_0x5e52f3={'YXqKn':function(_0x2f8cf8,_0x4bd94c){return _0x2f8cf8+_0x4bd94c;},'wRCuy':_0x3831f3(0xce),'NElxh':_0x3831f3(0xca),'iUiKs':_0x3831f3(0x126),'zplHF':'DESC','UxLON':function(_0x389df2,_0x5b35e1){return _0x389df2===_0x5b35e1;},'sdkcp':_0x3831f3(0xd6)},_0x4c13ae=await Ranks[_0x3831f3(0x159)]({'order':[[_0x5e52f3[_0x3831f3(0xb0)],_0x5e52f3[_0x3831f3(0x121)]]],'limit':0xa});if(_0x5e52f3[_0x3831f3(0x109)](_0x4c13ae[_0x3831f3(0xd9)],0x0))return _0xa110f5[_0x3831f3(0x13e)](_0x3228f9,{'text':_0x5e52f3[_0x3831f3(0x13b)]},{'quoted':_0x144948['ms']});let _0x9067de='\x0a╭──🏆\x20*OVL-TOP-RANK*\x20🏆──╮';_0x4c13ae[_0x3831f3(0xbf)]((_0xe2b5c9,_0x772087)=>{const _0x56d609=_0x3831f3,_0x24e487=(''+_0x5e52f3['YXqKn'](_0x772087,0x1))[_0x56d609(0x10b)](0x2,'\x20');_0x9067de+='┃\x20'+_0x24e487+_0x56d609(0x14b)+(_0xe2b5c9[_0x56d609(0x14a)]||_0x5e52f3[_0x56d609(0xe2)])+'\x0a┃\x20\x20\x20\x20✉️\x20*Messages\x20:*\x20'+_0xe2b5c9[_0x56d609(0x126)]+_0x56d609(0xc8)+_0xe2b5c9[_0x56d609(0x11f)]+'\x20('+(levels[_0xe2b5c9[_0x56d609(0x11f)]-0x1]?.['name']||_0x5e52f3[_0x56d609(0x11b)])+_0x56d609(0x131);}),_0x9067de+=_0x3831f3(0xfe),await _0xa110f5['sendMessage'](_0x3228f9,{'text':_0x9067de},{'quoted':_0x144948['ms']});}),ovlcmd({'nom_cmd':_0x1a5f4c(0xd2),'classe':'Fun','react':'👤','desc':_0x1a5f4c(0xff)},async(_0x21de2a,_0x450035,{msg_Repondu:_0x948835,ms:_0x187ea9,auteur_Message:_0x3d9cac,arg:_0x4d41ed,getJid:_0x272be8,auteur_Msg_Repondu:_0xf19363})=>{const _0x1d4538=_0x1a5f4c,_0x381dd9={'ueVzU':'image','dOdvK':_0x1d4538(0xce),'EWVBZ':function(_0x11c41d,_0xe98e69){return _0x11c41d===_0xe98e69;},'VCYyP':'string'},_0x165846=_0x4d41ed[0x0]?.[_0x1d4538(0x13c)]('@')&&_0x4d41ed[0x0][_0x1d4538(0xc6)]('@','')+'@s.whatsapp.net'||_0xf19363||_0x3d9cac,_0x238c6d=await _0x272be8(_0x165846,_0x21de2a,_0x450035);let _0x4a13d6;try{_0x4a13d6=await _0x450035[_0x1d4538(0xc5)](_0x238c6d,_0x381dd9[_0x1d4538(0x114)]);}catch{_0x4a13d6='https://files.catbox.moe/ulwqtr.jpg';}const _0x2e0d8d=await Ranks[_0x1d4538(0xe5)]({'where':{'id':_0x238c6d}}),_0x3d218f=_0x2e0d8d?.[_0x1d4538(0x14a)]||_0x381dd9['dOdvK'],_0x3e7727=_0x238c6d[_0x1d4538(0x156)]('@')[0x0];let _0x385674=_0x1d4538(0x145);try{const _0x3d086a=await _0x450035[_0x1d4538(0x15e)](_0x238c6d);_0x3d086a['length']>0x0&&_0x3d086a[0x0][_0x1d4538(0x11e)]&&(_0x385674=_0x381dd9[_0x1d4538(0x116)](typeof _0x3d086a[0x0]['status'],_0x381dd9[_0x1d4538(0xe1)])?_0x3d086a[0x0][_0x1d4538(0x11e)]:_0x3d086a[0x0]['status'][_0x1d4538(0x11e)]||'Pas\x20de\x20bio');}catch{}const _0x189efb=_0x1d4538(0xbb)+_0x3d218f+_0x1d4538(0x104)+_0x3e7727+_0x1d4538(0xfb)+_0x385674;await _0x450035[_0x1d4538(0x13e)](_0x21de2a,{'image':{'url':_0x4a13d6},'caption':_0x189efb},{'quoted':_0x187ea9});}),ovlcmd({'nom_cmd':_0x1a5f4c(0xcc),'classe':_0x1a5f4c(0x148),'react':'📝','desc':'Envoie\x20un\x20message\x20fake\x20comme\x20si\x20un\x20autre\x20utilisateur\x20l\x27avait\x20envoyé'},async(_0xd9840c,_0x196fe6,{ms:_0x2aabd1,arg:_0x139bcc,getJid:_0x22a3be})=>{const _0x275c26=_0x1a5f4c,_0x35bfdd={'hdSzc':_0x275c26(0x129),'lCLVt':function(_0x26ed33,_0x1ea11e,_0x4a8415,_0x5cef4f){return _0x26ed33(_0x1ea11e,_0x4a8415,_0x5cef4f);}};if(!_0x139bcc[0x0]||!_0x139bcc[_0x275c26(0x105)]('\x20')[_0x275c26(0x13c)]('/'))return _0x196fe6[_0x275c26(0x13e)](_0xd9840c,{'text':_0x35bfdd[_0x275c26(0xf4)]},{'quoted':_0x2aabd1});const _0x4a1e70=_0x139bcc[0x0][_0x275c26(0xc6)]('@','')+_0x275c26(0x12d),_0x48a468=await _0x35bfdd[_0x275c26(0xf1)](_0x22a3be,_0x4a1e70,_0xd9840c,_0x196fe6),_0x4f0c9e=_0x139bcc[_0x275c26(0x160)](0x1)[_0x275c26(0x105)]('\x20'),[_0x5b77ac,_0x35eef1]=_0x4f0c9e[_0x275c26(0x156)]('/')['map'](_0x2461ea=>_0x2461ea[_0x275c26(0xbe)]()),_0x3e0645={'key':{'fromMe':![],'participant':_0x48a468,'remoteJid':_0x48a468},'message':{'extendedTextMessage':{'text':_0x5b77ac,'contextInfo':{'mentionedJid':[]}}}};await _0x196fe6[_0x275c26(0x13e)](_0xd9840c,{'text':_0x35eef1},{'quoted':_0x3e0645});});
+const { ovlcmd } = require("../lib/ovlcmd");
+const fancy = require("../lib/style");
+const config = require("../set");
+const fs = require('fs');
+const axios = require('axios');
+const { levels } = require('../DataBase/levels');
+const { Ranks } = require('../DataBase/rank')
+                      
+ovlcmd(
+    {
+        nom_cmd: "fliptext",
+        classe: "Fun",
+        desc: "Inverse le texte fourni.",
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms } = cmd_options;
+        const text = arg.join(" ");
+        if (!text) {
+            return await ovl.sendMessage(ms_org, { text: "Veuillez fournir un texte à inverser !" }, { quoted: ms });
+        }
+        const flipped = text.split("").reverse().join("");
+        await ovl.sendMessage(ms_org, { text: flipped }, { quoted: ms });
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "readmore",
+        classe: "Fun",
+        desc: "Ajoute un effet 'voir plus' au texte.",
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms } = cmd_options;
+        const text = arg.join(" ");
+        if (!text) {
+            return await ovl.sendMessage(ms_org, { text: "Veuillez fournir un texte" }, { quoted: ms });
+        }
+        const hiddenText = `${text.split(" ").join(" ")}${String.fromCharCode(8206).repeat(4001)}`;
+        await ovl.sendMessage(ms_org, { text: hiddenText }, { quoted: ms });
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "ship",
+        classe: "Fun",
+        desc: "Test de compatibilité entre deux personnes",
+        alias: ["match"],
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { auteur_Msg_Repondu, auteur_Message, arg, ms,  getJid } = cmd_options;
+        const tag = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+     const tags = await getJid(tag, ms_org, ovl);
+       if (!arg[0]) {
+            return await ovl.sendMessage(ms_org, { text: "Mentionne une personne" }, { quoted: ms });
+         }
+        const randomPercentage = Math.floor(Math.random() * 101);
+        let comment;
+        if (randomPercentage <= 30) {
+            comment = "💔 Pas vraiment compatibles... 😢";
+        } else if (randomPercentage <= 70) {
+            comment = "🤔 Il y a du potentiel, mais cela demande du travail !";
+        } else {
+            comment = "💖 Vous êtes faits l'un pour l'autre ! 🌹";
+
+        }
+
+        await ovl.sendMessage(ms_org, {
+            text: `💘 *Ship*\n\n @${tags.split("@")[0]} & @${auteur_Message.split("@")[0]}, ${comment}.\n💖Compatibilité :*${randomPercentage}%*`,
+            mentions: [tags, auteur_Message],
+        }, { quoted: ms });
+    }
+);
+ 
+ovlcmd(
+    {
+        nom_cmd: "couplepp",
+        classe: "Fun",
+        desc: "Envoie des photos de couple animées.",
+        alias: ["cpp"],
+    },
+    async (ms_org, ovl, cmd_options) => {
+        try {
+            const { data } = await axios.get("https://raw.githubusercontent.com/iamriz7/kopel_/main/kopel.json");
+            const randomPicture = data[Math.floor(Math.random() * data.length)];
+            await ovl.sendMessage(ms_org, {
+                image: { url: randomPicture.female },
+                caption: "❤️ *Pour Madame 💁🏻‍♀️*",
+            }, { quoted: cmd_options.ms });
+            await ovl.sendMessage(ms_org, {
+                image: { url: randomPicture.male },
+                caption: "❤️ *Pour Monsieur 💁🏻‍♂️*",
+            }, { quoted: cmd_options.ms });
+        } catch (error) {
+            console.error("Erreur lors de la récupération des données :", error);
+            await ovl.sendMessage(ms_org, {
+                text: "❗ Impossible de récupérer les images. Réessaie plus tard.",
+            }, { quoted: cmd_options.ms });
+        }
+    }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "fancy",
+    classe: "Fun",
+    react: "✍️",
+    desc: "Applique un style fancy au texte",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { arg, repondre } = cmd_options;
+    const prefixe = config.PREFIXE;
+    if (arg.length === 0) {
+      return await repondre(
+        `Utilisation :\n` +
+        `${prefixe}fancy <ID> <texte> — Appliquer un style au texte\n` +
+        `${prefixe}fancy list [nom] — Lister les styles disponibles (optionnel : filtrer par nom)\n\n` +
+        `Exemple : ${prefixe}fancy 3 Hello World\n` +
+        `Exemple pour la liste : ${prefixe}fancy list ovl\n\n`
+      );
+    }
+    if (arg[0].toLowerCase() === 'list') {
+      const filterName = arg[1] || 'OVL-MD-V2';
+      return await repondre(fancy.list(filterName, fancy));
+    }
+    const id = parseInt(arg[0], 10);
+    const text = arg.slice(1).join(" ");
+    if (isNaN(id) || !text) {
+      return await repondre(
+        `❌ Arguments invalides.\n` +
+        `Utilisation : ${prefixe}fancy <ID> <texte>\n` +
+        `Pour voir la liste des styles : ${prefixe}fancy list`
+      );
+    }
+    try {
+      const keys = Object.keys(fancy).filter(k => k.length < 3);
+      const styleKey = keys[id - 1];
+      if (!styleKey) return await repondre(`_Style introuvable pour l'ID : ${id}_`);
+      const selectedStyle = fancy[styleKey];
+      return await repondre(fancy.apply(selectedStyle, text));
+    } catch {
+      return await repondre("_Une erreur s'est produite :(_");
+    }
+  }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "blague",
+        classe: "Fun",
+        react: "😂",
+        desc: "Renvoie une blague"
+    },
+    async (ms_org, ovl, cmd_options) => {
+        try {
+            let apiUrl = `https://v2.jokeapi.dev/joke/Any?lang=fr`;
+            let response = await axios.get(apiUrl);
+            let data = response.data;
+
+            if (data.type === 'single') {
+                ovl.sendMessage(ms_org, { text: `*Blague du jour :* ${data.joke}` }, { quoted: cmd_options.ms });
+            } else if (data.type === 'twopart') {
+                ovl.sendMessage(ms_org, { text: `*Blague du jour :* ${data.setup}\n\n*Réponse :* ${data.delivery}` }, { quoted: cmd_options.ms });
+            } else {
+                ovl.sendMessage(ms_org, { text: "Désolé, je n'ai pas trouvé de blague à vous raconter." }, { quoted: cmd_options.ms });
+            }
+        } catch (error) {
+            ovl.sendMessage(ms_org, { text: "Une erreur s'est produite lors de la récupération de la blague." }, { quoted: cmd_options.ms });
+        }
+    }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "citation",
+    classe: "Fun",
+    react: "💬",
+    desc: "Renvoie une citation",
+  },
+  async (ms_org, ovl) => {
+    try {
+      const apiUrl = "https://kaamelott.chaudie.re/api/random";
+      const response = await axios.get(apiUrl);
+      const data = response.data;
+
+      if (data.status === 1 && data.citation) {
+        const citation = data.citation.citation;
+        const auteur = data.citation.infos.auteur || "Inconnu";
+        const personnage = data.citation.infos.personnage || "Personnage inconnu";
+        const saison = data.citation.infos.saison || "Saison inconnue";
+        const episode = data.citation.infos.episode || "Épisode inconnu";
+
+        const message = `*Citation du jour :*\n"${citation}"\n\n*Auteur :* ${auteur}\n*Personnage :* ${personnage}\n*Saison :* ${saison}\n*Épisode :* ${episode}`;
+        ovl.sendMessage(ms_org, { text: message });
+      } else {
+        ovl.sendMessage(ms_org, { text: "Désolé, je n'ai pas trouvé de citation à vous donner." });
+      }
+    } catch (error) {
+      ovl.sendMessage(ms_org, { text: "Une erreur s'est produite lors de la récupération de la citation." });
+    }
+  }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "rank",
+        classe: "Fun",
+        react: "🏆",
+        desc: "Affiche le rang d'un utilisateur selon ses messages envoyés et gère l'activation/désactivation globale du level up."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, auteur_Message, getJid, auteur_Msg_Repondu, ms } = cmd_options;
+         
+        const userIdl = (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`) || auteur_Msg_Repondu || auteur_Message;
+        const userId = await getJid(userIdl, ms_org, ovl);
+        let pp;
+        try {
+            pp = await ovl.profilePictureUrl(userId, 'image');
+        } catch {
+            pp = 'https://files.catbox.moe/ulwqtr.jpg';
+        }
+    
+        const allUsers = await Ranks.findAll({
+            order: [['messages', 'DESC']]
+        });
+
+        const user = await Ranks.findOne({ where: { id: userId } });
+        if (!user) {
+            return ovl.sendMessage(ms_org, { text: "Vous n'avez pas encore de rang. Commencez à interagir pour en obtenir un !" }, { quoted: ms });
+        }
+
+        const { name, level, exp, messages } = user;
+        const nextLevelExp = levels[level] ? levels[level + 1].expRequired : "Max";
+        const rankPosition = allUsers.findIndex(u => u.id === userId) + 1;
+        const totalUsers = allUsers.length;
+        const message = `╭───🏆 *OVL-RANK* 🏆───╮
+┃ 🏷️ *Nom :* ${name || "Inconnu"}
+┃ 🥇 *Classement :* ${rankPosition}/${totalUsers}
+┃ 🔰 *Niveau :* ${level}
+┃ 🏅 *Titre :* ${levels[level - 1]?.name || "OVL-GOD-LEVEL"} 
+┃ 📊 *EXP :* ${exp}/${nextLevelExp || "Max"}
+┃ ✉️ *Messages :* ${messages}
+╰──────────────────╯`;
+
+        await ovl.sendMessage(ms_org, {
+            image: { url: pp },
+            caption: message,
+        }, { quoted: ms });
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "toprank",
+        classe: "Fun",
+        react: "🥇",
+        desc: "Voir les meilleurs utilisateurs"
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const topUsers = await Ranks.findAll({
+            order: [['messages', 'DESC']],
+            limit: 10
+        });
+
+        if (topUsers.length === 0) {
+            return ovl.sendMessage(ms_org, { text: "Aucune donnée disponible pour le moment." }, { quoted: cmd_options.ms });
+        }
+
+        let rankMessage = `
+╭──🏆 *OVL-TOP-RANK* 🏆──╮`;
+
+        topUsers.forEach((user, index) => {
+            const position = `${index + 1}`.padStart(2, " ");
+            rankMessage += `┃ ${position}. 🏷️ *Nom :* ${user.name || "Inconnu"}
+┃    ✉️ *Messages :* ${user.messages}
+┃    🔰 *Niveau :* ${user.level} (${levels[user.level - 1]?.name || "OVL-GOD-LEVEL"})\n┃\n`;
+        });
+rankMessage += `╰───────────────────╯`;
+        await ovl.sendMessage(ms_org, { text: rankMessage }, { quoted: cmd_options.ms });
+    }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "profile",
+    classe: "Fun",
+    react: "👤",
+    desc: "Affiche le nom, le numéro et la bio d'un utilisateur"
+  },
+  async (ms_org, ovl, { msg_Repondu, ms, auteur_Message, arg, getJid, auteur_Msg_Repondu }) => {
+    const userIdl = (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@s.whatsapp.net`) || auteur_Msg_Repondu || auteur_Message;
+    const userId = await getJid(userIdl, ms_org, ovl);
+
+    let pp;
+    try {
+      pp = await ovl.profilePictureUrl(userId, 'image');
+    } catch {
+      pp = 'https://files.catbox.moe/ulwqtr.jpg';
+    }
+
+    const user = await Ranks.findOne({ where: { id: userId } });
+    const name = user?.name || "Inconnu";
+    const number = userId.split('@')[0];
+
+    let bio = "Pas de bio";
+    try {
+      const statusArray = await ovl.fetchStatus(userId);
+      if (statusArray.length > 0 && statusArray[0].status) {
+        bio = typeof statusArray[0].status === 'string'
+          ? statusArray[0].status
+          : statusArray[0].status.status || "Pas de bio";
+      }
+    } catch {}
+
+    const infoText = `👤 Nom: ${name}\n📱 Numéro: ${number}\n💬 Bio: ${bio}`;
+
+    await ovl.sendMessage(ms_org, {
+      image: { url: pp },
+      caption: infoText
+    }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "fake",
+    classe: "Fun",
+    react: "📝",
+    desc: "Envoie un message fake comme si un autre utilisateur l'avait envoyé"
+  },
+  async (ms_org, ovl, { ms, arg, getJid }) => {
+    if (!arg[0] || !arg.join(" ").includes("/")) {
+      return ovl.sendMessage(ms_org, { text: "❌ Usage: fake @user fake_message / bot_message" }, { quoted: ms });
+    }
+
+    const targetIdl = `${arg[0].replace("@", "")}@lid`;
+    const userId = await getJid(targetIdl, ms_org, ovl);
+
+    const fullText = arg.slice(1).join(" ");
+    const [fakeMsgText, realMsgText] = fullText.split("/").map(t => t.trim());
+
+    const fakeQuoted = {
+      key: {
+        fromMe: false,
+        participant: userId,
+        remoteJid: userId,
+      },
+      message: {
+        extendedTextMessage: {
+          text: fakeMsgText,
+          contextInfo: { mentionedJid: [] },
+        },
+      }
+    };
+
+    await ovl.sendMessage(ms_org, { text: realMsgText }, { quoted: fakeQuoted });
+  }
+);

@@ -1,1 +1,76 @@
-const _0x22262=_0x1d36;(function(_0x28d852,_0x22dac4){const _0x584ac3=_0x1d36,_0x3ff0e9=_0x28d852();while(!![]){try{const _0xec8336=parseInt(_0x584ac3(0x150))/0x1+parseInt(_0x584ac3(0x13b))/0x2*(-parseInt(_0x584ac3(0x14e))/0x3)+-parseInt(_0x584ac3(0x14d))/0x4+-parseInt(_0x584ac3(0x14c))/0x5+-parseInt(_0x584ac3(0x149))/0x6+parseInt(_0x584ac3(0x137))/0x7+-parseInt(_0x584ac3(0x145))/0x8*(-parseInt(_0x584ac3(0x14f))/0x9);if(_0xec8336===_0x22dac4)break;else _0x3ff0e9['push'](_0x3ff0e9['shift']());}catch(_0x5b4db9){_0x3ff0e9['push'](_0x3ff0e9['shift']());}}}(_0x7855,0x5b444));const _0x358980=(function(){let _0xeb03f4=!![];return function(_0x5241b6,_0x586e44){const _0x2e0739=_0xeb03f4?function(){const _0x316e8a=_0x1d36;if(_0x586e44){const _0x34a1be=_0x586e44[_0x316e8a(0x151)](_0x5241b6,arguments);return _0x586e44=null,_0x34a1be;}}:function(){};return _0xeb03f4=![],_0x2e0739;};}()),_0x28adc1=_0x358980(this,function(){const _0x590d76=_0x1d36;return _0x28adc1['toString']()['search'](_0x590d76(0x13f))[_0x590d76(0x141)]()[_0x590d76(0x136)](_0x28adc1)[_0x590d76(0x152)]('(((.+)+)+)+$');});_0x28adc1();const {Sequelize,DataTypes}=require(_0x22262(0x140)),config=require(_0x22262(0x13e)),db=config[_0x22262(0x13d)];let sequelize;!db?sequelize=new Sequelize({'dialect':'sqlite','storage':_0x22262(0x142),'logging':![]}):sequelize=new Sequelize(db,{'dialect':_0x22262(0x146),'ssl':!![],'protocol':_0x22262(0x146),'dialectOptions':{'native':!![],'ssl':{'require':!![],'rejectUnauthorized':![]}},'logging':![]});function _0x7855(){const _0x56e7de=['su5uruDfuG','nhDUvxnxCW','BM9U','refuqujbu0u','lI4VC2v0','kcGOlISPkYKRksSK','C2vXDwvSAxPL','Dg9tDhjPBMC','lI9KyxrHyMfZzs5KyG','qw50AxnWyw0','yw50AxnWyw1FD2fYBMLUz3m','ohjMt0nktG','Cg9ZDgDYzxm','C3LUyW','ru5vtq','mZCYnteWruTpwwTt','u1rssu5h','zxHWB3j0CW','mJy0ody0nvfmCwXfyW','mtGWmdu2meDVrxbSyW','mZa3mJa5BgHMEgH2','nJy4mtu0nMnsDM1Lta','nZm3ody0EgvIteHy','yxbWBhK','C2vHCMnO','y29UC3rYDwn0B3i','otGYmZeWC05TqMHz','yw50AxnWyw0','zgvMAw5L'];_0x7855=function(){return _0x56e7de;};return _0x7855();}function _0x1d36(_0x4feb89,_0x20b9e2){const _0x3d318e=_0x7855();return _0x1d36=function(_0x28adc1,_0x358980){_0x28adc1=_0x28adc1-0x136;let _0x78552e=_0x3d318e[_0x28adc1];if(_0x1d36['iGFkxn']===undefined){var _0x1d36e3=function(_0x3f0f16){const _0xa3f0e1='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4afa9d='',_0x10e6cf='',_0x144f49=_0x4afa9d+_0x1d36e3;for(let _0x57c86b=0x0,_0x79cabe,_0x15f509,_0x2fbd2b=0x0;_0x15f509=_0x3f0f16['charAt'](_0x2fbd2b++);~_0x15f509&&(_0x79cabe=_0x57c86b%0x4?_0x79cabe*0x40+_0x15f509:_0x15f509,_0x57c86b++%0x4)?_0x4afa9d+=_0x144f49['charCodeAt'](_0x2fbd2b+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x79cabe>>(-0x2*_0x57c86b&0x6)):_0x57c86b:0x0){_0x15f509=_0xa3f0e1['indexOf'](_0x15f509);}for(let _0x17f54c=0x0,_0x4ff158=_0x4afa9d['length'];_0x17f54c<_0x4ff158;_0x17f54c++){_0x10e6cf+='%'+('00'+_0x4afa9d['charCodeAt'](_0x17f54c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x10e6cf);};_0x1d36['aHUqur']=_0x1d36e3,_0x4feb89=arguments,_0x1d36['iGFkxn']=!![];}const _0x2431f8=_0x3d318e[0x0],_0x3053ba=_0x28adc1+_0x2431f8,_0x15f29a=_0x4feb89[_0x3053ba];if(!_0x15f29a){const _0xe1678d=function(_0x34f995){this['SMtWks']=_0x34f995,this['YvIHEl']=[0x1,0x0,0x0],this['hdxWTd']=function(){return'newState';},this['Msvctp']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['BXiWzj']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xe1678d['prototype']['DqkaCa']=function(){const _0x5d0b85=new RegExp(this['Msvctp']+this['BXiWzj']),_0x3e59d8=_0x5d0b85['test'](this['hdxWTd']['toString']())?--this['YvIHEl'][0x1]:--this['YvIHEl'][0x0];return this['YTmyEy'](_0x3e59d8);},_0xe1678d['prototype']['YTmyEy']=function(_0x5b32e7){if(!Boolean(~_0x5b32e7))return _0x5b32e7;return this['rbSbDQ'](this['SMtWks']);},_0xe1678d['prototype']['rbSbDQ']=function(_0x393194){for(let _0x49cbf5=0x0,_0x597de9=this['YvIHEl']['length'];_0x49cbf5<_0x597de9;_0x49cbf5++){this['YvIHEl']['push'](Math['round'](Math['random']())),_0x597de9=this['YvIHEl']['length'];}return _0x393194(this['YvIHEl'][0x0]);},new _0xe1678d(_0x1d36)['DqkaCa'](),_0x78552e=_0x1d36['aHUqur'](_0x78552e),_0x4feb89[_0x3053ba]=_0x78552e;}else _0x78552e=_0x15f29a;return _0x78552e;},_0x1d36(_0x4feb89,_0x20b9e2);}const Antispam=sequelize[_0x22262(0x139)](_0x22262(0x143),{'id':{'type':DataTypes[_0x22262(0x14a)],'primaryKey':!![]},'mode':{'type':DataTypes[_0x22262(0x14a)],'defaultValue':_0x22262(0x13c)},'type':{'type':DataTypes[_0x22262(0x148)]('supp','warn','kick'),'defaultValue':'supp'}},{'tableName':_0x22262(0x138),'timestamps':![]}),AntispamWarnings=sequelize['define']('AntispamWarnings',{'groupId':{'type':DataTypes[_0x22262(0x14a)],'allowNull':![]},'userId':{'type':DataTypes[_0x22262(0x14a)],'allowNull':![]},'count':{'type':DataTypes[_0x22262(0x13a)],'defaultValue':0x1}},{'tableName':_0x22262(0x144),'timestamps':![]});((async()=>{const _0x49bb5b=_0x22262;await Antispam['sync'](),await AntispamWarnings[_0x49bb5b(0x147)]();})()),module[_0x22262(0x14b)]={'Antispam':Antispam,'AntispamWarnings':AntispamWarnings};
+const { Sequelize, DataTypes } = require("sequelize");
+const config = require("../set");
+const db = config.DATABASE;
+
+let sequelize;
+
+if (!db) {
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.db',
+    logging: false,
+  });
+} else {
+  sequelize = new Sequelize(db, {
+    dialect: 'postgres',
+    ssl: true,
+    protocol: 'postgres',
+    dialectOptions: {
+      native: true,
+      ssl: { require: true, rejectUnauthorized: false },
+    },
+    logging: false,
+  });
+}
+
+const Antispam = sequelize.define(
+  "Antispam",
+  {
+    id: {
+      type: DataTypes.STRING,
+      primaryKey: true,
+    },
+    mode: {
+      type: DataTypes.STRING,
+      defaultValue: "non",
+    },
+    type: {
+      type: DataTypes.ENUM("supp", "warn", "kick"),
+      defaultValue: "supp",
+    },
+  },
+  {
+    tableName: "antispam",
+    timestamps: false,
+  }
+);
+
+const AntispamWarnings = sequelize.define(
+  "AntispamWarnings",
+  {
+    groupId: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    userId: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    count: {
+      type: DataTypes.INTEGER,
+      defaultValue: 1,
+    },
+  },
+  {
+    tableName: "antispam_warnings",
+    timestamps: false,
+  }
+);
+
+(async () => {
+  await Antispam.sync();
+
+  await AntispamWarnings.sync();
+})();
+
+module.exports = { Antispam, AntispamWarnings };

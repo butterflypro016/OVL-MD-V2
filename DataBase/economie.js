@@ -1,1 +1,165 @@
-const _0x3e8fb8=_0xa475;(function(_0x40f493,_0x2ebd6b){const _0xeca612=_0xa475,_0x267701=_0x40f493();while(!![]){try{const _0x1921e8=parseInt(_0xeca612(0x14c))/0x1*(parseInt(_0xeca612(0x17a))/0x2)+parseInt(_0xeca612(0x15a))/0x3*(parseInt(_0xeca612(0x16c))/0x4)+parseInt(_0xeca612(0x158))/0x5*(-parseInt(_0xeca612(0x171))/0x6)+parseInt(_0xeca612(0x180))/0x7*(-parseInt(_0xeca612(0x166))/0x8)+parseInt(_0xeca612(0x150))/0x9+parseInt(_0xeca612(0x174))/0xa*(-parseInt(_0xeca612(0x15e))/0xb)+-parseInt(_0xeca612(0x155))/0xc*(-parseInt(_0xeca612(0x172))/0xd);if(_0x1921e8===_0x2ebd6b)break;else _0x267701['push'](_0x267701['shift']());}catch(_0x3a07c4){_0x267701['push'](_0x267701['shift']());}}}(_0x4ac2,0x48c4c));const _0x41d4b4=(function(){let _0x4fd233=!![];return function(_0x388c94,_0x3f0e2c){const _0x1980fd=_0x4fd233?function(){const _0x4d7565=_0xa475;if(_0x3f0e2c){const _0x4a6e2c=_0x3f0e2c[_0x4d7565(0x16a)](_0x388c94,arguments);return _0x3f0e2c=null,_0x4a6e2c;}}:function(){};return _0x4fd233=![],_0x1980fd;};}()),_0x3d9037=_0x41d4b4(this,function(){const _0x1ad7dc=_0xa475,_0x22c16a={'PQmTl':_0x1ad7dc(0x15b)};return _0x3d9037[_0x1ad7dc(0x17e)]()[_0x1ad7dc(0x16e)](_0x22c16a[_0x1ad7dc(0x157)])[_0x1ad7dc(0x17e)]()['constructor'](_0x3d9037)[_0x1ad7dc(0x16e)](_0x22c16a[_0x1ad7dc(0x157)]);});_0x3d9037();const {Sequelize,DataTypes}=require(_0x3e8fb8(0x169)),config=require(_0x3e8fb8(0x170)),db=config['DATABASE'];let sequelize;!db?sequelize=new Sequelize({'dialect':_0x3e8fb8(0x178),'storage':_0x3e8fb8(0x14d),'logging':![]}):sequelize=new Sequelize(db,{'dialect':_0x3e8fb8(0x179),'ssl':!![],'protocol':_0x3e8fb8(0x179),'dialectOptions':{'native':!![],'ssl':{'require':!![],'rejectUnauthorized':![]}},'logging':![]});const ECONOMIE=sequelize[_0x3e8fb8(0x177)](_0x3e8fb8(0x156),{'id':{'type':DataTypes[_0x3e8fb8(0x167)],'primaryKey':!![]},'pseudo':{'type':DataTypes[_0x3e8fb8(0x167)],'defaultValue':'Utilisateur'},'portefeuille':{'type':DataTypes[_0x3e8fb8(0x16f)],'defaultValue':0x0},'banque':{'type':DataTypes[_0x3e8fb8(0x16f)],'defaultValue':0x0},'capacite_banque':{'type':DataTypes[_0x3e8fb8(0x16f)],'defaultValue':0x2710},'last_bonus':{'type':DataTypes[_0x3e8fb8(0x16f)],'defaultValue':0x0}},{'tableName':_0x3e8fb8(0x17c),'timestamps':![]});((async()=>{const _0x31f137=_0x3e8fb8;await ECONOMIE[_0x31f137(0x154)]();})());async function ajouterUtilisateur(_0x2f2ffd,_0x1a1dea=_0x3e8fb8(0x17d)){const _0x507a4c=_0x3e8fb8;return await ECONOMIE[_0x507a4c(0x168)]({'where':{'id':_0x2f2ffd},'defaults':{'pseudo':_0x1a1dea,'portefeuille':0x0,'banque':0x0,'capacite_banque':0x3e8,'last_bonus':0x0}});}async function supprimerUtilisateur(_0x2b0078){const _0x49de0e=_0x3e8fb8;return await ECONOMIE[_0x49de0e(0x176)]({'where':{'id':_0x2b0078}});}async function getInfosUtilisateur(_0x2126eb){const _0x4bb6f1=_0x3e8fb8,_0x311353=await ECONOMIE['findOne']({'where':{'id':_0x2126eb}});if(!_0x311353)return null;return _0x311353[_0x4bb6f1(0x15d)];}async function modifierSolde(_0x483022,_0x73d81f=_0x3e8fb8(0x17b),_0x18222a=0x0){const _0x53d933=_0x3e8fb8,_0x592531={'FxrTu':_0x53d933(0x17b),'SZqWX':_0x53d933(0x151),'frGcw':function(_0x5a5bb1,_0x2a8eb7){return _0x5a5bb1+_0x2a8eb7;}},_0x3cb177=await ECONOMIE[_0x53d933(0x152)]({'where':{'id':_0x483022}});if(!_0x3cb177)return null;if(![_0x592531[_0x53d933(0x162)],_0x592531['SZqWX']][_0x53d933(0x159)](_0x73d81f))throw new Error(_0x53d933(0x164));const _0x529fbd=Number(_0x3cb177[_0x73d81f]),_0x4989ac=Math['abs'](Number(_0x18222a)),_0x189349=_0x18222a<0x0?Math[_0x53d933(0x163)](_0x529fbd-_0x4989ac,0x0):_0x592531[_0x53d933(0x15f)](_0x529fbd,_0x4989ac);return _0x3cb177[_0x73d81f]=_0x189349,await _0x3cb177[_0x53d933(0x153)](),{'nouveauSolde':_0x189349};}async function mettreAJourCapaciteBanque(_0x4c2c76,_0x362193){const _0x176fa4=_0x3e8fb8,_0x50f464=await ECONOMIE[_0x176fa4(0x152)]({'where':{'id':_0x4c2c76}});if(!_0x50f464)return null;return _0x50f464[_0x176fa4(0x165)]=_0x362193,await _0x50f464[_0x176fa4(0x153)](),_0x50f464[_0x176fa4(0x165)];}async function changerPseudo(_0x91f780,_0x186a91){const _0xe5b300=_0x3e8fb8,_0x26ddef=await ECONOMIE[_0xe5b300(0x152)]({'where':{'id':_0x91f780}});if(!_0x26ddef)return null;return _0x26ddef['pseudo']=_0x186a91,await _0x26ddef[_0xe5b300(0x153)](),_0x26ddef['pseudo'];}function _0x4ac2(){const _0x8eae2c=['qKLhsu5u','lI4VC2v0','mtK1nM1JDvzXAa','mJy3odi2yMTpuKLM','tenREuW','mZb2BeXXAKq','D2fSBgv0','zgvZDhjVEq','zgvMAw5L','C3fSAxrL','Cg9ZDgDYzxm','mtbwr0fgsLa','Cg9YDgvMzxvPBgXL','zwnVBM9TAwu','vxrPBgLZyxrLDxi','Dg9tDhjPBMC','y2fWywnPDgu','odeYy293v1fk','mta4mdCZtvzYENPQ','lI9KyxrHyMfZzs5KyG','rxjYzxvYigXVCNmGzguGBgeGCSoPy3vWW6LYyxrPB24GzhuGDg9WigjHBNf1zsa6','zxHWB3j0CW','mJa1mtq1mvf3wMDysG','yMfUCxvL','zMLUze9Uzq','C2f2zq','C3LUyW','ndH2AKP2uwi','runptK9nsuu','uffTvgW','mJm1nwr1CMPrDG','Aw5JBhvKzxm','mZyWm2HAwg5buG','kcGOlISPkYKRksSK','revtqW','zgf0yvzHBhvLCW','mtq3nJmXwNbMzvnt','zNjhy3C','zMLUzefSBa','zxjYB3i','rNHYvhu','Bwf4','vhLWzsbKzsbZB2XKzsbPBNzHBgLKzs4GvxrPBgLZzsaNCg9YDgvMzxvPBgXLjYbVDsaNyMfUCxvLjY4','y2fWywnPDgvFyMfUCxvL','mZm3nZzwEMvIzw4','u1rssu5h','zMLUze9Yq3jLyxrL','C2vXDwvSAxPL','yxbWBhK','BKfyC0e','ndm2AvLmCMnO','DeTkB2S','C2vHCMnO'];_0x4ac2=function(){return _0x8eae2c;};return _0x4ac2();}async function resetEconomie(_0x5ba155,_0xdf1d69={'wallet':![],'banque':![],'capacite':![]}){const _0x403ffa=_0x3e8fb8,_0x84d699=await ECONOMIE[_0x403ffa(0x152)]({'where':{'id':_0x5ba155}});if(!_0x84d699)return null;if(_0xdf1d69[_0x403ffa(0x175)])_0x84d699['portefeuille']=0x0;if(_0xdf1d69[_0x403ffa(0x151)])_0x84d699[_0x403ffa(0x151)]=0x0;if(_0xdf1d69[_0x403ffa(0x17f)])_0x84d699[_0x403ffa(0x165)]=0x2710;return await _0x84d699['save'](),_0x84d699[_0x403ffa(0x15d)];}async function TopBanque(){const _0x92f469=_0x3e8fb8,_0x281c20={'nAXsA':_0x92f469(0x151),'TKNAc':_0x92f469(0x15c),'LCkyL':_0x92f469(0x17f),'tKJok':_0x92f469(0x14e)};try{const _0x3312d1=await ECONOMIE[_0x92f469(0x160)]({'order':[[_0x281c20[_0x92f469(0x16b)],_0x281c20['TKNAc']]],'limit':0xa,'attributes':['id',_0x92f469(0x17b),_0x92f469(0x151),_0x281c20[_0x92f469(0x173)]]});return _0x3312d1['map'](_0x5a0607=>({'id':_0x5a0607['id'],'portefeuille':_0x5a0607[_0x92f469(0x17b)],'banque':_0x5a0607[_0x92f469(0x151)],'capacite':_0x5a0607['capacite']}));}catch(_0x480e47){return console[_0x92f469(0x161)](_0x281c20[_0x92f469(0x16d)],_0x480e47),[];}}function _0xa475(_0x2ed1bd,_0x31fc8c){const _0x58083b=_0x4ac2();return _0xa475=function(_0x3d9037,_0x41d4b4){_0x3d9037=_0x3d9037-0x14c;let _0x4ac222=_0x58083b[_0x3d9037];if(_0xa475['lCinJP']===undefined){var _0xa475a5=function(_0x46f9ad){const _0x899acb='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x1c35d5='',_0x4d5bd4='',_0x2f849a=_0x1c35d5+_0xa475a5;for(let _0x166900=0x0,_0x25e1ca,_0x3b819a,_0x3121cd=0x0;_0x3b819a=_0x46f9ad['charAt'](_0x3121cd++);~_0x3b819a&&(_0x25e1ca=_0x166900%0x4?_0x25e1ca*0x40+_0x3b819a:_0x3b819a,_0x166900++%0x4)?_0x1c35d5+=_0x2f849a['charCodeAt'](_0x3121cd+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x25e1ca>>(-0x2*_0x166900&0x6)):_0x166900:0x0){_0x3b819a=_0x899acb['indexOf'](_0x3b819a);}for(let _0xba86ab=0x0,_0x4ff8e4=_0x1c35d5['length'];_0xba86ab<_0x4ff8e4;_0xba86ab++){_0x4d5bd4+='%'+('00'+_0x1c35d5['charCodeAt'](_0xba86ab)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4d5bd4);};_0xa475['vBZGXF']=_0xa475a5,_0x2ed1bd=arguments,_0xa475['lCinJP']=!![];}const _0x5cda27=_0x58083b[0x0],_0x3eb943=_0x3d9037+_0x5cda27,_0x302e36=_0x2ed1bd[_0x3eb943];if(!_0x302e36){const _0x41e844=function(_0x11ecd0){this['eCQjYB']=_0x11ecd0,this['RkhgTv']=[0x1,0x0,0x0],this['JYwlST']=function(){return'newState';},this['CKAAlv']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['AJvqyX']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x41e844['prototype']['qbnJDL']=function(){const _0x2da4a0=new RegExp(this['CKAAlv']+this['AJvqyX']),_0x52a619=_0x2da4a0['test'](this['JYwlST']['toString']())?--this['RkhgTv'][0x1]:--this['RkhgTv'][0x0];return this['TjndrW'](_0x52a619);},_0x41e844['prototype']['TjndrW']=function(_0x359503){if(!Boolean(~_0x359503))return _0x359503;return this['dtGEeJ'](this['eCQjYB']);},_0x41e844['prototype']['dtGEeJ']=function(_0x512322){for(let _0x577eae=0x0,_0x3a4176=this['RkhgTv']['length'];_0x577eae<_0x3a4176;_0x577eae++){this['RkhgTv']['push'](Math['round'](Math['random']())),_0x3a4176=this['RkhgTv']['length'];}return _0x512322(this['RkhgTv'][0x0]);},new _0x41e844(_0xa475)['qbnJDL'](),_0x4ac222=_0xa475['vBZGXF'](_0x4ac222),_0x2ed1bd[_0x3eb943]=_0x4ac222;}else _0x4ac222=_0x302e36;return _0x4ac222;},_0xa475(_0x2ed1bd,_0x31fc8c);}module[_0x3e8fb8(0x14f)]={'TopBanque':TopBanque,'ECONOMIE':ECONOMIE,'ajouterUtilisateur':ajouterUtilisateur,'supprimerUtilisateur':supprimerUtilisateur,'getInfosUtilisateur':getInfosUtilisateur,'modifierSolde':modifierSolde,'mettreAJourCapaciteBanque':mettreAJourCapaciteBanque,'changerPseudo':changerPseudo,'resetEconomie':resetEconomie};
+const { Sequelize, DataTypes } = require("sequelize");
+const config = require("../set");
+const db = config.DATABASE;
+
+let sequelize;
+if (!db) {
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.db',
+    logging: false,
+  });
+} else {
+  sequelize = new Sequelize(db, {
+    dialect: 'postgres',
+    ssl: true,
+    protocol: 'postgres',
+    dialectOptions: {
+      native: true,
+      ssl: { require: true, rejectUnauthorized: false },
+    },
+    logging: false,
+  });
+}
+
+const ECONOMIE = sequelize.define(
+  "ECONOMIE",
+  {
+    id: {
+      type: DataTypes.STRING,
+      primaryKey: true,
+    },
+    pseudo: {
+      type: DataTypes.STRING,
+      defaultValue: "Utilisateur",
+    },
+    portefeuille: {
+      type: DataTypes.BIGINT,
+      defaultValue: 0,
+    },
+    banque: {
+      type: DataTypes.BIGINT,
+      defaultValue: 0,
+    },
+    capacite_banque: {
+      type: DataTypes.BIGINT,
+      defaultValue: 10000,
+    },
+    last_bonus: {
+      type: DataTypes.BIGINT,
+      defaultValue: 0,
+    },
+  },
+  {
+    tableName: "economie",
+    timestamps: false,
+  }
+);
+
+(async () => {
+  await ECONOMIE.sync();
+})();
+
+async function ajouterUtilisateur(jid, pseudo = "Utilisateur") {
+  return await ECONOMIE.findOrCreate({
+    where: { id: jid },
+    defaults: {
+      pseudo,
+      portefeuille: 0,
+      banque: 0,
+      capacite_banque: 1000,
+      last_bonus: 0,
+    },
+  });
+}
+
+async function supprimerUtilisateur(jid) {
+  return await ECONOMIE.destroy({ where: { id: jid } });
+}
+
+async function getInfosUtilisateur(jid) {
+  const user = await ECONOMIE.findOne({ where: { id: jid } });
+  if (!user) return null;
+  return user.dataValues;
+}
+
+async function modifierSolde(jid, type = "portefeuille", montant = 0) {
+  const utilisateur = await ECONOMIE.findOne({ where: { id: jid } });
+  if (!utilisateur) return null;
+
+  if (!["portefeuille", "banque"].includes(type)) {
+    throw new Error("Type de solde invalide. Utilise 'portefeuille' ou 'banque'.");
+  }
+
+  const ancienSolde = Number(utilisateur[type]);
+  const valeurAbsolue = Math.abs(Number(montant));
+
+  const nouveauSolde = montant < 0
+    ? Math.max(ancienSolde - valeurAbsolue, 0)
+    : ancienSolde + valeurAbsolue;
+
+  utilisateur[type] = nouveauSolde;
+  await utilisateur.save();
+
+  return { nouveauSolde };
+}
+
+async function mettreAJourCapaciteBanque(jid, nouvelleCapacite) {
+  const utilisateur = await ECONOMIE.findOne({ where: { id: jid } });
+  if (!utilisateur) return null;
+  utilisateur.capacite_banque = nouvelleCapacite;
+  await utilisateur.save();
+  return utilisateur.capacite_banque;
+}
+
+async function changerPseudo(jid, nouveauPseudo) {
+  const utilisateur = await ECONOMIE.findOne({ where: { id: jid } });
+  if (!utilisateur) return null;
+  utilisateur.pseudo = nouveauPseudo;
+  await utilisateur.save();
+  return utilisateur.pseudo;
+}
+
+async function resetEconomie(jid, options = { wallet: false, banque: false, capacite: false }) {
+  const utilisateur = await ECONOMIE.findOne({ where: { id: jid } });
+  if (!utilisateur) return null;
+
+  if (options.wallet) utilisateur.portefeuille = 0;
+  if (options.banque) utilisateur.banque = 0;
+  if (options.capacite) utilisateur.capacite_banque = 10000;
+
+  await utilisateur.save();
+  return utilisateur.dataValues;
+}
+
+async function  TopBanque() {
+  try {
+    const top = await ECONOMIE.findAll({
+      order: [['banque', 'DESC']],
+      limit: 10,
+      attributes: ['id', 'portefeuille', 'banque', 'capacite']
+    });
+
+    return top.map(u => ({
+      id: u.id,
+      portefeuille: u.portefeuille,
+      banque: u.banque,
+      capacite: u.capacite
+    }));
+  } catch (err) {
+    console.error("Erreur lors de la récupération du top banque :", err);
+    return [];
+  }
+}
+
+module.exports = {
+  TopBanque,
+  ECONOMIE,
+  ajouterUtilisateur,
+  supprimerUtilisateur,
+  getInfosUtilisateur,
+  modifierSolde,
+  mettreAJourCapaciteBanque,
+  changerPseudo,
+  resetEconomie
+};

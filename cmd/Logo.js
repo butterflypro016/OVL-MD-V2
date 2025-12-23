@@ -1,1 +1,378 @@
-const _0x56316d=_0x1f30;function _0x4fd5(){const _0x2109f2=['Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2XPz2H0lxrLEhqTzwzMzwn0lwz1DhvYAxn0AwmTDgvJAg5VBg9NEs1ZDhLSzs02ndGUAhrTBa','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2zVz2D5lxjHAw55lxrLEhqTzwzMzwn0ltC1lMH0BwW','Aw5JBhvKzxm','C0Putum','AM9PBG','z2fSyxH5','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2jSDwuTBMvVBI10zxH0lwvMzMvJDc0XmtCUAhrTBa','yM9VyNm','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1HlwnSB3vKlxrLEhqTzwzMzwn0lwLUlxrOzs1ZA3KTnJe4lMH0BwW','z29Szdi','zhjHz29UyMfSBa','vfrSy3m','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSysbNW6LUW6LYyxrPB24GzhuGBg9NBYa6ia','DxjS','z2XHC3m','tg9NBW','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3DYAxrLlxrLEhqTB24TD2v0lwDSyxnZlw9UBgLUzs01odKUAhrTBa','ndvKqKHbsgu','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3jLywXPC3rPyY0Zzc1Zyw5KlxrLEhqTzwzMzwn0lw9UBgLUzs01odaUAhrTBa','C3rLzwW','BMvVBJi','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3rODw5KzxiTDgv4Dc1LzMzLy3qTB25SAw5LltK3lMH0BwW','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1SAwDODc1LzMzLy3rZlwDYzwvUlw5LB24TB25SAw5LltqYos5ODg1S','C2fUza','kcGOlISPkYKRksSK','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl21VzgvYBI1NB2XKltuTmJe1lMH0BwW','BMfYDxrV','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2zYzwuTB25SAw5LlwrYywDVBI1IywXSlwzHy2vIB29RlwnVDMvYlxbOB3rVCY1TywTLCI00ndmUAhrTBa','ig5VBIbZDxbWB3j0W6KU','yxzLBMDLCNm','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3rLEhqTB24TC2HPCNqTy2X1yI1YzwfSlw1HzhjPzc0YnJCUAhrTBa','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1VBMuTCgLLy2uTzMfJzwjVB2STy292zxiTB25SAw5Lltu1mY5ODg1S','vMv1AwXSzxOGzM91CM5PCIbLEgfJDgvTzw50igrLDxGGDgv4DgvZihpdQxbHCSoPCYbWyxiGDw4GCg9PBNqTDMLYz3vSzsaOoYKSihbHCIbLEgvTCgXLidOGt3zSo01KlG','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl25HCNv0BY1ZAgLWChvKzw4TBg9NBY1ZDhLSzs10zxH0lwvMzMvJDc1VBMXPBMuToda4lMH0BwW','Bwv0ywW','DgH1BMrLCG','BwvZC2fNzq','z3jHzMzPDgKY','yMXHy2TWAw5RmG','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1MB290yMfSBc1ZAgLYDc1TzxnZAs1IyxjJys1VBMXPBMuTmJy4lMH0BwW','CgfPBNq','yMXHy2TWAw5R','DhLWB2DYyxbOEq','y2fWDgfPBL9HBwvYAwnH','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29TlZnKlwn1yMLJlxrLEhqTzwzMzwn0lw9UBgLUzs04oc5ODg1S','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nSB3vKlxrLEhqTzwzMzwn0lteZos5ODg1S','y29UC3rYDwn0B3i','mZG4otyXmhPSCvvzBa','C2vUze1LC3nHz2u','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3bSyxnTys10zxH0lwvMzMvJDhmTB25SAw5LltCXlMH0BwW','zM9VDgjHBgW','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2XHDgvZDc1ZCgfJzs0Zzc10zxH0lwvMzMvJDc1VBMXPBMuTntu5lMH0BwW','z3jLzw5FzwzMzwn0','mZi0ndu3n1P2DLPXBG','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2n1DguTz2LYBc1WywLUDgLUzY1NCMfMzML0As10zxH0lwvMzMvJDc02nJCUAhrTBa','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1SB2DVltnKlxn0EwXLlwf2zw5NzxjZlw9UBgLUzs00mJCUAhrTBa','C2vHCMnO','C3bSAxq','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1VBMXPBMuTDhLWB2DYyxbOEs1HCNqTzwzMzwn0CY13AxrOlw11BhrPCgXLlwXHEwvYCY04mteUAhrTBa','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl21LDgfSlxrLEhqTzwzMzwn0lw9UBgLUzs0XmtaUAhrTBa','zM9VDgjHBgWY','rwzMzxqGzguGDgv4DguGyxzLyYbfCgHVDg8ZnJa','ohPpsfzyuW','y2XVDwqY','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3rLEhqTBgLNAhqTz2fSyxH5lwvMzMvJDhqTmZq1lMH0BwW','zxjYB3i','z29Szde','zNv0DxjPCW','CMfPBG','nhviAMPfwq','z29Szdm','wMPpEfy','mte3mtmXmKzLDvrpwG','Dw5Kzxj3yxrLCG','D29Vza','nZy1mZyXmKTuAuf6DW','BgvUz3rO','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1Hlwf3zxnVBwuTBg9NBY1Zy2KTzMKTzwzMzwn0CY00otiUAhrTBa','DgHVCG','mtGXmZeZnhjHtvfJsW','Dg9tDhjPBMC','B25LCgLLy2u','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1HBM9UEw1VDxmTAgfJA2vYlwf2yxrHCNmTy3LHBI1Uzw9Ulty3nY5ODg1S','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1HlwjSywnRCgLUAY1ZDhLSzs1SB2DVlxDPDgGTBwvTyMvYCY1ZAwDUyxr1CMvZltGXmc5ODg1S','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1KCMfNB24TyMfSBc1ZDhLSzs10zxH0lwvMzMvJDhmTB25SAw5LltGWos5ODg1S','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs10Ag9YlwXVz28TC3r5BguTDgv4Dc1LzMzLy3rZlw9UBgLUzs1MB3iTzNjLzs03otyUAhrTBa','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl211C2LJlwvXDwfSAxPLCI10zxH0lwvMzMvJDc0YntKUAhrTBa','C3vTBwvYEq','z3jHzMzPDgKZ','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2zYzwuTz2XPDhrLCI10zxH0lwvMzMvJDc1TywTLCI1VBMXPBMuTnJu2lMH0BwW','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1HlxDHDgvYy29SB3iTDgv4Dc1LzMzLy3qTB25SAw5Llty1ns5ODg1S','z29Szdq','C3bHy2u','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29TlZnKlxvUzgvYD2f0zxiTDgv4Dc1LzMzLy3qTB25SAw5Llty4mI5ODg1S','y2XVDwq','mtuXmZG0m3rYDMjQuq','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1Hlxn1Bw1LCNKTC2fUzc13CML0Aw5NlxrLEhqTzwzMzwn0ltu3nY5ODg1S','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl2nYzwf0zs1HlwjSywnRCgLUAY1Uzw9UlwXVz28TDgv4Dc1LzMzLy3qTB25SAw5LltCXmc5ODg1S','z3jHzMzPDgKX','yxbWBhK','ANHesuW','zM9VDgjHBgWZ','Ahr0Chm6lY9LBI5LCgHVDg8ZnJaUy29Tl3bHDwWTC2nOB2XLCY1ZAgLYDc1MB290lwjHBgWTmZm1lMH0BwW','mZG2ndeZnu15zgrsrq','AgfJA2vY'];_0x4fd5=function(){return _0x2109f2;};return _0x4fd5();}(function(_0x44b20c,_0x25e4df){const _0x3338dc=_0x1f30,_0x115186=_0x44b20c();while(!![]){try{const _0x585489=parseInt(_0x3338dc(0x1ed))/0x1+-parseInt(_0x3338dc(0x23f))/0x2+-parseInt(_0x3338dc(0x1dd))/0x3*(-parseInt(_0x3338dc(0x23c))/0x4)+-parseInt(_0x3338dc(0x1f5))/0x5+-parseInt(_0x3338dc(0x242))/0x6+parseInt(_0x3338dc(0x22c))/0x7*(-parseInt(_0x3338dc(0x235))/0x8)+parseInt(_0x3338dc(0x208))/0x9*(parseInt(_0x3338dc(0x226))/0xa);if(_0x585489===_0x25e4df)break;else _0x115186['push'](_0x115186['shift']());}catch(_0x10f487){_0x115186['push'](_0x115186['shift']());}}}(_0x4fd5,0xebb36));function _0x1f30(_0x228129,_0x3ba621){const _0xb10fef=_0x4fd5();return _0x1f30=function(_0x437c70,_0x1fb798){_0x437c70=_0x437c70-0x1dc;let _0x4fd516=_0xb10fef[_0x437c70];if(_0x1f30['qKgMTA']===undefined){var _0x1f307b=function(_0x4e2840){const _0x216332='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4b4dbe='',_0x536a10='',_0x14c50b=_0x4b4dbe+_0x1f307b;for(let _0x31cf99=0x0,_0x161f78,_0x48505a,_0x282cf1=0x0;_0x48505a=_0x4e2840['charAt'](_0x282cf1++);~_0x48505a&&(_0x161f78=_0x31cf99%0x4?_0x161f78*0x40+_0x48505a:_0x48505a,_0x31cf99++%0x4)?_0x4b4dbe+=_0x14c50b['charCodeAt'](_0x282cf1+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x161f78>>(-0x2*_0x31cf99&0x6)):_0x31cf99:0x0){_0x48505a=_0x216332['indexOf'](_0x48505a);}for(let _0x45d55b=0x0,_0x5e2775=_0x4b4dbe['length'];_0x45d55b<_0x5e2775;_0x45d55b++){_0x536a10+='%'+('00'+_0x4b4dbe['charCodeAt'](_0x45d55b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x536a10);};_0x1f30['QkfjUY']=_0x1f307b,_0x228129=arguments,_0x1f30['qKgMTA']=!![];}const _0x1edd03=_0xb10fef[0x0],_0x3e31b2=_0x437c70+_0x1edd03,_0x8acaf2=_0x228129[_0x3e31b2];if(!_0x8acaf2){const _0x416f08=function(_0x226456){this['PctTbu']=_0x226456,this['GCDdGN']=[0x1,0x0,0x0],this['QSqPOH']=function(){return'newState';},this['miwRAg']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['ruEFRG']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x416f08['prototype']['TgHCOM']=function(){const _0x231106=new RegExp(this['miwRAg']+this['ruEFRG']),_0x432a3b=_0x231106['test'](this['QSqPOH']['toString']())?--this['GCDdGN'][0x1]:--this['GCDdGN'][0x0];return this['gvITQK'](_0x432a3b);},_0x416f08['prototype']['gvITQK']=function(_0x317bba){if(!Boolean(~_0x317bba))return _0x317bba;return this['VBWssX'](this['PctTbu']);},_0x416f08['prototype']['VBWssX']=function(_0xb1af13){for(let _0x443dfc=0x0,_0x150cd9=this['GCDdGN']['length'];_0x443dfc<_0x150cd9;_0x443dfc++){this['GCDdGN']['push'](Math['round'](Math['random']())),_0x150cd9=this['GCDdGN']['length'];}return _0xb1af13(this['GCDdGN'][0x0]);},new _0x416f08(_0x1f30)['TgHCOM'](),_0x4fd516=_0x1f30['QkfjUY'](_0x4fd516),_0x228129[_0x3e31b2]=_0x4fd516;}else _0x4fd516=_0x8acaf2;return _0x4fd516;},_0x1f30(_0x228129,_0x3ba621);}const {ovlcmd}=require('../lib/ovlcmd'),textmaker=require('../lib/textmaker');function addTextproCommand(_0x204b92,_0x50fc0a,_0x127049){const _0x14700b=_0x1f30,_0x5a23d0={'jxDIL':_0x14700b(0x20f),'CJGxa':'Vous\x20devez\x20fournir\x20un\x20texte.','SZHoq':'Veuillez\x20fournir\x20du\x20texte\x20sans\x20point-virgule\x20(;)\x20pour\x20cette\x20commande.','TTlcs':function(_0x351660,_0x34a0bb,_0x25894e){return _0x351660(_0x34a0bb,_0x25894e);},'GkddW':_0x14700b(0x217),'ZjOxV':'```Powered\x20By\x20OVL-MD-V2```','sJTMC':function(_0x3bee51,_0x113126,_0x2cfe7e){return _0x3bee51(_0x113126,_0x2cfe7e);}},_0x98fa46=(function(){let _0x1caba6=!![];return function(_0x46198b,_0xe9a520){const _0x43110b=_0x1caba6?function(){const _0x4d212a=_0x1f30;if(_0xe9a520){const _0x5f428c=_0xe9a520[_0x4d212a(0x1f1)](_0x46198b,arguments);return _0xe9a520=null,_0x5f428c;}}:function(){};return _0x1caba6=![],_0x43110b;};}()),_0x8a57a6=_0x5a23d0[_0x14700b(0x1fa)](_0x98fa46,this,function(){const _0x19a186=_0x14700b;return _0x8a57a6[_0x19a186(0x1de)]()['search'](_0x5a23d0[_0x19a186(0x1f2)])[_0x19a186(0x1de)]()[_0x19a186(0x225)](_0x8a57a6)[_0x19a186(0x22f)](_0x5a23d0[_0x19a186(0x1f2)]);});_0x8a57a6(),_0x5a23d0['TTlcs'](ovlcmd,{'nom_cmd':_0x204b92,'classe':_0x14700b(0x206),'react':'✨','desc':_0x14700b(0x234)},async(_0x3f86a2,_0x2366c4,_0x3351ad)=>{const _0x2dcd2f=_0x14700b,{arg:_0x1e5857,ms:_0x30f01e}=_0x3351ad,_0x57efc5=_0x1e5857[_0x2dcd2f(0x1fb)]('\x20');if(!_0x57efc5)return await _0x2366c4[_0x2dcd2f(0x227)](_0x3f86a2,{'text':_0x5a23d0['CJGxa']},{'quoted':_0x30f01e});try{let _0x228c88;switch(_0x127049){case 0x1:if(_0x57efc5[_0x2dcd2f(0x1f9)](';'))return await _0x2366c4[_0x2dcd2f(0x227)](_0x3f86a2,{'text':_0x5a23d0['SZHoq']},{'quoted':_0x30f01e});_0x228c88=await _0x5a23d0[_0x2dcd2f(0x202)](textmaker,_0x50fc0a,_0x57efc5);break;case 0x2:const _0xb1d0c3=_0x57efc5[_0x2dcd2f(0x230)](';');if(_0xb1d0c3[_0x2dcd2f(0x243)]<0x2)return await _0x2366c4[_0x2dcd2f(0x227)](_0x3f86a2,{'text':_0x5a23d0['GkddW']},{'quoted':_0x30f01e});_0x228c88=await _0x5a23d0['TTlcs'](textmaker,_0x50fc0a,_0x57efc5);break;default:throw new Error('Type\x20'+_0x127049+_0x2dcd2f(0x213));}await _0x2366c4[_0x2dcd2f(0x227)](_0x3f86a2,{'image':{'url':_0x228c88[_0x2dcd2f(0x204)]},'caption':_0x5a23d0[_0x2dcd2f(0x23e)]},{'quoted':_0x30f01e});}catch(_0x5b40ce){console[_0x2dcd2f(0x238)]('Erreur\x20avec\x20la\x20commande\x20'+_0x204b92+':',_0x5b40ce[_0x2dcd2f(0x21b)]||_0x5b40ce),await _0x2366c4['sendMessage'](_0x3f86a2,{'text':_0x2dcd2f(0x203)+_0x5b40ce[_0x2dcd2f(0x21b)]},{'quoted':_0x30f01e});}});}addTextproCommand(_0x56316d(0x201),_0x56316d(0x1e2),0x1),addTextproCommand('deadpool','https://en.ephoto360.com/create-text-effects-in-the-style-of-the-deadpool-logo-818.html',0x2),addTextproCommand(_0x56316d(0x220),_0x56316d(0x1e1),0x1),addTextproCommand('neon1',_0x56316d(0x1fd),0x1),addTextproCommand(_0x56316d(0x229),_0x56316d(0x1f4),0x2),addTextproCommand(_0x56316d(0x20a),'https://en.ephoto360.com/heated-steel-lettering-effect-65.html',0x2),addTextproCommand(_0x56316d(0x21f),'https://en.ephoto360.com/paint-splatter-text-effect-72.html',0x1),addTextproCommand(_0x56316d(0x21a),_0x56316d(0x20c),0x1),addTextproCommand(_0x56316d(0x1dc),_0x56316d(0x1e3),0x1),addTextproCommand(_0x56316d(0x1f0),_0x56316d(0x22d),0x2),addTextproCommand(_0x56316d(0x200),_0x56316d(0x210),0x1),addTextproCommand(_0x56316d(0x20b),_0x56316d(0x20d),0x1),addTextproCommand('effacer','https://en.ephoto360.com/create-eraser-deleting-text-effect-online-717.html',0x1),addTextproCommand(_0x56316d(0x1fc),_0x56316d(0x237),0x1),addTextproCommand('vintage','https://en.ephoto360.com/write-text-on-vintage-television-online-670.html',0x1),addTextproCommand(_0x56316d(0x239),'https://en.ephoto360.com/gold-text-effect-158.html',0x1),addTextproCommand(_0x56316d(0x21c),'https://en.ephoto360.com/graffiti-text-5-180.html',0x1),addTextproCommand(_0x56316d(0x1f6),_0x56316d(0x1e0),0x1),addTextproCommand(_0x56316d(0x23b),_0x56316d(0x1f8),0x1),addTextproCommand(_0x56316d(0x221),_0x56316d(0x231),0x1),addTextproCommand(_0x56316d(0x23d),'https://en.ephoto360.com/glossy-chrome-text-effect-online-424.html',0x1),addTextproCommand(_0x56316d(0x241),'https://en.ephoto360.com/create-3d-wood-text-effects-online-free-705.html',0x2),addTextproCommand(_0x56316d(0x222),'https://en.ephoto360.com/create-a-cinematic-captain-america-text-effect-online-715.html',0x2),addTextproCommand('cubic',_0x56316d(0x223),0x1),addTextproCommand(_0x56316d(0x22b),'https://en.ephoto360.com/create-unique-word-green-light-63.html',0x1),addTextproCommand(_0x56316d(0x211),_0x56316d(0x218),0x1),addTextproCommand(_0x56316d(0x20e),_0x56316d(0x209),0x1),addTextproCommand('plasma',_0x56316d(0x228),0x1),addTextproCommand(_0x56316d(0x214),_0x56316d(0x22e),0x2),addTextproCommand(_0x56316d(0x240),_0x56316d(0x1eb),0x1),addTextproCommand(_0x56316d(0x205),_0x56316d(0x207),0x1),addTextproCommand(_0x56316d(0x1e6),'https://en.ephoto360.com/cover-graffiti-181.html',0x1),addTextproCommand(_0x56316d(0x1e5),_0x56316d(0x1ee),0x1),addTextproCommand(_0x56316d(0x1e9),'https://en.ephoto360.com/modern-gold-silver-210.html',0x1),addTextproCommand(_0x56316d(0x1ec),_0x56316d(0x224),0x1),addTextproCommand(_0x56316d(0x219),_0x56316d(0x232),0x1),addTextproCommand('watercolor',_0x56316d(0x1e8),0x1),addTextproCommand('sci_fi',_0x56316d(0x244),0x2),addTextproCommand('gold5',_0x56316d(0x1e7),0x2),addTextproCommand(_0x56316d(0x21d),'https://en.ephoto360.com/create-blackpink-s-born-pink-album-logo-online-779.html',0x2),addTextproCommand(_0x56316d(0x236),_0x56316d(0x1ff),0x1),addTextproCommand('neon3','https://en.ephoto360.com/neon-text-effect-171.html',0x1),addTextproCommand(_0x56316d(0x1ea),_0x56316d(0x22a),0x2),addTextproCommand(_0x56316d(0x1fe),_0x56316d(0x1e4),0x1),addTextproCommand('blackpink3',_0x56316d(0x1ef),0x1),addTextproCommand(_0x56316d(0x1df),_0x56316d(0x216),0x1),addTextproCommand('dragonball2',_0x56316d(0x212),0x1),addTextproCommand(_0x56316d(0x233),_0x56316d(0x215),0x2),addTextproCommand(_0x56316d(0x1f3),_0x56316d(0x21e)),addTextproCommand(_0x56316d(0x23a),_0x56316d(0x1f7),0x1);
+const { ovlcmd } = require("../lib/ovlcmd");
+const textmaker = require("../lib/textmaker");
+
+function addTextproCommand(nom_cmd, text_pro_url, type) {
+    ovlcmd(
+        {
+            nom_cmd: nom_cmd,
+            classe: "Logo",
+            react: "✨",
+            desc: "Effet de texte avec Ephoto360"
+        },
+        async (ms_org, ovl, cmd_options) => {
+            const { arg, ms } = cmd_options;
+            const query = arg.join(' ');
+
+            if (!query) {
+                return await ovl.sendMessage(
+                    ms_org,
+                    { text: "Vous devez fournir un texte." },
+                    { quoted: ms }
+                );
+            }
+
+            try {
+                let logo_url;
+
+                switch (type) {
+                    case 1:
+                        // Type 1: Un seul mot ou texte
+                        if (query.includes(';')) {
+                            return await ovl.sendMessage(
+                                ms_org,
+                                { text: "Veuillez fournir du texte sans point-virgule (;) pour cette commande." },
+                                { quoted: ms }
+                            );
+                        }
+                        logo_url = await textmaker(text_pro_url, query);
+                        break;
+
+                    case 2:
+                        // Type 2: Deux mots ou plus séparés par des point-virgules (;)
+                        const textParts = query.split(';');
+                        if (textParts.length < 2) {
+                            return await ovl.sendMessage(
+                                ms_org,
+                                { text: "Veuillez fournir exactement deux textes séparés par un point-virgule (;), par exemple : Ovl;Md." },
+                                { quoted: ms }
+                            );
+                        }
+                        logo_url = await textmaker(text_pro_url, query);
+                        break;
+
+                    default:
+                        throw new Error(`Type ${type} non supporté.`);
+                }
+
+                // Envoyer l'image générée
+                await ovl.sendMessage(
+                    ms_org,
+                    {
+                        image: { url: logo_url.url },
+                        caption: "\`\`\`Powered By OVL-MD-V2\`\`\`"
+                    },
+                    { quoted: ms }
+                );
+            } catch (error) {
+                console.error(`Erreur avec la commande ${nom_cmd}:`, error.message || error);
+                await ovl.sendMessage(
+                    ms_org,
+                    { text: `Une erreur est survenue lors de la génération du logo : ${error.message}` },
+                    { quoted: ms }
+                );
+            }
+        }
+    );
+}
+
+addTextproCommand(
+    "dragonball", // Nom de la commande
+    "https://en.ephoto360.com/create-dragon-ball-style-text-effects-online-809.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "deadpool", // Nom de la commande
+    "https://en.ephoto360.com/create-text-effects-in-the-style-of-the-deadpool-logo-818.html", // URL du style
+    2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "blackpink", // Nom de la commande
+    "https://en.ephoto360.com/create-a-blackpink-style-logo-with-members-signatures-810.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+ addTextproCommand(
+    "neon1", // Nom de la commande
+    "https://en.ephoto360.com/blue-neon-text-effect-117.html", // URL du style
+    1  // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "football", // Nom de la commande
+    "https://en.ephoto360.com/paul-scholes-shirt-foot-ball-335.html", // URL du style
+    2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "steel", // Nom de la commande
+    "https://en.ephoto360.com/heated-steel-lettering-effect-65.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "paint", // Nom de la commande
+    "https://en.ephoto360.com/paint-splatter-text-effect-72.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "thunder", // Nom de la commande
+    "https://en.ephoto360.com/thunder-text-effect-online-97.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "thor", // Nom de la commande
+    "https://en.ephoto360.com/create-thor-logo-style-text-effects-online-for-free-796.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "graffiti1", // Nom de la commande
+    "https://en.ephoto360.com/cute-girl-painting-graffiti-text-effect-667.html", // URL du style
+    2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "gold2", // Nom de la commande
+    "https://en.ephoto360.com/modern-gold-5-215.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "neon2", // Nom de la commande
+    "https://en.ephoto360.com/create-light-effects-green-neon-online-429.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "effacer", // Nom de la commande
+    "https://en.ephoto360.com/create-eraser-deleting-text-effect-online-717.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "galaxy", // Nom de la commande
+    "https://en.ephoto360.com/text-light-galaxy-effectt-345.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "vintage", // Nom de la commande
+    "https://en.ephoto360.com/write-text-on-vintage-television-online-670.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "gold1", // Nom de la commande
+    "https://en.ephoto360.com/gold-text-effect-158.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "graffiti2", // Nom de la commande
+    "https://en.ephoto360.com/graffiti-text-5-180.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "hacker", // Nom de la commande
+    "https://en.ephoto360.com/create-anonymous-hacker-avatars-cyan-neon-677.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "rain", // Nom de la commande
+    "https://en.ephoto360.com/foggy-rainy-text-effect-75.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "typography", // Nom de la commande
+    "https://en.ephoto360.com/create-online-typography-art-effects-with-multiple-layers-811.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "gold3", // Nom de la commande
+    "https://en.ephoto360.com/glossy-chrome-text-effect-online-424.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "wood", // Nom de la commande
+    "https://en.ephoto360.com/create-3d-wood-text-effects-online-free-705.html", // URL du style
+    2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "captain_america", // Nom de la commande
+    "https://en.ephoto360.com/create-a-cinematic-captain-america-text-effect-online-715.html", // URL du style
+    2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "cubic", // Nom de la commande
+    "https://en.ephoto360.com/3d-cubic-text-effect-online-88.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+
+addTextproCommand(
+    "green_effect", // Nom de la commande
+    "https://en.ephoto360.com/create-unique-word-green-light-63.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "naruto", // Nom de la commande
+    "https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "sand", // Nom de la commande
+    "https://en.ephoto360.com/realistic-3d-sand-text-effect-online-580.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "plasma", // Nom de la commande
+    "https://en.ephoto360.com/plasma-text-effects-online-71.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "avengers", // Nom de la commande
+    "https://en.ephoto360.com/create-logo-3d-style-avengers-online-427.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "underwater", // Nom de la commande
+    "https://en.ephoto360.com/3d-underwater-text-effect-online-682.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "glass", // Nom de la commande
+    "https://en.ephoto360.com/write-text-on-wet-glass-online-589.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "graffiti3", // Nom de la commande
+    "https://en.ephoto360.com/cover-graffiti-181.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+
+addTextproCommand(
+    "summery", // Nom de la commande
+    "https://en.ephoto360.com/create-a-summery-sand-writing-text-effect-577.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "gold4", // Nom de la commande
+    "https://en.ephoto360.com/modern-gold-silver-210.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "cloud", // Nom de la commande
+    "https://en.ephoto360.com/cloud-text-effect-139.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "metal", // Nom de la commande
+    "https://en.ephoto360.com/metal-text-effect-online-110.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "watercolor", // Nom de la commande
+    "https://en.ephoto360.com/create-a-watercolor-text-effect-online-655.html", // URL du style
+     1// Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "sci_fi", // Nom de la commande
+    "https://en.ephoto360.com/create-a-awesome-logo-sci-fi-effects-492.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "gold5", // Nom de la commande
+    "https://en.ephoto360.com/free-glitter-text-effect-maker-online-656.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "blackpink2", // Nom de la commande
+    "https://en.ephoto360.com/create-blackpink-s-born-pink-album-logo-online-779.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "cloud2", // Nom de la commande
+    "https://en.ephoto360.com/create-a-cloud-text-effect-in-the-sky-618.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "neon3", // Nom de la commande
+    "https://en.ephoto360.com/neon-text-effect-171.html", // URL du style
+    1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "space", // Nom de la commande
+    "https://en.ephoto360.com/latest-space-3d-text-effect-online-559.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "boobs", // Nom de la commande
+    "https://en.ephoto360.com/music-equalizer-text-effect-259.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "blackpink3", // Nom de la commande
+    "https://en.ephoto360.com/create-a-blackpink-neon-logo-text-effect-online-710.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "onepiece", // Nom de la commande
+    "https://en.ephoto360.com/create-one-piece-facebook-cover-online-553.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "dragonball2", // Nom de la commande
+    "https://en.ephoto360.com/free-online-dragon-ball-facebook-cover-photos-maker-443.html", // URL du style
+     1// Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "football2", // Nom de la commande
+    "https://en.ephoto360.com/text-on-shirt-club-real-madrid-267.html", // URL du style
+     2 // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "football3", // Nom de la commande
+    "https://en.ephoto360.com/create-football-shirt-messi-barca-online-268.html", // URL du style
+     // Type : cette commande accepte un seul mot ou texte
+);
+
+addTextproCommand(
+    "futuris", // Nom de la commande
+    "https://en.ephoto360.com/light-text-effect-futuristic-technology-style-648.html", // URL du style
+     1 // Type : cette commande accepte un seul mot ou texte
+);

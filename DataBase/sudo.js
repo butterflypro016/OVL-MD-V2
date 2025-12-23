@@ -1,1 +1,40 @@
-const _0x1ec5ad=_0x49b0;(function(_0x450299,_0x4b00d2){const _0x1bc024=_0x49b0,_0x22bac7=_0x450299();while(!![]){try{const _0x32962e=parseInt(_0x1bc024(0x15e))/0x1*(parseInt(_0x1bc024(0x173))/0x2)+parseInt(_0x1bc024(0x16a))/0x3+-parseInt(_0x1bc024(0x15d))/0x4+-parseInt(_0x1bc024(0x15f))/0x5*(-parseInt(_0x1bc024(0x170))/0x6)+-parseInt(_0x1bc024(0x16f))/0x7+parseInt(_0x1bc024(0x16c))/0x8+-parseInt(_0x1bc024(0x16e))/0x9;if(_0x32962e===_0x4b00d2)break;else _0x22bac7['push'](_0x22bac7['shift']());}catch(_0x159ac5){_0x22bac7['push'](_0x22bac7['shift']());}}}(_0x4654,0x2cddc));const _0x43c640=(function(){let _0x120c2b=!![];return function(_0x5e468c,_0x4dce1b){const _0x1d71cb=_0x120c2b?function(){const _0x30e5c0=_0x49b0;if(_0x4dce1b){const _0x4c342a=_0x4dce1b[_0x30e5c0(0x15c)](_0x5e468c,arguments);return _0x4dce1b=null,_0x4c342a;}}:function(){};return _0x120c2b=![],_0x1d71cb;};}()),_0x7afb13=_0x43c640(this,function(){const _0x5b97f7=_0x49b0,_0x3365c4={'ubcuZ':_0x5b97f7(0x163)};return _0x7afb13[_0x5b97f7(0x171)]()[_0x5b97f7(0x166)](_0x3365c4[_0x5b97f7(0x162)])[_0x5b97f7(0x171)]()[_0x5b97f7(0x16d)](_0x7afb13)[_0x5b97f7(0x166)](_0x5b97f7(0x163));});_0x7afb13();const {Sequelize,DataTypes}=require(_0x1ec5ad(0x165)),config=require(_0x1ec5ad(0x167)),db=config['DATABASE'];function _0x49b0(_0x1d2296,_0x418981){const _0x10135e=_0x4654();return _0x49b0=function(_0x7afb13,_0x43c640){_0x7afb13=_0x7afb13-0x15c;let _0x4654ec=_0x10135e[_0x7afb13];if(_0x49b0['fHcqce']===undefined){var _0x49b044=function(_0x257baa){const _0xac4b2f='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x554b7c='',_0x23bb4b='',_0x2a9634=_0x554b7c+_0x49b044;for(let _0x4a5885=0x0,_0x3be344,_0x2a6b63,_0x1c531d=0x0;_0x2a6b63=_0x257baa['charAt'](_0x1c531d++);~_0x2a6b63&&(_0x3be344=_0x4a5885%0x4?_0x3be344*0x40+_0x2a6b63:_0x2a6b63,_0x4a5885++%0x4)?_0x554b7c+=_0x2a9634['charCodeAt'](_0x1c531d+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3be344>>(-0x2*_0x4a5885&0x6)):_0x4a5885:0x0){_0x2a6b63=_0xac4b2f['indexOf'](_0x2a6b63);}for(let _0x48001f=0x0,_0x10d02e=_0x554b7c['length'];_0x48001f<_0x10d02e;_0x48001f++){_0x23bb4b+='%'+('00'+_0x554b7c['charCodeAt'](_0x48001f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x23bb4b);};_0x49b0['tKdrfW']=_0x49b044,_0x1d2296=arguments,_0x49b0['fHcqce']=!![];}const _0x2bebfa=_0x10135e[0x0],_0x31214a=_0x7afb13+_0x2bebfa,_0x2d78e0=_0x1d2296[_0x31214a];if(!_0x2d78e0){const _0xf37b=function(_0x62adfe){this['MJacRP']=_0x62adfe,this['MrGfmi']=[0x1,0x0,0x0],this['zaKWna']=function(){return'newState';},this['tCTQTW']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['tIaHjo']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xf37b['prototype']['jivIkY']=function(){const _0x59724a=new RegExp(this['tCTQTW']+this['tIaHjo']),_0x450023=_0x59724a['test'](this['zaKWna']['toString']())?--this['MrGfmi'][0x1]:--this['MrGfmi'][0x0];return this['SKRcOn'](_0x450023);},_0xf37b['prototype']['SKRcOn']=function(_0x16bdca){if(!Boolean(~_0x16bdca))return _0x16bdca;return this['aAGUGd'](this['MJacRP']);},_0xf37b['prototype']['aAGUGd']=function(_0x3a22fe){for(let _0x3da60e=0x0,_0x2496c1=this['MrGfmi']['length'];_0x3da60e<_0x2496c1;_0x3da60e++){this['MrGfmi']['push'](Math['round'](Math['random']())),_0x2496c1=this['MrGfmi']['length'];}return _0x3a22fe(this['MrGfmi'][0x0]);},new _0xf37b(_0x49b0)['jivIkY'](),_0x4654ec=_0x49b0['tKdrfW'](_0x4654ec),_0x1d2296[_0x31214a]=_0x4654ec;}else _0x4654ec=_0x2d78e0;return _0x4654ec;},_0x49b0(_0x1d2296,_0x418981);}function _0x4654(){const _0x450c6b=['mtK4mZGYmwfjBLbKrq','mtmZmZy2mKDczfLmCW','Dg9tDhjPBMC','C3fSAxrL','nte5nfbMEwfVBq','zxHWB3j0CW','yxbWBhK','mtKYntK2wLLiwKjr','mtmXDM1lzgjP','nvfezff2ua','u3vKBW','lI9KyxrHyMfZzs5KyG','DwjJDvO','kcGOlISPkYKRksSK','C3vKBW','C2vXDwvSAxPL','C2vHCMnO','lI4VC2v0','C3LUyW','zgvMAw5L','nJe0mdC2ywvJAMfo','Cg9ZDgDYzxm','mtm2nJi4mhv5ug9ACq','y29UC3rYDwn0B3i','mZGWmZCZm3bZCgvguG'];_0x4654=function(){return _0x450c6b;};return _0x4654();}let sequelize;!db?sequelize=new Sequelize({'dialect':_0x1ec5ad(0x172),'storage':_0x1ec5ad(0x161),'logging':![]}):sequelize=new Sequelize(db,{'dialect':_0x1ec5ad(0x16b),'ssl':!![],'protocol':'postgres','dialectOptions':{'native':!![],'ssl':{'require':!![],'rejectUnauthorized':![]}},'logging':![]});const Sudo=sequelize[_0x1ec5ad(0x169)](_0x1ec5ad(0x160),{'id':{'type':DataTypes['STRING'],'primaryKey':!![]}},{'tableName':_0x1ec5ad(0x164),'timestamps':![]});((async()=>{const _0x355744=_0x1ec5ad;await Sudo[_0x355744(0x168)]();})()),module[_0x1ec5ad(0x174)]={'Sudo':Sudo};
+const { Sequelize, DataTypes } = require('sequelize');
+const config = require('../set');
+const db = config.DATABASE;
+
+let sequelize;
+
+if (!db) { 
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.db',
+    logging: false,
+  });
+} else {
+  sequelize = new Sequelize(db, {
+    dialect: 'postgres',
+    ssl: true,
+    protocol: 'postgres',
+    dialectOptions: {
+      native: true,
+      ssl: { require: true, rejectUnauthorized: false },
+    },
+    logging: false,
+  });
+}
+
+const Sudo = sequelize.define('Sudo', {
+  id: {
+    type: DataTypes.STRING,
+    primaryKey: true,
+  },
+}, {
+  tableName: 'sudo',
+  timestamps: false,
+});
+
+(async () => {
+  await Sudo.sync();
+})();
+
+module.exports = { Sudo };

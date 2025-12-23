@@ -1,1 +1,533 @@
-const _0x2d2430=_0x228d;function _0x228d(_0x1669c7,_0x2be957){const _0x513ecd=_0x9e1e();return _0x228d=function(_0x391582,_0x131b97){_0x391582=_0x391582-0xe8;let _0x9e1ee2=_0x513ecd[_0x391582];if(_0x228d['dZgOJv']===undefined){var _0x228d22=function(_0x53337f){const _0x5d1db9='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0xc2d959='',_0x5f1a75='',_0x214ae1=_0xc2d959+_0x228d22;for(let _0x101617=0x0,_0x31023c,_0x5224df,_0x1f427e=0x0;_0x5224df=_0x53337f['charAt'](_0x1f427e++);~_0x5224df&&(_0x31023c=_0x101617%0x4?_0x31023c*0x40+_0x5224df:_0x5224df,_0x101617++%0x4)?_0xc2d959+=_0x214ae1['charCodeAt'](_0x1f427e+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x31023c>>(-0x2*_0x101617&0x6)):_0x101617:0x0){_0x5224df=_0x5d1db9['indexOf'](_0x5224df);}for(let _0x122fec=0x0,_0x1d9fa6=_0xc2d959['length'];_0x122fec<_0x1d9fa6;_0x122fec++){_0x5f1a75+='%'+('00'+_0xc2d959['charCodeAt'](_0x122fec)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5f1a75);};_0x228d['mESTBc']=_0x228d22,_0x1669c7=arguments,_0x228d['dZgOJv']=!![];}const _0x2f476a=_0x513ecd[0x0],_0x1fd50c=_0x391582+_0x2f476a,_0x6202cc=_0x1669c7[_0x1fd50c];if(!_0x6202cc){const _0x19d569=function(_0x2ba540){this['tIQVVf']=_0x2ba540,this['uPRKIX']=[0x1,0x0,0x0],this['lGPIDg']=function(){return'newState';},this['REkRuO']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['saWtEa']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x19d569['prototype']['KbdBxO']=function(){const _0xa27369=new RegExp(this['REkRuO']+this['saWtEa']),_0x2145da=_0xa27369['test'](this['lGPIDg']['toString']())?--this['uPRKIX'][0x1]:--this['uPRKIX'][0x0];return this['dLtPpO'](_0x2145da);},_0x19d569['prototype']['dLtPpO']=function(_0x43dde8){if(!Boolean(~_0x43dde8))return _0x43dde8;return this['pheTXX'](this['tIQVVf']);},_0x19d569['prototype']['pheTXX']=function(_0x2a0a80){for(let _0x4ff1f4=0x0,_0x501f5f=this['uPRKIX']['length'];_0x4ff1f4<_0x501f5f;_0x4ff1f4++){this['uPRKIX']['push'](Math['round'](Math['random']())),_0x501f5f=this['uPRKIX']['length'];}return _0x2a0a80(this['uPRKIX'][0x0]);},new _0x19d569(_0x228d)['KbdBxO'](),_0x9e1ee2=_0x228d['mESTBc'](_0x9e1ee2),_0x1669c7[_0x1fd50c]=_0x9e1ee2;}else _0x9e1ee2=_0x6202cc;return _0x9e1ee2;},_0x228d(_0x1669c7,_0x2be957);}(function(_0x43acb8,_0x3b9b72){const _0x3a42e2=_0x228d,_0x45e32b=_0x43acb8();while(!![]){try{const _0x47dad7=-parseInt(_0x3a42e2(0x131))/0x1+parseInt(_0x3a42e2(0x147))/0x2+-parseInt(_0x3a42e2(0x177))/0x3*(parseInt(_0x3a42e2(0x174))/0x4)+parseInt(_0x3a42e2(0x196))/0x5*(-parseInt(_0x3a42e2(0xf4))/0x6)+parseInt(_0x3a42e2(0x164))/0x7*(parseInt(_0x3a42e2(0x172))/0x8)+parseInt(_0x3a42e2(0x198))/0x9*(-parseInt(_0x3a42e2(0x1a9))/0xa)+parseInt(_0x3a42e2(0x13e))/0xb*(parseInt(_0x3a42e2(0x18b))/0xc);if(_0x47dad7===_0x3b9b72)break;else _0x45e32b['push'](_0x45e32b['shift']());}catch(_0x5d3199){_0x45e32b['push'](_0x45e32b['shift']());}}}(_0x9e1e,0x1babb));const _0x131b97=(function(){let _0x1474a3=!![];return function(_0xd2d049,_0x9c0773){const _0x32d1a=_0x1474a3?function(){const _0x4f798f=_0x228d;if(_0x9c0773){const _0x504e08=_0x9c0773[_0x4f798f(0x143)](_0xd2d049,arguments);return _0x9c0773=null,_0x504e08;}}:function(){};return _0x1474a3=![],_0x32d1a;};}()),_0x391582=_0x131b97(this,function(){const _0x424fde=_0x228d,_0x12d5ef={'CmtEo':_0x424fde(0x19d)};return _0x391582[_0x424fde(0x1b2)]()[_0x424fde(0x15f)](_0x12d5ef['CmtEo'])[_0x424fde(0x1b2)]()[_0x424fde(0x111)](_0x391582)['search'](_0x424fde(0x19d));});_0x391582();const {ovlcmd}=require(_0x2d2430(0x138)),axios=require(_0x2d2430(0x14e)),{delay}=require(_0x2d2430(0x101)),config=require(_0x2d2430(0x110)),fs=require('fs');function _0x9e1e(){const _0x3b8ada=['8j+gLsbuyxbLEIaNC3rHCNqNihbVDxiGy29TBwvUy2vYigLTBCoPzgLHDgvTzw50icHJCSoPyxrLDxiPcG','zwXPBwLUzq','BhnOr1a','zMLSDgvY','4O+X77Ipide1CYbWB3vYihldQxbVBMrYzsaH','igvZDcddQwXPBwLUW6KUlI4GtguGBw90imoPDgfPDcaQ','lI4VBgLIl292BgnTza','8j+BKsbqyxj0AwuGyw5UDwZdQwuGCgfYiea','8j+oRYbezxjUAwvYihn1CNzPDMfUDcbNywDUzsaH','qM9UBMuGy2HHBMnLimoGihrVDxmG8j+nGa','nE+4J+kdOW','C2L6zq','otaZodGXuuDeBMD0','C29Tzq','4O+WifrLBxbZimoPy291BmoPiceGqa','4P2micPfBNrYW6LLigLUDMfSAwrLiceQifldQxbVBMrZigf2zwmGDw4Gy2HPzMzYzsbLBNrYzsaXigv0idKU','sgTNveK','yxbWBhK','zK1ss0W','C2vUzgvYs2v5','wePOB1O','mJq4mZGWBwrQrfnc','Bvz4tMu','4P2xienOB2L4igLUDMfSAwrLlIbsW6LWB25KCYbWyxiGmsWGmIbVDsaZlG','Egrlz0e','wLnlv20','4OYBifrLBxbZimoPy291BmoPiceGtgeGyM9UBMuGCSoPCg9UC2uGW6L0ywL0icO','lIbgAw4GzguGBgeGCgfYDgLLlG','yxHPB3m','tKze','4O+X77Ipiea','lI9SAwiVyxf1AxP6lMPZB24','Dgv4Da','BM93','4P2mie1HDxzHAxnLihldQxbVBNnLiea','s1v1BLe','zxH0zw5KzwruzxH0twvZC2fNzq','m++4J+kdOYaZmcbXDwvZDgLVBNmkcG','uwLHAxC','BM9YBwfSAxPL','rMX6wwy','8j+BKsbrDwL6igfUBNvSW6KGCgfYigXLignYW6LHDgv1CIba','8j+AGcaQrmoPyNv0igrLigXHifbHCNrPzsOk','CMvJDxbFBxnN','ufjfrKLyrq','C2vHCMnO','kIbWB2LUDa','A2v5','z3zQC1C','BKPezg8','odCYoufZt3vfrW','B3vP','igtdQwzPzsba','igeGCMvQB2LUDcbSysbWyxj0AwuGiq','kGOk','cUkvLokvKokvKokvKokvPUkvKokvKokvKokvPUkvKokvKokvKokvLWRILzeG','C3rVCa','Ag5WA08','vMvIt0m','n++4J+kdOW','uLDOywK','CMv2zxjZzq','CMfUzg9T','4P2mifrHCgv6icDZDg9WjYbWB3vYigfUBNvSzxiGkgnYW6LHDgv1CIKk','nJmYsMj2qxLY','BgvUz3rO','mJa2odrqyKHSt2C','t1zmluDbtuvt','4P2mieLTCg9ZC2LIBguGzguGCSoPy3vWW6LYzxiGBgvZihf1zxn0Aw9UCY4','mti5BLvluM5b','u05Mr0K','B1vXu1C','4PYfiea','CMvWBgfJzq','8j+tUIaQuxvLC3rPB24G','CejkEhe','BxDizxa','AM9PBG','Efbcuw4','8j+BKsbqyxj0AwuGyxjYW6P0W6LLihbHCIba','ALfRwe0','BgPuCfe','vMfzt0S','zxj1EMu','oo+4J+kdOW','DMfSDwvZ','DhjPBq','C0jQvxu','iceGqYFdQxrHAxqGkG','nJbYBezmA3C','CgfYC2u','C3rHCNrZv2L0Aa','EeTHC2C','uNjyB0y','zxzLCNK','AvnWyLK','wuXxtha','y3vYCMvUDfbSyxLLCG','rgjHExu','Chrltg4','otaZmhbizxLMva','C2nVCMu','ovHezw1QDG','4P2xicPqB3nPDgLVBIbPBNzHBgLKzsaHkIbdAg9PC2LZihvUzsbJyxnLigvUy29YzsbSAwjYzsaOmsddOca5ks4','CvD2Du0','AwvpqMi','8j+KNsaQtwf0y2GGtNvSiceQcGPbDwn1BIbNywDUyw50ignLDhrLigzVAxmTy2KGiqO','kcGOlISPkYKRksSK','BwfW','iokaLcaQ','AvnKAg4','iceGtguGBw90imoPDgfPDcaQ','nU+4J+kdOW','uw5dzu8','tgfUy2uGDw4GCxvPEIbHBMLTzs4','8j+oRYaQqw5PBwuGuxvPEIOkcG','4O+ZifrLBxbZihjLC3rHBNqGoIa','no+4J+kdOW','CvPYs3O','mta4mJu4mgPcyvfjsa','B3j2zNK','icaGia','vePeCfu','zMXVB3i','Dg9mB3DLCKnHC2u','mE+4J+kdOW','vgLTzw91Da','B3r2r2W','Dg9tDhjPBMC','AMzgB3m','ver1u0C','s214te4','weLkyKq','A2v5CW','idOG','Aw5JBhvKzxm','4PYlievUDM9PzsaQC3rVCcOGW6aGDg91DcbTB21LBNqGCg91CIbHBM51BgvYicHJCSoPyxrLDxiGDw5PCxvLBwvUDcKU','zejuuxi','4P2mief1y3vUigPVDwv1CIbUj2eGDhjVDxBdQsbHDsb0B3vYia','C3bSAxq','8j+pHIbgAw4GzguGugfYDgLLic0GvMfPBNf1zxvYidOGqa','8j+BKsbrDwL6igfUBNvSW6KU','mE+4J+kdOYaXmcbXDwvZDgLVBNmk','CMvHzezPBgvtEw5J','C2XPy2u','8j+tIIbty29YzxmGoGO','igeGBwLZihrYB3aGzguGDgvTChmUifbHCNrPzsbHBM51BmoPzs4','BfzJv0G','uLDltNK','CYaHifrHCgv6icPQB2LUkIbWB3vYihbHCNrPy2LWzxiGB3uGkNn0yxj0kIbWB3vYignVBw1LBMnLCI4','4OcIiea','ihbVAw50khmPcG','ExfPwKq','Eu9yA28','8j+BKsbmzsbJCSoPyxrLDxiGCgv1DcbLBNzVEwvYicPZDg9WkIbWB3vYigfUBNvSzxiU','ndiWthfRCgDM','zxjYB3i','DxrMoa','C2v0','ALn0B1u','8j+sOsbjBMrPy2uGoIbJB21Tzw5JzsbWyxiGkG','cUkTLsa6iea','u0jcCha','rhPMvwG','8j+rPsbkB3vLDxjZidOG','DLrkALO','4O+ZifrLBxbZig1HEca6idyWCWO','CMvTB3rLsMLK','qhDOAxnRzxLZB2nRzxrZl2jHAwXLExm','oE+4J+kdOW','8j+oRYbuB3vYigrLiea','mU+4J+kdOYaYmcbXDwvZDgLVBNmk','t0LtA2i','icekcUkCJE+4JYbqB3vYigfJy2vWDgvYlcbYW6LWB25KCYaQB3vPkIbKyw5ZigXLCYa2mcbZzwnVBMrLCY4','BwvZC2fNzq','C2vUze1LC3nHz2u','C1fIzfe','cUkvMUkvKokvKokvKokvQEkvKokvKokvKokvQEkvKokvKokvKokvNqOk4P2midOGqa','zgjhr1C','yLvXs2W','DgTps2m','8j+pGsaQrMLUigr1iff1AxOGqw5PBwuGisOkcVcFK4OGkKnSyxnZzw1LBNqGzMLUywWGoIOkcG','8j+AQYbwB3vZig5LihbVDxzLEIbWyxmGAM91zxiGy29UDhjLihzVDxmTBCoQBwuGiq','lI4VC2v0','y29UC3rYDwn0B3i','AK5RqKy','C29YDa','vwjXD2S','cGRWN46ViemNzxn0igf1ihrVDxiGzguGqa','u3LzsKe','cUkvOokvKokvKokvKokvRokvKokvKokvKokvRokvKokvKokvKokvOWRILzeG','tM5HvLe','rfzfB24','q2HVAxnPCYbSzsbUB21ICMuGzguGCxvLC3rPB25ZidOk','BKTswxG','DhzWquy','y29UDMvYC2f0Aw9U','Dhr0','qwL4swu','Dg9vChbLCKnHC2u','rKTuBLu','Cw1Nz1y','r2Ddv1e','8j+tIcbuB3vYia','v2T0we0','CgfYDgLJAxbHBNq','4P2mieLSigzHDxqGyxuGBw9PBNmGmIbQB3vLDxjZihbVDxiGzmoPBwfYCMvYlG','sfP4sw4','lIba','rfruAMq','lI9SAwiVBw90CY5QC29U','8j+pHIaQvMLJDg9PCMuGisOkcVcFJOKGqa','8j+uGcbnB3qGoIaQ','4P2mienLDhrLignVBw1HBMrLigzVBMn0Aw9UBMuGDw5PCxvLBwvUDcbKyw5ZigXLCYbNCM91CgvZlG','4P2mieLUDML0yxrPB24GCMvMDxpdQwuGCgfYigXLigPVDwv1CI4','ywrK','nJmXodHpAhbTww4'];_0x9e1e=function(){return _0x3b8ada;};return _0x9e1e();}let activeGames={};ovlcmd({'nom_cmd':'tictactoe','classe':_0x2d2430(0x175),'react':'🎮','desc':'Jeu\x20du\x20Tic-Tac-Toe','alias':[_0x2d2430(0x11e)]},async(_0x349deb,_0x3de3ce,_0x235708)=>{const _0x165b87=_0x2d2430,_0x2bd009={'jfFos':function(_0x5a88af,_0xe8b049){return _0x5a88af>_0xe8b049;},'ZSKWm':'🙋‍♂️\x20Veuillez\x20*mentionner*\x20ou\x20*répondre*\x20au\x20message\x20du\x20joueur\x20pour\x20lancer\x20une\x20partie.','zXPWf':function(_0x1d382a,_0x1e1a77){return _0x1d382a===_0x1e1a77;},'orvfy':_0x165b87(0x165),'xKasg':'2️⃣','mVxNe':_0x165b87(0x1a7),'Ubqwk':_0x165b87(0x13c),'yqiZD':_0x165b87(0x1a2),'oUqSW':_0x165b87(0x16d),'sBjUu':_0x165b87(0x186),'FKTnU':_0x165b87(0x102),'jQkXM':function(_0x1d828a,_0x1aa63f){return _0x1d828a<_0x1aa63f;},'JguMn':function(_0x1fe8a5){return _0x1fe8a5();},'bUqKl':function(_0x5a8af1,_0x429149){return _0x5a8af1(_0x429149);},'Dbayu':function(_0x251296,_0x4e5249){return _0x251296(_0x4e5249);},'jStoU':function(_0x479df3,_0x21b028){return _0x479df3-_0x21b028;},'GtnkZ':function(_0x42e73b,_0x1c1ffb){return _0x42e73b!==_0x1c1ffb;},'tvpAF':function(_0x2e8b49,_0x11ff16){return _0x2e8b49-_0x11ff16;},'ljTpQ':function(_0x3b4bf3,_0x224753){return _0x3b4bf3<=_0x224753;},'TDuSG':function(_0x60b46b,_0x1e1718){return _0x60b46b+_0x1e1718;},'VfakX':'ttt','wHrEH':_0x165b87(0x141),'lVcWH':function(_0x4a699e,_0x194551){return _0x4a699e(_0x194551);},'xPBQn':function(_0x34d0ca,_0x5b3ac8){return _0x34d0ca===_0x5b3ac8;}},{arg:_0x2d0051,ms:_0x22020e,msg_Repondu:_0x401578,auteur_Msg_Repondu:_0x19f3d2,auteur_Message:_0x23ee60,getJid:_0x127289}=_0x235708;let _0x2f0ca3=_0x23ee60['split']('@')[0x0],_0xc52a26,_0x8ee6cd;if(_0x401578)_0xc52a26=_0x19f3d2[_0x165b87(0x1bd)]('@')[0x0],_0x8ee6cd=_0x19f3d2;else{if(_0x2bd009[_0x165b87(0x1b3)](_0x2d0051['length'],0x0)&&_0x2d0051[0x0][_0x165b87(0x1b9)]('@'))_0x8ee6cd=await _0x127289(_0x2d0051[0x0][_0x165b87(0x17b)]('@','')+'@lid',_0x349deb,_0x3de3ce),_0xc52a26=_0x8ee6cd[_0x165b87(0x1bd)]('@')[0x0];else return _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x2bd009[_0x165b87(0x14b)]},{'quoted':_0x22020e});}if(_0x2bd009['zXPWf'](_0x23ee60,_0x8ee6cd))return _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x165b87(0x10f)},{'quoted':_0x22020e});(activeGames[_0x23ee60]||activeGames[_0x8ee6cd])&&(delete activeGames[_0x23ee60],delete activeGames[_0x8ee6cd]);const _0x4fd59c=Date[_0x165b87(0x153)]()+'-'+_0x23ee60+'-'+_0x8ee6cd;activeGames[_0x23ee60]={'opponent':_0x8ee6cd,'gameID':_0x4fd59c},activeGames[_0x8ee6cd]={'opponent':_0x23ee60,'gameID':_0x4fd59c},await _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':'🎮\x20*Tic-Tac-Toe\x20Défi\x20!*\x0a\x0a🔸\x20@'+_0x2f0ca3+_0x165b87(0x166)+_0xc52a26+_0x165b87(0x106),'mentions':[_0x23ee60,_0x8ee6cd]},{'quoted':_0x22020e});try{const _0x5b4c26=await _0x3de3ce['recup_msg']({'auteur':_0x8ee6cd,'ms_org':_0x349deb,'temps':0xea60}),_0x1c099c=_0x5b4c26?.[_0x165b87(0x107)]?.[_0x165b87(0x11d)]||_0x5b4c26?.[_0x165b87(0x107)]?.[_0x165b87(0x156)]?.[_0x165b87(0x152)]||'';if(_0x2bd009['zXPWf'](_0x1c099c[_0x165b87(0x1ae)](),_0x2bd009[_0x165b87(0x1aa)])){let _0x516cdd=[_0x165b87(0x1af),_0x2bd009[_0x165b87(0x18e)],'3️⃣',_0x2bd009[_0x165b87(0x148)],_0x2bd009[_0x165b87(0x114)],_0x2bd009[_0x165b87(0xf1)],_0x2bd009[_0x165b87(0x179)],_0x2bd009[_0x165b87(0x189)],_0x2bd009[_0x165b87(0x121)]],_0x240e8c=0x0,_0x509215=['❌','⭕'],_0x3ae10d=[_0x23ee60,_0x8ee6cd];activeGames[_0x23ee60]={'opponent':_0x8ee6cd,'grid':_0x516cdd,'currentPlayer':_0x240e8c,'gameID':_0x4fd59c},activeGames[_0x8ee6cd]={'opponent':_0x23ee60,'grid':_0x516cdd,'currentPlayer':_0x240e8c,'gameID':_0x4fd59c};const _0x3b6de8=(_0x4d75b4=![])=>{const _0x10b811=_0x165b87;let _0x21cc34=_0x10b811(0x169)+_0x516cdd[0x0]+_0x10b811(0x1ab)+_0x516cdd[0x1]+'\x20\x20\x20\x20'+_0x516cdd[0x2]+'\x0a╠═══╬═══╬═══╣\x0a║\x20'+_0x516cdd[0x3]+_0x10b811(0x1ab)+_0x516cdd[0x4]+_0x10b811(0x1ab)+_0x516cdd[0x5]+_0x10b811(0x117)+_0x516cdd[0x6]+_0x10b811(0x1ab)+_0x516cdd[0x7]+_0x10b811(0x1ab)+_0x516cdd[0x8]+_0x10b811(0x10a)+_0x2f0ca3+_0x10b811(0xfa)+_0xc52a26;return!_0x4d75b4&&(_0x21cc34+=_0x10b811(0x115)+_0x3ae10d[_0x240e8c]['split']('@')[0x0]+'\x20de\x20jouer\x20!'),_0x21cc34;},_0x2a6684=_0x5ecee1=>{const _0x3570eb=_0x165b87,_0x25a20a=[[0x0,0x1,0x2],[0x3,0x4,0x5],[0x6,0x7,0x8],[0x0,0x3,0x6],[0x1,0x4,0x7],[0x2,0x5,0x8],[0x0,0x4,0x8],[0x2,0x4,0x6]];return _0x25a20a[_0x3570eb(0x13f)](_0x9ba6db=>_0x9ba6db[_0x3570eb(0x190)](_0xc727e9=>_0x516cdd[_0xc727e9]===_0x5ecee1));};for(let _0x14c61f=0x0;_0x2bd009[_0x165b87(0x182)](_0x14c61f,0x9);_0x14c61f++){let _0x15eaab=_0x509215[_0x240e8c];await _0x3de3ce['sendMessage'](_0x349deb,{'text':_0x2bd009['JguMn'](_0x3b6de8),'mentions':[_0x23ee60,_0x8ee6cd]},{'quoted':_0x22020e});let _0x3d309e,_0x29f37e=![];while(!_0x29f37e){const _0x2b78e8=await _0x3de3ce[_0x165b87(0x15d)]({'auteur':_0x3ae10d[_0x240e8c],'ms_org':_0x349deb,'temps':0xea60});let _0x30129f=_0x2b78e8?.[_0x165b87(0x107)]?.[_0x165b87(0x11d)]||_0x2b78e8?.[_0x165b87(0x107)]?.['extendedTextMessage']?.[_0x165b87(0x152)]||'';if(!_0x2bd009[_0x165b87(0x10c)](isNaN,_0x30129f))_0x3d309e=_0x2bd009[_0x165b87(0x194)](parseInt,_0x30129f),_0x516cdd[_0x2bd009[_0x165b87(0xf8)](_0x3d309e,0x1)]!=='❌'&&_0x2bd009['GtnkZ'](_0x516cdd[_0x2bd009[_0x165b87(0x11c)](_0x3d309e,0x1)],'⭕')&&_0x3d309e>=0x1&&_0x2bd009[_0x165b87(0x183)](_0x3d309e,0x9)?(_0x516cdd[_0x2bd009[_0x165b87(0xf8)](_0x3d309e,0x1)]=_0x15eaab,_0x29f37e=!![]):await _0x3de3ce['sendMessage'](_0x349deb,{'text':_0x165b87(0x199),'mentions':_0x3ae10d},{'quoted':_0x22020e});else{if(_0x30129f[_0x165b87(0x1ae)]()[_0x165b87(0x18d)](_0x2bd009[_0x165b87(0x1b4)](config[_0x165b87(0x15e)],_0x2bd009['VfakX']))){}else await _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x2bd009['wHrEH'],'mentions':_0x3ae10d},{'quoted':_0x22020e});}}if(_0x2a6684(_0x15eaab)){await _0x3de3ce['sendMessage'](_0x349deb,{'text':_0x165b87(0x12c)+_0x3ae10d[_0x240e8c][_0x165b87(0x1bd)]('@')[0x0]+'\x20a\x20gagné\x20la\x20partie\x20!\x0a'+_0x2bd009[_0x165b87(0xec)](_0x3b6de8,!![]),'mentions':_0x3ae10d},{'quoted':_0x22020e}),delete activeGames[_0x23ee60],delete activeGames[_0x8ee6cd];return;}_0x240e8c=_0x2bd009['tvpAF'](0x1,_0x240e8c),activeGames[_0x23ee60][_0x165b87(0x193)]=_0x240e8c,activeGames[_0x8ee6cd][_0x165b87(0x193)]=_0x240e8c;}await _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x165b87(0x19c)+_0x2bd009['bUqKl'](_0x3b6de8,!![]),'mentions':_0x3ae10d},{'quoted':_0x22020e}),delete activeGames[_0x23ee60],delete activeGames[_0x8ee6cd];}else return _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x165b87(0x12f)},{'quoted':_0x22020e});}catch(_0x455034){_0x2bd009[_0x165b87(0x180)](_0x455034[_0x165b87(0x107)],_0x165b87(0x1b0))?await _0x3de3ce[_0x165b87(0x108)](_0x349deb,{'text':_0x165b87(0x150)+_0xc52a26+_0x165b87(0xeb),'mentions':[_0x23ee60,_0x8ee6cd]},{'quoted':_0x22020e}):console[_0x165b87(0xf5)](_0x455034),delete activeGames[_0x23ee60],delete activeGames[_0x8ee6cd];}}),ovlcmd({'nom_cmd':'anime-quizz','classe':_0x2d2430(0x175),'react':'📺','desc':_0x2d2430(0x1a4),'alias':['a-quizz']},async(_0x2a5eab,_0x48311b,{repondre:_0x656619,auteur_Message:_0x38c3a5,verif_Groupe:_0x55ae51,prenium_id:_0x55a321,getJid:_0x5bbbd4})=>{const _0x22fd72=_0x2d2430,_0x115eb2={'hnpkO':function(_0x49d960,_0x30fed4){return _0x49d960(_0x30fed4);},'FlzYf':_0x22fd72(0x12e),'mwHep':function(_0x207509,_0xd8ca8b){return _0x207509||_0xd8ca8b;},'gvjsW':function(_0x4ef9d6,_0x20898f){return _0x4ef9d6+_0x20898f;},'YZvJl':function(_0x17f4e1,_0x53b760){return _0x17f4e1+_0x53b760;},'SyYJA':function(_0x38ec8b,_0x18e20b){return _0x38ec8b+_0x18e20b;},'OISkb':function(_0x252c21,_0x4e91c8){return _0x252c21+_0x4e91c8;},'SBBpp':_0x22fd72(0x1a5),'Qxcmr':_0x22fd72(0x104),'DVEon':function(_0x483ae3,_0x20ea86){return _0x483ae3===_0x20ea86;},'lshGP':_0x22fd72(0x16a),'ptKLn':_0x22fd72(0x1bf),'qWvuM':_0x22fd72(0x149),'vypXL':'⏱️\x20Temps\x20écoulé.\x20Relance\x20la\x20commande\x20pour\x20recommencer.','otvGl':_0x22fd72(0x151),'Vizeq':_0x22fd72(0xf6),'IcqOx':function(_0x22eb85,_0x242cc7){return _0x22eb85(_0x242cc7);},'KUunQ':function(_0x5724e2,_0x574332){return _0x5724e2<_0x574332;},'AixIe':function(_0x3436d2,_0x668df6){return _0x3436d2-_0x668df6;},'XCafm':function(_0x1ef515,_0x303085){return _0x1ef515-_0x303085;},'RWKNy':function(_0x283125,_0x1f7a95,_0x4651b3,_0x454683){return _0x283125(_0x1f7a95,_0x4651b3,_0x454683);},'VaYOK':function(_0x471325,_0x262fe0){return _0x471325===_0x262fe0;},'nJDdo':function(_0x3e2373,_0x59c8a7){return _0x3e2373+_0x59c8a7;},'iSdhn':'😢\x20Personne\x20n\x27a\x20marqué\x20de\x20point.\x20Fin\x20du\x20quiz.'};if(!_0x55ae51)return _0x115eb2[_0x22fd72(0x16b)](_0x656619,_0x115eb2[_0x22fd72(0x15a)]);const _0x48fd15=_0x115eb2[_0x22fd72(0x17e)](_0x38c3a5,_0x55a321),_0x1e3e25=_0x115eb2[_0x22fd72(0x162)](_0x115eb2['YZvJl'](_0x115eb2['SyYJA'](_0x115eb2[_0x22fd72(0x105)](_0x115eb2[_0x22fd72(0xfb)],_0x22fd72(0x11a)),_0x22fd72(0x1c0)),_0x115eb2['Qxcmr'])+_0x22fd72(0x157),_0x22fd72(0x1ba));await _0x48311b['sendMessage'](_0x2a5eab,{'text':_0x1e3e25});let _0x293b13=0xa;try{const _0x4ba4bb=await _0x48311b[_0x22fd72(0x15d)]({'ms_org':_0x2a5eab,'auteur':_0x48fd15,'temps':0x7530}),_0x5468ee=(_0x4ba4bb?.[_0x22fd72(0x107)]?.[_0x22fd72(0x11d)]||_0x4ba4bb?.[_0x22fd72(0x107)]?.[_0x22fd72(0x156)]?.['text']||'')['trim']()[_0x22fd72(0x1ae)]();if(_0x115eb2[_0x22fd72(0x119)](_0x5468ee,_0x115eb2[_0x22fd72(0x134)]))return _0x115eb2['hnpkO'](_0x656619,_0x115eb2[_0x22fd72(0x195)]);if(_0x115eb2[_0x22fd72(0x119)](_0x5468ee,'1'))_0x293b13=0xa;else{if(_0x115eb2['DVEon'](_0x5468ee,'2'))_0x293b13=0x14;else{if(_0x5468ee==='3')_0x293b13=0x1e;else return _0x115eb2[_0x22fd72(0x16b)](_0x656619,_0x115eb2[_0x22fd72(0x19a)]);}}}catch{return _0x656619(_0x115eb2['vypXL']);}let _0x17d052;try{const _0x2f5204=fs[_0x22fd72(0xe8)](_0x115eb2[_0x22fd72(0x1b1)],_0x115eb2['Vizeq']);_0x17d052=JSON[_0x22fd72(0x18c)](_0x2f5204)[_0x22fd72(0x113)](()=>0.5-Math[_0x22fd72(0x170)]())[_0x22fd72(0xe9)](0x0,_0x293b13);}catch{return _0x115eb2['IcqOx'](_0x656619,_0x22fd72(0x176));}const _0x3c9eda={'1':'a','2':'b','3':'c','4':'d'},_0x37a3c6={};for(let _0x1a7bc4=0x0;_0x115eb2[_0x22fd72(0x155)](_0x1a7bc4,_0x293b13);_0x1a7bc4++){const {question:_0x4c581f,options:_0x5ce182,answer:_0x24d589}=_0x17d052[_0x1a7bc4],_0x36b645=_0x24d589['toLowerCase'](),_0x44d4a4=_0x5ce182[_0x36b645],_0x932b2c=Object['values'](_0x5ce182)['map']((_0x358bbf,_0x149348)=>_0x149348+0x1+'.\x20'+_0x358bbf)['join']('\x0a'),_0xb48069=_0x115eb2[_0x22fd72(0x116)](_0x115eb2[_0x22fd72(0x105)](_0x115eb2['OISkb'](_0x22fd72(0x17c)+_0x115eb2[_0x22fd72(0x116)](_0x1a7bc4,0x1)+'/'+_0x293b13+_0x22fd72(0x168),_0x4c581f+'\x0a\x0a'),_0x932b2c+'\x0a\x0a')+'⏳\x20*15\x20secondes*\x20—\x20Réponds\x20avec\x201,\x202,\x203\x20ou\x204\x0a',_0x22fd72(0xf3));await _0x48311b[_0x22fd72(0x108)](_0x2a5eab,{'text':_0xb48069});const _0x39e52c=Date[_0x22fd72(0x153)]();let _0x4c80d0=![];while(_0x115eb2[_0x22fd72(0x155)](_0x115eb2[_0x22fd72(0x11f)](Date[_0x22fd72(0x153)](),_0x39e52c),0x3a98)&&!_0x4c80d0){try{const _0x47ad0b=await _0x48311b[_0x22fd72(0x15d)]({'ms_org':_0x2a5eab,'temps':_0x115eb2['XCafm'](0x3a98,_0x115eb2['AixIe'](Date[_0x22fd72(0x153)](),_0x39e52c))}),_0x334c8f=(_0x47ad0b?.[_0x22fd72(0x107)]?.[_0x22fd72(0x11d)]||_0x47ad0b?.[_0x22fd72(0x107)]?.[_0x22fd72(0x156)]?.[_0x22fd72(0x152)]||'')[_0x22fd72(0x188)]()[_0x22fd72(0x1ae)](),_0x18b158=_0x47ad0b[_0x22fd72(0x161)][_0x22fd72(0x126)]||_0x47ad0b[_0x22fd72(0x161)][_0x22fd72(0x100)],_0x20ceac=await _0x115eb2[_0x22fd72(0xed)](_0x5bbbd4,_0x18b158,_0x2a5eab,_0x48311b);if(_0x115eb2[_0x22fd72(0x119)](_0x334c8f,_0x115eb2[_0x22fd72(0x134)])&&_0x115eb2[_0x22fd72(0x119)](_0x20ceac,_0x48fd15))return _0x48311b['sendMessage'](_0x2a5eab,{'text':_0x22fd72(0x15b)+_0x20ceac['split']('@')[0x0],'mentions':[_0x20ceac]});if(!['1','2','3','4']['includes'](_0x334c8f))continue;const _0x280f5c=_0x3c9eda[_0x334c8f];_0x115eb2[_0x22fd72(0x184)](_0x280f5c,_0x36b645)&&(_0x37a3c6[_0x20ceac]=_0x115eb2[_0x22fd72(0x163)](_0x37a3c6[_0x20ceac]||0x0,0x1),await _0x48311b[_0x22fd72(0x108)](_0x2a5eab,{'text':'✅\x20Bonne\x20réponse\x20@'+_0x20ceac['split']('@')[0x0]+_0x22fd72(0x18a)+_0x44d4a4+'*','quoted':_0x47ad0b,'mentions':[_0x20ceac]}),_0x4c80d0=!![]);}catch{break;}}!_0x4c80d0&&await _0x48311b[_0x22fd72(0x108)](_0x2a5eab,{'text':_0x22fd72(0x14c)+_0x44d4a4+'*'}),await _0x115eb2['IcqOx'](delay,0x3e8);}if(!Object[_0x22fd72(0x1b7)](_0x37a3c6)[_0x22fd72(0x173)])return _0x48311b[_0x22fd72(0x108)](_0x2a5eab,{'text':_0x115eb2[_0x22fd72(0x1a0)]});const _0x7acdf2=Object['entries'](_0x37a3c6)[_0x22fd72(0x113)](([,_0xe7ff76],[,_0x4ee72f])=>_0x4ee72f-_0xe7ff76)[_0x22fd72(0x19e)](([_0x264901,_0x2fb887],_0xf84e64)=>_0xf84e64+0x1+_0x22fd72(0x129)+_0x264901['split']('@')[0x0]+_0x22fd72(0x19f)+_0x2fb887+_0x22fd72(0x160)+(_0x2fb887>0x1?'s':''))[_0x22fd72(0x17f)]('\x0a'),_0x618235=_0x22fd72(0x10e)+_0x7acdf2;await _0x48311b[_0x22fd72(0x108)](_0x2a5eab,{'text':_0x618235,'mentions':Object['keys'](_0x37a3c6)});}),ovlcmd({'nom_cmd':'dmots','classe':_0x2d2430(0x175),'react':'🪹','desc':'Jouez\x20à\x20plusieurs\x20au\x20jeu\x20du\x20Mot\x20Mélangé'},async(_0xbe9b17,_0x30497f,{repondre:_0x5d484b,auteur_Message:_0x488671,prenium_id:_0x1e74fe,getJid:_0x2e70f2})=>{const _0x2ef371=_0x2d2430,_0x5edb54={'zatct':function(_0x3686f0,_0xfe2ffb){return _0x3686f0-_0xfe2ffb;},'RWhai':function(_0x2d96f1,_0x55e932){return _0x2d96f1<=_0x55e932;},'WktXM':function(_0x92ed5b,_0x29ee12){return _0x92ed5b/_0x29ee12;},'qmggV':function(_0x29f2fd,_0x5efbbc){return _0x29f2fd/_0x5efbbc;},'NnaVQ':function(_0x2153aa,_0xca36e0){return _0x2153aa===_0xca36e0;},'dBTQr':function(_0xfbb698,_0x3cb80e){return _0xfbb698===_0x3cb80e;},'vTJjZ':function(_0x26bcc5,_0x1807aa){return _0x26bcc5===_0x1807aa;},'VebOC':function(_0x66aabb,_0x58822f){return _0x66aabb<_0x58822f;},'qZrKz':function(_0x3d47db,_0x5743b0){return _0x3d47db>_0x5743b0;},'vzShF':function(_0x6b30d0,_0x1677ad){return _0x6b30d0+_0x1677ad;},'CMGha':_0x2ef371(0x14f),'GgCWQ':_0x2ef371(0x12b),'pDpWC':_0x2ef371(0xf6),'dbGGW':function(_0x477dc6,_0xbe132e){return _0x477dc6(_0xbe132e);},'sQbdQ':function(_0x5be268,_0x285074){return _0x5be268||_0x285074;},'jNkBF':function(_0x3a9624,_0x306d82){return _0x3a9624+_0x306d82;},'nKRYx':function(_0x3413af,_0x42463b){return _0x3413af+_0x42463b;},'DzfUh':'🎮\x20*Jeu\x20du\x20Mot\x20Mélangé\x20-\x20MULTIJOUEURS*\x20🎮\x0a\x0a','HZxIn':'Tapez\x20\x27join\x27\x20pour\x20participer\x20!\x0a','KmxLN':_0x2ef371(0x171),'TJDpU':_0x2ef371(0xff),'HkgTI':_0x2ef371(0x13a),'fMRKL':function(_0x250b28,_0x471943,_0x5989dc){return _0x250b28(_0x471943,_0x5989dc);},'yOXko':function(_0x19632c,_0x2b02f5){return _0x19632c<_0x2b02f5;},'AeAso':function(_0x739a6b,_0x7378ed){return _0x739a6b-_0x7378ed;},'QnCeO':function(_0x2212ae,_0x4ca08b,_0x21221e,_0x1749c6){return _0x2212ae(_0x4ca08b,_0x21221e,_0x1749c6);},'xdKgA':function(_0x52d091,_0x27b9af){return _0x52d091===_0x27b9af;},'XIJbD':_0x2ef371(0x17f),'XJhoZ':'start','tkOKc':function(_0x8a2dd6,_0x4988e3){return _0x8a2dd6(_0x4988e3);},'SNfGI':function(_0x2cbf6d,_0x7a5e3c){return _0x2cbf6d===_0x7a5e3c;},'eruze':_0x2ef371(0x16a),'pBJxq':function(_0x192e12,_0x40cebd){return _0x192e12(_0x40cebd);},'YLWLp':function(_0x807f79,_0x13054a){return _0x807f79+_0x13054a;},'DTTjd':function(_0x251d24,_0x694f9f){return _0x251d24+_0x694f9f;},'iSpbY':function(_0x1b35b6,_0x4992be){return _0x1b35b6(_0x4992be);},'RrXoF':function(_0x93f97a,_0x552906){return _0x93f97a*_0x552906;},'Qiaiw':function(_0x31286a,_0xd323ce){return _0x31286a(_0xd323ce);},'pFAwC':function(_0x2e804f,_0x2bb8e0){return _0x2e804f===_0x2bb8e0;},'ieOBb':function(_0x37e929,_0x17d365){return _0x37e929(_0x17d365);},'Hcvzl':function(_0x51aec6,_0x46b42c){return _0x51aec6===_0x46b42c;}},_0x16ad4c=new Map(),_0xcd0bd1=Date['now']();let _0x863d20=[];try{const _0x270c6d=fs[_0x2ef371(0xe8)](_0x5edb54[_0x2ef371(0x123)],_0x5edb54['pDpWC']);_0x863d20=JSON[_0x2ef371(0x18c)](_0x270c6d);}catch(_0x576a6b){return _0x5edb54[_0x2ef371(0x10b)](_0x5d484b,'❌\x20Impossible\x20de\x20récupérer\x20les\x20mots.');}_0x16ad4c[_0x2ef371(0xf7)](_0x488671,{'id':_0x488671,'score':0x0});const _0x1f95ef=_0x5edb54[_0x2ef371(0x109)](_0x488671,_0x1e74fe);await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x5edb54['jNkBF'](_0x5edb54[_0x2ef371(0x11b)](_0x5edb54['jNkBF'](_0x5edb54[_0x2ef371(0x112)](_0x5edb54[_0x2ef371(0xfc)]+_0x5edb54[_0x2ef371(0x128)],_0x2ef371(0x132)),_0x5edb54[_0x2ef371(0x1b5)]),_0x5edb54[_0x2ef371(0x1ac)]),_0x5edb54[_0x2ef371(0x142)])});const _0x63fcea=[0xafc8,0x7530,0x3a98],_0x1fa4a0=new Set();let _0x4cbd33=![],_0x421e4c=![];const _0x44faaa=_0x5edb54[_0x2ef371(0x144)](setInterval,async()=>{const _0x35c9f4=_0x2ef371,_0x88f633=_0x5edb54['zatct'](0xea60,Date[_0x35c9f4(0x153)]()-_0xcd0bd1);if(_0x5edb54[_0x35c9f4(0x16e)](_0x88f633,0x0)||_0x4cbd33||_0x421e4c)return clearInterval(_0x44faaa);const _0x510e1b=Math[_0x35c9f4(0x1ad)](_0x5edb54[_0x35c9f4(0x125)](_0x88f633,0x3e8));for(let _0x224160 of _0x63fcea){_0x510e1b===_0x5edb54['WktXM'](_0x224160,0x3e8)&&!_0x1fa4a0['has'](_0x224160)&&(_0x1fa4a0[_0x35c9f4(0x130)](_0x224160),await _0x30497f['sendMessage'](_0xbe9b17,{'text':_0x35c9f4(0x1a6)+_0x5edb54[_0x35c9f4(0x122)](_0x224160,0x3e8)+_0x35c9f4(0xee)}));}},0x3e8);while(_0x5edb54[_0x2ef371(0xf2)](Date[_0x2ef371(0x153)]()-_0xcd0bd1,0xea60)&&!_0x4cbd33&&!_0x421e4c){try{const _0x108907=await _0x30497f[_0x2ef371(0x15d)]({'ms_org':_0xbe9b17,'temps':_0x5edb54['zatct'](0xea60,_0x5edb54['AeAso'](Date['now'](),_0xcd0bd1))}),_0x3453b6=(_0x108907?.['message']?.[_0x2ef371(0x11d)]||_0x108907?.[_0x2ef371(0x107)]?.[_0x2ef371(0x156)]?.[_0x2ef371(0x152)]||'')[_0x2ef371(0x188)]()[_0x2ef371(0x1ae)](),_0x33fa65=_0x108907?.[_0x2ef371(0x161)]?.['participant']||_0x108907?.[_0x2ef371(0x107)]?.['senderKey'],_0x33060d=await _0x5edb54[_0x2ef371(0x1a3)](_0x2e70f2,_0x33fa65,_0xbe9b17,_0x30497f);if(_0x5edb54[_0x2ef371(0x14a)](_0x3453b6,_0x5edb54[_0x2ef371(0x1b6)])&&_0x33060d&&!_0x16ad4c['has'](_0x33060d))_0x16ad4c[_0x2ef371(0xf7)](_0x33060d,{'id':_0x33060d,'score':0x0}),await _0x30497f['sendMessage'](_0xbe9b17,{'text':_0x2ef371(0x17a)+_0x33060d[_0x2ef371(0x1bd)]('@')[0x0]+_0x2ef371(0x167),'mentions':[_0x33060d]});else{if(_0x5edb54[_0x2ef371(0xfe)](_0x3453b6,_0x5edb54[_0x2ef371(0x146)])&&_0x5edb54['xdKgA'](_0x33060d,_0x1f95ef)){if(_0x5edb54[_0x2ef371(0xf2)](_0x16ad4c['size'],0x2))await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x127),'mentions':[_0x33060d]});else{_0x4cbd33=!![],_0x5edb54[_0x2ef371(0x10d)](clearInterval,_0x44faaa);break;}}else{if(_0x5edb54['SNfGI'](_0x3453b6,_0x5edb54['eruze'])&&_0x5edb54[_0x2ef371(0x1bb)](_0x33060d,_0x1f95ef)){_0x421e4c=!![],_0x5edb54[_0x2ef371(0x17d)](clearInterval,_0x44faaa),await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x139)+_0x33060d[_0x2ef371(0x1bd)]('@')[0x0],'mentions':[_0x33060d]});return;}}}}catch{}}if(_0x421e4c)return;if(!_0x4cbd33){if(_0x16ad4c[_0x2ef371(0x13d)]<0x2){await _0x5edb54['tkOKc'](_0x5d484b,'❌\x20Pas\x20assez\x20de\x20joueurs\x20(minimum\x202).\x20Partie\x20annulée.');return;}_0x4cbd33=!![],clearInterval(_0x44faaa);}await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x5edb54[_0x2ef371(0x192)](_0x5edb54[_0x2ef371(0x12a)](_0x2ef371(0x15c),_0x2ef371(0xfd)+[..._0x16ad4c[_0x2ef371(0x187)]()][_0x2ef371(0x19e)](_0xff7fde=>'@'+_0xff7fde['id'][_0x2ef371(0x1bd)]('@')[0x0])[_0x2ef371(0x17f)](',\x20')+'\x0a'),_0x2ef371(0x13b)),'mentions':[..._0x16ad4c['keys']()]});let _0xff003f=0x1,_0x370563=[..._0x16ad4c[_0x2ef371(0x187)]()];const _0xd34cab=_0x5b2c3c=>{const _0x38c64f=_0x2ef371;if(_0x5edb54[_0x38c64f(0x118)](_0x5b2c3c,0x1))return _0x863d20[_0x38c64f(0x135)](_0x1fa0dd=>_0x1fa0dd[_0x38c64f(0x173)]>=0x4&&_0x1fa0dd[_0x38c64f(0x173)]<=0x5);if(_0x5b2c3c===0x2)return _0x863d20[_0x38c64f(0x135)](_0x3a0f92=>_0x3a0f92['length']>=0x6&&_0x3a0f92['length']<=0x7);return _0x863d20[_0x38c64f(0x135)](_0x31e024=>_0x31e024[_0x38c64f(0x173)]>=0x8);},_0x3437ec=_0x591766=>{const _0x595511=_0x2ef371;let _0x2e1fb0=_0x591766,_0x32c6a2=0x0;while((_0x5edb54[_0x595511(0x1bb)](_0x2e1fb0,_0x591766)||_0x5edb54[_0x595511(0xfe)](_0x591766,_0x2e1fb0[_0x595511(0x1bd)]('')[_0x595511(0x16f)]()[_0x595511(0x17f)]('')))&&_0x5edb54[_0x595511(0x16c)](_0x32c6a2,0xa)){const _0x40c615=_0x591766['split']('');for(let _0x3997c0=_0x5edb54['zatct'](_0x40c615['length'],0x1);_0x5edb54[_0x595511(0x1a8)](_0x3997c0,0x0);_0x3997c0--){const _0x32be67=Math['floor'](Math[_0x595511(0x170)]()*_0x5edb54['vzShF'](_0x3997c0,0x1));[_0x40c615[_0x3997c0],_0x40c615[_0x32be67]]=[_0x40c615[_0x32be67],_0x40c615[_0x3997c0]];}_0x2e1fb0=_0x40c615[_0x595511(0x17f)](''),_0x32c6a2++;}return _0x2e1fb0;};while(_0x370563[_0x2ef371(0x173)]>0x1&&!_0x421e4c){const _0x11d8f9=[..._0x370563];let _0x4c2c3f=0x0;for(const _0xc95ba3 of _0x11d8f9){const _0xa5ff06=_0x5edb54[_0x2ef371(0x191)](_0xd34cab,_0xff003f);if(!_0xa5ff06[_0x2ef371(0x173)])break;const _0x119072=_0xa5ff06[Math[_0x2ef371(0x1ad)](_0x5edb54[_0x2ef371(0x18f)](Math[_0x2ef371(0x170)](),_0xa5ff06['length']))],_0x259967=_0x5edb54[_0x2ef371(0x158)](_0x3437ec,_0x119072);await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x5edb54['DTTjd'](_0x2ef371(0x103)+_0xc95ba3['id']['split']('@')[0x0]+'\x0a'+(_0x2ef371(0x12d)+_0x259967+'*\x0a'),_0x2ef371(0xf9)+_0x119072[0x0][_0x2ef371(0x120)]()+'*\x0a')+_0x2ef371(0x136),'mentions':[_0xc95ba3['id']]});let _0x54701c=![];try{const _0xdbce40=await _0x30497f[_0x2ef371(0x15d)]({'ms_org':_0xbe9b17,'auteur':_0xc95ba3['id'],'temps':0x3a98}),_0x58fe3e=_0xdbce40?.[_0x2ef371(0x107)]?.[_0x2ef371(0x11d)]?.[_0x2ef371(0x1ae)]()[_0x2ef371(0x188)]()||'';if(_0x58fe3e===_0x5edb54[_0x2ef371(0x185)]&&_0x5edb54['pFAwC'](_0xdbce40?.[_0x2ef371(0x161)]?.[_0x2ef371(0x126)]||_0xdbce40?.[_0x2ef371(0x107)]?.[_0x2ef371(0x145)],_0x1f95ef)){_0x421e4c=!![],await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x181)+_0x1f95ef['split']('@')[0x0],'mentions':[_0x1f95ef]});return;}function _0x46dcd9(_0xff66b4){const _0x314ab4=_0x2ef371;return _0xff66b4[_0x314ab4(0x1ae)]()[_0x314ab4(0x159)](_0x5edb54['CMGha'])[_0x314ab4(0x17b)](/[\u0300-\u036f]/g,'')['replace'](/\s+/g,'')[_0x314ab4(0x17b)](/[^\w]/g,'');}_0x5edb54[_0x2ef371(0x118)](_0x46dcd9(_0x58fe3e),_0x5edb54[_0x2ef371(0x19b)](_0x46dcd9,_0x119072))?(_0xc95ba3[_0x2ef371(0x197)]++,_0x54701c=!![],_0x4c2c3f++,await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':'✅\x20Bravo\x20@'+_0xc95ba3['id']['split']('@')[0x0]+_0x2ef371(0x1a1)+_0x119072+'*.','mentions':[_0xc95ba3['id']]})):await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x154)+_0xc95ba3['id'][_0x2ef371(0x1bd)]('@')[0x0]+'\x20!\x20C\x27était\x20*'+_0x119072+'*.','mentions':[_0xc95ba3['id']]});}catch{await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x140)+_0xc95ba3['id']['split']('@')[0x0]+_0x2ef371(0x137)+_0x119072+'*','mentions':[_0xc95ba3['id']]});}if(!_0x54701c)_0xc95ba3['elimine']=!![];}_0x370563=_0x370563[_0x2ef371(0x135)](_0x161729=>!_0x161729[_0x2ef371(0x133)]);if(_0x421e4c)return;if(_0x5edb54['Hcvzl'](_0x4c2c3f,0x0)){await _0x30497f['sendMessage'](_0xbe9b17,{'text':_0x2ef371(0x1bc)+_0xff003f+_0x2ef371(0x14d)});break;}_0x5edb54[_0x2ef371(0x1a8)](_0x370563[_0x2ef371(0x173)],0x1)&&(_0xff003f++,await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x2ef371(0x124)+_0xff003f+'\x20-\x20Mots\x20plus\x20longs\x20à\x20venir\x20!'}));}let _0x38c394=_0x5edb54[_0x2ef371(0x178)](_0x370563['length'],0x1)?_0x2ef371(0x1be)+_0x370563[0x0]['id'][_0x2ef371(0x1bd)]('@')[0x0]+'\x0a\x0a':'🏑\x20Fin\x20de\x20Partie\x20-\x20Aucun\x20survivant\x0a\x0a';_0x38c394+=_0x2ef371(0xea);const _0x12e335=[..._0x16ad4c[_0x2ef371(0x187)]()][_0x2ef371(0x113)]((_0x14379f,_0x64e1ee)=>_0x64e1ee['score']-_0x14379f['score']);for(let _0x40d4f8 of _0x12e335){_0x38c394+=_0x2ef371(0xef)+_0x40d4f8['id'][_0x2ef371(0x1bd)]('@')[0x0]+_0x2ef371(0x1b8)+_0x40d4f8[_0x2ef371(0x197)]+_0x2ef371(0xf0);}await _0x30497f[_0x2ef371(0x108)](_0xbe9b17,{'text':_0x38c394,'mentions':[..._0x16ad4c['keys']()]});});
+const { ovlcmd } = require("../lib/ovlcmd");
+const axios = require("axios");
+const { delay } = require("@whiskeysockets/baileys");
+const config = require('../set');
+const fs = require('fs');
+let activeGames = {};
+
+ovlcmd(
+    {
+        nom_cmd: "tictactoe",
+        classe: "OVL-GAMES",
+        react: "🎮",
+        desc: "Jeu du Tic-Tac-Toe",
+        alias: ["ttt"],
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, msg_Repondu, auteur_Msg_Repondu, auteur_Message, getJid } = cmd_options;
+        let joueur1Nom = auteur_Message.split('@')[0];
+        let joueur2Nom, joueur2ID;
+
+        if (msg_Repondu) {
+            joueur2Nom = auteur_Msg_Repondu.split('@')[0];
+            joueur2ID = auteur_Msg_Repondu;
+        } else if (arg.length > 0 && arg[0].includes('@')) {
+            joueur2ID = await getJid(`${arg[0].replace("@", "")}@lid`, ms_org, ovl);
+            joueur2Nom = joueur2ID.split("@")[0];
+        } else {
+            return ovl.sendMessage(ms_org, {
+                text: '🙋‍♂️ Veuillez *mentionner* ou *répondre* au message du joueur pour lancer une partie.',
+            }, { quoted: ms });
+        }
+
+        if (auteur_Message === joueur2ID) {
+            return ovl.sendMessage(ms_org, {
+                text: "🚫 Vous ne pouvez pas jouer contre vous-même !",
+            }, { quoted: ms });
+        }
+
+        if (activeGames[auteur_Message] || activeGames[joueur2ID]) {
+            delete activeGames[auteur_Message];
+            delete activeGames[joueur2ID];
+        }
+
+        const gameID = `${Date.now()}-${auteur_Message}-${joueur2ID}`;
+        activeGames[auteur_Message] = { opponent: joueur2ID, gameID };
+        activeGames[joueur2ID] = { opponent: auteur_Message, gameID };
+
+        await ovl.sendMessage(ms_org, {
+            text: `🎮 *Tic-Tac-Toe Défi !*\n\n🔸 @${joueur1Nom} défie @${joueur2Nom} !\n\n✍️ Pour accepter, réponds *oui* dans les 60 secondes.`,
+            mentions: [auteur_Message, joueur2ID]
+        }, { quoted: ms });
+
+        try {
+            const rep = await ovl.recup_msg({
+                auteur: joueur2ID,
+                ms_org,
+                temps: 60000
+            });
+
+            const reponse = rep?.message?.conversation || rep?.message?.extendedTextMessage?.text || "";
+            if (reponse.toLowerCase() === 'oui') {
+
+                let grid = ['1️⃣', '2️⃣', '3️⃣', '4️⃣', '5️⃣', '6️⃣', '7️⃣', '8️⃣', '9️⃣'];
+                let currentPlayer = 0;
+                let symbols = ['❌', '⭕'];
+                let players = [auteur_Message, joueur2ID];
+
+                activeGames[auteur_Message] = { opponent: joueur2ID, grid, currentPlayer, gameID };
+                activeGames[joueur2ID] = { opponent: auteur_Message, grid, currentPlayer, gameID };
+
+                const displayGrid = (endGame = false) => {
+                    let grille = `
+╔═══╦═══╦═══╗
+║ ${grid[0]}    ${grid[1]}    ${grid[2]}
+╠═══╬═══╬═══╣
+║ ${grid[3]}    ${grid[4]}    ${grid[5]}
+╠═══╬═══╬═══╣
+║ ${grid[6]}    ${grid[7]}    ${grid[8]}
+╚═══╩═══╩═══╝
+
+❌ : @${joueur1Nom}
+⭕ : @${joueur2Nom}`;
+                    if (!endGame) {
+                        grille += `\n\n🎯 C'est au tour de @${players[currentPlayer].split('@')[0]} de jouer !`;
+                    }
+                    return grille;
+                };
+
+                const checkWin = (symbol) => {
+                    const winningCombos = [
+                        [0, 1, 2], [3, 4, 5], [6, 7, 8],
+                        [0, 3, 6], [1, 4, 7], [2, 5, 8],
+                        [0, 4, 8], [2, 4, 6]
+                    ];
+                    return winningCombos.some(combo => combo.every(index => grid[index] === symbol));
+                };
+
+                for (let turn = 0; turn < 9; turn++) {
+                    let symbol = symbols[currentPlayer];
+                    await ovl.sendMessage(ms_org, {
+                        text: displayGrid(),
+                        mentions: [auteur_Message, joueur2ID]
+                    }, { quoted: ms });
+
+                    let position, valide = false;
+                    while (!valide) {
+                        const rep = await ovl.recup_msg({
+                            auteur: players[currentPlayer],
+                            ms_org,
+                            temps: 60000
+                        });
+
+                        let response = rep?.message?.conversation || rep?.message?.extendedTextMessage?.text || "";
+
+                        if (!isNaN(response)) {
+                            position = parseInt(response);
+                            if (grid[position - 1] !== '❌' && grid[position - 1] !== '⭕' && position >= 1 && position <= 9) {
+                                grid[position - 1] = symbol;
+                                valide = true;
+                            } else {
+                                await ovl.sendMessage(ms_org, {
+                                    text: "❗ *Position invalide !* Choisis une case encore libre (1 à 9).",
+                                    mentions: players
+                                }, { quoted: ms });
+                            }
+                        } else if (response.toLowerCase().startsWith(config.PREFIXE + "ttt")) {
+                            // Ignorer relancement du jeu pendant la partie
+                        } else {
+                            await ovl.sendMessage(ms_org, {
+                                text: "❌ *Entrée invalide !* Réponds avec un chiffre entre 1 et 9.",
+                                mentions: players
+                            }, { quoted: ms });
+                        }
+                    }
+
+                    if (checkWin(symbol)) {
+                        await ovl.sendMessage(ms_org, {
+                            text: `🏆 *Victoire !*\n\n🎉 @${players[currentPlayer].split('@')[0]} a gagné la partie !\n${displayGrid(true)}`,
+                            mentions: players
+                        }, { quoted: ms });
+                        delete activeGames[auteur_Message];
+                        delete activeGames[joueur2ID];
+                        return;
+                    }
+
+                    currentPlayer = 1 - currentPlayer;
+                    activeGames[auteur_Message].currentPlayer = currentPlayer;
+                    activeGames[joueur2ID].currentPlayer = currentPlayer;
+                }
+
+                await ovl.sendMessage(ms_org, {
+                    text: `🤝 *Match Nul !*\n\nAucun gagnant cette fois-ci !\n${displayGrid(true)}`,
+                    mentions: players
+                }, { quoted: ms });
+
+                delete activeGames[auteur_Message];
+                delete activeGames[joueur2ID];
+
+            } else {
+                return ovl.sendMessage(ms_org, {
+                    text: '❌ Invitation refusée par le joueur.',
+                }, { quoted: ms });
+            }
+
+        } catch (error) {
+            if (error.message === 'Timeout') {
+                await ovl.sendMessage(ms_org, {
+                    text: `⏱️ @${joueur2Nom} a mis trop de temps. Partie annulée.`,
+                    mentions: [auteur_Message, joueur2ID]
+                }, { quoted: ms });
+            } else {
+                console.error(error);
+            }
+            delete activeGames[auteur_Message];
+            delete activeGames[joueur2ID];
+        }
+    }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "anime-quizz",
+    classe: "OVL-GAMES",
+    react: "📺",
+    desc: "Lance un quiz anime.",
+    alias: ["a-quizz"]
+  },
+  async (ms_org, ovl, { repondre, auteur_Message, verif_Groupe, prenium_id, getJid }) => {
+     
+    if (!verif_Groupe) return repondre("❌ Cette commande fonctionne uniquement dans les groupes.");
+
+    const createur = auteur_Message || prenium_id;
+
+    const choixMsg =
+      "🎯 *Anime Quiz*\n\n" +
+      "Choisis le nombre de questions :\n" +
+      "1️⃣ 10 questions\n" +
+      "2️⃣ 20 questions\n" +
+      "3️⃣ 30 questions\n\n" +
+      "✋ Envoie *stop* à tout moment pour annuler (créateur uniquement).";
+
+    await ovl.sendMessage(ms_org, { text: choixMsg });
+
+    let totalQuestions = 10;
+    try {
+      const rep = await ovl.recup_msg({ ms_org, auteur: createur, temps: 30000 });
+      const txt = (rep?.message?.conversation || rep?.message?.extendedTextMessage?.text || "").trim().toLowerCase();
+
+      if (txt === "stop") return repondre("🛑 Quiz annulé.");
+      if (txt === "1") totalQuestions = 10;
+      else if (txt === "2") totalQuestions = 20;
+      else if (txt === "3") totalQuestions = 30;
+      else return repondre("❗ Choix invalide. Réponds par 1, 2 ou 3.");
+    } catch {
+      return repondre("⏱️ Temps écoulé. Relance la commande pour recommencer.");
+    }
+
+    let questions;
+    try {
+      const rawData = fs.readFileSync('./lib/aquizz.json', 'utf8');
+      questions = JSON.parse(rawData).sort(() => 0.5 - Math.random()).slice(0, totalQuestions);
+    } catch {
+      return repondre("❌ Impossible de récupérer les questions.");
+    }
+
+    const numbersToLetters = { "1": "a", "2": "b", "3": "c", "4": "d" };
+    const scores = {};
+
+    for (let i = 0; i < totalQuestions; i++) {
+      const { question, options, answer } = questions[i];
+      const correctAnswerLetter = answer.toLowerCase();
+      const correctAnswerText = options[correctAnswerLetter];
+
+      const optionList = Object.values(options)
+        .map((text, i) => `${i + 1}. ${text}`)
+        .join("\n");
+
+      const questionMsg =
+        `📺 *Question ${i + 1}/${totalQuestions}*\n\n` +
+        `${question}\n\n` +
+        `${optionList}\n\n` +
+        "⏳ *15 secondes* — Réponds avec 1, 2, 3 ou 4\n" +
+        "🛑 Le créateur peut envoyer *stop* pour annuler.";
+
+      await ovl.sendMessage(ms_org, { text: questionMsg });
+
+      const debut = Date.now();
+      let bonneRéponse = false;
+
+      while (Date.now() - debut < 15000 && !bonneRéponse) {
+        try {
+          const reponse = await ovl.recup_msg({ ms_org, temps: 15000 - (Date.now() - debut) });
+          const txt = (reponse?.message?.conversation || reponse?.message?.extendedTextMessage?.text || "").trim().toLowerCase();
+          const lid = reponse.key.participant || reponse.key.remoteJid;
+          const jid = await getJid(lid, ms_org, ovl);
+
+          if (txt === "stop" && jid === createur) {
+            return ovl.sendMessage(ms_org, {
+              text: `🛑 Quiz annulé par le créateur @${jid.split("@")[0]}`,
+              mentions: [jid]
+            });
+          }
+
+          if (!["1", "2", "3", "4"].includes(txt)) continue;
+
+          const lettre = numbersToLetters[txt];
+          if (lettre === correctAnswerLetter) {
+            scores[jid] = (scores[jid] || 0) + 1;
+            await ovl.sendMessage(ms_org, {
+              text: `✅ Bonne réponse @${jid.split("@")[0]} ! C'était *${correctAnswerText}*`,
+              quoted: reponse,
+              mentions: [jid]
+            });
+            bonneRéponse = true;
+          }
+        } catch {
+          break;
+        }
+      }
+
+      if (!bonneRéponse) {
+        await ovl.sendMessage(ms_org, {
+          text: `⌛ Temps écoulé ! La bonne réponse était *${correctAnswerText}*`
+        });
+      }
+
+      await delay(1000);
+    }
+
+    if (!Object.keys(scores).length) {
+      return ovl.sendMessage(ms_org, { text: "😢 Personne n'a marqué de point. Fin du quiz." });
+    }
+
+    const classement = Object.entries(scores)
+      .sort(([, a], [, b]) => b - a)
+      .map(([jid, score], i) => `${i + 1}. @${jid.split("@")[0]} — *${score}* point${score > 1 ? "s" : ""}`)
+      .join("\n");
+
+    const finalMsg = `🏁 *Fin du Quiz Anime !*\n\n📊 *Classement final :*\n\n${classement}`;
+    await ovl.sendMessage(ms_org, { text: finalMsg, mentions: Object.keys(scores) });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "dmots",
+    classe: "OVL-GAMES",
+    react: "🪹",
+    desc: "Jouez à plusieurs au jeu du Mot Mélangé",
+  },
+  async (ms_org, ovl, { repondre, auteur_Message, prenium_id, getJid }) => {
+    const joueurs = new Map();
+    const debutInscription = Date.now();
+    let mots = [];
+
+    try {
+      const rawData = fs.readFileSync('./lib/mots.json', 'utf8');
+      mots = JSON.parse(rawData);
+    } catch (e) {
+      return repondre("❌ Impossible de récupérer les mots.");
+    }
+
+    joueurs.set(auteur_Message, { id: auteur_Message, score: 0 });
+    const createur = auteur_Message || prenium_id;
+
+    await ovl.sendMessage(ms_org, {
+      text:
+        "🎮 *Jeu du Mot Mélangé - MULTIJOUEURS* 🎮\n\n" +
+        "Tapez 'join' pour participer !\n" +
+        "🆕 Tapez 'start' pour commencer immédiatement (créateur)\n" +
+        "❌ Tapez 'stop' pour annuler (créateur)\n" +
+        "⏳ Temps max : 60s\n" +
+        "🎯 Dernier survivant gagne !",
+    });
+
+    const rappelTemps = [45000, 30000, 15000];
+    const rappelEnvoyes = new Set();
+    let partieCommencee = false;
+    let partieAnnulee = false;
+
+    const timerInterval = setInterval(async () => {
+      const restant = 60000 - (Date.now() - debutInscription);
+      if (restant <= 0 || partieCommencee || partieAnnulee) return clearInterval(timerInterval);
+      const secondesRestantes = Math.floor(restant / 1000);
+      for (let t of rappelTemps) {
+        if (secondesRestantes === t / 1000 && !rappelEnvoyes.has(t)) {
+          rappelEnvoyes.add(t);
+          await ovl.sendMessage(ms_org, {
+            text: `⏳ Temps restant : ${t / 1000}s ! Tapez *join* pour participer ou *start* pour commencer.`,
+          });
+        }
+      }
+    }, 1000);
+
+    while (Date.now() - debutInscription < 60000 && !partieCommencee && !partieAnnulee) {
+      try {
+        const rep = await ovl.recup_msg({ ms_org, temps: 60000 - (Date.now() - debutInscription) });
+        const msg = (rep?.message?.conversation || rep?.message?.extendedTextMessage?.text || "").trim().toLowerCase();
+        const auteurLid = rep?.key?.participant || rep?.message?.senderKey;
+        const auteur = await getJid(auteurLid, ms_org, ovl);
+        if (msg === "join" && auteur && !joueurs.has(auteur)) {
+          joueurs.set(auteur, { id: auteur, score: 0 });
+          await ovl.sendMessage(ms_org, {
+            text: `✅ @${auteur.split("@")[0]} a rejoint la partie !`,
+            mentions: [auteur],
+          });
+        } else if (msg === "start" && auteur === createur) {
+          if (joueurs.size < 2) {
+            await ovl.sendMessage(ms_org, {
+              text: `❌ Il faut au moins 2 joueurs pour démarrer.`,
+              mentions: [auteur],
+            });
+          } else {
+            partieCommencee = true;
+            clearInterval(timerInterval);
+            break;
+          }
+        } else if (msg === "stop" && auteur === createur) {
+          partieAnnulee = true;
+          clearInterval(timerInterval);
+          await ovl.sendMessage(ms_org, {
+            text: `🛑 Partie annulée par @${auteur.split("@")[0]}`,
+            mentions: [auteur],
+          });
+          return;
+        }
+      } catch {}
+    }
+
+    if (partieAnnulee) return;
+
+    if (!partieCommencee) {
+      if (joueurs.size < 2) {
+        await repondre("❌ Pas assez de joueurs (minimum 2). Partie annulée.");
+        return;
+      }
+      partieCommencee = true;
+      clearInterval(timerInterval);
+    }
+
+    await ovl.sendMessage(ms_org, {
+      text:
+        `🚀 *Début de la Partie*\n` +
+        `👥 Joueurs : ${[...joueurs.values()].map(j => `@${j.id.split("@")[0]}`).join(", ")}\n` +
+        `Bonne chance à tous 🍀`,
+      mentions: [...joueurs.keys()],
+    });
+
+    let tour = 1;
+    let joueursActifs = [...joueurs.values()];
+
+    const motsParTour = (t) => {
+      if (t === 1) return mots.filter(m => m.length >= 4 && m.length <= 5);
+      if (t === 2) return mots.filter(m => m.length >= 6 && m.length <= 7);
+      return mots.filter(m => m.length >= 8);
+    };
+
+    const melangerMot = (mot) => {
+      let melange = mot;
+      let essais = 0;
+      while ((melange === mot || mot === melange.split("").reverse().join("")) && essais < 10) {
+        const arr = mot.split("");
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        melange = arr.join("");
+        essais++;
+      }
+      return melange;
+    };
+
+    while (joueursActifs.length > 1 && !partieAnnulee) {
+      const joueursCeTour = [...joueursActifs];
+      let reussitesCeTour = 0;
+
+      for (const joueur of joueursCeTour) {
+        const motsDispo = motsParTour(tour);
+        if (!motsDispo.length) break;
+
+        const mot = motsDispo[Math.floor(Math.random() * motsDispo.length)];
+        const motMelange = melangerMot(mot);
+
+        await ovl.sendMessage(ms_org, {
+          text:
+            `🎯 Tour de @${joueur.id.split("@")[0]}\n` +
+            `🔀 Mot : *${motMelange}*\n` +
+            `💡 Indice : commence par *${mot[0].toUpperCase()}*\n` +
+            `⏱️ 15s pour répondre !`,
+          mentions: [joueur.id],
+        });
+
+        let correct = false;
+        try {
+          const rep = await ovl.recup_msg({ ms_org, auteur: joueur.id, temps: 15000 });
+          const txt = rep?.message?.conversation?.toLowerCase().trim() || "";
+
+          if (txt === "stop" && (rep?.key?.participant || rep?.message?.senderKey) === createur) {
+            partieAnnulee = true;
+            await ovl.sendMessage(ms_org, {
+              text: `🛑 Partie arrêtée par @${createur.split("@")[0]}`,
+              mentions: [createur],
+            });
+            return;
+          }
+
+          function normaliserTexte(texte) {
+  return texte
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, "")
+    .replace(/[^\w]/g, "");
+          }
+          if (normaliserTexte(txt) === normaliserTexte(mot)) {
+            joueur.score++;
+            correct = true;
+            reussitesCeTour++;
+            await ovl.sendMessage(ms_org, {
+              text: `✅ Bravo @${joueur.id.split("@")[0]} ! Le mot était *${mot}*.`,
+              mentions: [joueur.id],
+            });
+          } else {
+            await ovl.sendMessage(ms_org, {
+              text: `❌ Mauvaise réponse @${joueur.id.split("@")[0]} ! C'était *${mot}*.`,
+              mentions: [joueur.id],
+            });
+          }
+        } catch {
+          await ovl.sendMessage(ms_org, {
+            text: `⏰ Temps écoulé ! @${joueur.id.split("@")[0]} est éliminé... Le mot était *${mot}*`,
+            mentions: [joueur.id],
+          });
+        }
+
+        if (!correct) joueur.elimine = true;
+      }
+
+      joueursActifs = joueursActifs.filter(j => !j.elimine);
+
+      if (partieAnnulee) return;
+
+      if (reussitesCeTour === 0) {
+        await ovl.sendMessage(ms_org, {
+          text: `❌ Aucun joueur n'a trouvé au tour ${tour}. Fin de la partie.`,
+        });
+        break;
+      }
+
+      if (joueursActifs.length > 1) {
+        tour++;
+        await ovl.sendMessage(ms_org, {
+          text: `📈 Tour ${tour} - Mots plus longs à venir !`,
+        });
+      }
+    }
+
+    let final = joueursActifs.length === 1
+      ? `🏆 Fin de Partie - Vainqueur : @${joueursActifs[0].id.split("@")[0]}\n\n`
+      : `🏑 Fin de Partie - Aucun survivant\n\n`;
+
+    final += `📊 Scores :\n`;
+    const scoresTries = [...joueurs.values()].sort((a, b) => b.score - a.score);
+    for (let j of scoresTries) {
+      final += `• @${j.id.split("@")[0]} : ${j.score} point(s)\n`;
+    }
+
+    await ovl.sendMessage(ms_org, {
+      text: final,
+      mentions: [...joueurs.keys()],
+    });
+  }
+);

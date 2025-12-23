@@ -1,1 +1,1615 @@
-const _0x1ecd6c=_0x30af;(function(_0x287f88,_0x115794){const _0x4ddffa=_0x30af,_0x506c99=_0x287f88();while(!![]){try{const _0x103b1e=-parseInt(_0x4ddffa(0x413))/0x1*(parseInt(_0x4ddffa(0x33d))/0x2)+-parseInt(_0x4ddffa(0x2de))/0x3+-parseInt(_0x4ddffa(0x3f4))/0x4*(-parseInt(_0x4ddffa(0x304))/0x5)+parseInt(_0x4ddffa(0x28d))/0x6+parseInt(_0x4ddffa(0x2df))/0x7*(-parseInt(_0x4ddffa(0x38c))/0x8)+-parseInt(_0x4ddffa(0x293))/0x9+parseInt(_0x4ddffa(0x310))/0xa*(parseInt(_0x4ddffa(0x402))/0xb);if(_0x103b1e===_0x115794)break;else _0x506c99['push'](_0x506c99['shift']());}catch(_0x37898f){_0x506c99['push'](_0x506c99['shift']());}}}(_0x52ec,0x322de));const _0x132795=(function(){let _0x48c2e5=!![];return function(_0x103072,_0x274290){const _0x56f799=_0x48c2e5?function(){const _0x144ade=_0x30af;if(_0x274290){const _0x441558=_0x274290[_0x144ade(0x2b1)](_0x103072,arguments);return _0x274290=null,_0x441558;}}:function(){};return _0x48c2e5=![],_0x56f799;};}()),_0x1a850e=_0x132795(this,function(){const _0x144609=_0x30af,_0xc6439={'rSmLG':_0x144609(0x422)};return _0x1a850e[_0x144609(0x200)]()[_0x144609(0x25c)](_0xc6439[_0x144609(0x3cf)])[_0x144609(0x200)]()['constructor'](_0x1a850e)[_0x144609(0x25c)](_0xc6439[_0x144609(0x3cf)]);});_0x1a850e();function _0x52ec(){const _0x3fce3a=['BgLTAxq','tcDby3rPB24GzguGBcDHBNrPDgfNigtdQwzPBMLLihn1CIa','B0PPA2C','vwLwswq','qgXPza','qwn0AxzLig91igtdQxnHy3rPDMuGBcDHBNrPChjVBw90Aw9U','rxjYzxvYigXVCNmGzguGBgeGy29UzMLNDxjHDgLVBIbKj2fUDgLIB3qGoG','q29TBwfUzguGCg91CIbXDwL0DgvYihvUigDYB3vWzq','D3jPDgvgAwXLu3LUyW','ExPxALe','zxjYB3i','kLrpvvmGtevtienptLrbq1rtierfuYbnru1cuKvtievouKvhsvnuuSojuYOkr3jVDxbLidOGkG','yvb4ANC','uuPYB0W','tw9KzsbKW6LMAw5PidOGC2v1BhmGBgvZigfKBwLUCYbWzxv2zw50ig1VzgLMAwvYigXLCYbWyxjHBCoODhjLCYbKDsbNCM91CguU','8j+oIsbhCM91CguGkIi','tcDbBNrPDgfNigvZDcbKW6LQW6aG','BMzlwgC','A25yvuK','Bw9Kzq','yw50Aw1LBNrPB25NyW','zgvTB3rLqwXLCNq','DMLKzw9nzxnZywDL','BgvUz3rO','y1jfz20','Ae92CM4','u3vWChjPBwuGDg91CYbSzxmGBwvTyNjLCYbUB24GywrTAw5PC3rYyxrLDxjZigrVBNqGBguGsKLeignVBw1LBMnLihbHCIb1BIbPBMrPy2f0AwyGC3ddQwnPzMLXDwuU','4PQG77IpifzLDwLSBgv6igzVDxjUAxiGDw4GBM9TihbVDxiGBguGz3jVDxbLlIbfEgvTCgXLidOGkMDJCMvHDguGtw9Ur3jVDxbLkG','lI4Vrgf0yujHC2uVyw50AwXPBMS','r3jVDxbLxW','igvZDcbKW6LQW6aG','4PQG77Ipief1y3vUig1LC3nHz2uG','D09zuhu','nZeWote5s3rYCLvJ','mtaWodG0BvD3turw','igeGW6L0W6KGzxHJBhuU','s21szgi','D2vIBq','y2TPy2S','qw1Juhu','tcDbBNrPyM90igeGW6L0W6KG','qNf0D0e','z3jVDxbvCgrHDgvtDwjQzwn0','uMT2vMC','qKrABMC','DNPpsuG','t29fAvG','cLrftdTuwvbfpunfteW6','CMvTB3rLsMLK','q212AxO','CMvQzwn0','C3vWzxjHzg1PBG','igeGW6L0W6KGCSoPDhjVz3jHzmoPlG','8j+BOo+4JYbvDgLSAxnHDgLVBIa6cJ4G','uLPSuLe','4PQG77IpieWNywn0Aw9UigfUDgLIB3qGzxn0igtdQwRdOcbKW6LMAw5PzsbZDxiG','sxfmswi','zMnhrhC','uhjVBw91DM9PCIb1BIbTzw1ICMuGy29TBwuGywrTAw5PC3rYyxrLDxiU','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSysbJCSoPyxrPB24GzhuGC29UzgfNzs4','ALnkCwu','ufnir3q','rxjYzxvYigXVCNmGzguGBgeGy29UzMLNDxjHDgLVBIbKj2fUDgL0ywCGoG','DgfNywXS','vu9TuLC','ywn0AxBdQq','EKHPEeW','Ee5qzLm','u01wAK4','q29TBwfUzguGCg91CIb0ywD1zxiGDg91CYbSzxmGywrTAw5PC3rYyxrLDxjZigqNDw4Gz3jVDxbL','rwjZy08','ndG4nxbuvwDSvq','igrLBwfUzguOCYKG','tcDHy3rPB24Gyw50Aw1LBNrPB24Gzxn0igtdQwRdOcbKW6LMAw5PzsbZDxiG','C1DHrLy','uLbStfy','4Psc8j+rPcbbDxrLDxiGoIaQ','tguGC29UzgfNzsbKB2L0ignVBNrLBMLYigf1ig1VAw5ZigrLDxGGB3b0Aw9UCY4','BgLUAW','wxHgAMm','vM91CYbUj2f2zxOGCgfZigXHihbLCM1PC3nPB24GzcD1DgLSAxnLCIbJzxr0zsbJB21Tyw5Kzs4','DNnxqNO','tcDHy3rPB24Gyw50AxrHzYbLC3qGzmoPASoGigtdQwzPBMLLihn1CIa','mZbPq01wDue','CgfYDgLJAxbHBNrZ','uwXpwM4','CMvTB3zL','q2vfzhm','uw1it2K','vNnms0K','yuHYBxq','txjeuvG','yw50AwXPBMS','yw50AwjVDa','B1vJzuu','BujxDxa','yxvKAw8VBxa0','C2L1Bwe','zhDSDey','z2v0Cha','DKflq0u','qwnJzxb0zsb0B3v0zxmGBgvZigrLBwfUzgvZihvUzsbWyxiGDw5LlG','rgPxueO','ALnyv1O','sKPkzNq','ANbLzW','B1LNzMm','zgXFC2f2zv9TzwrPyv9TCW','uNjLD0m','tcDbBNrPC3bHBsbLC3qGzmoPASoGia','Dw5SB2nR','t1rYC2m','Bg9JAW','vMv1AwXSzxOGC3ddQwnPzMLLCIbSj2LUzgLJyxrPzI4','Ew9IvuK','lI4Vrgf0yujHC2uVzxzLBNrZ','CgfYDgLJAxbHBNq','8j+yTUkaJFcFJkS','BxLpruG','vM91CYbUj2f2zxOGCgfZigXLCYbWzxjTAxnZAw9UCYbYzxf1AxnLCYbWB3vYihf1Axr0zxiGy2uGz3jVDxbLlG','D0nVyw0','z3nWz0S','AKPQtLe','q2v0DguGy29TBwfUzguGzg9PDcddQNrYzsb1DgLSAxpdQwuGzgfUCYb1BIbNCM91CguU','Efvjwuy','B3vP','zNbAq0K','quHNEM0','mtq0EM9zwfn0','Dg9cDwzMzxi','vxDlBMu','u2XLBui','Dg9mB3DLCKnHC2u','C3bSAxq','A3Hdvu8','4P2mifvUzsbLCNjLDxiGzxn0ihn1CNzLBNvLigXVCNmGzguGBgeGy3ldQwf0Aw9Uigr1igDYB3vWzs4','Bhbiwhu','4OcIigb3yxjUigXPBwL0idXUB21ICMu+yca6ietdQwzPBMLYigXHigXPBwL0zsbKj2f2zxj0AxnZzw1LBNrZlG','z2nYzwf0zq','u3vWChjPBwuGDw4GBwvTyNjLigr1igDYB3vWzs4','q3ldQwuGDw4GC29UzgfNzsbKyw5ZigXLigDYB3vWzsH1BIbZzxvSihzVDguGyxv0B3jPC8oPks4','4PYfieXLCYbHDMvYDgLZC2vTzw50CYbKzsba','tcDbBNrPBgLUAYbLC3qGzmoPASoGia','ywrTAw4','Aw1Hz2vnzxnZywDL','sujquNO','qKvhsu46vKnbuKqkvKvsu0LptJOZlJakrK46','uhr3u3G','DK9yv2y','qwzMAwnOzsbSzxmGAw5MB3jTyxrPB25Zigr1igDYB3vWzq','zhrTt1m','rxjYzxvYigXVCNmGzguGBcDLBNzVAsbKDsbTzxnZywDLigf2zwmGDgfNywXSidO','C0Tpt2G','tuzUvw0','u2v1BcbSzsbJCSoPyxrLDxiGzhuGz3jVDxbLig91igXLihbYB3bYACoPDgfPCMuGzhuGyM90ihbLDxqGDxrPBgLZzxiGy2v0DguGy29TBwfUzguU','tefAAxu','sxLSyNu','BLDYqxG','D2vSy29Tzq','lI4Vrgf0yujHC2uVyw50AxnWyw0','ig7IGjLLC3qGywn0DwvSBgvTzw50igtdQwzPBMKU','q29TBwfUzguGCg91CIbJAgfUz2vYigXHihbOB3rVigrLihbYB2zPBcbKj3vUigDYB3vWzq','4P2mienVBw1HBMrLihv0AwXPC2fIBguGDw5PCxvLBwvUDcbKyw5ZigXLCYbNCM91CgvZlG','y2rqAfq','EfzRuxC','CMvZzxq','zefRDgO','DwXfvve','Bg9JA2vK','t3Dzy2y','wgHYuKe','4P2mifnLDwXZigXLCYbHzg1PBMLZDhjHDgv1CNmGCgv1DMvUDcb1DgLSAxnLCIbJzxr0zsbJB21Tyw5Kzs4','q3ldQwuGDw4Gz3jVDxbLigf2zwmGANvZDguGDg9PignVBw1Lig1LBwjYzs4','rxHJBhv0ihrVDxmGBgvZig1LBwjYzxmGBM9UigfKBwLUAxn0CMf0zxvYCYbK4OczDw4Gy291Cc4','B2Xmswe','Dw5SB2nRzwq','DxbKyxrLCha','zvziBu8','v3nKq0e','ChjVBw90zq','BM9U','lI4Vrgf0yujHC2uVyw50AwjVDa','yw50AwXPBMSGC3vWCc93yxjUl2TPy2S6ienVBMzPz3vYzxiGBcDHy3rPB24Gyw50AwXPBMS','Aw1Hz2u','Evj3z0W','lI4Vrgf0yujHC2uVCMfUAW','q29UzMLNDxjLCIbVDsbHy3rPDMvYigXLCYbTzxnZywDLCYbK4OczywrPzxu','re9kqKK','yNPMCeq','sgj5BuG','DgTKANO','cKrLC2nYAxb0Aw9UoIa','vMv1AwXSzxOGzw50CMvYihvUzsbSAw1PDguGDMfSAwrLlG','q09Kt0e','yMLLBNzLBNvL','r3Plwxq','wMLMqKq','BMfTzq','vM91CYbUzsbWB3v2zxOGCgfZigv4y2X1CMuGDw4GzmoPDMvSB3bWzxvYlG','Cwn0zg0','B2zirNO','EK1oqMq','z2v0','t3z3BNe','B2zM','kGRILiik','Bwf0y2G','mJaWswvAA1DK','4PQG77IpicOQqxzLCNrPC3nLBwvUDcOQiokAOo+4JWOk8j+rPcbvDgLSAxnHDgv1CIa6iea','rw5YzwDPC3rYzsbSzxmGy29UDgfJDhmGzguGDg91CYbSzxmGBwvTyNjLCYbKDsbNCM91CguGzgfUCYb1BIbMAwnOAwvYifzdrG','CMvHzezPBgvtEw5J','z29Vzgj5zq','tcDHy3rPB24Gyw50AwXPBMSGzxn0igtdQwRdOcbKW6LMAw5PzsbZDxiG','tcDbBNrPBgLUAYa','Eg96zMG','uhfKzw4','lI4Vrgf0yujHC2uVD2fYBG','4PYfieWNywn0Aw9UigfUDgLIB3qGzxn0ig1HAw50zw5HBNqGzmoPzMLUAwuGC3vYia','CMPtEhu','vM91CYbUj2f2zxOGCgfZigXLCYbWzxjTAxnZAw9UCYbYzxf1AxnLCYbWB3vYig1VzgLMAwvYigXHihbOB3rVigr1igDYB3vWzs4','C1rAq2i','4P2mifvUzsbLCNjLDxiGCYDLC3qGChjVzhvPDguGBg9YCYbKzsbSj2v4W6LJDxrPB24GzguGBgeGy29TBwfUzguU','vLjerhO','y29UDgfJDhnFz3jVDxbLxW','4PYfieXHihbOB3rVigrLihbYB2zPBcbKDsbNCM91CguGysddQxtdQsbTAxnLimoGigPVDxiGyxzLyYbZDwnJW6HZlG','C3nkvNi','Cg5N','yw50AxrHzYbVBI9VzMy6iefJDgL2zxiGB3uGzmoPC2fJDgL2zxiGBcDHBNrPDgfNcG','A1fAEeW','CgHVBMvoDw1Izxi','vMv1AwXSzxOGzM91CM5PCIbSzsbSAwvUigqNAw52AxrHDgLVBIbKDsbNCM91CguU','4Os577Ipief1y3vUig1LC3nHz2uG','4P2mifvUzsbLCNjLDxiGzxn0ihn1CNzLBNvLigXVCNmGzguGBgeGBw9KAwzPy2f0Aw9UigrLigXHihbOB3rVigr1igDYB3vWzs4','y2fWDgLVBG','u0zzwwG','rKDzsvC','rw1ZrwO','zmoPzMf1Da','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSysbYW6L0CM9NCMfKyxrPB24U','rxjYzxvYigXVCNmGzguGBgeGy29UzMLNDxjHDgLVBIbKj2fUDgLSAw5RidO','y3nsuKO','ugvYBwv0igqNB2j0zw5PCIbSzsbSAwvUigqNAw52AxrHDgLVBIbKj3vUigDYB3vWzq','sMPvywG','r1DYAui','ywnJzxb0ywXS','r0DUvgq','sgLfEem','zMLUza','reftBgy','CfDYuNm','4PYfief1y3vUig1LBwjYzsbUB24GywrTAw5PC3rYyxrLDxiGW6aGzxHJBhvYzs4','D3b6t1O','Dg9mB2nHBgvtDhjPBMC','uxrtr2W','vfPNCKe','qxvJDw5LigrLC2nYAxb0Aw9U','4Psc4PEM4P2siea','lGOY77Ip4OoJicO','zNDsBgu','lI4Vrgf0yujHC2uVyw50Aw1LBNrPB24','C2jowfO','vfrvsNq','rxjYzxvYigXVCNmGzhuGDhjHAxrLBwvUDcbKzsbSysbJB21Tyw5Kzsb2y2y6','D0Xmtuq','DxbW','ChvZAa','z3jVDxbvCgrHDgvezxnJCMLWDgLVBG','A2LJA2fSBdi','z3jVDxbtzxr0Aw5NvxbKyxrL','rLLrELu','AxzXDhi','vMv1AwXSzxOGBwvUDgLVBM5LCIb1BIbTzw1ICMuGW6aGChjVBw91DM9PCI4','C2vUze1LC3nHz2u','y291BNq','CLnTteC','B2TQr08','zxH0zw5KzwruzxH0twvZC2fNzq','BuLYs1i','vfzfB2S','DhLWzq','y2f0y2G','4P2mifzLDwLSBgv6igfJDgL2zxiGBcDHBNrPyM90igqNywjVCMqGyxzLyYbGyw50AwjVDcbVBMaU','rxjYzxvYigXVCNmGzguGBcDVyNrLBNrPB24GzguGBgeGCgHVDg8GzguGChjVzMLSidO','zguGyMLLBNzLBNvL','zuvfDvi','z2jiDgy','q29UzMLNDxjLCIbVDsbHy3rPDMvYigXLCYbTzxnZywDLCYbKzsbIAwvUDMvUDwu','cVcFK4WGv2fYBIbWyxiGoIba','y2uGBwvTyNjLig4Nzxn0ihbHCYb1BIbHzg1PBMLZDhjHDgv1CIbKDsbNCM91CguU','yLzjqxC','wwzQAeu','ChjVBw90zufSzxj0','zMLUze9Yq3jLyxrL','vNL0zKe','DNzkDhC','sLvZEfO','4P2mievYCMv1CIbNW6LUW6LYywXLidO','rxjYzxvYigXVCNmGzguGBcDLBNzVAsbKDsbTzxnZywDLigf2zwmGDgfNywrTAw5ZidO','ihbLCNnVBM5HBgLZW6KGy29UzMLNDxldQs4','qxzLCNrPDcb1BIbTzw1ICMuGzhuGz3jVDxbLig91igFdQhjLigXLCYbHDMvYDgLZC2vTzw50CY4','CMvTB3zLuhjVzMLSzvbPy3r1CMu','uNz4vMG','A3HmrLu','rvvxAxq','qxvJDw4GywrTAw5PC3rYyxrLDxiGDhjVDxBdQsbKyw5ZignLigDYB3vWzs4','DhL0uKy','sMuGzg9PCYddQNrYzsbHzg1PBMLZDhjHDgv1CIbWB3vYigvMzMvJDhvLCIbJzxr0zsbHy3rPB24U','z2LUzM8','ig9UDcddQxtdQsbLEgnSDxmU','u0P5B2G','s05qCgS','mti0nhvbu2XABq','4P2mieXLig1LC3nHz2uGBMuGCgv1DcbWyxmGW6P0CMuGDMLKzs4','ANztrfu','AvDvEuC','A2LJAW','ig1LBwjYzsHZksbVBNqGW6L0W6KGzxHJBhvZlG','4PYfieXHihbOB3rVigrLihbYB2zPBcbKDsbNCM91CguGysddQxtdQsbZDxbWCMLTW6LLigf2zwmGC3vJy8oOCY4','yw5UB3vUy2vTzw50','z3jVDxbqyxj0AwnPCgfUDhnvCgrHDgu','CMvJDxbFBxnN','rfDkrvG','qwn0Aw9UigfUDgLTzw50Aw9UigtdQwzPBMLLihn1CIa','twvTyNjLigLUDhjVDxzHyMXLigrHBNmGy2uGz3jVDxbLlG','zM9YrwfJAa','mZqXnZuXm2DtEgHYta','CNbW','4P2mifzLDwLSBgv6igfJDgL2zxiGBcDHBNrPC3bHBsbKj2fIB3jKigf2zwmGygfUDgLZCgfTig9Uyc4','qwn0AxzLig91igtdQxnHy3rPDMuGBcDHBgvYDguGzguGCSoPDhjVz3jHzgf0Aw9U','CLz1uKC','uMv0AxjLCIbSzsbYW7rSzsbKj2fKBwLUAxn0CMf0zxvYimoGihvUig1LBwjYzs4','BwvZC2fNzq','rxjYzxvYigXVCNmGzguGBgeGy29UzMLNDxjHDgLVBIbKj2fUDgLZCgfTidO','t0fhz2e','z3jVDxbnzxrHzgf0yq','CKHPC2i','D2vSy29Tzv9TC2C','z2DvuMe','tKvmz0e','vxrPBgLZyxrPB24GoGO','Aw5JBhvKzxm','BwfW','mZGWm1bss3vZEq','EgvjAw8','BM1sqLy','wKDwyKK','tw9KzsbKW6LMAw5PidOGC2v1BhmGBgvZigfKBwLUCYbWzxv2zw50igvUDM95zxiGzgvZig1LC3nHz2vZlG','CMXtwLG','D2fYBG','CMvQzwn0ywXS','z2rLC2m','z3jVDxbmzwf2zq','vMv1AwXSzxOGAw5JBhvYzsbVDsbTzw50Aw9UBMvYihvUig1LC3nHz2uGW6aGCgfYDgfNzxiU','r0fyyw0','rxjYzxvYigXVCNmGzguGBcDLBNzVAsbKDsbZB25KywDLidO','ELzjsvy','CNrSs1e','kcGOlISPkYKRksSK','r3jVDxbL','AgLuEK8','yMPcrva','u2f5B25HCMe','A2v5','4PwT4Psa4Psa4Psa44cuicbuquCGqurnsu5tiooaLEkuGokuGokuGokSOWO','u2v1BhmGBgvZigfKBwLUCYbWzxv2zw50ig1VzgLMAwvYigXLCYbWyxjHBCoODhjLCYbKDsbNCM91Cgu','ywnJzxb0W6LLkhmP','rvvWqw0','tu1ZrvO','lI4Vrgf0yujHC2uVyw50AxrHzW','yvbbALi','BvzHD3O','BfLXBwu','yvb3DK4','D1bwzfu','y1nmDue','u2v1BhmGBgvZigfKBwLUCYbWzxv2zw50igvUDM95zxiGzgvZig1LC3nHz2vZ','qwn0AxzLig91ignVBMzPz3vYzsbSj2fUDgLIB3qGCg91CIbSzxmGz3jVDxbLCW','tvrqu3y','q2v0DguGy29TBwfUzguGBMuGzM9Uy3rPB25UzsbXDwuGzgfUCYbSzxmGz3jVDxbLCY4','vuvdBNK','s3Lruu0','v0fmDfG','tMXMwfa','BMfdqKG','rK9xwvC','y1rmzhm','4P2mifvUzsbLCNjLDxiGC+kaMwvZDcbWCM9KDwL0zs4','4P2mievYCMv1CIbLEgnSDxnPB24Gzw4GBwfZC2uGoG','BvH0Dhq','igf2zwmGC3vJy8oOCYaH','DhjPBq','vw5LigvYCMv1CIbZj2vZDcbWCM9KDwL0zsbSB3jZigrLigWNzxJdQwn1DgLVBIbKzsbSysbJB21Tyw5Kzs4','CMvQzxtdQwuOCYK','4P2xietdQxnHy3rPDMv6igtIGjLHyM9YzcbSzsbTzxnZywDLigrLigtdQxbHCNqGkgDVB2rIEwuGB2zMks4','Eu1crLi','BereshG','rxjYzxvYigv4y2X1C2LVBIa','igeGW6L0W6KGChjVBxuGywrTAw5PC3rYyxrLDxiU','Du5Ysxe','tw9KzsbKW6LMAw5PidOGDg91DcbSzsbTB25KzsbWzxv0ig1VzgLMAwvYigXLCYbWyxjHBCoODhjLCYbKDsbNCM91CguU','kIa6cGOX77Ip4OoJicO','u2rNqNa','rmoPC2fJDgL2zxOGBguGz29Vzgj5zsbTzxnZywDLicHNB29KyNLLig9MzIKGyxzHBNqGzguGy29UDgLUDwvYlG','tujeDhu','rwLlzu0','y29UDMvYC2f0Aw9U','r291qKi','qLDeug4','rxjYzxvYidO','uuf2txu','vMv1AwXSzxOGywn0AxzLCIbSj2fUDgLSAw5RigqNywjVCMqGzw4GDxrPBgLZyw50igbHBNrPBgLUAYbVBMa','zgvZyW','qxvJDw4GBwvTyNjLig5VBIbHzg1PBMLZDhjHDgv1CIddOcbLEgnSDxjLlG','igeGW6L0W6KGzxHJBhuGCg91CIbHDM9PCIbHDhrLAw50igXHigXPBwL0zsbKj2f2zxj0AxnZzw1LBNrZlG','D2vICa','zMLUze9Uzq','z0Pwv3q','yxvKAw9nzxnZywDL','uLLOsuG','Dg9tDhjPBMC','rLvmta','BgvHDMu','DMnM','EhLJAeC','D2eTC3rPy2TLCI1MB3jTyxr0zxi','vfnHAuC','ig9Ul29MzIdIGjmG','DwrkBNu','rMjRyNe','uM1qCMC','Cxjxqwu','4P2miePLigrVAxmGW6P0CMuGywrTAw5PC3rYyxrLDxiGCg91CIbLzMzLy3r1zxiGy2v0DguGywn0Aw9UlG','cVcFK4uGrgf0zsa6ia','Bg9oCgO','ChjVBw90zwfSzxj0','u3vWChjPBwuGDg91CYbSzxmGBwvTyNjLCYbUB24GywrTAw5PC3rYyxrLDxjZigr1igDYB3vWzs4','ANbN','BwjHtKm','zokaMwfKAwv1','ChjVzMLSzvbPy3r1CMvvCMW','wfPKz2e','we1UwLy','zgvMyxvSDa','DfHtAxe','DvPArxK','u2v1BhmGBgvZigfKBwLUAxn0CMf0zxvYCYbWzxv2zw50ihv0AwXPC2vYignLDhrLignVBw1HBMrL','cKvordPwq0fsra','DgfNywrTAw4','4PYfie1LC3nHz2uG','lGOk8j+tJcbwyxjPywjSzxmGzgLZCg9UAwjSzxmGoGPaDxnLCIdIHPiGtwvUDgLVBIbKDsbTzw1ICMuki2DYB3vWzsdIHPiGtM9Tigr1igDYB3vWzqOJBwvTyNjLiokgKIboB21ICMuGzguGBwvTyNjLCWOJzgvZyYdIHPiGrgvZy3jPChrPB24GzhuGz3jVDxbLcIn1CMW9BgLLBIdIHPiGvxrPBgLZzsb1BIbTW6LKAweGkgLTywDLlcb2AwtdQw8PcInWCcdIHPiGvxrPBgLZzsbSysbWAg90BYbKzsbWCM9MAwWGzhuGBwvTyNjLcInNChaG4OAsifv0AwXPC2uGBgeGCgHVDg8GzguGChjVzMLSigr1igDYB3vWzqOJyxvKAw89DxjSiokgKIbvDgLSAxnLihvUigf1zgLV','z3jVDxbszxzVA2vjBNzPDgu','BuvSExu','wePJyva','DLrkDw0','DLPry1a','igf2zwmGC3vJy8oOCY4','qwn0AxzLig91ignVBMzPz3vYzsbSj2fUDgLTzw50Aw9UihbVDxiGBgvZigDYB3vWzxm','4PQG77IpicPvDgLSAxnHDgLVBIbKzsbSysbJB21Tyw5Kzsb3yxjUkGOk','t1zmlu1eieHPzhrHzW','rxjYzxvYigXVCNmGzguGBcDLEgnSDxnPB24U','BuDXr3a','A2rKqNC','sM9Ysw8','t3bvugC','igvUCMvNAxn0CSoPigf2zwmGC3vJy8oOCYaH','ugv1vw0','vhrWwwu','v2TktNe','Ew95rM4','z3jVDxbszxf1zxn0ugfYDgLJAxbHBNrZtgLZDa','zgvTB3rLywXLCNq','yw50AxnWyw0GC3vWCc93yxjUl2TPy2SGoIbdB25MAwD1CMvYigWNywn0Aw9UigfUDgLZCgfTlG','lsbHBNrPBwvUDgLVBIbZDxbWl3DHCM4VA2LJAYa6ietdQwzPBMLYigWNywn0Aw9UimoGigfWCgXPCxvLCG','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSysbWCM9TB3rPB24U','A2vSs0W','4P2mienVBw1HBMrLihldQxnLCNBdQwuGyxv4igDYB3vWzxmGDw5PCxvLBwvUDc4','AgLKzxrHzW','CNbAAuO','z3bW','tunnCge','t2vWs28','i3bW','CvrcvhK','yw50AwjVDcbZDxbWl3DHCM4VA2LJAYa6ienVBMzPz3vYzxiGBcDHy3rPB24Gyw50AwjVDc4','4Os577Ipief1y3vUzsbKzw1HBMrLigvUigf0DgvUDguU','yw50AxbYB21VDgu','ig9UDcddQxtdQsbYW6LPBML0AwfSAxpdQxmU','seThzw4','z3jVDxbdCMvHDgu','vKznuLu','B2PQy1i','sw1WB3nZAwjSzsbKj2v4y2X1CMuGDw4GywrTAw5PC3rYyxrLDxiGzhuGz3jVDxbLlG','zxrwvNa','sur6Duq','4PYfieXPBwL0zsbKj2f2zxj0AxnZzw1LBNrZigtdQwzPBMLLimoGia','whfnvxe','suvgqNC','ihbLCNnVBM5HBgLZW6KUcJpVUi/IG6mGkG','lI4VBgLIl292BgnTza','ugvYBwv0igrLignOyw5NzxiGBgeGzgvZy3jPChrPB24GzcD1BIbNCM91Cgu','CgjvCui','BNn6z3C','B29wvhm','8j+xKE+4JW','mNWWFdn8nhWX','yw50AxrHzW','vvrJCKW','rxjYzxvYigXVCNmGzguGBgeGC3vWChjLC3nPB24GzguGBgeGufaGoG','BM90Awz5','q2fivKe','q29TBwfUzguGDxrPBgLZywjSzsb1BMLXDwvTzw50igrHBNmGBgvZigDYB3vWzxmU','C2vHCMnO','C3rHCNrZv2L0Aa','BxftuwW','cVcFK4OGvg90ywWGD2fYBNmGoIa','vuPHsLu','DMX3y04','u1v3qMK','tgXYz0q','wuvqz1m','ugvYBwv0igrLihjLAM9PBMrYzsb1BIbNCM91CguGDMLHihvUigXPzw4GzcDPBNzPDgf0Aw9U','veLbqNq','AMuGBIDHAsbWyxmGBgvZigrYB2L0CYbYzxf1AxmGCg91CIbLEmoPy3v0zxiGy2v0DguGy29TBwfUzgu','AMnMANq','q29TBwfUzguGCg91CIbZDxbWCMLTzxiGBgeGCgHVDg8GzguGChjVzMLSigqNDw4Gz3jVDxbL','q3jgyNm','4PwW4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4Pwq4QYJcG','vMv1AwXSzxOGzM91CM5PCIb1BMuGCxvLC3rPB24GC3vPDMLLigrLCYbVChrPB25ZlcbZW6LWyxldQwvZihbHCIbKzxmGDMLYz3vSzxmUiev4zw1WBguGoIbWB2XSihf1zxn0Aw9Uo29WDgLVBJeSB3b0Aw9UmIXVChrPB24Z','CgfYDgfNzxiGDw4GBwvZC2fNzsddOcb0B3vZigXLCYbTzw1ICMvZigqNDw4Gz3jVDxbL','B2vXDxe','q2v0DguGy29TBwfUzguGBMuGzM9Uy3rPB25UzsbXDwuGzgfUCYbSzxmGz3jVDxbLCW','4P2mievYCMv1CIa','sMuGBIDHAsbWyxmGBgvZigrYB2L0CYbYzxf1AxmGCg91CIbLEmoPy3v0zxiGy2v0DguGy29TBwfUzguU','ru5jsM0','4Psc8j+sRcbnzxnZywDLidOGkG','A1Hrrgq','yxbWCM92zq','EMLRwvC','ywT3Eeu','twvUDgLVBM5LEIb1BMuGAw1Hz2uU','EMHkzwm','C3rPy2TLCK1LC3nHz2u','B3vmwee','ihbVDxiG','vM91CYbUj2f2zxOGCgfZigXHihbLCM1PC3nPB24U','4P2mimojy2HLyYbKzsbS4OczzxHJBhvZAw9UigvUig1HC3nLlIbdzxj0ywLUCYbTzw1ICMvZig7IGjLVBNqGCgv1Dc3dQNrYzsbWyxmGW6L0W6KGCMv0AxldQxmU','zfPpuM0','v3viD0y','q2v0DguGy29TBwfUzguGzxn0ihldQxnLCNBdQwuGyxv4igfKBwLUAxn0CMf0zxvYCYbKDsbNCM91Cgu','q29TBwfUzguGCg91CIb0ywD1zxiGDg91CYbSzxmGBwvTyNjLCYbKj3vUigDYB3vWzq','r2LUugi','y2XVC2u','BKfKBem','4P2mifnLDwWGBguGC3vWzxjHzg1PBIWGBguGy3ldQwf0zxvYigr1igDYB3vWzsWGBguGy3ldQwf0zxvYigr1igjVDcbVDsb1BIbKzxyGCgv1Dcb1DgLSAxnLCIbJzxr0zsbJB21Tyw5Kzs4','qwn0AxzLig91igtdQxnHy3rPDMuGBcDHBgvYDguGzguGChjVBw90Aw9U','qvbyAfq','tcDHBNrPBwvUDgLVBIbHimoPDmoPia','rKXQAKe','BhD3ExO','qKjQy2C','mte5ntKXne9yA2jlBW','suq6ia','z3HUCxO','u2v1BhmGBgvZigfKBwLUAxn0CMf0zxvYCYbWzxv2zw50ihv0AwXPC2vYignLDhrLignVBw1HBMrLlG','ihldQwLUAxrPywXPC8oPigf1EcbWyxjHBCoODhjLCYbWyxiGzmoPzMf1Dc4','cK5VBtOG','mZiYnZmYoefLAwLWqG','zMLSDgvY','ugvYBwv0igrLignOyw5NzxiGBguGBM9TigqNDw4Gz3jVDxbL','vevSChi','BgvIEgq','Bw92','vM91CYbHDMv6ihjLAM9PBNqGBguGz3jVDxbLigf2zwmGC3vJy8oOCY4','q3ldQwuGDw4GC29UzgfNzsbKyw5ZigXLigDYB3vWzsHWBhvZAwv1CNmGDM90W6LZigf1Dg9YAxpdQsKU','tguGBgLLBIbKj2LUDML0yxrPB24GysddQxtdQsbsW6LPBML0AwfSAxpdQs4','AM9PBG','sNPMwLC','tcDby3rPB24GzguGBcDHBNrPBgLUAYbKW6LMAw5PzsbZDxiG','CMvWBgfJzq','C3vIAMvJDa','DfHIqwi','y2uGBwvTyNjLigvZDcbKW6LQW6aGDw4GywrTAw5PC3rYyxrLDxiGzhuGz3jVDxbLlG','iIOGy3ldQCoPigf2zwmGC3vJy8oOCYaH','Dgv4Da','suPyy1O','C0vKyui','wxjNsuO','DhjHBNnWyxjLBNq','lNzJzG','zgvTB3rL','4PwT4Psa4Psa4Psa44cuicbuquCGquXmiooaLEkuGokuGokuGokSOWO','qwn0AxzLig91ignVBMzPz3vYzsbSj2fUDgLZCgfTihbVDxiGBgvZigDYB3vWzxm','igDLDcOG4OctiefMzMLJAguGBguGBwvZC2fNzsa','rxjYzxvYigXVCNmGzhuGy2HHBMDLBwvUDcbKzsbquca6','vg91DcbSzsbTB25KzsbWzxv0ig1VzgLMAwvYigXLCYbWyxjHBCoODhjLCYbKDsbNCM91Cgu','4P2mienLDhrLignVBw1HBMrLigzVBMn0Aw9UBMuGDw5PCxvLBwvUDcbKyw5ZigXLCYbNCM91CgvZlG','yxbWBhK','sKDPtKm','Bxa0','zKvtuuu','4Os577Ipia','z29Vzgj5zv9TC2C','yw50AxnWyw0GB24VB2zMidOGqwn0AxzLCIbVDsbKW6LZywn0AxzLCIbSj2fUDgLZCgfTlGO','tw9KzsbKW6LMAw5PidOGDg91DcbSzsbTB25KzsbWzxv0igvUDM95zxiGzgvZig1LC3nHz2vZlG','C2f2zq','ig9Ul29MzIOG4OctiefJDgL2zsbVDsbKW6LZywn0AxzLigXLCYbTzxnZywDLCYbKzsa','C3vWCa','zmoPC2fJDgL2W6K'];_0x52ec=function(){return _0x3fce3a;};return _0x52ec();}const {ovlcmd}=require(_0x1ecd6c(0x24f)),{Sticker,StickerTypes}=require(_0x1ecd6c(0x205)),{Antilink}=require(_0x1ecd6c(0x2d9)),{Antitag}=require(_0x1ecd6c(0x42d)),{Antibot}=require(_0x1ecd6c(0x372)),{GroupSettings,Events2}=require(_0x1ecd6c(0x330)),fs=require('fs'),{setWarn,delWarn,getLimit,setLimit}=require(_0x1ecd6c(0x395)),{Antimention}=require(_0x1ecd6c(0x3c0)),{Ranks}=require(_0x1ecd6c(0x376)),{Antispam}=require(_0x1ecd6c(0x35c));ovlcmd({'nom_cmd':_0x1ecd6c(0x2fc),'classe':_0x1ecd6c(0x423),'react':'💬','desc':_0x1ecd6c(0x282)},async(_0x46562b,_0x3ac317,_0x374a7e)=>{const _0x487a80=_0x1ecd6c,_0x321e00={'TTUJt':function(_0x29e43e,_0x510d5c){return _0x29e43e(_0x510d5c);},'HKGen':function(_0xcefc3e,_0x5b978f){return _0xcefc3e(_0x5b978f);},'nmRBV':_0x487a80(0x354)};try{const {ms:_0x34ce0c,repondre:_0x13e4c8,arg:_0x4ea35e,mbre_membre:_0x18ba48,verif_Groupe:_0x2c90ac,infos_Groupe:_0x412a40,nom_Auteur_Message:_0x30697b,verif_Admin:_0x5535ce}=_0x374a7e;if(!_0x2c90ac)return _0x321e00[_0x487a80(0x3c2)](_0x13e4c8,_0x487a80(0x26f));const _0x4329c8=_0x4ea35e&&_0x4ea35e[_0x487a80(0x2d4)]>0x0?_0x4ea35e[_0x487a80(0x29c)]('\x20'):'';let _0x564dde=_0x487a80(0x2ab);_0x564dde+='│👤\x20Auteur\x20:\x20*'+_0x30697b+'*\x0a',_0x564dde+=_0x487a80(0x273)+_0x4329c8+_0x487a80(0x38a),_0x18ba48['forEach'](_0x44eb91=>{_0x564dde+='│◦❒\x20@'+_0x44eb91['id']['split']('@')[0x0]+'\x0a';}),_0x564dde+=_0x487a80(0x26b),_0x5535ce?await _0x3ac317[_0x487a80(0x3cd)](_0x46562b,{'text':_0x564dde,'mentions':_0x18ba48[_0x487a80(0x412)](_0x5905a4=>_0x5905a4['id'])},{'quoted':_0x34ce0c}):_0x321e00[_0x487a80(0x244)](_0x13e4c8,_0x487a80(0x21a));}catch(_0x98852f){console[_0x487a80(0x2c7)](_0x321e00[_0x487a80(0x415)],_0x98852f);}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x21c),'classe':_0x1ecd6c(0x423),'react':'💬','desc':_0x1ecd6c(0x302)},async(_0x5bbd24,_0x25215c,_0x2d527c)=>{const _0x446efe=_0x1ecd6c,_0x568781={'wCoam':function(_0x2d562f,_0x1abf14){return _0x2d562f(_0x1abf14);},'ZGVbI':_0x446efe(0x26f),'bzfpD':function(_0x97660a,_0xcb74df){return _0x97660a>_0xcb74df;},'JjUah':function(_0x328094,_0x4c3d00){return _0x328094===_0x4c3d00;},'XnUmy':function(_0x9a8cad,_0x65b952){return _0x9a8cad(_0x65b952);},'YEPgS':_0x446efe(0x3ed),'EmsEj':_0x446efe(0x21a),'SdgBp':_0x446efe(0x3e6)};try{const {ms:_0xce4e97,repondre:_0x18dd20,arg:_0x3cff0a,verif_Groupe:_0x4d6580,mbre_membre:_0x445371,infos_Groupe:_0x377187,nom_Auteur_Message:_0x21e470,verif_Admin:_0x1c3feb}=_0x2d527c;if(!_0x4d6580)return _0x568781[_0x446efe(0x335)](_0x18dd20,_0x568781[_0x446efe(0x416)]);const _0x2cc9d1=_0x3cff0a&&_0x568781[_0x446efe(0x379)](_0x3cff0a[_0x446efe(0x2d4)],0x0)?_0x3cff0a[_0x446efe(0x29c)]('\x20'):'',_0x18b1f0=_0x445371[_0x446efe(0x294)](_0x376d93=>_0x376d93[_0x446efe(0x34c)])[_0x446efe(0x412)](_0x281da0=>_0x281da0['id']);if(_0x568781[_0x446efe(0x3af)](_0x18b1f0[_0x446efe(0x2d4)],0x0))return _0x568781['XnUmy'](_0x18dd20,_0x568781[_0x446efe(0x264)]);let _0x164c84=_0x446efe(0x428);_0x164c84+=_0x446efe(0x309)+_0x21e470+'*\x0a',_0x164c84+=_0x446efe(0x273)+_0x2cc9d1+_0x446efe(0x38a),_0x445371[_0x446efe(0x401)](_0x15ea9f=>{const _0x23ba81=_0x446efe;_0x15ea9f[_0x23ba81(0x34c)]&&(_0x164c84+=_0x23ba81(0x3bd)+_0x15ea9f['id'][_0x23ba81(0x342)]('@')[0x0]+'\x0a');}),_0x164c84+=_0x446efe(0x26b),_0x1c3feb?await _0x25215c['sendMessage'](_0x5bbd24,{'text':_0x164c84,'mentions':_0x18b1f0},{'quoted':_0xce4e97}):_0x568781[_0x446efe(0x335)](_0x18dd20,_0x568781[_0x446efe(0x3a9)]);}catch(_0x4abfb1){console[_0x446efe(0x2c7)](_0x568781[_0x446efe(0x44e)],_0x4abfb1);}}),ovlcmd({'nom_cmd':'tag','classe':_0x1ecd6c(0x423),'react':'💬','alias':['htag',_0x1ecd6c(0x239)],'desc':_0x1ecd6c(0x26d)},async(_0x5d2459,_0x34df7d,_0x2b9fbe)=>{const _0x43a64b=_0x1ecd6c,_0x3f09b3={'sjfGZ':function(_0x456dce,_0x53662a){return _0x456dce(_0x53662a);},'DEuEI':_0x43a64b(0x26f),'sTZCb':_0x43a64b(0x31d),'KmRdb':_0x43a64b(0x227),'yzWjQ':_0x43a64b(0x2a8),'qrWAe':function(_0x15ffd9,_0x4ce08b){return _0x15ffd9(_0x4ce08b);},'MTPSv':_0x43a64b(0x41d),'ouLXA':_0x43a64b(0x281)},{repondre:_0x25a7f3,msg_Repondu:_0x25638b,verif_Groupe:_0x1d0210,infos_Groupe:_0x7b2250,arg:_0x429583,verif_Admin:_0x3caf43,ms:_0x3b407f}=_0x2b9fbe;if(!_0x1d0210){_0x3f09b3['sjfGZ'](_0x25a7f3,_0x3f09b3['DEuEI']);return;}if(_0x3caf43){let _0x3964af=_0x7b2250,_0x34574c=_0x3964af[_0x43a64b(0x311)][_0x43a64b(0x412)](_0x12985a=>_0x12985a['id']),_0x16fecc;if(_0x25638b){if(_0x25638b[_0x43a64b(0x34d)]){let _0x218c6a=await _0x34df7d['dl_save_media_ms'](_0x25638b[_0x43a64b(0x34d)]);_0x16fecc={'image':{'url':_0x218c6a},'caption':_0x25638b[_0x43a64b(0x34d)][_0x43a64b(0x3a6)],'mentions':_0x34574c};}else{if(_0x25638b[_0x43a64b(0x2d3)]){let _0x343072=await _0x34df7d[_0x43a64b(0x328)](_0x25638b[_0x43a64b(0x2d3)]);_0x16fecc={'video':{'url':_0x343072},'caption':_0x25638b[_0x43a64b(0x2d3)][_0x43a64b(0x3a6)],'mentions':_0x34574c};}else{if(_0x25638b[_0x43a64b(0x1fe)]){let _0x2d2f7a=await _0x34df7d[_0x43a64b(0x328)](_0x25638b[_0x43a64b(0x1fe)]);_0x16fecc={'audio':{'url':_0x2d2f7a},'mimetype':_0x3f09b3[_0x43a64b(0x399)],'mentions':_0x34574c};}else{if(_0x25638b[_0x43a64b(0x27a)]){let _0x38aa1a=await _0x34df7d[_0x43a64b(0x328)](_0x25638b['stickerMessage']),_0x21da7e=new Sticker(_0x38aa1a,{'pack':_0x3f09b3[_0x43a64b(0x2e1)],'type':StickerTypes[_0x43a64b(0x201)],'quality':0x50,'background':_0x3f09b3[_0x43a64b(0x2c6)]});const _0x72eeee=await _0x21da7e[_0x43a64b(0x33e)]();_0x16fecc={'sticker':_0x72eeee,'mentions':_0x34574c};}else _0x16fecc={'text':_0x25638b[_0x43a64b(0x1f2)]||_0x25638b[_0x43a64b(0x3d1)]?.['text'],'mentions':_0x34574c};}}}_0x34df7d[_0x43a64b(0x3cd)](_0x5d2459,_0x16fecc,{'quoted':_0x3b407f});}else{if(!_0x429583||!_0x429583[0x0]){_0x3f09b3[_0x43a64b(0x20b)](_0x25a7f3,_0x3f09b3[_0x43a64b(0x436)]);return;}_0x34df7d[_0x43a64b(0x3cd)](_0x5d2459,{'text':_0x429583['join']('\x20'),'mentions':_0x34574c},{'quoted':_0x3b407f});}}else _0x3f09b3[_0x43a64b(0x20b)](_0x25a7f3,_0x3f09b3[_0x43a64b(0x27b)]);}),ovlcmd({'nom_cmd':'poll','classe':_0x1ecd6c(0x423),'react':'📊','desc':_0x1ecd6c(0x29a)},async(_0x2b2df0,_0x93a6f1,_0x1a7add)=>{const _0xc25fc6=_0x1ecd6c,_0x24601c={'RmPrg':_0xc25fc6(0x437),'lpHXu':function(_0x15a79c,_0xe3a8c7){return _0x15a79c(_0xe3a8c7);},'GAXam':_0xc25fc6(0x26c),'bVIAw':function(_0xc93f77,_0x316066){return _0xc93f77<_0x316066;},'PJlNX':_0xc25fc6(0x30a),'GouBB':function(_0x1e753d,_0x5cd5d7){return _0x1e753d(_0x5cd5d7);},'fpZCI':_0xc25fc6(0x290),'ZifBD':_0xc25fc6(0x41f),'vzOIH':function(_0x58537d,_0x4b454d){return _0x58537d(_0x4b454d);},'qFpGB':'Une\x20erreur\x20est\x20survenue\x20lors\x20de\x20la\x20création\x20du\x20sondage.'};try{const {ms:_0x5b90bb,repondre:_0x3287a7,arg:_0x58da5c,verif_Groupe:_0x4ac3d7,infos_Groupe:_0x32f868,nom_Auteur_Message:_0x16a96c,verif_Admin:_0xd7964a}=_0x1a7add;if(!_0x4ac3d7)return _0x3287a7(_0x24601c[_0xc25fc6(0x20a)]);let [_0x52f322,_0x5e8aa5]=_0x58da5c[_0xc25fc6(0x29c)]('\x20')[_0xc25fc6(0x342)](';');if(!_0x5e8aa5)return _0x24601c[_0xc25fc6(0x345)](_0x3287a7,_0x24601c[_0xc25fc6(0x41e)]);let _0xf13aa3=_0x5e8aa5[_0xc25fc6(0x342)](',')[_0xc25fc6(0x412)](_0x215646=>_0x215646['trim']())['filter'](_0x3f2141=>_0x3f2141[_0xc25fc6(0x2d4)]>0x0);if(_0x24601c[_0xc25fc6(0x3de)](_0xf13aa3['length'],0x2))return _0x24601c[_0xc25fc6(0x345)](_0x3287a7,_0x24601c['PJlNX']);_0xd7964a?await _0x93a6f1['sendMessage'](_0x2b2df0,{'poll':{'name':_0x52f322,'values':_0xf13aa3}},{'quoted':_0x5b90bb}):_0x24601c[_0xc25fc6(0x1f3)](_0x3287a7,_0x24601c[_0xc25fc6(0x33b)]);}catch(_0x21dfa2){console[_0xc25fc6(0x2c7)](_0x24601c[_0xc25fc6(0x381)],_0x21dfa2),_0x24601c[_0xc25fc6(0x2ea)](repondre,_0x24601c['qFpGB']);}}),ovlcmd({'nom_cmd':'poll2','classe':_0x1ecd6c(0x423),'react':'📊','desc':_0x1ecd6c(0x349)},async(_0x2252ec,_0x2715da,_0x3f1838)=>{const _0x6c113b=_0x1ecd6c,_0x577220={'xychG':function(_0x1d2450,_0x279ec0){return _0x1d2450(_0x279ec0);},'nWrAx':'Cette\x20commande\x20ne\x20fonctionne\x20que\x20dans\x20les\x20groupes.','rpZiJ':'Veuillez\x20fournir\x20une\x20question\x20suivie\x20des\x20options,\x20séparées\x20par\x20des\x20virgules.\x20Exemple\x20:\x20poll\x20question;option1,option2,option3','FOWYW':function(_0x14fb9e,_0x100bfd){return _0x14fb9e<_0x100bfd;},'IEFBw':function(_0x185bae,_0x374e3c){return _0x185bae(_0x374e3c);},'knXUI':_0x6c113b(0x30a),'YrgIJ':_0x6c113b(0x41f)};try{const {ms:_0x4ef8e2,repondre:_0x1c62da,arg:_0x80b717,verif_Groupe:_0x1c04ba,infos_Groupe:_0x2a3f4d,nom_Auteur_Message:_0x3c7c3e,verif_Admin:_0x1c864a}=_0x3f1838;if(!_0x1c04ba)return _0x577220[_0x6c113b(0x204)](_0x1c62da,_0x577220[_0x6c113b(0x35a)]);let [_0x31f7a8,_0x5bd808]=_0x80b717[_0x6c113b(0x29c)]('\x20')[_0x6c113b(0x342)](';');if(!_0x5bd808)return _0x577220['xychG'](_0x1c62da,_0x577220[_0x6c113b(0x23a)]);let _0xcfc1ff=_0x5bd808[_0x6c113b(0x342)](',')[_0x6c113b(0x412)](_0x8267d7=>_0x8267d7[_0x6c113b(0x443)]())[_0x6c113b(0x294)](_0x2a8987=>_0x2a8987[_0x6c113b(0x2d4)]>0x0);if(_0x577220[_0x6c113b(0x43d)](_0xcfc1ff[_0x6c113b(0x2d4)],0x2))return _0x577220[_0x6c113b(0x24d)](_0x1c62da,_0x577220[_0x6c113b(0x2cf)]);_0x1c864a?await _0x2715da[_0x6c113b(0x3cd)](_0x2252ec,{'poll':{'name':_0x31f7a8,'values':_0xcfc1ff,'selectableCount':0x1}},{'quoted':_0x4ef8e2}):_0x577220[_0x6c113b(0x204)](_0x1c62da,'Seuls\x20les\x20administrateurs\x20peuvent\x20utiliser\x20cette\x20commande.');}catch(_0xc58efa){console[_0x6c113b(0x2c7)](_0x577220[_0x6c113b(0x2a7)],_0xc58efa),repondre(_0x6c113b(0x2f8));}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x3f8),'classe':'Groupe','react':'🛑','desc':_0x1ecd6c(0x348)},async(_0x3076b7,_0x259a5b,_0xff8b59)=>{const _0x5d016e=_0x1ecd6c,_0x31f929={'rHisb':function(_0x3fc2db,_0x1e7893){return _0x3fc2db||_0x1e7893;},'VFMRU':_0x5d016e(0x3ef),'rRAUW':_0x5d016e(0x400),'kpOoF':'remove','mIrKR':'Erreur\x20:','XZdga':'Une\x20erreur\x20est\x20survenue\x20lors\x20de\x20l\x27exclusion.','JGiNC':_0x5d016e(0x30d)},{verif_Groupe:_0xed7c4f,getJid:_0x686e9,auteur_Msg_Repondu:_0x5b25d1,arg:_0x3ed93b,infos_Groupe:_0x9a6c1,verif_Admin:_0x36b0d2,verif_Ovl_Admin:_0x2aef4c,prenium_id:_0x207930,dev_num:_0x4540c9,ms:_0x5c7970}=_0xff8b59;if(!_0xed7c4f)return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x5d016e(0x25b)},{'quoted':_0x5c7970});if(_0x31f929[_0x5d016e(0x40c)](_0x207930,_0x36b0d2)){const _0x40fe68=await _0x9a6c1[_0x5d016e(0x311)],_0x3d7031=_0x40fe68['filter'](_0x2bc22f=>_0x2bc22f[_0x5d016e(0x34c)])[_0x5d016e(0x412)](_0x4f7013=>_0x4f7013[_0x5d016e(0x3a2)]),_0x207dd2=_0x5b25d1||_0x3ed93b[0x0]?.[_0x5d016e(0x411)]('@')&&_0x3ed93b[0x0][_0x5d016e(0x29f)]('@','')+_0x5d016e(0x2c1),_0x59490f=await _0x686e9(_0x207dd2,_0x3076b7,_0x259a5b);if(!_0x2aef4c)return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x31f929[_0x5d016e(0x246)]},{'quoted':_0x5c7970});if(!_0x59490f||!_0x40fe68[_0x5d016e(0x3b4)](_0x157a6d=>_0x157a6d[_0x5d016e(0x3a2)]===_0x59490f))return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x31f929['rRAUW']},{'quoted':_0x5c7970});if(_0x3d7031['includes'](_0x59490f))return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x5d016e(0x248)},{'quoted':_0x5c7970});if(_0x4540c9[_0x5d016e(0x411)](_0x59490f))return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x5d016e(0x383)},{'quoted':_0x5c7970});try{await _0x259a5b['groupParticipantsUpdate'](_0x3076b7,[_0x59490f],_0x31f929['kpOoF']),_0x259a5b['sendMessage'](_0x3076b7,{'text':'@'+_0x59490f[_0x5d016e(0x342)]('@')[0x0]+_0x5d016e(0x2e0),'mentions':[_0x59490f]},{'quoted':_0x5c7970});}catch(_0x10fa28){console[_0x5d016e(0x2c7)](_0x31f929[_0x5d016e(0x3d2)],_0x10fa28),_0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x31f929[_0x5d016e(0x215)]},{'quoted':_0x5c7970});}}else return _0x259a5b[_0x5d016e(0x3cd)](_0x3076b7,{'text':_0x31f929[_0x5d016e(0x2b2)]},{'quoted':_0x5c7970});;}),ovlcmd({'nom_cmd':'kickall','classe':_0x1ecd6c(0x423),'react':'🛑','desc':_0x1ecd6c(0x210)},async(_0x247678,_0x457cf0,_0x43985a)=>{const _0x532457=_0x1ecd6c,_0x51a3e2={'bjBEP':_0x532457(0x25b),'nAdlC':_0x532457(0x3ef),'DWJEX':_0x532457(0x44f),'tXSiq':function(_0x1720e1,_0x48a592){return _0x1720e1===_0x48a592;},'XMnZV':_0x532457(0x1f9),'IBPRz':'⚠️\x20Kickall\x20va\x20commencer\x20dans\x205\x20secondes.\x0aEnvoyez\x20\x27stop\x27\x20pour\x20annuler.','lebxd':function(_0x1ee672,_0x8bdbe6,_0x17486a,_0x5739ff){return _0x1ee672(_0x8bdbe6,_0x17486a,_0x5739ff);},'ssJVr':function(_0x5884e1,_0x43ad14){return _0x5884e1===_0x43ad14;},'NELgA':'⛔\x20Kickall\x20annulé\x20!','olLIa':_0x532457(0x313)},{verif_Groupe:_0x27948f,infos_Groupe:_0x20f077,ms:_0x7d076,auteur_Message:_0x456170,verif_Ovl_Admin:_0x477fa0,dev_num:_0x33d8c7,id_Bot:_0x560d23,getJid:_0x491280}=_0x43985a;if(!_0x27948f)return _0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':_0x51a3e2[_0x532457(0x425)]},{'quoted':_0x7d076});const _0x11853f=_0x20f077[_0x532457(0x311)];let _0x3df320=_0x11853f[_0x532457(0x3b4)](_0x288c54=>_0x288c54['admin']===_0x532457(0x2f0))?.[_0x532457(0x3a2)];if(!_0x3df320)_0x3df320=_0x11853f[0x0]?.[_0x532457(0x3a2)];if(![_0x3df320,_0x560d23,..._0x33d8c7]['includes'](_0x456170))return _0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':_0x532457(0x357)},{'quoted':_0x7d076});if(!_0x477fa0)return _0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':_0x51a3e2[_0x532457(0x285)]},{'quoted':_0x7d076});const _0x4c1d55=await GroupSettings['findOne']({'where':{'id':_0x247678}});if(_0x4c1d55?.[_0x532457(0x390)]===_0x532457(0x33a))return _0x457cf0['sendMessage'](_0x247678,{'text':_0x51a3e2[_0x532457(0x3fe)]},{'quoted':_0x7d076});const _0x854cda=_0x11853f['filter'](_0x3b30c0=>!_0x3b30c0[_0x532457(0x34c)]&&!_0x33d8c7[_0x532457(0x411)](_0x3b30c0[_0x532457(0x3a2)]))[_0x532457(0x412)](_0x12446c=>_0x12446c['phoneNumber']);if(_0x51a3e2[_0x532457(0x218)](_0x854cda[_0x532457(0x2d4)],0x0))return _0x457cf0['sendMessage'](_0x247678,{'text':_0x51a3e2[_0x532457(0x216)]},{'quoted':_0x7d076});await _0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':_0x51a3e2[_0x532457(0x34e)]},{'quoted':_0x7d076}),await new Promise(_0x33c509=>setTimeout(_0x33c509,0x1388));let _0x3b07ef=![];for(const _0x54829b of _0x854cda){const _0x1de378=await _0x457cf0[_0x532457(0x3fd)]({'ms_org':_0x247678,'temps':0x493e0}),_0x335b06=(_0x1de378?.[_0x532457(0x408)]?.['conversation']||_0x1de378?.[_0x532457(0x408)]?.[_0x532457(0x3d1)]?.[_0x532457(0x2a4)]||'')[_0x532457(0x443)]()[_0x532457(0x341)](),_0x2e9596=_0x1de378?.[_0x532457(0x427)]?.[_0x532457(0x331)]||_0x1de378?.['key']?.[_0x532457(0x2ed)],_0x4ffbe9=await _0x51a3e2[_0x532457(0x297)](_0x491280,_0x2e9596,_0x247678,_0x457cf0);if(_0x51a3e2[_0x532457(0x39e)](_0x335b06,'stop')&&[_0x3df320,_0x560d23,..._0x33d8c7]['includes'](_0x4ffbe9)){_0x3b07ef=!![],await _0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':_0x51a3e2[_0x532457(0x40f)]},{'quoted':_0x7d076});break;}try{await _0x457cf0[_0x532457(0x3fc)](_0x247678,[_0x54829b],_0x51a3e2[_0x532457(0x36b)]),await new Promise(_0x20c79d=>setTimeout(_0x20c79d,0x1f4));}catch(_0x39acac){console[_0x532457(0x2c7)](_0x532457(0x449)+_0x54829b+'\x20:',_0x39acac);}}if(!_0x3b07ef)_0x457cf0[_0x532457(0x3cd)](_0x247678,{'text':'✅\x20'+_0x854cda[_0x532457(0x2d4)]+_0x532457(0x3f9)},{'quoted':_0x7d076});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x3c8),'classe':_0x1ecd6c(0x423),'react':'🚫','desc':_0x1ecd6c(0x36a)},async(_0x272582,_0xbee4fe,_0x11b20c)=>{const _0x464cba=_0x1ecd6c,_0x13ff24={'rlSZX':_0x464cba(0x35f),'zVIIV':_0x464cba(0x286),'oUceE':_0x464cba(0x20c),'pbUqB':function(_0x21afa4,_0x56e5d4){return _0x21afa4===_0x56e5d4;},'OpUPg':_0x464cba(0x33a),'JorIo':_0x464cba(0x446),'oMIxn':function(_0x5066fa,_0x3f1a71){return _0x5066fa===_0x3f1a71;},'jkSNd':_0x464cba(0x3b7),'fAWSu':'remove','UTcrL':_0x464cba(0x440)},{verif_Groupe:_0xb7dbbd,verif_Ovl_Admin:_0x4c3db3,infos_Groupe:_0xc6566e,dev_num:_0x2c8772,ms:_0x2e0b94,auteur_Message:_0x2b3df7,id_Bot:_0x3ccf39}=_0x11b20c;if(!_0xb7dbbd)return _0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x13ff24[_0x464cba(0x418)]},{'quoted':_0x2e0b94});const _0x18ceff=_0xc6566e[_0x464cba(0x311)];let _0x324473=_0x18ceff['find'](_0x151f8d=>_0x151f8d[_0x464cba(0x34c)]===_0x464cba(0x2f0))?.[_0x464cba(0x3a2)];if(!_0x324473)_0x324473=_0x18ceff[0x0]?.[_0x464cba(0x3a2)];if(![_0x324473,_0x3ccf39,..._0x2c8772][_0x464cba(0x411)](_0x2b3df7))return _0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x13ff24[_0x464cba(0x420)]},{'quoted':_0x2e0b94});if(!_0x4c3db3)return _0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x13ff24[_0x464cba(0x31b)]},{'quoted':_0x2e0b94});const _0x3dbe9f=await GroupSettings[_0x464cba(0x1fc)]({'where':{'id':_0x272582}});if(_0x13ff24[_0x464cba(0x251)](_0x3dbe9f?.['goodbye'],_0x13ff24[_0x464cba(0x22c)]))return _0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x13ff24[_0x464cba(0x22b)],'quoted':_0x2e0b94});const _0x403ae2=_0x18ceff[_0x464cba(0x294)](_0x1b1fc4=>!_0x1b1fc4[_0x464cba(0x34c)]&&!_0x2c8772[_0x464cba(0x411)](_0x1b1fc4['phoneNumber']))[_0x464cba(0x412)](_0x330937=>_0x330937[_0x464cba(0x3a2)]);if(_0x13ff24['oMIxn'](_0x403ae2[_0x464cba(0x2d4)],0x0))return _0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x13ff24['jkSNd']},{'quoted':_0x2e0b94});try{await _0xbee4fe['groupParticipantsUpdate'](_0x272582,_0x403ae2,_0x13ff24['fAWSu']),_0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':'✅\x20'+_0x403ae2[_0x464cba(0x2d4)]+_0x464cba(0x3f9),'quoted':_0x2e0b94});}catch(_0x49dbbc){console['error'](_0x13ff24[_0x464cba(0x257)],_0x49dbbc),_0xbee4fe[_0x464cba(0x3cd)](_0x272582,{'text':_0x464cba(0x27e)},{'quoted':_0x2e0b94});}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x2e3),'classe':'Groupe','react':'🛑','desc':_0x1ecd6c(0x2d7)},async(_0x448cbc,_0x581094,_0x47de2d)=>{const _0x32c3c3=_0x1ecd6c,_0x3af166={'PeuUm':'Je\x20dois\x20être\x20administrateur\x20pour\x20effectuer\x20cette\x20action.','mVawz':function(_0x5549ef,_0x30503e){return _0x5549ef===_0x30503e;},'YxFjc':_0x32c3c3(0x33a),'GGYCt':_0x32c3c3(0x44f),'vvJtw':function(_0x310b37,_0x5a9963){return _0x310b37===_0x5a9963;}},{verif_Groupe:_0x41fa91,verif_Ovl_Admin:_0x3d5f59,infos_Groupe:_0x2d8b52,arg:_0x18f388,dev_num:_0x3a7493,ms:_0x1e0cd4,auteur_Message:_0x4ec2b0,id_Bot:_0x244a04}=_0x47de2d;if(!_0x41fa91)return _0x581094['sendMessage'](_0x448cbc,{'text':_0x32c3c3(0x25b)},{'quoted':_0x1e0cd4});const _0x1c2488=_0x2d8b52[_0x32c3c3(0x311)];let _0x4eb90c=_0x1c2488[_0x32c3c3(0x3b4)](_0x1e74e1=>_0x1e74e1['admin']===_0x32c3c3(0x2f0))?.[_0x32c3c3(0x3a2)];if(!_0x4eb90c)_0x4eb90c=_0x1c2488[0x0]?.[_0x32c3c3(0x3a2)];if(![_0x4eb90c,_0x244a04,..._0x3a7493]['includes'](_0x4ec2b0))return _0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':_0x32c3c3(0x286)},{'quoted':_0x1e0cd4});if(!_0x18f388[0x0])return _0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':_0x32c3c3(0x32e)},{'quoted':_0x1e0cd4});if(!_0x3d5f59)return _0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':_0x3af166[_0x32c3c3(0x22e)]},{'quoted':_0x1e0cd4});const _0x78c871=await GroupSettings['findOne']({'where':{'id':_0x448cbc}});if(_0x3af166[_0x32c3c3(0x42f)](_0x78c871?.[_0x32c3c3(0x390)],_0x3af166[_0x32c3c3(0x30c)]))return _0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':_0x3af166['GGYCt']},{'quoted':_0x1e0cd4});const _0x2adfc4=_0x18f388[0x0],_0x16ea44=_0x1c2488[_0x32c3c3(0x294)](_0x4b9606=>_0x4b9606['phoneNumber'][_0x32c3c3(0x25d)](_0x2adfc4)&&!_0x4b9606[_0x32c3c3(0x34c)]&&!_0x3a7493[_0x32c3c3(0x411)](_0x4b9606['phoneNumber']))[_0x32c3c3(0x412)](_0x3a4939=>_0x3a4939[_0x32c3c3(0x3a2)]);if(_0x3af166[_0x32c3c3(0x3e3)](_0x16ea44[_0x32c3c3(0x2d4)],0x0))return _0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':'Aucun\x20membre\x20non\x20admin\x20avec\x20l\x27indicatif\x20'+_0x2adfc4+'.'},{'quoted':_0x1e0cd4});for(const _0xdc69c4 of _0x16ea44){try{await _0x581094['groupParticipantsUpdate'](_0x448cbc,[_0xdc69c4],'remove'),await new Promise(_0x35d3b6=>setTimeout(_0x35d3b6,0x1f4));}catch(_0x32749d){console[_0x32c3c3(0x2c7)](_0x32c3c3(0x449)+_0xdc69c4+'\x20:',_0x32749d);}}_0x581094[_0x32c3c3(0x3cd)](_0x448cbc,{'text':'✅\x20'+_0x16ea44['length']+'\x20membre(s)\x20avec\x20l\x27indicatif\x20'+_0x2adfc4+_0x32c3c3(0x3f1)},{'quoted':_0x1e0cd4});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x370),'classe':_0x1ecd6c(0x423),'react':'⬆️','desc':_0x1ecd6c(0x2f7)},async(_0x5e914b,_0x2d89bc,_0x5c88be)=>{const _0x182028=_0x1ecd6c,_0x4acd2e={'kelKL':_0x182028(0x25b),'tbDvU':function(_0x110973,_0x15c5f7){return _0x110973||_0x15c5f7;},'MDAjt':function(_0x5ec7a5,_0x5be8df,_0x4fbfa6,_0x499a26){return _0x5ec7a5(_0x5be8df,_0x4fbfa6,_0x499a26);},'dZORm':_0x182028(0x3ef),'kxLFU':_0x182028(0x3cc),'TElpr':_0x182028(0x2a2),'VPpNf':_0x182028(0x370),'YfjhE':_0x182028(0x1f5),'rSaSR':_0x182028(0x30d)},{verif_Groupe:_0x1a9ed1,auteur_Msg_Repondu:_0x5c9ff8,arg:_0x171105,getJid:_0x23fa1e,infos_Groupe:_0x59d8be,verif_Admin:_0x5abc54,prenium_id:_0x3fb553,verif_Ovl_Admin:_0x43a1e6,ms:_0x5ab928}=_0x5c88be;if(!_0x1a9ed1)return _0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x4acd2e[_0x182028(0x237)]},{'quoted':_0x5ab928});if(_0x4acd2e['tbDvU'](_0x5abc54,_0x3fb553)){const _0x5188a1=await _0x59d8be[_0x182028(0x311)],_0x1af557=_0x5188a1['filter'](_0x50a5d7=>_0x50a5d7[_0x182028(0x34c)])[_0x182028(0x412)](_0x1a6bc6=>_0x1a6bc6[_0x182028(0x3a2)]),_0x215fd5=_0x5c9ff8||_0x171105[0x0]?.[_0x182028(0x411)]('@')&&_0x171105[0x0][_0x182028(0x29f)]('@','')+_0x182028(0x2c1),_0x17d26e=await _0x4acd2e['MDAjt'](_0x23fa1e,_0x215fd5,_0x5e914b,_0x2d89bc);if(!_0x43a1e6)return _0x2d89bc['sendMessage'](_0x5e914b,{'text':_0x4acd2e[_0x182028(0x27f)]},{'quoted':_0x5ab928});if(!_0x17d26e)return _0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x4acd2e[_0x182028(0x3eb)]},{'quoted':_0x5ab928});if(!_0x5188a1[_0x182028(0x3b4)](_0x356cc0=>_0x356cc0[_0x182028(0x3a2)]===_0x17d26e))return _0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x182028(0x400)},{'quoted':_0x5ab928});if(_0x1af557[_0x182028(0x411)](_0x17d26e))return _0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x4acd2e[_0x182028(0x296)]},{'quoted':_0x5ab928});try{await _0x2d89bc[_0x182028(0x3fc)](_0x5e914b,[_0x17d26e],_0x4acd2e['VPpNf']),_0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':'@'+_0x17d26e[_0x182028(0x342)]('@')[0x0]+_0x182028(0x44a),'mentions':[_0x17d26e]},{'quoted':_0x5ab928});}catch(_0x2b625c){console[_0x182028(0x2c7)](_0x4acd2e[_0x182028(0x3df)],_0x2b625c),_0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x182028(0x236)},{'quoted':_0x5ab928});}}else return _0x2d89bc[_0x182028(0x3cd)](_0x5e914b,{'text':_0x4acd2e['rSaSR']},{'quoted':_0x5ab928});}),ovlcmd({'nom_cmd':'demote','classe':'Groupe','react':'⬇️','desc':_0x1ecd6c(0x407)},async(_0x49bab3,_0x1de6aa,_0x5718c4)=>{const _0x48ab0f=_0x1ecd6c,_0x1e1fd1={'HiExC':_0x48ab0f(0x25b),'jkECX':function(_0x7c08cd,_0x59023d){return _0x7c08cd||_0x59023d;},'vlwcN':function(_0xe50e9c,_0x4aa09b,_0x3e6eac,_0x123780){return _0xe50e9c(_0x4aa09b,_0x3e6eac,_0x123780);},'aPwvN':'Veuillez\x20mentionner\x20un\x20membre\x20à\x20rétrograder.','dAktj':_0x48ab0f(0x3dd),'gbHtf':'Vous\x20ne\x20pouvez\x20pas\x20rétrograder\x20un\x20développeur.','DkheV':_0x48ab0f(0x2aa),'FtDxA':_0x48ab0f(0x1f5),'kWvTg':_0x48ab0f(0x3ab),'EUWit':_0x48ab0f(0x30d)},{verif_Groupe:_0x586d0b,getJid:_0x57a322,auteur_Msg_Repondu:_0x12babd,arg:_0x2bf397,infos_Groupe:_0x364154,verif_Admin:_0xcc701b,prenium_id:_0x490947,verif_Ovl_Admin:_0x333cff,dev_num:_0x450ed3,dev_id:_0x698708,ms:_0x589edb}=_0x5718c4;if(!_0x586d0b)return _0x1de6aa['sendMessage'](_0x49bab3,{'text':_0x1e1fd1[_0x48ab0f(0x3b3)]},{'quoted':_0x589edb});if(_0x1e1fd1['jkECX'](_0xcc701b,_0x490947)){const _0x389693=await _0x364154[_0x48ab0f(0x311)],_0x5427f7=_0x389693[_0x48ab0f(0x294)](_0x6b35e5=>_0x6b35e5[_0x48ab0f(0x34c)])[_0x48ab0f(0x412)](_0x9727d5=>_0x9727d5[_0x48ab0f(0x3a2)]),_0x1b0260=_0x12babd||_0x2bf397[0x0]?.[_0x48ab0f(0x411)]('@')&&_0x2bf397[0x0]['replace']('@','')+'@lid',_0x1b915c=await _0x1e1fd1[_0x48ab0f(0x261)](_0x57a322,_0x1b0260,_0x49bab3,_0x1de6aa);if(!_0x333cff)return _0x1de6aa['sendMessage'](_0x49bab3,{'text':'Je\x20dois\x20être\x20administrateur\x20pour\x20effectuer\x20cette\x20action.'},{'quoted':_0x589edb});if(!_0x1b915c)return _0x1de6aa['sendMessage'](_0x49bab3,{'text':_0x1e1fd1[_0x48ab0f(0x431)]},{'quoted':_0x589edb});if(!_0x389693[_0x48ab0f(0x3b4)](_0x51e3b1=>_0x51e3b1['phoneNumber']===_0x1b915c))return _0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':_0x48ab0f(0x400)});if(!_0x5427f7[_0x48ab0f(0x411)](_0x1b915c))return _0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':_0x1e1fd1[_0x48ab0f(0x363)]},{'quoted':_0x589edb});if(_0x450ed3[_0x48ab0f(0x411)](_0x1b915c))return _0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':_0x1e1fd1[_0x48ab0f(0x3da)]},{'quoted':_0x589edb});try{await _0x1de6aa[_0x48ab0f(0x3fc)](_0x49bab3,[_0x1b915c],_0x1e1fd1['DkheV']),_0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':'@'+_0x1b915c[_0x48ab0f(0x342)]('@')[0x0]+_0x48ab0f(0x2f1),'mentions':[_0x1b915c]},{'quoted':_0x589edb});}catch(_0x3e1d97){console[_0x48ab0f(0x2c7)](_0x1e1fd1['FtDxA'],_0x3e1d97),_0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':_0x1e1fd1['kWvTg']},{'quoted':_0x589edb});}}else return _0x1de6aa[_0x48ab0f(0x3cd)](_0x49bab3,{'text':_0x1e1fd1[_0x48ab0f(0x3ec)]},{'quoted':_0x589edb});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x347),'classe':'Groupe','react':'✅','desc':_0x1ecd6c(0x369)},async(_0x1e2363,_0x49822e,{arg:_0x1d7aaf,prenium_id:_0x191bf4,ms:_0x229163})=>{const _0x3d919f=_0x1ecd6c,_0x11cd2c={'UOmRW':function(_0x438169,_0x59c448){return _0x438169===_0x59c448;},'AOkdU':'❌\x20Erreur\x20lors\x20de\x20la\x20création\x20du\x20groupe\x20:'};if(!_0x191bf4)return _0x49822e[_0x3d919f(0x3cd)](_0x1e2363,{'text':'❌\x20Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20pour\x20créer\x20un\x20groupe.'},{'quoted':_0x229163});if(_0x11cd2c[_0x3d919f(0x2fd)](_0x1d7aaf['length'],0x0))return _0x49822e[_0x3d919f(0x3cd)](_0x1e2363,{'text':_0x3d919f(0x2d8)},{'quoted':_0x229163});const _0x83d8fb=_0x1d7aaf['join']('\x20');try{const _0x4a034c=await _0x49822e[_0x3d919f(0x245)](_0x83d8fb,[]);await _0x49822e[_0x3d919f(0x3cd)](_0x4a034c['id'],{'text':_0x3d919f(0x2cc)+_0x83d8fb+_0x3d919f(0x2a3)},{'quoted':_0x229163});}catch(_0x57c1aa){console[_0x3d919f(0x2c7)](_0x11cd2c['AOkdU'],_0x57c1aa),await _0x49822e[_0x3d919f(0x3cd)](_0x1e2363,{'text':_0x3d919f(0x344)},{'quoted':_0x229163});}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x41b),'classe':_0x1ecd6c(0x423),'react':'🔤','desc':_0x1ecd6c(0x250)},async(_0x2792ea,_0x8fd75f,_0x1be5e2)=>{const _0x8b0d14=_0x1ecd6c,_0x46067f={'IecqU':_0x8b0d14(0x25b),'tkdjz':function(_0x4ee712,_0x249bf3){return _0x4ee712&&_0x249bf3;},'RPlLV':'Entrez\x20la\x20nouvelle\x20description.','iWUyG':_0x8b0d14(0x267)},{verif_Groupe:_0x52d2ef,verif_Admin:_0x188723,verif_Ovl_Admin:_0x40b74f,msg_Repondu:_0x3167cb,arg:_0x37e25c,ms:_0x2aa5ae}=_0x1be5e2;if(!_0x52d2ef)return _0x8fd75f[_0x8b0d14(0x3cd)](_0x2792ea,{'text':_0x46067f['IecqU']},{'quoted':_0x2aa5ae});if(_0x46067f[_0x8b0d14(0x37b)](_0x188723,_0x40b74f)){let _0x24e273;if(_0x3167cb)_0x24e273=_0x3167cb[_0x8b0d14(0x1f2)]||_0x3167cb[_0x8b0d14(0x3d1)]?.['text'];else{if(_0x37e25c)_0x24e273=_0x37e25c[_0x8b0d14(0x29c)]('\x20');else return _0x8fd75f['sendMessage'](_0x2792ea,{'text':_0x46067f[_0x8b0d14(0x308)]},{'quoted':_0x2aa5ae});}await _0x8fd75f[_0x8b0d14(0x3c7)](_0x2792ea,_0x24e273);}else _0x8fd75f[_0x8b0d14(0x3cd)](_0x2792ea,{'text':_0x46067f[_0x8b0d14(0x3f7)]},{'quoted':_0x2aa5ae});}),ovlcmd({'nom_cmd':'gname','classe':_0x1ecd6c(0x423),'react':'🔤','desc':_0x1ecd6c(0x295)},async(_0x284db2,_0x41d340,_0x4d6234)=>{const _0x455611=_0x1ecd6c,_0xe2254f={'DORLd':'Entrez\x20un\x20nouveau\x20nom','COdOA':_0x455611(0x267)},{verif_Groupe:_0x3dd224,verif_Admin:_0x1d7a5b,verif_Ovl_Admin:_0x21a0e2,msg_Repondu:_0x127c3c,arg:_0x30c129,ms:_0x59115f}=_0x4d6234;if(!_0x3dd224)return _0x41d340['sendMessage'](_0x284db2,{'text':_0x455611(0x25b)},{'quoted':_0x59115f});if(_0x1d7a5b&&_0x21a0e2){let _0xbddb7f;if(_0x127c3c)_0xbddb7f=_0x127c3c[_0x455611(0x1f2)]||_0x127c3c['extendedTextMessage']?.[_0x455611(0x2a4)];else{if(_0x30c129)_0xbddb7f=_0x30c129[_0x455611(0x29c)]('\x20');else return _0x41d340[_0x455611(0x3cd)](_0x284db2,{'text':_0xe2254f['DORLd']},{'quoted':_0x59115f});}await _0x41d340[_0x455611(0x2e7)](_0x284db2,_0xbddb7f);}else _0x41d340['sendMessage'](_0x284db2,{'text':_0xe2254f[_0x455611(0x37e)]},{'quoted':_0x59115f});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x284),'classe':_0x1ecd6c(0x423),'react':'✅','desc':_0x1ecd6c(0x434)},async(_0x54cebe,_0x14f10d,_0x5243c2)=>{const _0x43eb3f=_0x1ecd6c,_0x2d3478={'BqtwA':_0x43eb3f(0x271),'QxMcH':_0x43eb3f(0x3fb)},{verif_Groupe:_0x351572,verif_Admin:_0x3c5847,verif_Ovl_Admin:_0x4bc204,ms:_0x33be26}=_0x5243c2;if(!_0x351572)return _0x14f10d['sendMessage'](_0x54cebe,{'text':_0x43eb3f(0x25b)},{'quoted':_0x33be26});if(!_0x3c5847||!_0x4bc204)return _0x14f10d[_0x43eb3f(0x3cd)](_0x54cebe,{'text':_0x2d3478[_0x43eb3f(0x2e6)]},{'quoted':_0x33be26});return await _0x14f10d['groupSettingUpdate'](_0x54cebe,_0x2d3478['QxMcH']),_0x14f10d[_0x43eb3f(0x3cd)](_0x54cebe,{'text':_0x43eb3f(0x417)},{'quoted':_0x33be26});}),ovlcmd({'nom_cmd':'open','classe':_0x1ecd6c(0x423),'react':'✅','desc':'Tout\x20le\x20monde\x20peut\x20envoyer\x20des\x20messages'},async(_0x93f4fc,_0x2c8477,_0x526d9e)=>{const _0xfd1213=_0x1ecd6c,_0x2c8188={'DOJBI':function(_0x55137e,_0x303e4b){return _0x55137e||_0x303e4b;},'AlRwm':_0xfd1213(0x271),'zikYW':_0xfd1213(0x2b8)},{verif_Groupe:_0xd3ce72,verif_Admin:_0x512444,verif_Ovl_Admin:_0x109c46,ms:_0x103c86}=_0x526d9e;if(!_0xd3ce72)return _0x2c8477[_0xfd1213(0x3cd)](_0x93f4fc,{'text':_0xfd1213(0x25b)},{'quoted':_0x103c86});if(_0x2c8188[_0xfd1213(0x378)](!_0x512444,!_0x109c46))return _0x2c8477[_0xfd1213(0x3cd)](_0x93f4fc,{'text':_0x2c8188['AlRwm']},{'quoted':_0x103c86});return await _0x2c8477[_0xfd1213(0x3c9)](_0x93f4fc,'not_announcement'),_0x2c8477[_0xfd1213(0x3cd)](_0x93f4fc,{'text':_0x2c8188[_0xfd1213(0x276)]},{'quoted':_0x103c86});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x32d),'classe':'Groupe','react':'✅','desc':_0x1ecd6c(0x2af)},async(_0x2963ec,_0x89084e,_0x2e2510)=>{const _0x59c392=_0x1ecd6c,_0x3de8ff={'ulEUQ':'Commande\x20utilisable\x20uniquement\x20dans\x20les\x20groupes.','hOvrn':function(_0x26d639,_0x3342bd){return _0x26d639||_0x3342bd;},'xeIio':_0x59c392(0x271),'wDNBA':_0x59c392(0x36c)},{verif_Groupe:_0x1c753d,verif_Admin:_0x5014f9,verif_Ovl_Admin:_0x177268,ms:_0x93dde3}=_0x2e2510;if(!_0x1c753d)return _0x89084e[_0x59c392(0x3cd)](_0x2963ec,{'text':_0x3de8ff[_0x59c392(0x364)]},{'quoted':_0x93dde3});if(_0x3de8ff[_0x59c392(0x2d6)](!_0x5014f9,!_0x177268))return _0x89084e['sendMessage'](_0x2963ec,{'text':_0x3de8ff[_0x59c392(0x414)]},{'quoted':_0x93dde3});return await _0x89084e[_0x59c392(0x3c9)](_0x2963ec,_0x3de8ff['wDNBA']),_0x89084e[_0x59c392(0x3cd)](_0x2963ec,{'text':_0x59c392(0x44c)},{'quoted':_0x93dde3});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x32b),'classe':_0x1ecd6c(0x423),'react':'✅','desc':_0x1ecd6c(0x429)},async(_0x25c236,_0x2f55fb,_0x1f82a6)=>{const _0x36a18c=_0x1ecd6c,_0x48092e={'MFnUm':_0x36a18c(0x25b),'tXbAb':function(_0x2bec84,_0x524004){return _0x2bec84||_0x524004;},'QAvMu':'Je\x20n\x27ai\x20pas\x20les\x20droits\x20requis\x20pour\x20exécuter\x20cette\x20commande.','VJAfr':_0x36a18c(0x365)},{verif_Groupe:_0x135d4b,verif_Admin:_0x3f04b8,verif_Ovl_Admin:_0x1c3416,ms:_0x4984d7}=_0x1f82a6;if(!_0x135d4b)return _0x2f55fb[_0x36a18c(0x3cd)](_0x25c236,{'text':_0x48092e[_0x36a18c(0x356)]},{'quoted':_0x4984d7});if(_0x48092e[_0x36a18c(0x2a1)](!_0x3f04b8,!_0x1c3416))return _0x2f55fb[_0x36a18c(0x3cd)](_0x25c236,{'text':_0x48092e[_0x36a18c(0x1f6)]},{'quoted':_0x4984d7});return await _0x2f55fb[_0x36a18c(0x3c9)](_0x25c236,_0x48092e['VJAfr']),_0x2f55fb[_0x36a18c(0x3cd)](_0x25c236,{'text':_0x36a18c(0x2cb)},{'quoted':_0x4984d7});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x202),'classe':_0x1ecd6c(0x423),'react':'😐','desc':_0x1ecd6c(0x2c4)},async(_0x2fdfbb,_0x11e4b0,_0x2154f7)=>{const _0x19eedb=_0x1ecd6c,_0xa33e52={'CrFbs':_0x19eedb(0x334),'yoyFn':_0x19eedb(0x426)},{prenium_id:_0x1f0d8f}=_0x2154f7;if(!_0x1f0d8f)return _0x11e4b0[_0x19eedb(0x3cd)](_0x2fdfbb,{'text':_0xa33e52[_0x19eedb(0x26a)]},{'quoted':_0x2154f7['ms']});await _0x11e4b0[_0x19eedb(0x3cd)](_0x2fdfbb,{'text':_0xa33e52[_0x19eedb(0x231)]},{'quoted':_0x2154f7['ms']}),await _0x11e4b0[_0x19eedb(0x41c)](_0x2fdfbb);}),ovlcmd({'nom_cmd':_0x1ecd6c(0x30b),'classe':_0x1ecd6c(0x423),'react':'🔗','desc':_0x1ecd6c(0x3ae)},async(_0x80674f,_0x20d69f,_0x25f4dc)=>{const _0x5b036c=_0x1ecd6c,_0x80c841={'cSLuA':_0x5b036c(0x25b)},{verif_Groupe:_0x527f8d,verif_Admin:_0x4f066d,verif_Ovl_Admin:_0x1bc13c,ms:_0xff8235}=_0x25f4dc;if(!_0x527f8d)return _0x20d69f[_0x5b036c(0x3cd)](_0x80674f,{'text':_0x80c841[_0x5b036c(0x433)]},{'quoted':_0xff8235});if(_0x4f066d&&_0x1bc13c){const _0x112b35=await _0x20d69f['groupInviteCode'](_0x80674f);await _0x20d69f[_0x5b036c(0x3cd)](_0x80674f,{'text':'Lien\x20d\x27invitation:\x20https://chat.whatsapp.com/'+_0x112b35},{'quoted':_0xff8235});}}),ovlcmd({'nom_cmd':'revoke','classe':_0x1ecd6c(0x423),'react':'🔗','desc':'Réinitialise\x20le\x20lien\x20d\x27invitation\x20d\x27un\x20groupe'},async(_0x2c81b0,_0x1fd45f,_0x482b73)=>{const _0x5d4ad3=_0x1ecd6c,_0x162ee2={'udJnu':function(_0x15978e,_0x4814ba){return _0x15978e&&_0x4814ba;},'TKxMY':_0x5d4ad3(0x29b)},{verif_Groupe:_0x37a6d6,verif_Admin:_0x1a798c,verif_Ovl_Admin:_0x3b82af,ms:_0xcc675f}=_0x482b73;if(!_0x37a6d6)return _0x1fd45f['sendMessage'](_0x2c81b0,{'text':'Commande\x20utilisable\x20uniquement\x20dans\x20les\x20groupes.'},{'quoted':_0xcc675f});_0x162ee2[_0x5d4ad3(0x208)](_0x1a798c,_0x3b82af)&&(await _0x1fd45f[_0x5d4ad3(0x21f)](_0x2c81b0),await _0x1fd45f[_0x5d4ad3(0x3cd)](_0x2c81b0,{'text':_0x162ee2['TKxMY']},{'quoted':_0xcc675f}));}),ovlcmd({'nom_cmd':_0x1ecd6c(0x3f0),'classe':_0x1ecd6c(0x423),'react':'🔎','desc':_0x1ecd6c(0x352)},async(_0x13cb0b,_0x430c89,_0x4990d0)=>{const _0x36dc09=_0x1ecd6c,_0x47b656=await _0x430c89[_0x36dc09(0x40b)](_0x13cb0b);await _0x430c89[_0x36dc09(0x3cd)](_0x13cb0b,{'text':_0x36dc09(0x28e)+_0x47b656['id']+_0x36dc09(0x292)+_0x47b656['subject']+_0x36dc09(0x37c)+_0x47b656[_0x36dc09(0x1f8)]},{'quoted':_0x4990d0['ms']});}),ovlcmd({'nom_cmd':_0x1ecd6c(0x29c),'classe':_0x1ecd6c(0x423),'react':_0x1ecd6c(0x332),'desc':_0x1ecd6c(0x265)},async(_0x28bbe9,_0x17d753,_0x3860bd)=>{const _0x505a40=_0x1ecd6c,{prenium_id:_0x4e7d5b,arg:_0x372cd6,ms:_0x36b98c}=_0x3860bd;if(!_0x4e7d5b)return _0x17d753[_0x505a40(0x3cd)](_0x28bbe9,{'text':'Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20requises\x20pour\x20rejoindre\x20un\x20groupe.'},{'quoted':_0x36b98c});if(!_0x372cd6)return _0x17d753[_0x505a40(0x3cd)](_0x28bbe9,{'text':_0x505a40(0x3a3)},{'quoted':_0x36b98c});const _0x1d20e0=_0x372cd6[_0x505a40(0x29c)](''),_0x3f4469=_0x1d20e0[_0x505a40(0x342)]('/')[0x3];await _0x17d753['groupAcceptInvite'](_0x3f4469),await _0x17d753[_0x505a40(0x3cd)](_0x28bbe9,{'text':_0x505a40(0x299)},{'quoted':_0x36b98c});});function _0x30af(_0x1879d9,_0xdf15c){const _0x3c9e9d=_0x52ec();return _0x30af=function(_0x1a850e,_0x132795){_0x1a850e=_0x1a850e-0x1f0;let _0x52ec4d=_0x3c9e9d[_0x1a850e];if(_0x30af['sqpeft']===undefined){var _0x30afd5=function(_0x42a66d){const _0x94e602='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x285e34='',_0x47cdc3='',_0x216ae6=_0x285e34+_0x30afd5;for(let _0x5ba2a0=0x0,_0x12970e,_0x2526f5,_0x4e5ef0=0x0;_0x2526f5=_0x42a66d['charAt'](_0x4e5ef0++);~_0x2526f5&&(_0x12970e=_0x5ba2a0%0x4?_0x12970e*0x40+_0x2526f5:_0x2526f5,_0x5ba2a0++%0x4)?_0x285e34+=_0x216ae6['charCodeAt'](_0x4e5ef0+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x12970e>>(-0x2*_0x5ba2a0&0x6)):_0x5ba2a0:0x0){_0x2526f5=_0x94e602['indexOf'](_0x2526f5);}for(let _0x17ca84=0x0,_0x4903d4=_0x285e34['length'];_0x17ca84<_0x4903d4;_0x17ca84++){_0x47cdc3+='%'+('00'+_0x285e34['charCodeAt'](_0x17ca84)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x47cdc3);};_0x30af['GftfbS']=_0x30afd5,_0x1879d9=arguments,_0x30af['sqpeft']=!![];}const _0x297859=_0x3c9e9d[0x0],_0x1f0ea7=_0x1a850e+_0x297859,_0x2cb5f7=_0x1879d9[_0x1f0ea7];if(!_0x2cb5f7){const _0x225c44=function(_0x3b28ad){this['cxUrCq']=_0x3b28ad,this['Vshdzh']=[0x1,0x0,0x0],this['nnOLEz']=function(){return'newState';},this['dIsRVL']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['tLiCxP']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x225c44['prototype']['xrCERW']=function(){const _0x5a8046=new RegExp(this['dIsRVL']+this['tLiCxP']),_0x243843=_0x5a8046['test'](this['nnOLEz']['toString']())?--this['Vshdzh'][0x1]:--this['Vshdzh'][0x0];return this['hRaMBA'](_0x243843);},_0x225c44['prototype']['hRaMBA']=function(_0x5cf7c3){if(!Boolean(~_0x5cf7c3))return _0x5cf7c3;return this['ekiLlC'](this['cxUrCq']);},_0x225c44['prototype']['ekiLlC']=function(_0x31a6e7){for(let _0xf8ffd4=0x0,_0x49fcf2=this['Vshdzh']['length'];_0xf8ffd4<_0x49fcf2;_0xf8ffd4++){this['Vshdzh']['push'](Math['round'](Math['random']())),_0x49fcf2=this['Vshdzh']['length'];}return _0x31a6e7(this['Vshdzh'][0x0]);},new _0x225c44(_0x30af)['xrCERW'](),_0x52ec4d=_0x30af['GftfbS'](_0x52ec4d),_0x1879d9[_0x1f0ea7]=_0x52ec4d;}else _0x52ec4d=_0x2cb5f7;return _0x52ec4d;},_0x30af(_0x1879d9,_0xdf15c);}async function gererDemandesIndividuellement(_0x15c62c,_0x52aaca,_0x1f9249,_0x3e6c17){const _0x125432=_0x1ecd6c,_0x2f0199={'tytRF':_0x125432(0x238),'loNpj':function(_0x4b9f03,_0x5f557a){return _0x4b9f03&&_0x5f557a;},'rjSxu':'❌\x20Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20pour\x20utiliser\x20cette\x20commande.','Pqden':_0x125432(0x20c),'WALtX':'approve','XopML':function(_0x44541c,_0x1b3744){return _0x44541c===_0x1b3744;},'mXttt':_0x125432(0x42a),'AEKKm':_0x125432(0x3e5),'vZQcP':'❌\x20Une\x20erreur\x20est\x20survenue.'},{verif_Admin:_0x32bc10,prenium_id:_0x41a81f,verif_Ovl_Admin:_0x100025,verif_Groupe:_0x12f273,ms:_0x4001a2}=_0x3e6c17;if(!_0x12f273)return _0x1f9249['sendMessage'](_0x15c62c,{'text':_0x2f0199[_0x125432(0x3ee)]},{'quoted':_0x4001a2});if(_0x2f0199[_0x125432(0x20e)](!_0x32bc10,!_0x41a81f))return _0x1f9249['sendMessage'](_0x15c62c,{'text':_0x2f0199[_0x125432(0x397)]},{'quoted':_0x4001a2});if(!_0x100025)return _0x1f9249[_0x125432(0x3cd)](_0x15c62c,{'text':_0x2f0199[_0x125432(0x394)]},{'quoted':_0x4001a2});try{const _0x1d3502=await _0x1f9249[_0x125432(0x232)](_0x15c62c);if(!_0x1d3502||_0x1d3502[_0x125432(0x2d4)]===0x0)return _0x1f9249[_0x125432(0x3cd)](_0x15c62c,{'text':_0x125432(0x241)},{'quoted':_0x4001a2});const _0x4f47b8=_0x1d3502[_0x125432(0x412)](_0x43b949=>_0x43b949[_0x125432(0x3a2)]);let _0x2ace9b=0x0;for(const _0x27d742 of _0x4f47b8){try{await _0x1f9249['groupRequestParticipantsUpdate'](_0x15c62c,[_0x27d742],_0x52aaca),_0x2ace9b++,await new Promise(_0x28e295=>setTimeout(_0x28e295,0x1f4));}catch(_0x3a12bd){console[_0x125432(0x2c7)]('❌\x20Erreur\x20'+_0x52aaca+_0x125432(0x27c)+_0x27d742+'\x20:',_0x3a12bd[_0x125432(0x408)]);}}const _0x4b4b91=_0x52aaca===_0x2f0199[_0x125432(0x43a)]?'✅':'❌',_0x1b0ee9=_0x2f0199['XopML'](_0x52aaca,_0x2f0199[_0x125432(0x43a)])?_0x2f0199[_0x125432(0x441)]:_0x125432(0x445);_0x1f9249[_0x125432(0x3cd)](_0x15c62c,{'text':_0x4b4b91+'\x20'+_0x2ace9b+_0x125432(0x305)+_0x1b0ee9+'.','quoted':_0x4001a2});}catch(_0x438876){console[_0x125432(0x2c7)](_0x2f0199['AEKKm'],_0x438876),_0x1f9249[_0x125432(0x3cd)](_0x15c62c,{'text':_0x2f0199[_0x125432(0x223)],'quoted':_0x4001a2});}}ovlcmd({'nom_cmd':_0x1ecd6c(0x3b1),'classe':'Groupe','react':'✅','desc':_0x1ecd6c(0x322)},async(_0x3d0f06,_0x5e436e,_0x3d8e22)=>{const _0x2b36d0=_0x1ecd6c,_0x479213={'PSHGt':function(_0x392b90,_0x5248ba,_0x485f7d,_0x58a5c1,_0x2697a4){return _0x392b90(_0x5248ba,_0x485f7d,_0x58a5c1,_0x2697a4);}};await _0x479213[_0x2b36d0(0x2fa)](gererDemandesIndividuellement,_0x3d0f06,_0x2b36d0(0x275),_0x5e436e,_0x3d8e22);}),ovlcmd({'nom_cmd':_0x1ecd6c(0x41a),'classe':'Groupe','react':'❌','desc':'Rejette\x20toutes\x20les\x20demandes\x20une\x20par\x20une.'},async(_0x1dee70,_0x14d409,_0x337c49)=>{const _0x144df5=_0x1ecd6c;await gererDemandesIndividuellement(_0x1dee70,_0x144df5(0x2ef),_0x14d409,_0x337c49);}),ovlcmd({'nom_cmd':_0x1ecd6c(0x320),'classe':_0x1ecd6c(0x423),'react':'🔎','desc':'Affiche\x20la\x20pp\x20d\x27un\x20groupe','alias':[_0x1ecd6c(0x23b)]},async(_0x47629c,_0x556f6a,_0x14f4e4)=>{const _0x36030d=_0x1ecd6c,_0x1748dd={'fgVWm':_0x36030d(0x374),'rLRLX':_0x36030d(0x3d7),'ojjcR':'Désolé,\x20je\x20n\x27ai\x20pas\x20pu\x20obtenir\x20la\x20photo\x20de\x20profil\x20du\x20groupe.'};try{const _0x58934b=await _0x556f6a[_0x36030d(0x214)](_0x47629c,_0x1748dd['fgVWm']);await _0x556f6a[_0x36030d(0x3cd)](_0x47629c,{'image':{'url':_0x58934b}},{'quoted':_0x14f4e4['ms']});}catch(_0x29745c){console[_0x36030d(0x2c7)](_0x1748dd['rLRLX'],_0x29745c),await _0x556f6a[_0x36030d(0x3cd)](_0x47629c,_0x1748dd[_0x36030d(0x247)],{'quoted':_0x14f4e4['ms']});}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x36d),'classe':_0x1ecd6c(0x423),'react':'🎨','desc':_0x1ecd6c(0x35e),'alias':[_0x1ecd6c(0x3c5)]},async(_0x2bc7f4,_0x200075,_0x17d5fe)=>{const _0x4a662c=_0x1ecd6c,_0xa98258={'GinPb':function(_0x142fc9,_0x59e8e8){return _0x142fc9||_0x59e8e8;},'yRwgL':_0x4a662c(0x3ef),'PBAeA':_0x4a662c(0x39d),'vTJum':_0x4a662c(0x2ae)},{arg:_0x5dbbe1,verif_Groupe:_0x15fd7e,msg_Repondu:_0x4f9f64,verif_Admin:_0x11b1c6,prenium_id:_0x555bd3,verif_Ovl_Admin:_0x21671e,ms:_0x53f9a3}=_0x17d5fe;if(!_0xa98258[_0x4a662c(0x283)](_0x11b1c6,_0x555bd3))return _0x200075['sendMessage'](_0x2bc7f4,{'text':_0x4a662c(0x398)},{'quoted':_0x53f9a3});if(!_0x21671e)return _0x200075[_0x4a662c(0x3cd)](_0x2bc7f4,{'text':_0xa98258[_0x4a662c(0x375)]},{'quoted':_0x53f9a3});if(!_0x4f9f64||!_0x4f9f64[_0x4a662c(0x34d)])return _0x200075[_0x4a662c(0x3cd)](_0x2bc7f4,{'text':_0x4a662c(0x278)},{'quoted':_0x53f9a3});try{if(_0x4f9f64?.[_0x4a662c(0x34d)]){const _0x230a61=await _0x200075[_0x4a662c(0x328)](_0x4f9f64['imageMessage']);await _0x200075['updateProfilePicture'](_0x2bc7f4,{'url':_0x230a61}),_0x200075['sendMessage'](_0x2bc7f4,{'text':_0xa98258['PBAeA']},{'quoted':_0x53f9a3});}}catch(_0x864bb8){console['error'](_0xa98258[_0x4a662c(0x222)],_0x864bb8),_0x200075[_0x4a662c(0x3cd)](_0x2bc7f4,{'text':_0x4a662c(0x3a5)},{'quoted':_0x53f9a3});}}),ovlcmd({'nom_cmd':'removepp','classe':'Groupe','react':_0x1ecd6c(0x254),'desc':_0x1ecd6c(0x269),'alias':[_0x1ecd6c(0x403)]},async(_0x166298,_0x51c947,_0x320887)=>{const _0x4c7507=_0x1ecd6c,_0x32f29b={'RzsEk':function(_0x3c52b6,_0x3e70a6){return _0x3c52b6||_0x3e70a6;},'rtlKQ':_0x4c7507(0x3ef),'JUsxZ':_0x4c7507(0x3fa),'MBDtu':_0x4c7507(0x258)},{verif_Groupe:_0x442082,verif_Admin:_0x33121f,prenium_id:_0x7b43a9,verif_Ovl_Admin:_0x582645,ms:_0x4d431e}=_0x320887;if(!_0x32f29b['RzsEk'](_0x33121f,_0x7b43a9))return _0x51c947[_0x4c7507(0x3cd)](_0x166298,{'text':'Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20requises\x20pour\x20supprimer\x20la\x20photo\x20du\x20groupe.'},{'quoted':_0x4d431e});if(!_0x582645)return _0x51c947[_0x4c7507(0x3cd)](_0x166298,{'text':_0x32f29b[_0x4c7507(0x421)]},{'quoted':_0x4d431e});try{await _0x51c947[_0x4c7507(0x3e9)](_0x166298),_0x51c947['sendMessage'](_0x166298,{'text':_0x32f29b[_0x4c7507(0x3e4)]},{'quoted':_0x4d431e});}catch(_0xcb4057){console['error'](_0x32f29b[_0x4c7507(0x1f0)],_0xcb4057),_0x51c947[_0x4c7507(0x3cd)](_0x166298,{'text':'❌\x20Une\x20erreur\x20est\x20survenue\x20lors\x20de\x20la\x20suppression\x20de\x20la\x20photo\x20du\x20groupe.'},{'quoted':_0x4d431e});}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x419),'classe':'Groupe','react':'⚠️','desc':_0x1ecd6c(0x3e8)},async(_0x41a230,_0x2903a5,_0x3b7282)=>{const _0x43d961=_0x1ecd6c,_0x3030d2={'ggURa':function(_0x115c47,_0x7ed3f5){return _0x115c47(_0x7ed3f5);},'fcGDw':'Commande\x20utilisable\x20uniquement\x20dans\x20les\x20groupes.','myOEH':function(_0x1e1879,_0x23d874){return _0x1e1879+_0x23d874;},'RvxVh':'•\x20`warn\x20@utilisateur`\x20ou\x20warn\x20en\x20répondant\x20à\x20un\x20de\x20ses\x20messages\x20:\x20Ajouter\x20un\x20avertissement.\x0a','DjWPJ':'•\x20`warn\x20reset\x20@utilisateur`\x20ou\x20warn\x20reset\x20en\x20répondant\x20à\x20un\x20de\x20ses\x20messages\x20:\x20Réinitialiser\x20les\x20avertissements.\x0a','FvSXX':_0x43d961(0x346),'wvOLK':function(_0x5ddd0a,_0x42dcf6){return _0x5ddd0a===_0x42dcf6;},'GrBHf':_0x43d961(0x2bd),'HXIfc':function(_0x4ebf69,_0x2c8010){return _0x4ebf69&&_0x2c8010;},'QlOZn':function(_0x2fbdc6,_0x54f226){return _0x2fbdc6(_0x54f226);},'TVEok':_0x43d961(0x27d),'ENIJm':function(_0x5e35ed,_0x4822fe){return _0x5e35ed(_0x4822fe);},'uNrIq':function(_0x11280e,_0x31fb4e){return _0x11280e<_0x31fb4e;},'wpzOZ':_0x43d961(0x37d),'mbaNC':function(_0x2b1256,_0x5d7527){return _0x2b1256(_0x5d7527);},'cTLds':function(_0x2b1ec8,_0x2f6b60){return _0x2b1ec8===_0x2f6b60;},'FGYIW':_0x43d961(0x362),'vsWBz':function(_0x2fd959,_0x1b223d,_0x2a2e98,_0x5d0467){return _0x2fd959(_0x1b223d,_0x2a2e98,_0x5d0467);},'gxnqz':function(_0x4af085,_0x2cd468,_0x27e265,_0x5f13d5){return _0x4af085(_0x2cd468,_0x27e265,_0x5f13d5);},'mqSQl':function(_0x22ca22,_0x45e443){return _0x22ca22&&_0x45e443;},'TtpYe':function(_0x2953f0,_0x3b2a95){return _0x2953f0(_0x3b2a95);},'SUwBi':_0x43d961(0x3ef),'naCBH':function(_0x4a9ae8,_0x11ba0b){return _0x4a9ae8(_0x11ba0b);},'sxGZk':'Impossible\x20d\x27avertir\x20un\x20administrateur.','RSiqK':'Impossible\x20d\x27avertir\x20un\x20développeur.','mBWup':function(_0x4aeadb){return _0x4aeadb();},'NBEbq':'fr-FR','xVkQw':_0x43d961(0x313),'Fbkbq':function(_0x578ddb,_0x4a61b6){return _0x578ddb(_0x4a61b6);},'NhGuy':_0x43d961(0x228)},{verif_Groupe:_0x57c65c,getJid:_0x430966,infos_Groupe:_0x404045,arg:_0x2c900d,verif_Admin:_0x1ef54b,verif_Ovl_Admin:_0x13cc14,prenium_id:_0x188859,dev_num:_0x14efc0,ms:_0xadf7eb,auteur_Message:_0x1e2cc9,auteur_Msg_Repondu:_0x347033,repondre:_0x1afcd2}=_0x3b7282;if(!_0x57c65c)return _0x3030d2[_0x43d961(0x40e)](_0x1afcd2,_0x3030d2[_0x43d961(0x2f6)]);const _0x10671f=await _0x404045[_0x43d961(0x311)],_0x2e1952=_0x10671f[_0x43d961(0x294)](_0x37dd90=>_0x37dd90[_0x43d961(0x34c)])[_0x43d961(0x412)](_0x14b2c4=>_0x14b2c4[_0x43d961(0x3a2)]);if(!_0x2c900d[0x0]&&!_0x347033)return _0x3030d2['ggURa'](_0x1afcd2,_0x3030d2[_0x43d961(0x333)](_0x3030d2[_0x43d961(0x333)](_0x43d961(0x226),_0x3030d2[_0x43d961(0x3ea)]),_0x3030d2[_0x43d961(0x323)])+_0x3030d2['FvSXX']);if(_0x3030d2['wvOLK'](_0x2c900d[0x0],_0x3030d2['GrBHf'])){if(_0x3030d2['HXIfc'](!_0x188859,!_0x1ef54b))return _0x3030d2['QlOZn'](_0x1afcd2,_0x3030d2[_0x43d961(0x3d3)]);const _0x34b32a=_0x3030d2[_0x43d961(0x272)](parseInt,_0x2c900d[0x1]);if(isNaN(_0x34b32a)||_0x3030d2[_0x43d961(0x44b)](_0x34b32a,0x1))return _0x3030d2[_0x43d961(0x40e)](_0x1afcd2,_0x3030d2[_0x43d961(0x3b8)]);return await _0x3030d2[_0x43d961(0x212)](setLimit,_0x34b32a),_0x3030d2[_0x43d961(0x212)](_0x1afcd2,_0x43d961(0x24b)+_0x34b32a+'.');}if(_0x3030d2[_0x43d961(0x43e)](_0x2c900d[0x0],_0x3030d2[_0x43d961(0x3a8)])){if(_0x3030d2['HXIfc'](!_0x188859,!_0x1ef54b))return _0x3030d2['ggURa'](_0x1afcd2,_0x3030d2[_0x43d961(0x3d3)]);const _0x86e0b=_0x347033||_0x2c900d[0x1]?.[_0x43d961(0x411)]('@')&&_0x2c900d[0x1][_0x43d961(0x29f)]('@','')+_0x43d961(0x2c1),_0x33dab3=await _0x3030d2[_0x43d961(0x30e)](_0x430966,_0x86e0b,_0x41a230,_0x2903a5);return await delWarn(_0x33dab3),_0x2903a5[_0x43d961(0x3cd)](_0x41a230,{'text':_0x43d961(0x34a)+_0x33dab3[_0x43d961(0x342)]('@')[0x0]+_0x43d961(0x243),'mentions':[_0x33dab3]},{'quoted':_0xadf7eb});}const _0x8b17d0=_0x347033||_0x2c900d[0x0]?.[_0x43d961(0x411)]('@')&&_0x2c900d[0x0]['replace']('@','')+_0x43d961(0x2c1),_0x4f42af=await _0x3030d2[_0x43d961(0x28f)](_0x430966,_0x8b17d0,_0x41a230,_0x2903a5);if(_0x3030d2[_0x43d961(0x25e)](!_0x188859,!_0x1ef54b))return _0x3030d2[_0x43d961(0x22f)](_0x1afcd2,_0x3030d2[_0x43d961(0x3d3)]);if(!_0x13cc14)return _0x3030d2['ggURa'](_0x1afcd2,_0x3030d2[_0x43d961(0x262)]);if(_0x2e1952['includes'](_0x4f42af))return _0x3030d2[_0x43d961(0x43c)](_0x1afcd2,_0x3030d2['sxGZk']);if(_0x14efc0[_0x43d961(0x411)](_0x4f42af))return _0x1afcd2(_0x3030d2['RSiqK']);const _0x3c8993=await _0x3030d2[_0x43d961(0x31c)](getLimit),_0x54538d=await _0x3030d2[_0x43d961(0x312)](setWarn,_0x4f42af),_0x5b12b4=new Date()[_0x43d961(0x3b9)](_0x3030d2['NBEbq']);await _0x2903a5[_0x43d961(0x3cd)](_0x41a230,{'text':_0x43d961(0x38d)+_0x4f42af[_0x43d961(0x342)]('@')[0x0]+_0x43d961(0x3dc)+_0x1e2cc9[_0x43d961(0x342)]('@')[0x0]+_0x43d961(0x20d)+_0x5b12b4+_0x43d961(0x25f)+_0x54538d[_0x43d961(0x3ce)]+'/'+_0x3c8993,'mentions':[_0x4f42af,_0x1e2cc9]},{'quoted':_0xadf7eb});if(_0x54538d[_0x43d961(0x3ce)]>=_0x3c8993)try{await _0x2903a5['groupParticipantsUpdate'](_0x41a230,[_0x4f42af],_0x3030d2[_0x43d961(0x361)]),_0x2903a5[_0x43d961(0x3cd)](_0x41a230,{'text':'🚫\x20@'+_0x4f42af[_0x43d961(0x342)]('@')[0x0]+_0x43d961(0x1fa),'mentions':[_0x4f42af]},{'quoted':_0xadf7eb}),await _0x3030d2[_0x43d961(0x209)](delWarn,_0x4f42af);}catch{_0x3030d2[_0x43d961(0x272)](_0x1afcd2,_0x3030d2['NhGuy']);}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x203),'classe':_0x1ecd6c(0x423),'react':'📇','desc':_0x1ecd6c(0x38e)},async(_0x11a8cc,_0x77661f,_0x6395ff)=>{const _0x738b7=_0x1ecd6c,_0x4f9f86={'FyVqb':_0x738b7(0x338),'IqLIb':'Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20requises\x20pour\x20utiliser\x20cette\x20commande.','AmcPu':'Échec\x20de\x20la\x20récupération\x20des\x20métadonnées\x20du\x20groupe\x20ou\x20de\x20la\x20liste\x20des\x20participants.','QtSGl':_0x738b7(0x3c3)},{verif_Groupe:_0x1f683a,prenium_id:_0xaa859e,ms:_0x453fac}=_0x6395ff;try{if(!_0x1f683a)return _0x77661f['sendMessage'](_0x11a8cc,{'text':_0x4f9f86['FyVqb']},{'quoted':_0x453fac});if(!_0xaa859e)return _0x77661f['sendMessage'](_0x11a8cc,{'text':_0x4f9f86[_0x738b7(0x2f5)]},{'quoted':_0x453fac});const _0x492daf=await _0x77661f[_0x738b7(0x40b)](_0x11a8cc)[_0x738b7(0x3d5)](()=>null);if(!_0x492daf||!_0x492daf[_0x738b7(0x311)])return _0x77661f[_0x738b7(0x3cd)](_0x11a8cc,{'text':_0x4f9f86[_0x738b7(0x2e4)]},{'quoted':_0x453fac});const _0x3bb0e8=_0x492daf[_0x738b7(0x311)],_0x28f1b3=[];for(const _0xc60d3 of _0x3bb0e8){const _0x185a69=_0xc60d3[_0x738b7(0x3a2)],_0x4a2379=_0x185a69[_0x738b7(0x342)]('@')[0x0];let _0x2790d6=_0x4a2379;try{const _0x22762a=await Ranks[_0x738b7(0x1fc)]({'where':{'id':_0x185a69}})['catch'](()=>null);if(_0x22762a&&_0x22762a[_0x738b7(0x382)])_0x2790d6=_0x22762a[_0x738b7(0x382)];else _0xc60d3[_0x738b7(0x259)]&&(_0x2790d6=_0xc60d3[_0x738b7(0x259)]);}catch{_0x2790d6=_0x4a2379;}_0x28f1b3[_0x738b7(0x3c6)](_0x738b7(0x34f)+_0x2790d6+_0x738b7(0x2ec)+_0x4a2379+_0x738b7(0x21b));}const _0x54a962=_0x492daf[_0x738b7(0x2a0)]||_0x738b7(0x2da)+_0x11a8cc[_0x738b7(0x427)][_0x738b7(0x2ed)][_0x738b7(0x29f)](/[@.]/g,'_'),_0x1019ad=_0x738b7(0x39c)+_0x54a962+_0x738b7(0x2a9),_0x1de246='./'+_0x1019ad;fs[_0x738b7(0x2c5)](_0x1de246,_0x28f1b3[_0x738b7(0x29c)]('\x0a'));const _0x3fe6da=_0x738b7(0x2c8)+_0x54a962+'*\x0aContacts\x20:\x20*'+_0x3bb0e8['length']+'*';await _0x77661f[_0x738b7(0x3cd)](_0x11a8cc,{'document':fs[_0x738b7(0x38f)](_0x1de246),'mimetype':'text/vcard','filename':_0x1019ad,'caption':_0x3fe6da},{'quoted':_0x453fac}),fs['unlinkSync'](_0x1de246);}catch(_0x13787){return console[_0x738b7(0x2c7)](_0x4f9f86[_0x738b7(0x3ba)],_0x13787),_0x77661f[_0x738b7(0x3cd)](_0x11a8cc,{'text':'Une\x20erreur\x20est\x20survenue\x20lors\x20du\x20traitement\x20de\x20la\x20commande\x20vcf.'},{'quoted':_0x453fac});}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x319),'classe':'Groupe','react':'🔗','desc':'Active\x20ou\x20configure\x20l\x27antilink\x20pour\x20les\x20groupes'},async(_0x2e16a5,_0x158ea0,_0x1a3dc7)=>{const _0x431392=_0x1ecd6c,_0x32eee2={'cREgm':function(_0x4ef621,_0x264a84){return _0x4ef621(_0x264a84);},'mElyu':_0x431392(0x21a),'sEdaB':_0x431392(0x389),'yMBFR':_0x431392(0x2bb),'CaHVA':_0x431392(0x419),'qZSbP':_0x431392(0x3f8),'pxUjx':_0x431392(0x371),'OwYcf':'oui','LlrgD':function(_0x155879,_0x5297a5){return _0x155879===_0x5297a5;},'zMNBd':_0x431392(0x2fe),'WuHwF':_0x431392(0x2bc),'OoEiX':'0|3|1|2|4','jJjNQ':function(_0x357168,_0x20e5a3){return _0x357168!==_0x20e5a3;},'gJVWt':function(_0x58a5ee,_0x4a5c13){return _0x58a5ee(_0x4a5c13);},'GWriB':_0x431392(0x1f7),'hIEmv':function(_0x416755,_0x298122){return _0x416755(_0x298122);},'zhJec':function(_0x166fb6,_0x8fe5bc){return _0x166fb6+_0x8fe5bc;},'OepKo':_0x431392(0x410),'NlfXP':'antilink\x20on/off:\x20Activer\x20ou\x20désactiver\x20l\x27antilink\x0a','VsLKI':_0x431392(0x3ac),'qctdm':_0x431392(0x444)},{ms:_0x31a95b,repondre:_0x539ebb,arg:_0x531d7f,verif_Groupe:_0x5b1e60,verif_Admin:_0x316d5f}=_0x1a3dc7;try{if(!_0x5b1e60)return _0x32eee2[_0x431392(0x2d5)](_0x539ebb,_0x431392(0x26f));if(!_0x316d5f)return _0x32eee2['cREgm'](_0x539ebb,_0x32eee2[_0x431392(0x220)]);const _0x52e1cd=_0x531d7f[0x0]?.[_0x431392(0x341)](),_0x57675d=['on',_0x32eee2[_0x431392(0x2a6)]],_0xf270d7=[_0x32eee2[_0x431392(0x447)],_0x32eee2[_0x431392(0x25a)],_0x32eee2['qZSbP']],[_0x11b1a9]=await Antilink['findOrCreate']({'where':{'id':_0x2e16a5},'defaults':{'id':_0x2e16a5,'mode':_0x32eee2['pxUjx'],'type':_0x32eee2[_0x431392(0x447)]}});if(_0x57675d['includes'](_0x52e1cd)){const _0x270be6=_0x52e1cd==='on'?_0x32eee2[_0x431392(0x366)]:_0x32eee2['pxUjx'];if(_0x11b1a9[_0x431392(0x2d0)]===_0x270be6)return _0x32eee2[_0x431392(0x2d5)](_0x539ebb,_0x431392(0x34b)+_0x52e1cd);return _0x11b1a9[_0x431392(0x2d0)]=_0x270be6,await _0x11b1a9[_0x431392(0x2b9)](),_0x32eee2[_0x431392(0x2d5)](_0x539ebb,_0x431392(0x392)+(_0x32eee2[_0x431392(0x263)](_0x52e1cd,'on')?_0x32eee2[_0x431392(0x386)]:_0x32eee2[_0x431392(0x280)])+'\x20avec\x20succès\x20!');}if(_0xf270d7[_0x431392(0x411)](_0x52e1cd)){const _0x1f3f23=_0x32eee2[_0x431392(0x2eb)][_0x431392(0x342)]('|');let _0x419a4f=0x0;while(!![]){switch(_0x1f3f23[_0x419a4f++]){case'0':if(_0x32eee2[_0x431392(0x337)](_0x11b1a9[_0x431392(0x2d0)],_0x32eee2[_0x431392(0x366)]))return _0x32eee2[_0x431392(0x1fd)](_0x539ebb,_0x32eee2[_0x431392(0x3b0)]);continue;case'1':_0x11b1a9['type']=_0x52e1cd;continue;case'2':await _0x11b1a9['save']();continue;case'3':if(_0x11b1a9[_0x431392(0x3d4)]===_0x52e1cd)return _0x539ebb(_0x431392(0x391)+_0x52e1cd);continue;case'4':return _0x32eee2['cREgm'](_0x539ebb,_0x431392(0x29e)+_0x52e1cd+'\x20avec\x20succès\x20!');}break;}}return _0x32eee2['hIEmv'](_0x539ebb,_0x32eee2[_0x431392(0x279)](_0x32eee2[_0x431392(0x279)](_0x32eee2[_0x431392(0x23d)],_0x32eee2[_0x431392(0x43b)]),_0x431392(0x373)));}catch(_0x47fb36){console[_0x431392(0x2c7)](_0x32eee2[_0x431392(0x316)],_0x47fb36),_0x539ebb(_0x32eee2[_0x431392(0x384)]);}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x256),'classe':_0x1ecd6c(0x423),'react':'🔗','desc':'Active\x20ou\x20configure\x20l\x27antitag\x20pour\x20les\x20groupes'},async(_0x3083e6,_0x400dc4,_0x1c8846)=>{const _0x47a2ac=_0x1ecd6c,_0x4d81b9={'TSaiG':function(_0x2e15e6,_0x3a34b5){return _0x2e15e6(_0x3a34b5);},'hiTzO':function(_0x27adc2,_0x4c9cad){return _0x27adc2(_0x4c9cad);},'ULouc':_0x47a2ac(0x389),'tsApW':_0x47a2ac(0x419),'SFYYh':_0x47a2ac(0x3f8),'CeEds':_0x47a2ac(0x2bb),'KyQQM':function(_0x4982ea,_0x6277b2){return _0x4982ea===_0x6277b2;},'mGqGp':'non','ivqtr':function(_0xb63d53,_0x4b857f){return _0xb63d53(_0x4b857f);},'MMsEZ':'désactivé','gspgK':_0x47a2ac(0x255),'kXQDd':function(_0x7d8664,_0x55117a){return _0x7d8664!==_0x55117a;},'okjGO':function(_0x2f7d7a,_0x50f5ca){return _0x2f7d7a(_0x50f5ca);},'WsdCA':'Veuillez\x20activer\x20l\x27antitag\x20d\x27abord\x20en\x20utilisant\x20`antitag\x20on`','XmlCN':function(_0x56c090,_0x2f2535){return _0x56c090+_0x2f2535;},'qVWtw':function(_0x589cd3,_0x2bc3ea){return _0x589cd3+_0x2bc3ea;},'ouFaI':_0x47a2ac(0x410),'wLLMD':_0x47a2ac(0x3a0),'aPxjw':'antitag\x20supp/warn/kick:\x20Configurer\x20l\x27action\x20antitag','FfbhF':_0x47a2ac(0x2fb),'uZZEy':_0x47a2ac(0x444)},{ms:_0x451c2c,repondre:_0x5789be,arg:_0x4189b8,verif_Groupe:_0x22ef75,verif_Admin:_0x11031e}=_0x1c8846;try{if(!_0x22ef75)return _0x4d81b9[_0x47a2ac(0x206)](_0x5789be,'Cette\x20commande\x20ne\x20fonctionne\x20que\x20dans\x20les\x20groupes');if(!_0x11031e)return _0x4d81b9['hiTzO'](_0x5789be,_0x47a2ac(0x21a));const _0x5afb66=_0x4189b8[0x0]?.['toLowerCase'](),_0x22ca87=['on',_0x4d81b9['ULouc']],_0x3b824d=[_0x47a2ac(0x2bb),_0x4d81b9['tsApW'],_0x4d81b9[_0x47a2ac(0x3a7)]],[_0x9d5f20]=await Antitag[_0x47a2ac(0x3e1)]({'where':{'id':_0x3083e6},'defaults':{'id':_0x3083e6,'mode':'non','type':_0x4d81b9[_0x47a2ac(0x314)]}});if(_0x22ca87['includes'](_0x5afb66)){const _0x11781b=_0x4d81b9[_0x47a2ac(0x439)](_0x5afb66,'on')?_0x47a2ac(0x33a):_0x4d81b9[_0x47a2ac(0x229)];if(_0x9d5f20[_0x47a2ac(0x2d0)]===_0x11781b)return _0x4d81b9[_0x47a2ac(0x3cb)](_0x5789be,_0x47a2ac(0x2cd)+_0x5afb66);return _0x9d5f20['mode']=_0x11781b,await _0x9d5f20[_0x47a2ac(0x2b9)](),_0x4d81b9[_0x47a2ac(0x424)](_0x5789be,'L\x27Antitag\x20'+(_0x4d81b9[_0x47a2ac(0x439)](_0x5afb66,'on')?'activé':_0x4d81b9[_0x47a2ac(0x42c)])+_0x47a2ac(0x442));}if(_0x3b824d[_0x47a2ac(0x411)](_0x5afb66)){const _0x4af8f9=_0x4d81b9[_0x47a2ac(0x336)][_0x47a2ac(0x342)]('|');let _0xe31e98=0x0;while(!![]){switch(_0x4af8f9[_0xe31e98++]){case'0':if(_0x9d5f20[_0x47a2ac(0x3d4)]===_0x5afb66)return _0x4d81b9[_0x47a2ac(0x3cb)](_0x5789be,_0x47a2ac(0x30f)+_0x5afb66);continue;case'1':return _0x5789be(_0x47a2ac(0x2be)+_0x5afb66+_0x47a2ac(0x442));case'2':if(_0x4d81b9[_0x47a2ac(0x274)](_0x9d5f20['mode'],'oui'))return _0x4d81b9[_0x47a2ac(0x3d0)](_0x5789be,_0x4d81b9[_0x47a2ac(0x36f)]);continue;case'3':_0x9d5f20[_0x47a2ac(0x3d4)]=_0x5afb66;continue;case'4':await _0x9d5f20[_0x47a2ac(0x2b9)]();continue;}break;}}return _0x5789be(_0x4d81b9['XmlCN'](_0x4d81b9['qVWtw'](_0x4d81b9['ouFaI'],_0x4d81b9[_0x47a2ac(0x3c4)]),_0x4d81b9[_0x47a2ac(0x2c9)]));}catch(_0x138f13){console[_0x47a2ac(0x2c7)](_0x4d81b9['FfbhF'],_0x138f13),_0x4d81b9[_0x47a2ac(0x424)](_0x5789be,_0x4d81b9[_0x47a2ac(0x219)]);}}),ovlcmd({'nom_cmd':'antispam','classe':_0x1ecd6c(0x423),'react':'🔗','desc':_0x1ecd6c(0x2ac)},async(_0x589348,_0x25d63a,_0x42e86a)=>{const _0x357c1e=_0x1ecd6c,_0xc5435f={'kQZxL':_0x357c1e(0x2b0),'MdSzJ':function(_0x50207d,_0x7975f4){return _0x50207d(_0x7975f4);},'BBjcg':_0x357c1e(0x368),'NkYEz':_0x357c1e(0x389),'OAGga':_0x357c1e(0x419),'akwxE':_0x357c1e(0x3f8),'oequq':function(_0x5373db,_0x5ebebf){return _0x5373db===_0x5ebebf;},'MCMpa':_0x357c1e(0x371),'ooVTs':function(_0x2d8be6,_0x308420){return _0x2d8be6(_0x308420);},'PtwSx':_0x357c1e(0x2fe),'GGnTd':_0x357c1e(0x2bc),'LAZiu':function(_0x4bc330,_0x4b5699){return _0x4bc330!==_0x4b5699;},'zaWmc':function(_0xd4227b,_0x1b5595){return _0xd4227b(_0x1b5595);},'fTOEp':_0x357c1e(0x404),'nfKXg':function(_0x9f8eed,_0x3c2fb6){return _0x9f8eed===_0x3c2fb6;},'lyPbx':function(_0x3c8e4f,_0x29f17c){return _0x3c8e4f(_0x29f17c);},'KNPpk':function(_0x4df127,_0x430e38){return _0x4df127(_0x430e38);},'oYgfc':function(_0x1776d3,_0x2e529c){return _0x1776d3+_0x2e529c;},'nszgw':_0x357c1e(0x2b7),'iZGwI':_0x357c1e(0x234),'OTrsc':_0x357c1e(0x39a)},{repondre:_0x35ea3f,arg:_0x1d1d21,verif_Groupe:_0x4957fa,verif_Admin:_0x51e168}=_0x42e86a;try{if(!_0x4957fa)return _0x35ea3f(_0xc5435f[_0x357c1e(0x3a1)]);if(!_0x51e168)return _0xc5435f['MdSzJ'](_0x35ea3f,_0xc5435f[_0x357c1e(0x28c)]);const _0x12f397=_0x1d1d21[0x0]?.[_0x357c1e(0x341)](),_0x4314de=['on',_0xc5435f['NkYEz']],_0x4efff3=[_0x357c1e(0x2bb),_0xc5435f[_0x357c1e(0x40a)],_0xc5435f[_0x357c1e(0x277)]],[_0x436a8f]=await Antispam[_0x357c1e(0x3e1)]({'where':{'id':_0x589348},'defaults':{'id':_0x589348,'mode':_0x357c1e(0x371),'type':_0x357c1e(0x2bb)}});if(_0x4314de['includes'](_0x12f397)){const _0x2a5b14=_0xc5435f['oequq'](_0x12f397,'on')?'oui':_0xc5435f[_0x357c1e(0x23c)];if(_0x436a8f[_0x357c1e(0x2d0)]===_0x2a5b14)return _0xc5435f[_0x357c1e(0x253)](_0x35ea3f,_0x357c1e(0x32a)+_0x12f397+'.');return _0x436a8f['mode']=_0x2a5b14,await _0x436a8f[_0x357c1e(0x2b9)](),_0xc5435f['ooVTs'](_0x35ea3f,'L\x27Antispam\x20a\x20été\x20'+(_0xc5435f[_0x357c1e(0x26e)](_0x12f397,'on')?_0xc5435f[_0x357c1e(0x350)]:_0xc5435f[_0x357c1e(0x3b2)])+'\x20avec\x20succès\x20!');}if(_0x4efff3[_0x357c1e(0x411)](_0x12f397)){if(_0xc5435f[_0x357c1e(0x358)](_0x436a8f[_0x357c1e(0x2d0)],_0x357c1e(0x33a)))return _0xc5435f['zaWmc'](_0x35ea3f,_0xc5435f['fTOEp']);if(_0xc5435f[_0x357c1e(0x2ce)](_0x436a8f[_0x357c1e(0x3d4)],_0x12f397))return _0xc5435f['ooVTs'](_0x35ea3f,'⚠️\x20L\x27action\x20antispam\x20est\x20déjà\x20définie\x20sur\x20'+_0x12f397+'.');return _0x436a8f['type']=_0x12f397,await _0x436a8f[_0x357c1e(0x2b9)](),_0xc5435f['lyPbx'](_0x35ea3f,'✅\x20L\x27action\x20antispam\x20est\x20maintenant\x20définie\x20sur\x20'+_0x12f397+'.');}return _0xc5435f[_0x357c1e(0x3f3)](_0x35ea3f,_0xc5435f[_0x357c1e(0x327)](_0xc5435f[_0x357c1e(0x327)](_0x357c1e(0x410),_0xc5435f[_0x357c1e(0x252)]),_0xc5435f['iZGwI']));}catch(_0x4f3ff3){return console[_0x357c1e(0x2c7)](_0x357c1e(0x409),_0x4f3ff3),_0x35ea3f(_0xc5435f[_0x357c1e(0x32c)]);}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x31a),'classe':'Groupe','react':'🔗','desc':_0x1ecd6c(0x435)},async(_0x35f289,_0x14d84f,_0x53ce12)=>{const _0x192c4e=_0x1ecd6c,_0x468600={'uEcXk':function(_0x220bf8,_0x327d18){return _0x220bf8(_0x327d18);},'IPFFt':_0x192c4e(0x2b0),'etVVp':function(_0x2edc66,_0x34dcab){return _0x2edc66(_0x34dcab);},'VRDDz':_0x192c4e(0x368),'pcIjD':_0x192c4e(0x389),'xozfh':_0x192c4e(0x419),'UECny':_0x192c4e(0x3f8),'DASlf':_0x192c4e(0x371),'RkvVg':_0x192c4e(0x2bb),'QXhEx':function(_0x233807,_0x2e881d){return _0x233807===_0x2e881d;},'wPVdU':_0x192c4e(0x33a),'HbymH':function(_0x1e25b6,_0x4e2bb2){return _0x1e25b6===_0x4e2bb2;},'yobUI':'activé','RVYZo':'2|1|3|4|0','eEEuR':function(_0xdd8ae1,_0xa331c7){return _0xdd8ae1(_0xa331c7);},'sbNXZ':function(_0x27a0d2,_0x25128b){return _0x27a0d2!==_0x25128b;},'zHixL':function(_0x59675a,_0x558554){return _0x59675a(_0x558554);},'fESQE':_0x192c4e(0x3d6),'XhrRA':function(_0x1272e3,_0x3feca3){return _0x1272e3+_0x3feca3;},'aHrmt':_0x192c4e(0x410),'lwwyz':'antibot\x20on/off\x20:\x20Activer\x20ou\x20désactiver\x20l\x27antibot.\x0a','vAKCE':_0x192c4e(0x240),'eVHmO':_0x192c4e(0x2c3),'BDZng':_0x192c4e(0x39a)},{repondre:_0x4b63c2,arg:_0x203eb0,verif_Groupe:_0x59712b,verif_Admin:_0x5ef0bb}=_0x53ce12;try{if(!_0x59712b)return _0x468600['uEcXk'](_0x4b63c2,_0x468600['IPFFt']);if(!_0x5ef0bb)return _0x468600[_0x192c4e(0x249)](_0x4b63c2,_0x468600[_0x192c4e(0x39b)]);const _0x3febc6=_0x203eb0[0x0]?.[_0x192c4e(0x341)](),_0x13ecea=['on',_0x468600['pcIjD']],_0x1ad44d=[_0x192c4e(0x2bb),_0x468600[_0x192c4e(0x393)],_0x468600[_0x192c4e(0x438)]],[_0xb696b0]=await Antibot[_0x192c4e(0x3e1)]({'where':{'id':_0x35f289},'defaults':{'id':_0x35f289,'mode':_0x468600[_0x192c4e(0x3b5)],'type':_0x468600[_0x192c4e(0x2e8)]}});if(_0x13ecea[_0x192c4e(0x411)](_0x3febc6)){const _0x259f9a=_0x468600['QXhEx'](_0x3febc6,'on')?_0x468600[_0x192c4e(0x432)]:_0x468600[_0x192c4e(0x3b5)];if(_0x468600['HbymH'](_0xb696b0['mode'],_0x259f9a))return _0x4b63c2('L\x27Antibot\x20est\x20déjà\x20'+_0x3febc6+'.');return _0xb696b0[_0x192c4e(0x2d0)]=_0x259f9a,await _0xb696b0['save'](),_0x4b63c2(_0x192c4e(0x2e5)+(_0x468600[_0x192c4e(0x37a)](_0x3febc6,'on')?_0x468600[_0x192c4e(0x32f)]:'désactivé')+_0x192c4e(0x442));}if(_0x1ad44d[_0x192c4e(0x411)](_0x3febc6)){const _0x4902f0=_0x468600['RVYZo'][_0x192c4e(0x342)]('|');let _0x3b5134=0x0;while(!![]){switch(_0x4902f0[_0x3b5134++]){case'0':return _0x468600[_0x192c4e(0x3d9)](_0x4b63c2,_0x192c4e(0x396)+_0x3febc6+'.');case'1':if(_0xb696b0[_0x192c4e(0x3d4)]===_0x3febc6)return _0x4b63c2(_0x192c4e(0x2f4)+_0x3febc6+'.');continue;case'2':if(_0x468600[_0x192c4e(0x3c1)](_0xb696b0[_0x192c4e(0x2d0)],_0x468600[_0x192c4e(0x432)]))return _0x468600[_0x192c4e(0x2ff)](_0x4b63c2,_0x468600[_0x192c4e(0x2b4)]);continue;case'3':_0xb696b0['type']=_0x3febc6;continue;case'4':await _0xb696b0[_0x192c4e(0x2b9)]();continue;}break;}}return _0x468600['zHixL'](_0x4b63c2,_0x468600[_0x192c4e(0x367)](_0x468600[_0x192c4e(0x317)],_0x468600[_0x192c4e(0x28b)])+_0x468600[_0x192c4e(0x321)]);}catch(_0x2c4a67){return console['error'](_0x468600[_0x192c4e(0x36e)],_0x2c4a67),_0x468600[_0x192c4e(0x3d9)](_0x4b63c2,_0x468600[_0x192c4e(0x2e9)]);}}),ovlcmd({'nom_cmd':_0x1ecd6c(0x2d1),'classe':_0x1ecd6c(0x423),'react':'📢','desc':_0x1ecd6c(0x225)},async(_0x448fb5,_0x124a0c,_0x14f593)=>{const _0xc32ee0=_0x1ecd6c,_0x3f6261={'SMVjN':function(_0x1051fb,_0x3aef7b){return _0x1051fb(_0x3aef7b);},'JzfZW':_0xc32ee0(0x290),'RpEJM':_0xc32ee0(0x389),'EbscO':_0xc32ee0(0x2bb),'JJJft':_0xc32ee0(0x419),'FYQzU':function(_0x2f68f5,_0x19dffe){return _0x2f68f5===_0x19dffe;},'utHCr':_0xc32ee0(0x33a),'dtmOS':_0xc32ee0(0x371),'aPAjR':function(_0x9514,_0x4be45a){return _0x9514===_0x4be45a;},'SJyoh':function(_0x508795,_0x589eca){return _0x508795(_0x589eca);},'GzKYt':_0xc32ee0(0x2bc),'QJroL':function(_0x27c273,_0x8ef820){return _0x27c273!==_0x8ef820;},'bHyMB':function(_0x30ecf5,_0x495b4c){return _0x30ecf5(_0x495b4c);},'itiTD':function(_0xf6fbeb,_0x253208){return _0xf6fbeb+_0x253208;},'jvSDU':function(_0x3e4591,_0x23b8d7){return _0x3e4591+_0x23b8d7;},'EiKeM':'Utilisation\x20:\x0a','ofHFz':_0xc32ee0(0x235),'XJcaP':'Erreur\x20lors\x20de\x20la\x20configuration\x20d\x27antimention\x20:'},{ms:_0x3b4098,repondre:_0x60f3a6,arg:_0x2637b6,verif_Groupe:_0x4ea3d7,verif_Admin:_0x5e4c67}=_0x14f593;try{if(!_0x4ea3d7)return _0x3f6261[_0xc32ee0(0x301)](_0x60f3a6,'Cette\x20commande\x20ne\x20fonctionne\x20que\x20dans\x20les\x20groupes.');if(!_0x5e4c67)return _0x3f6261[_0xc32ee0(0x301)](_0x60f3a6,_0x3f6261[_0xc32ee0(0x29d)]);const _0x5f0fd5=_0x2637b6[0x0]?.[_0xc32ee0(0x341)](),_0x43d5b6=['on',_0x3f6261['RpEJM']],_0x3e2483=[_0x3f6261[_0xc32ee0(0x303)],_0x3f6261[_0xc32ee0(0x325)],'kick'],[_0x5e5cd4]=await Antimention['findOrCreate']({'where':{'id':_0x448fb5},'defaults':{'id':_0x448fb5,'mode':_0xc32ee0(0x371),'type':_0x3f6261[_0xc32ee0(0x303)]}});if(_0x43d5b6[_0xc32ee0(0x411)](_0x5f0fd5)){const _0x446880=_0x3f6261[_0xc32ee0(0x3ca)](_0x5f0fd5,'on')?_0x3f6261['utHCr']:_0x3f6261[_0xc32ee0(0x353)];if(_0x3f6261[_0xc32ee0(0x42e)](_0x5e5cd4[_0xc32ee0(0x2d0)],_0x446880))return _0x3f6261['SJyoh'](_0x60f3a6,'L\x27antimention\x20est\x20déjà\x20'+_0x5f0fd5+'.');return _0x5e5cd4[_0xc32ee0(0x2d0)]=_0x446880,await _0x5e5cd4[_0xc32ee0(0x2b9)](),_0x3f6261[_0xc32ee0(0x3f2)](_0x60f3a6,_0xc32ee0(0x289)+(_0x3f6261[_0xc32ee0(0x3ca)](_0x5f0fd5,'on')?_0xc32ee0(0x2fe):_0x3f6261[_0xc32ee0(0x380)])+_0xc32ee0(0x224));}if(_0x3e2483[_0xc32ee0(0x411)](_0x5f0fd5)){if(_0x3f6261[_0xc32ee0(0x2ca)](_0x5e5cd4[_0xc32ee0(0x2d0)],'oui'))return _0x3f6261[_0xc32ee0(0x3f2)](_0x60f3a6,'Veuillez\x20d\x27abord\x20activer\x20l\x27antimention\x20avec\x20`antimention\x20on`.');if(_0x3f6261[_0xc32ee0(0x42e)](_0x5e5cd4['type'],_0x5f0fd5))return _0x3f6261[_0xc32ee0(0x3f2)](_0x60f3a6,_0xc32ee0(0x306)+_0x5f0fd5+'.');return _0x5e5cd4[_0xc32ee0(0x3d4)]=_0x5f0fd5,await _0x5e5cd4[_0xc32ee0(0x2b9)](),_0x3f6261['bHyMB'](_0x60f3a6,_0xc32ee0(0x3ff)+_0x5f0fd5+_0xc32ee0(0x224));}return _0x60f3a6(_0x3f6261['itiTD'](_0x3f6261[_0xc32ee0(0x3f6)](_0x3f6261[_0xc32ee0(0x1f1)],'-\x20antimention\x20on/off\x20:\x20Activer\x20ou\x20désactiver\x20l\x27antimention\x0a'),_0x3f6261[_0xc32ee0(0x385)]));}catch(_0x15151d){return console['error'](_0x3f6261[_0xc32ee0(0x221)],_0x15151d),_0x3f6261[_0xc32ee0(0x301)](_0x60f3a6,_0xc32ee0(0x444));}});const welcomeGoodbyeCmd=_0x330b69=>{const _0x4608d3=_0x1ecd6c,_0x357016={'MrDQX':function(_0x44b9da,_0xd6ef8d){return _0x44b9da(_0xd6ef8d);},'EUpAm':_0x4608d3(0x35f),'IJXcZ':_0x4608d3(0x368),'CtQwu':_0x4608d3(0x371),'LkuhS':_0x4608d3(0x40d),'RZlRQ':_0x4608d3(0x2b6),'jcfjt':function(_0x4de1b9,_0x4b19bd){return _0x4de1b9(_0x4b19bd);},'UJaJU':_0x4608d3(0x37f),'vOXWf':_0x4608d3(0x3d8),'UwKne':_0x4608d3(0x213),'Ovwnq':_0x4608d3(0x389),'jSJqe':function(_0xf1be5b,_0x45650a){return _0xf1be5b===_0x45650a;},'sKOOh':'oui','XqMUq':_0x4608d3(0x2fe),'VytfA':'désactivé','dwltF':function(_0x3ecc1f,_0x515846){return _0x3ecc1f===_0x515846;},'SlemB':_0x4608d3(0x387),'WXSVx':function(_0x590188,_0x2dad43){return _0x590188(_0x2dad43);},'TIABt':_0x4608d3(0x3bc),'JhZMp':_0x4608d3(0x23e),'WkJNq':'#gpp','QmHOi':_0x4608d3(0x2b3),'RrewC':_0x4608d3(0x298),'APXhT':_0x4608d3(0x211),'kxCUO':_0x4608d3(0x326),'FLjjA':_0x4608d3(0x39f),'Cmviz':'image','UiVId':'audio/mpeg','RYhIH':function(_0x4fe08e,_0x57428f){return _0x4fe08e===_0x57428f;},'CguAl':_0x4608d3(0x3aa),'IDzuD':_0x4608d3(0x217),'pWrRs':function(_0x1664ae,_0x561f34){return _0x1664ae(_0x561f34);},'cdPhT':function(_0x39bdeb,_0x4443d3){return _0x39bdeb(_0x4443d3);},'qTBTy':function(_0x4081af,_0x392e97){return _0x4081af(_0x392e97);},'xcRhh':_0x4608d3(0x43f),'AHgzm':function(_0x332746,_0x422bce){return _0x332746===_0x422bce;},'TmqOg':_0x4608d3(0x35b),'jSXWZ':function(_0x8d7c26,_0x115051,_0x4612b5){return _0x8d7c26(_0x115051,_0x4612b5);},'lYqme':_0x4608d3(0x423)},_0xac6e=_0x357016[_0x4608d3(0x33c)](_0x330b69,_0x357016['TmqOg']);_0x357016[_0x4608d3(0x324)](ovlcmd,{'nom_cmd':_0x330b69,'classe':_0x357016[_0x4608d3(0x430)],'react':'👋','desc':_0xac6e?_0x4608d3(0x3db):_0x4608d3(0x377)},async(_0x260286,_0x31ac2b,{repondre:_0x41a9e3,arg:_0x5d6032,verif_Admin:_0x2e7369,verif_Groupe:_0x840065,auteur_Message:_0x4a17cc})=>{const _0x164712=_0x4608d3;try{if(!_0x840065)return _0x357016[_0x164712(0x318)](_0x41a9e3,_0x357016[_0x164712(0x42b)]);if(!_0x2e7369)return _0x41a9e3(_0x357016[_0x164712(0x2a5)]);const _0x162d27=_0x5d6032[0x0]?.[_0x164712(0x341)](),[_0x1148d0]=await GroupSettings['findOrCreate']({'where':{'id':_0x260286},'defaults':{'id':_0x260286,[_0x330b69]:_0x357016['CtQwu']}}),[_0x4d1da5]=await Events2[_0x164712(0x3e1)]({'where':{'id':_0x260286},'defaults':{'id':_0x260286}}),_0x5625a9=_0xac6e?_0x357016['LkuhS']:_0x357016[_0x164712(0x2f3)],_0x5a44d5=_0x4d1da5[_0x5625a9];if(!_0x5d6032[_0x164712(0x2d4)])return _0x357016[_0x164712(0x268)](_0x41a9e3,'🛠️\x20*Utilisation\x20de\x20la\x20commande\x20'+_0x330b69+_0x164712(0x44d)+_0x330b69+_0x164712(0x2ba)+(_0xac6e?_0x357016[_0x164712(0x260)]:'d’adieu')+_0x164712(0x3be)+_0x330b69+_0x164712(0x2ad)+(_0xac6e?_0x357016[_0x164712(0x351)]:_0x357016[_0x164712(0x33f)])+_0x164712(0x24e)+_0x330b69+'\x20Votre\x20message...*\x20–\x20Définir\x20un\x20message\x20personnalisé.\x0a4️⃣\x20*'+_0x330b69+'\x20défaut*\x20–\x20Réinitialise\x20le\x20message\x20'+(_0xac6e?_0x357016['vOXWf']:_0x164712(0x213))+_0x164712(0x21e));if(['on',_0x357016[_0x164712(0x388)]][_0x164712(0x411)](_0x162d27)){const _0x227eeb=_0x357016[_0x164712(0x2f9)](_0x162d27,'on')?_0x357016[_0x164712(0x355)]:_0x357016['CtQwu'];if(_0x1148d0[_0x330b69]===_0x227eeb)return _0x357016[_0x164712(0x268)](_0x41a9e3,'ℹ️\x20Le\x20message\x20'+(_0xac6e?_0x357016[_0x164712(0x351)]:_0x357016[_0x164712(0x33f)])+_0x164712(0x2db)+(_0x357016[_0x164712(0x2f9)](_0x162d27,'on')?_0x357016[_0x164712(0x24c)]:_0x357016[_0x164712(0x3e2)])+'.');return _0x1148d0[_0x330b69]=_0x227eeb,await _0x1148d0[_0x164712(0x2b9)](),_0x357016[_0x164712(0x318)](_0x41a9e3,_0x164712(0x21d)+(_0xac6e?_0x357016['vOXWf']:_0x357016['UwKne'])+'\x20'+(_0x357016[_0x164712(0x2f9)](_0x162d27,'on')?_0x164712(0x2fe):_0x357016[_0x164712(0x3e2)])+'\x20avec\x20succès.');}if(_0x357016[_0x164712(0x31f)](_0x162d27,_0x357016[_0x164712(0x340)])){if(!_0x5a44d5||!_0x5a44d5[_0x164712(0x443)]())return _0x357016['WXSVx'](_0x41a9e3,_0x164712(0x2dc)+(_0xac6e?_0x357016[_0x164712(0x351)]:_0x357016['UwKne'])+_0x164712(0x3e7));const _0x5c51c2=await _0x31ac2b[_0x164712(0x40b)](_0x260286),_0x3b1f2c=_0x5c51c2[_0x164712(0x2a0)]||'Groupe',_0x2d04d1=_0x5c51c2['participants']['length'],_0xfed533=_0x5c51c2[_0x164712(0x1f8)]||_0x357016[_0x164712(0x266)],_0x103b73='@'+_0x4a17cc[_0x164712(0x342)]('@')[0x0];let _0x497173=_0x5a44d5;const _0x26fe65=_0x497173[_0x164712(0x38b)](/#url=(\S+)/i),_0x51cb8a=_0x497173[_0x164712(0x38b)](/#audio=(\S+)/i),_0x150947=_0x497173[_0x164712(0x411)](_0x357016['JhZMp']),_0xc5d9b9=_0x497173['includes'](_0x357016[_0x164712(0x230)]);_0x497173=_0x497173['replace'](/#url=\S+/i,'')[_0x164712(0x29f)](/#audio=\S+/i,'')[_0x164712(0x29f)](/#pp/gi,'')[_0x164712(0x29f)](/#gpp/gi,'')[_0x164712(0x29f)](/@user/gi,_0x103b73)[_0x164712(0x29f)](/#groupe/gi,_0x3b1f2c)['replace'](/#membre/gi,_0x2d04d1)[_0x164712(0x29f)](/#desc/gi,_0xfed533);let _0x4c61fb=![];if(_0x26fe65){const _0x10b9b4=_0x26fe65[0x1],_0x2339e5=_0x10b9b4[_0x164712(0x342)]('.')['pop']()[_0x164712(0x341)]();let _0x5cac88=null;if([_0x357016[_0x164712(0x315)],_0x357016[_0x164712(0x329)],_0x164712(0x2e2)]['includes'](_0x2339e5))_0x5cac88={'video':{'url':_0x10b9b4},'caption':_0x497173['trim'](),'gifPlayback':!![],'mentions':[_0x4a17cc]};else{if([_0x357016[_0x164712(0x288)],_0x357016[_0x164712(0x343)],_0x357016[_0x164712(0x28a)],_0x164712(0x1fb)][_0x164712(0x411)](_0x2339e5))_0x5cac88={'image':{'url':_0x10b9b4},'caption':_0x497173[_0x164712(0x443)](),'mentions':[_0x4a17cc]};}_0x5cac88&&(await _0x31ac2b['sendMessage'](_0x260286,_0x5cac88),_0x4c61fb=!![]);}else{if(_0x150947)try{const _0x26ce28=await _0x31ac2b[_0x164712(0x214)](_0x4a17cc,_0x357016['Cmviz']);await _0x31ac2b[_0x164712(0x3cd)](_0x260286,{'image':{'url':_0x26ce28},'caption':_0x497173[_0x164712(0x443)](),'mentions':[_0x4a17cc]}),_0x4c61fb=!![];}catch{}else{if(_0xc5d9b9)try{const _0x4ad5bb=await _0x31ac2b['profilePictureUrl'](_0x260286,_0x357016[_0x164712(0x2ee)]);await _0x31ac2b['sendMessage'](_0x260286,{'image':{'url':_0x4ad5bb},'caption':_0x497173[_0x164712(0x443)](),'mentions':[_0x4a17cc]}),_0x4c61fb=!![];}catch{}}}if(_0x51cb8a){const _0x3ce757=_0x51cb8a[0x1];await _0x31ac2b[_0x164712(0x3cd)](_0x260286,{'audio':{'url':_0x3ce757},'mimetype':_0x357016[_0x164712(0x2c0)]}),_0x4c61fb=!![];}!_0x4c61fb&&_0x497173[_0x164712(0x443)]()&&await _0x31ac2b[_0x164712(0x3cd)](_0x260286,{'text':_0x497173['trim'](),'mentions':[_0x4a17cc]});return;}if(_0x357016[_0x164712(0x1ff)](_0x162d27,_0x357016['CguAl'])||_0x357016[_0x164712(0x31f)](_0x162d27,_0x357016[_0x164712(0x24a)])){if(!_0x5a44d5)return _0x357016[_0x164712(0x268)](_0x41a9e3,_0x164712(0x3a4)+(_0xac6e?_0x357016[_0x164712(0x351)]:_0x164712(0x213))+_0x164712(0x35d));return _0x4d1da5[_0x5625a9]=null,await _0x4d1da5['save'](),_0x41a9e3(_0x164712(0x21d)+(_0xac6e?'de\x20bienvenue':'d’adieu')+_0x164712(0x291));}const _0xae25d1=_0x5d6032[_0x164712(0x29c)]('\x20')[_0x164712(0x443)]();if(!_0xae25d1)return _0x357016[_0x164712(0x3b6)](_0x41a9e3,_0x164712(0x3f5));return _0x4d1da5[_0x5625a9]=_0xae25d1,await _0x4d1da5[_0x164712(0x2b9)](),_0x357016[_0x164712(0x360)](_0x41a9e3,'✅\x20Nouveau\x20message\x20'+(_0xac6e?_0x357016[_0x164712(0x351)]:_0x357016[_0x164712(0x33f)])+_0x164712(0x22d));}catch(_0x843e88){console[_0x164712(0x2c7)](_0x164712(0x270)+_0x330b69+'\x20:',_0x843e88),_0x357016[_0x164712(0x23f)](_0x41a9e3,_0x357016['xcRhh']);}});};welcomeGoodbyeCmd(_0x1ecd6c(0x35b)),welcomeGoodbyeCmd(_0x1ecd6c(0x390));const commands=[{'nom_cmd':_0x1ecd6c(0x242),'colonne':_0x1ecd6c(0x242),'react':'🛑','desc':_0x1ecd6c(0x2c2),'table':GroupSettings},{'nom_cmd':'antidemote','colonne':'antidemote','react':'🛑','desc':'Active\x20ou\x20désactive\x20l\x27antidémotion','table':GroupSettings},{'nom_cmd':_0x1ecd6c(0x20f),'colonne':_0x1ecd6c(0x3e0),'react':'⚠️','desc':_0x1ecd6c(0x287),'table':Events2},{'nom_cmd':_0x1ecd6c(0x233),'colonne':_0x1ecd6c(0x2d2),'react':'⚠️','desc':_0x1ecd6c(0x405),'table':Events2}];commands[_0x1ecd6c(0x401)](({nom_cmd:_0x23e8a3,colonne:_0x1a2ab9,react:_0x21cc41,desc:_0x1bc162,table:_0xfc64d4})=>{const _0x4bf15c=_0x1ecd6c,_0x579ac1={'xUIYF':function(_0xaa5cc5,_0x4ac68d){return _0xaa5cc5(_0x4ac68d);},'oJikg':_0x4bf15c(0x2b0),'sWaFV':_0x4bf15c(0x368),'kddBw':'off','Iylbu':function(_0x569222,_0x1e7676){return _0x569222===_0x1e7676;},'lDDHx':_0x4bf15c(0x33a),'csRRJ':_0x4bf15c(0x371),'xNPfS':function(_0x17d64a,_0x3d5a16){return _0x17d64a(_0x3d5a16);},'fwRle':function(_0x480552,_0x5c4451){return _0x480552===_0x5c4451;},'Wsrjn':_0x4bf15c(0x2fe),'rVuRG':'désactivé','TZgrA':function(_0x199e44,_0x788d34){return _0x199e44(_0x788d34);},'siuma':_0x4bf15c(0x39a),'BWDPn':function(_0x2a01b3,_0x1bf1f7,_0x463b32){return _0x2a01b3(_0x1bf1f7,_0x463b32);},'wOYPu':_0x4bf15c(0x423)};_0x579ac1[_0x4bf15c(0x1f4)](ovlcmd,{'nom_cmd':_0x23e8a3,'classe':_0x579ac1[_0x4bf15c(0x2dd)],'react':_0x21cc41,'desc':_0x1bc162},async(_0x4a67f1,_0xc25f4f,{repondre:_0x48d338,arg:_0x596259,verif_Groupe:_0x3d10ac,verif_Admin:_0x41521e})=>{const _0x5b89a4=_0x4bf15c;try{if(!_0x3d10ac)return _0x579ac1[_0x5b89a4(0x339)](_0x48d338,_0x579ac1[_0x5b89a4(0x2bf)]);if(!_0x41521e)return _0x579ac1['xUIYF'](_0x48d338,_0x579ac1[_0x5b89a4(0x307)]);const _0x1a56ed=_0x596259[0x0]?.[_0x5b89a4(0x341)](),_0x1cebdd=['on',_0x579ac1[_0x5b89a4(0x22a)]],[_0x1c639a]=await _0xfc64d4[_0x5b89a4(0x3e1)]({'where':{'id':_0x4a67f1},'defaults':{'id':_0x4a67f1,[_0x1a2ab9]:_0x5b89a4(0x371)}});if(_0x1cebdd[_0x5b89a4(0x411)](_0x1a56ed)){const _0x8c43ab=_0x579ac1[_0x5b89a4(0x359)](_0x1a56ed,'on')?_0x579ac1[_0x5b89a4(0x448)]:_0x579ac1[_0x5b89a4(0x3ad)];if(_0x1c639a[_0x1a2ab9]===_0x8c43ab)return _0x48d338(_0x5b89a4(0x2b5)+_0x23e8a3+'\x20est\x20déjà\x20'+_0x1a56ed+'.');return _0x1c639a[_0x1a2ab9]=_0x8c43ab,await _0x1c639a[_0x5b89a4(0x2b9)](),_0x579ac1[_0x5b89a4(0x300)](_0x48d338,'✅\x20'+_0x23e8a3+'\x20'+(_0x579ac1[_0x5b89a4(0x3bf)](_0x1a56ed,'on')?_0x579ac1['Wsrjn']:_0x579ac1[_0x5b89a4(0x406)])+'\x20avec\x20succès.');}return _0x579ac1[_0x5b89a4(0x339)](_0x48d338,_0x5b89a4(0x2f2)+_0x23e8a3+_0x5b89a4(0x207)+_0x1bc162[_0x5b89a4(0x341)]());}catch(_0x321b54){return console[_0x5b89a4(0x2c7)]('Erreur\x20lors\x20de\x20la\x20configuration\x20de\x20'+_0x23e8a3+'\x20:',_0x321b54),_0x579ac1[_0x5b89a4(0x3bb)](_0x48d338,_0x579ac1[_0x5b89a4(0x31e)]);}});});
+const { ovlcmd } = require("../lib/ovlcmd");
+const { Sticker, StickerTypes } = require('wa-sticker-formatter');
+const { Antilink } = require("../DataBase/antilink");
+const { Antitag } = require("../DataBase/antitag");
+const { Antibot } = require("../DataBase/antibot");
+const { GroupSettings, Events2 } = require("../DataBase/events");
+const fs = require("fs");
+const { setWarn, delWarn, getLimit, setLimit } = require("../DataBase/warn");
+const { Antimention } = require('../DataBase/antimention');
+const { Ranks } = require('../DataBase/rank');
+const { Antispam } = require("../DataBase/antispam");
+
+ovlcmd(
+    {
+        nom_cmd: "tagall",
+        classe: "Groupe",
+        react: "💬",
+        desc: "Commande pour taguer tous les membres d'un groupe"
+    },
+    async (ms_org, ovl, cmd_options) => {
+        try {
+            const { ms, repondre, arg, mbre_membre, verif_Groupe, infos_Groupe, nom_Auteur_Message, verif_Admin } = cmd_options;
+
+            if (!verif_Groupe) {
+                return repondre("Cette commande ne fonctionne que dans les groupes");
+            }
+
+            const messageTexte = arg && arg.length > 0 ? arg.join(' ') : '';
+            let tagMessage = `╭───〔  TAG ALL 〕───⬣\n`;
+            tagMessage += `│👤 Auteur : *${nom_Auteur_Message}*\n`;
+            tagMessage += `│💬 Message : *${messageTexte}*\n│\n`;
+
+            mbre_membre.forEach(membre => {
+                tagMessage += `│◦❒ @${membre.id.split("@")[0]}\n`;
+            });
+            tagMessage += `╰═══════════════⬣\n`;
+
+            if (verif_Admin) {
+                await ovl.sendMessage(ms_org, { text: tagMessage, mentions: mbre_membre.map(m => m.id) }, { quoted: ms });
+            } else {
+                repondre('Seuls les administrateurs peuvent utiliser cette commande');
+            }
+        } catch (error) {
+            console.error("Erreur lors de l'envoi du message avec tagall :", error);
+        }
+    });
+
+ovlcmd(
+    {
+        nom_cmd: "tagadmin",
+        classe: "Groupe",
+        react: "💬",
+        desc: "Commande pour taguer tous les administrateurs d'un groupe"
+    },
+    async (ms_org, ovl, cmd_options) => {
+        try {
+            const { ms, repondre, arg, verif_Groupe, mbre_membre, infos_Groupe, nom_Auteur_Message, verif_Admin } = cmd_options;
+
+            if (!verif_Groupe) {
+                return repondre("Cette commande ne fonctionne que dans les groupes");
+            }
+
+            const messageTexte = arg && arg.length > 0 ? arg.join(' ') : '';
+            const adminsGroupe = mbre_membre.filter(membre => membre.admin).map(membre => membre.id);
+
+            if (adminsGroupe.length === 0) {
+                return repondre("Aucun administrateur trouvé dans ce groupe.");
+            }
+
+            let tagMessage = `╭───〔  TAG ADMINS 〕───⬣\n`;
+            tagMessage += `│👤 Auteur : *${nom_Auteur_Message}*\n`;
+            tagMessage += `│💬 Message : *${messageTexte}*\n│\n`;
+
+            mbre_membre.forEach(membre => {
+                if (membre.admin) {
+                    tagMessage += `│◦❒ @${membre.id.split("@")[0]}\n`;
+                }
+            });
+            tagMessage += `╰═══════════════⬣\n`;
+
+            if (verif_Admin) {
+                await ovl.sendMessage(ms_org, { text: tagMessage, mentions: adminsGroupe }, { quoted: ms });
+            } else {
+                repondre('Seuls les administrateurs peuvent utiliser cette commande');
+            }
+        } catch (error) {
+            console.error("Erreur lors de l'envoi du message avec tagadmins :", error);
+        }
+    });
+
+ovlcmd(
+    {
+        nom_cmd: "tag",
+        classe: "Groupe",
+        react: "💬",
+		alias: ["htag", "hidetag"],
+        desc: "partager un message à tous les membres d'un groupe"
+
+    },
+    async (dest, ovl, cmd_options) => {
+        const { repondre, msg_Repondu, verif_Groupe, infos_Groupe, arg, verif_Admin, ms } = cmd_options;
+
+        if (!verif_Groupe) {
+            repondre("Cette commande ne fonctionne que dans les groupes");
+            return;
+        }
+
+        if (verif_Admin) {
+            let metadata_groupe = infos_Groupe;
+            let membres_Groupe = metadata_groupe.participants.map(participant => participant.id);
+            let contenu_msg;
+
+            if (msg_Repondu) {
+                if (msg_Repondu.imageMessage) {
+                    let media_image = await ovl.dl_save_media_ms(msg_Repondu.imageMessage);
+                    contenu_msg = {
+                        image: { url: media_image },
+                        caption: msg_Repondu.imageMessage.caption,
+                        mentions: membres_Groupe
+                    };
+                } else if (msg_Repondu.videoMessage) {
+                    let media_video = await ovl.dl_save_media_ms(msg_Repondu.videoMessage);
+                    contenu_msg = {
+                        video: { url: media_video },
+                        caption: msg_Repondu.videoMessage.caption,
+                        mentions: membres_Groupe
+                    };
+                } else if (msg_Repondu.audioMessage) {
+                    let media_audio = await ovl.dl_save_media_ms(msg_Repondu.audioMessage);
+                    contenu_msg = {
+                        audio: { url: media_audio },
+                        mimetype: 'audio/mp4',
+                        mentions: membres_Groupe
+                    };
+                } else if (msg_Repondu.stickerMessage) {
+                    let media_sticker = await ovl.dl_save_media_ms(msg_Repondu.stickerMessage);
+                    let sticker_msg = new Sticker(media_sticker, {
+                        pack: 'OVL-MD Hidtag',
+                        type: StickerTypes.FULL,
+                        quality: 80,
+                        background: "transparent",
+                    });
+                    const sticker_buffer = await sticker_msg.toBuffer();
+                    contenu_msg = { sticker: sticker_buffer, mentions: membres_Groupe };
+                } else {
+                    contenu_msg = {
+                        text: msg_Repondu.conversation || msg_Repondu.extendedTextMessage?.text,
+                        mentions: membres_Groupe
+                    };
+                }
+
+                ovl.sendMessage(dest, contenu_msg, { quoted: ms });
+            } else {
+                if (!arg || !arg[0]) {
+                    repondre("Veuillez inclure ou mentionner un message à partager.");
+                    return;
+                }
+
+                ovl.sendMessage(dest, {
+                    text: arg.join(' '),
+                    mentions: membres_Groupe
+                }, { quoted: ms });
+            }
+        } else {
+            repondre("Cette commande est réservée aux administrateurs du groupe");
+        }
+    }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "poll",
+    classe: "Groupe",
+    react: "📊",
+    desc: "Crée un sondage dans le groupe(plusieurs votés autorisé).",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    try {
+      const { ms, repondre, arg, verif_Groupe, infos_Groupe, nom_Auteur_Message, verif_Admin } = cmd_options;
+
+      if (!verif_Groupe) {
+        return repondre("Cette commande ne fonctionne que dans les groupes.");
+      }
+
+      let [pollName, pollOptions] = arg.join(' ').split(';');
+
+      if (!pollOptions) {
+        return repondre("Veuillez fournir une question suivie des options, séparées par des virgules. Exemple : poll question;option1,option2,option3");
+      }
+
+      let options = pollOptions.split(',').map(option => option.trim()).filter(option => option.length > 0);
+
+      if (options.length < 2) {
+        return repondre("Le sondage doit contenir au moins deux options.");
+      }
+      
+      if (verif_Admin) {
+        await ovl.sendMessage(ms_org, {
+          poll: {
+            name: pollName,
+            values: options,
+          },
+        }, { quoted: ms });
+      } else {
+        repondre('Seuls les administrateurs peuvent utiliser cette commande.');
+      }
+    } catch (error) {
+      console.error("Erreur lors de l'envoi du sondage :", error);
+      repondre("Une erreur est survenue lors de la création du sondage.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "poll2",
+    classe: "Groupe",
+    react: "📊",
+    desc: "Crée un sondage dans le groupe(un seul vote autorisé).",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    try {
+      const { ms, repondre, arg, verif_Groupe, infos_Groupe, nom_Auteur_Message, verif_Admin } = cmd_options;
+
+      if (!verif_Groupe) {
+        return repondre("Cette commande ne fonctionne que dans les groupes.");
+      }
+
+      let [pollName, pollOptions] = arg.join(' ').split(';');
+
+      if (!pollOptions) {
+        return repondre("Veuillez fournir une question suivie des options, séparées par des virgules. Exemple : poll question;option1,option2,option3");
+      }
+
+      let options = pollOptions.split(',').map(option => option.trim()).filter(option => option.length > 0);
+
+      if (options.length < 2) {
+        return repondre("Le sondage doit contenir au moins deux options.");
+      }
+      
+      if (verif_Admin) {
+        await ovl.sendMessage(ms_org, {
+          poll: {
+            name: pollName,
+            values: options,
+            selectableCount: 1,
+          },
+        }, { quoted: ms });
+      } else {
+        repondre('Seuls les administrateurs peuvent utiliser cette commande.');
+      }
+    } catch (error) {
+      console.error("Erreur lors de l'envoi du sondage :", error);
+      repondre("Une erreur est survenue lors de la création du sondage.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "kick",
+    classe: "Groupe",
+    react: "🛑",
+    desc: "Supprime un membre du groupe.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, getJid, auteur_Msg_Repondu, arg, infos_Groupe, verif_Admin, verif_Ovl_Admin, prenium_id, dev_num, ms } = cmd_options;
+    if (!verif_Groupe) return ovl.sendMessage(ms_org, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+    if (prenium_id || verif_Admin) {
+    const membres = await infos_Groupe.participants;
+    const admins = membres.filter((m) => m.admin).map((m) => m.phoneNumber);
+    const cbl = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+    const membre = await getJid(cbl, ms_org, ovl);
+        if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+
+     if (!membre || !membres.find((m) => m.phoneNumber === membre))
+      return ovl.sendMessage(ms_org, { text: "Membre introuvable dans ce groupe." }, { quoted: ms });
+    if (admins.includes(membre))
+      return ovl.sendMessage(ms_org, { text: "Impossible d'exclure un administrateur du groupe." }, { quoted: ms });
+    if (dev_num.includes(membre)) {
+      return ovl.sendMessage(ms_org, { text: "Vous ne pouvez pas exclure un développeur." }, { quoted: ms });
+    }
+    try {
+      await ovl.groupParticipantsUpdate(ms_org, [membre], "remove");
+      ovl.sendMessage(ms_org, { text: `@${membre.split("@")[0]} a été exclu.`, mentions: [membre] }, { quoted: ms });
+    } catch (err) {
+      console.error("Erreur :", err);
+      ovl.sendMessage(ms_org, { text: "Une erreur est survenue lors de l'exclusion." }, { quoted: ms });
+    }
+    } else { return ovl.sendMessage(ms_org, { text: "Vous n'avez pas la permission d'utiliser cette commande." }, { quoted: ms });
+           };
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "kickall",
+    classe: "Groupe",
+    react: "🛑",
+    desc: "Supprime tous les membres non administrateurs du groupe.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, infos_Groupe, ms, auteur_Message, verif_Ovl_Admin, dev_num, id_Bot, getJid } = cmd_options;
+
+    if (!verif_Groupe)
+      return ovl.sendMessage(ms_org, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    const membres = infos_Groupe.participants;
+    let createur = membres.find(m => m.admin === "superadmin")?.phoneNumber;
+    if (!createur) createur = membres[0]?.phoneNumber;
+
+    if (![createur, id_Bot, ...dev_num].includes(auteur_Message))
+      return ovl.sendMessage(ms_org, { text: "Seul le créateur du groupe ou le propriétaire du bot peut utiliser cette commande." }, { quoted: ms });
+
+    if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+
+    const settings = await GroupSettings.findOne({ where: { id: ms_org } });
+    if (settings?.goodbye === "oui")
+      return ovl.sendMessage(ms_org, { text: "Désactivez le goodbye message (goodbye off) avant de continuer." }, { quoted: ms });
+
+    const nonAdmins = membres.filter(m => !m.admin && !dev_num.includes(m.phoneNumber)).map(m => m.phoneNumber);
+    if (nonAdmins.length === 0)
+      return ovl.sendMessage(ms_org, { text: "Aucun membre non administrateur à exclure." }, { quoted: ms });
+
+    await ovl.sendMessage(ms_org, { text: "⚠️ Kickall va commencer dans 5 secondes.\nEnvoyez 'stop' pour annuler." }, { quoted: ms });
+    await new Promise(resolve => setTimeout(resolve, 5000));
+
+    let stopKick = false;
+
+    for (const membre of nonAdmins) {
+      const reponse = await ovl.recup_msg({ ms_org, temps: 300000 });
+      const txt = (reponse?.message?.conversation || reponse?.message?.extendedTextMessage?.text || "").trim().toLowerCase();
+      const lid = reponse?.key?.participant || reponse?.key?.remoteJid;
+      const jid = await getJid(lid, ms_org, ovl);
+
+      if (txt === "stop" && [createur, id_Bot, ...dev_num].includes(jid)) {
+        stopKick = true;
+        await ovl.sendMessage(ms_org, { text: "⛔ Kickall annulé !" }, { quoted: ms });
+        break;
+      }
+
+      try {
+        await ovl.groupParticipantsUpdate(ms_org, [membre], "remove");
+        await new Promise(resolve => setTimeout(resolve, 500));
+      } catch (err) {
+        console.error(`Erreur exclusion ${membre} :`, err);
+      }
+    }
+
+    if (!stopKick)
+      ovl.sendMessage(ms_org, { text: `✅ ${nonAdmins.length} membre(s) ont été exclus.` }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "kickall2",
+    classe: "Groupe",
+    react: "🚫",
+    desc: "Exclut tous les membres non administrateurs d’un coup.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Ovl_Admin, infos_Groupe, dev_num, ms, auteur_Message, id_Bot } = cmd_options;
+
+    if (!verif_Groupe)
+      return ovl.sendMessage(ms_org, { text: "❌ Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    const membres = infos_Groupe.participants;
+    let superAdmin = membres.find(m => m.admin === "superadmin")?.phoneNumber;
+    if (!superAdmin) superAdmin = membres[0]?.phoneNumber;
+
+    if (![superAdmin, id_Bot, ...dev_num].includes(auteur_Message))
+      return ovl.sendMessage(ms_org, { text: "❌ Seul le superadmin, le créateur du groupe, le créateur du bot ou un dev peut utiliser cette commande." }, { quoted: ms });
+
+    if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "❌ Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+
+    const settings = await GroupSettings.findOne({ where: { id: ms_org } });
+    if (settings?.goodbye === "oui")
+      return ovl.sendMessage(ms_org, { text: "❗ Désactivez d’abord le message de départ (goodbye off).", quoted: ms });
+      
+    const nonAdmins = membres
+      .filter(m => !m.admin && !dev_num.includes(m.phoneNumber))
+      .map(m => m.phoneNumber);
+
+    if (nonAdmins.length === 0)
+      return ovl.sendMessage(ms_org, { text: "✅ Aucun membre non administrateur à exclure." }, { quoted: ms });
+
+    try {
+      await ovl.groupParticipantsUpdate(ms_org, nonAdmins, "remove");
+      ovl.sendMessage(ms_org, {
+        text: `✅ ${nonAdmins.length} membre(s) ont été exclus.`,
+        quoted: ms
+      });
+    } catch (err) {
+      console.error("❌ Erreur exclusion en masse :", err);
+      ovl.sendMessage(ms_org, { text: "❌ Échec de l’exclusion en masse. Certains membres n’ont peut-être pas été retirés." }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "ckick",
+    classe: "Groupe",
+    react: "🛑",
+    desc: "Supprime tous les membres non administrateurs dont le JID commence par un indicatif spécifique.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Ovl_Admin, infos_Groupe, arg, dev_num, ms, auteur_Message, id_Bot } = cmd_options;
+
+    if (!verif_Groupe)
+      return ovl.sendMessage(ms_org, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    const membres = infos_Groupe.participants;
+    let superAdmin = membres.find(m => m.admin === "superadmin")?.phoneNumber;
+    if (!superAdmin) superAdmin = membres[0]?.phoneNumber;
+
+    if (![superAdmin, id_Bot, ...dev_num].includes(auteur_Message))
+      return ovl.sendMessage(ms_org, { text: "❌ Seul le superadmin, le créateur du groupe, le créateur du bot ou un dev peut utiliser cette commande." }, { quoted: ms });
+
+    if (!arg[0])
+      return ovl.sendMessage(ms_org, { text: "Veuillez spécifier l'indicatif." }, { quoted: ms });
+
+    if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+
+    const settings = await GroupSettings.findOne({ where: { id: ms_org } });
+    if (settings?.goodbye === "oui")
+      return ovl.sendMessage(ms_org, { text: "Désactivez le goodbye message (goodbye off) avant de continuer." }, { quoted: ms });
+
+    const indicatif = arg[0];
+    const membresToKick = membres
+      .filter(m => m.phoneNumber.startsWith(indicatif) && !m.admin && !dev_num.includes(m.phoneNumber))
+      .map(m => m.phoneNumber);
+
+    if (membresToKick.length === 0)
+      return ovl.sendMessage(ms_org, { text: `Aucun membre non admin avec l'indicatif ${indicatif}.` }, { quoted: ms });
+
+    for (const membre of membresToKick) {
+      try {
+        await ovl.groupParticipantsUpdate(ms_org, [membre], "remove");
+        await new Promise(resolve => setTimeout(resolve, 500));
+      } catch (err) {
+        console.error(`Erreur exclusion ${membre} :`, err);
+      }
+    }
+
+    ovl.sendMessage(ms_org, { text: `✅ ${membresToKick.length} membre(s) avec l'indicatif ${indicatif} ont été exclus.` }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "promote",
+    classe: "Groupe",
+    react: "⬆️",
+    desc: "Promouvoir un membre comme administrateur.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, auteur_Msg_Repondu, arg, getJid, infos_Groupe, verif_Admin, prenium_id, verif_Ovl_Admin, ms } = cmd_options;
+    if (!verif_Groupe) return ovl.sendMessage(ms_org, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+    if (verif_Admin || prenium_id) {
+    const membres = await infos_Groupe.participants;
+    const admins = membres.filter((m) => m.admin).map((m) => m.phoneNumber);
+    const cbl = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+    const membre = await getJid(cbl, ms_org, ovl);
+    if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+    if (!membre) return ovl.sendMessage(ms_org, { text: "Veuillez mentionner un membre à promouvoir." }, { quoted: ms });
+    if (!membres.find((m) => m.phoneNumber === membre))
+      return ovl.sendMessage(ms_org, { text: "Membre introuvable dans ce groupe." }, { quoted: ms });
+    if (admins.includes(membre))
+      return ovl.sendMessage(ms_org, { text: "ce membre est déjà un administrateur du groupe." }, { quoted: ms });
+
+    try {
+      await ovl.groupParticipantsUpdate(ms_org, [membre], "promote");
+      ovl.sendMessage(ms_org, { text: `@${membre.split("@")[0]} a été promu administrateur.`, mentions: [membre] }, { quoted: ms });
+    } catch (err) {
+      console.error("Erreur :", err);
+      ovl.sendMessage(ms_org, { text: "Une erreur est survenue lors de la promotion." }, { quoted: ms });
+    }
+    } else { return ovl.sendMessage(ms_org, { text: "Vous n'avez pas la permission d'utiliser cette commande." }, { quoted: ms });
+           }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "demote",
+    classe: "Groupe",
+    react: "⬇️",
+    desc: "Retirer le rôle d'administrateur à un membre.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, getJid, auteur_Msg_Repondu, arg, infos_Groupe, verif_Admin, prenium_id, verif_Ovl_Admin, dev_num, dev_id, ms } = cmd_options;
+    if (!verif_Groupe) return ovl.sendMessage(ms_org, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+    if (verif_Admin || prenium_id) { 
+    const membres = await infos_Groupe.participants;
+    const admins = membres.filter((m) => m.admin).map((m) => m.phoneNumber);
+    const cbl = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+    const membre = await getJid(cbl, ms_org, ovl);
+    if (!verif_Ovl_Admin)
+      return ovl.sendMessage(ms_org, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+    if (!membre) return ovl.sendMessage(ms_org, { text: "Veuillez mentionner un membre à rétrograder." }, { quoted: ms });
+    if (!membres.find((m) => m.phoneNumber === membre))
+      return ovl.sendMessage(ms_org, { text: "Membre introuvable dans ce groupe." });
+    if (!admins.includes(membre))
+      return ovl.sendMessage(ms_org, { text: "ce membre n'est pas un administrateur du groupe." }, { quoted: ms });
+    
+      if (dev_num.includes(membre)) {
+      return ovl.sendMessage(ms_org, { text: "Vous ne pouvez pas rétrograder un développeur." }, { quoted: ms });
+    }
+
+    try {
+      await ovl.groupParticipantsUpdate(ms_org, [membre], "demote");
+      ovl.sendMessage(ms_org, { text: `@${membre.split("@")[0]} a été rétrogradé.`, mentions: [membre] }, { quoted: ms });
+    } catch (err) {
+      console.error("Erreur :", err);
+      ovl.sendMessage(ms_org, { text: "Une erreur est survenue lors de la rétrogradation." }, { quoted: ms });
+    }
+    } else { return ovl.sendMessage(ms_org, { text: "Vous n'avez pas la permission d'utiliser cette commande." }, { quoted: ms });
+           }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "gcreate",
+    classe: "Groupe",
+    react: "✅",
+    desc: "Crée un groupe avec juste toi comme membre.",
+  },
+  async (jid, ovl, { arg, prenium_id, ms }) => {
+    if (!prenium_id) {
+      return ovl.sendMessage(jid, { text: `❌ Vous n'avez pas les permissions pour créer un groupe.` }, { quoted: ms });
+    }
+
+    if (arg.length === 0) {
+      return ovl.sendMessage(jid, {
+        text: `⚠️ Veuillez fournir un nom pour le groupe. Exemple : *gcreate MonGroupe*`,
+      }, { quoted: ms });
+    }
+
+    const name = arg.join(" ");
+
+    try {
+      const group = await ovl.groupCreate(name, []);
+      await ovl.sendMessage(group.id, {
+        text: `🎉 Groupe *"${name}"* créé avec succès !`,
+      }, { quoted: ms });
+    } catch (err) {
+      console.error("❌ Erreur lors de la création du groupe :", err);
+      await ovl.sendMessage(jid, {
+        text: `❌ Une erreur est survenue lors de la création du groupe.`,
+      }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "gdesc",
+    classe: "Groupe",
+    react: "🔤",
+    desc: "Permet de changer la description d'un groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, msg_Repondu, arg, ms } = cmd_options;
+
+    if (!verif_Groupe) return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (verif_Admin && verif_Ovl_Admin) {
+      let desc;
+      if (msg_Repondu) {
+        desc = msg_Repondu.conversation || msg_Repondu.extendedTextMessage?.text;
+      } else if (arg) {
+        desc = arg.join(' ');
+      } else {
+        return ovl.sendMessage(jid, { text: "Entrez la nouvelle description." }, { quoted: ms });
+      }
+
+      await ovl.groupUpdateDescription(jid, desc);
+    } else { ovl.sendMessage(jid, { text: 'je n\'ai pas les droits requis pour exécuter cette commande' }, { quoted: ms }) }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "gname",
+    classe: "Groupe",
+    react: "🔤",
+    desc: "Permet de changer le nom d'un groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, msg_Repondu, arg, ms } = cmd_options;
+
+    if (!verif_Groupe) return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (verif_Admin && verif_Ovl_Admin) {
+      let name;
+      if (msg_Repondu) {
+        name = msg_Repondu.conversation || msg_Repondu.extendedTextMessage?.text;
+      } else if (arg) {
+        name = arg.join(' ');
+      } else {
+        return ovl.sendMessage(jid, { text: "Entrez un nouveau nom" }, { quoted: ms });
+      }
+
+      await ovl.groupUpdateSubject(jid, name);
+    } else { ovl.sendMessage(jid, { text: 'je n\'ai pas les droits requis pour exécuter cette commande' }, { quoted: ms }) }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "close",
+    classe: "Groupe",
+    react: "✅",
+    desc: "Seuls les admins peuvent envoyer des messages",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!verif_Groupe) 
+      return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (!verif_Admin || !verif_Ovl_Admin)
+      return ovl.sendMessage(jid, { text: "Je n'ai pas les droits requis pour exécuter cette commande." }, { quoted: ms });
+
+    await ovl.groupSettingUpdate(jid, "announcement");
+    return ovl.sendMessage(jid, { text: "Mode défini : seuls les admins peuvent envoyer des messages." }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "open",
+    classe: "Groupe",
+    react: "✅",
+    desc: "Tout le monde peut envoyer des messages",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!verif_Groupe) 
+      return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (!verif_Admin || !verif_Ovl_Admin)
+      return ovl.sendMessage(jid, { text: "Je n'ai pas les droits requis pour exécuter cette commande." }, { quoted: ms });
+
+    await ovl.groupSettingUpdate(jid, "not_announcement");
+    return ovl.sendMessage(jid, { text: "Mode défini : tout le monde peut envoyer des messages." }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "lock",
+    classe: "Groupe",
+    react: "✅",
+    desc: "Tout le monde peut modifier les paramètres du groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!verif_Groupe) 
+      return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (!verif_Admin || !verif_Ovl_Admin)
+      return ovl.sendMessage(jid, { text: "Je n'ai pas les droits requis pour exécuter cette commande." }, { quoted: ms });
+      
+    await ovl.groupSettingUpdate(jid, "unlocked");
+    return ovl.sendMessage(jid, { text: "Mode défini : tout le monde peut modifier les paramètres du groupe." }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "unlock",
+    classe: "Groupe",
+    react: "✅",
+    desc: "Seuls les admins peuvent modifier les paramètres du groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!verif_Groupe) 
+      return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+
+    if (!verif_Admin || !verif_Ovl_Admin)
+      return ovl.sendMessage(jid, { text: "Je n'ai pas les droits requis pour exécuter cette commande." }, { quoted: ms });
+
+    await ovl.groupSettingUpdate(jid, "locked");
+    return ovl.sendMessage(jid, { text: "Mode défini : seuls les admins peuvent modifier les paramètres du groupe." }, { quoted: ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "leave",
+    classe: "Groupe",
+    react: "😐",
+    desc: "Commande pour quitter un groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { prenium_id } = cmd_options;
+    if (!prenium_id) {
+      return ovl.sendMessage(jid, { text: "Vous n'avez pas les permissions requises pour quitter ce groupe." }, { quoted: cmd_options.ms });
+    }
+    await ovl.sendMessage(jid, { text: "Sayonara" }, { quoted: cmd_options.ms });
+    await ovl.groupLeave(jid);
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "link",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Permet d'obtenir le lien d'invitation d'un groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+    if (!verif_Groupe) return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+    if (verif_Admin && verif_Ovl_Admin) {
+      const code = await ovl.groupInviteCode(jid);
+      await ovl.sendMessage(jid, { text: `Lien d'invitation: https://chat.whatsapp.com/${code}` }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "revoke",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Réinitialise le lien d'invitation d'un groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, verif_Ovl_Admin, ms } = cmd_options;
+    if (!verif_Groupe) return ovl.sendMessage(jid, { text: "Commande utilisable uniquement dans les groupes." }, { quoted: ms });
+    if (verif_Admin && verif_Ovl_Admin) {
+      await ovl.groupRevokeInvite(jid);
+      await ovl.sendMessage(jid, { text: 'Le lien d\'invitation a été Réinitialisé.' }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "ginfo",
+    classe: "Groupe",
+    react: "🔎",
+    desc: "Affiche les informations du groupe",
+  },
+  async (jid, ovl, cmd_options) => {
+    const metadata = await ovl.groupMetadata(jid);
+    await ovl.sendMessage(jid, { text: `ID: ${metadata.id}\nNom: ${metadata.subject}\nDescription: ${metadata.desc}` }, { quoted: cmd_options.ms });
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "join",
+    classe: "Groupe",
+    react: "😶‍🌫",
+    desc: "Permet de rejoindre un groupe via un lien d'invitation",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { prenium_id, arg, ms } = cmd_options;
+    if (!prenium_id) {
+      return ovl.sendMessage(jid, { text: `Vous n'avez pas les permissions requises pour rejoindre un groupe.` }, { quoted: ms });
+    }
+    if (!arg) return ovl.sendMessage(jid, { text: 'Veuillez fournir le lien d\'invitation du groupe.' }, { quoted: ms });
+    const invite = arg.join("");
+    const code = invite.split('/')[3];
+    await ovl.groupAcceptInvite(code);
+    await ovl.sendMessage(jid, { text: 'Vous avez rejoint le groupe avec succès.' }, { quoted: ms });
+  }
+);
+
+async function gererDemandesIndividuellement(jid, action, ovl, cmd_options) {
+  const { verif_Admin, prenium_id, verif_Ovl_Admin, verif_Groupe, ms } = cmd_options;
+
+  if (!verif_Groupe)
+    return ovl.sendMessage(jid, { text: "❌ Commande réservée aux groupes uniquement." }, { quoted: ms });
+
+  if (!verif_Admin && !prenium_id)
+    return ovl.sendMessage(jid, { text: "❌ Vous n'avez pas les permissions pour utiliser cette commande." }, { quoted: ms });
+
+  if (!verif_Ovl_Admin)
+    return ovl.sendMessage(jid, { text: "❌ Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+
+  try {
+    const demandes = await ovl.groupRequestParticipantsList(jid);
+    if (!demandes || demandes.length === 0)
+      return ovl.sendMessage(jid, { text: "ℹ️ Aucune demande en attente." }, { quoted: ms });
+
+    const utilisateurs = demandes.map(d => d.phoneNumber);
+    let success = 0;
+
+    for (const membre of utilisateurs) {
+      try {
+        await ovl.groupRequestParticipantsUpdate(jid, [membre], action);
+        success++;
+        await new Promise(r => setTimeout(r, 500));
+      } catch (err) {
+        console.error(`❌ Erreur ${action} pour ${membre} :`, err.message);
+      }
+    }
+
+    const emoji = action === "approve" ? "✅" : "❌";
+    const verbe = action === "approve" ? "acceptée(s)" : "rejetée(s)";
+    ovl.sendMessage(jid, {
+      text: `${emoji} ${success} demande(s) ${verbe}.`,
+      quoted: ms
+    });
+
+  } catch (err) {
+    console.error("❌ Erreur générale :", err);
+    ovl.sendMessage(jid, { text: "❌ Une erreur est survenue.", quoted: ms });
+  }
+}
+
+ovlcmd({
+  nom_cmd: "acceptall",
+  classe: "Groupe",
+  react: "✅",
+  desc: "Accepte toutes les demandes une par une."
+}, async (jid, ovl, opt) => {
+  await gererDemandesIndividuellement(jid, "approve", ovl, opt);
+});
+
+ovlcmd({
+  nom_cmd: "rejectall",
+  classe: "Groupe",
+  react: "❌",
+  desc: "Rejette toutes les demandes une par une."
+}, async (jid, ovl, opt) => {
+  await gererDemandesIndividuellement(jid, "reject", ovl, opt);
+});
+
+ovlcmd(
+  {
+    nom_cmd: "getpp",
+    classe: "Groupe",
+    react: "🔎",
+    desc: "Affiche la pp d'un groupe",
+    alias: ["gpp"]
+  },
+  async (jid, ovl, cmd_options) => {
+    try {
+      const ppgroup = await ovl.profilePictureUrl(jid, 'image');
+      await ovl.sendMessage(jid, { image: { url: ppgroup } }, { quoted: cmd_options.ms });
+    } catch (error) {
+      console.error("Erreur lors de l'obtention de la photo de profil :", error);
+      await ovl.sendMessage(jid, "Désolé, je n'ai pas pu obtenir la photo de profil du groupe.", { quoted: cmd_options.ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "updatepp",
+    classe: "Groupe",
+    react: "🎨",
+    desc: "Commande pour changer la photo de profil d'un groupe",
+    alias: ["upp"]
+  },
+  async (jid, ovl, cmd_options) => {
+    const { arg, verif_Groupe, msg_Repondu, verif_Admin, prenium_id, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!(verif_Admin || prenium_id)) {
+      return ovl.sendMessage(jid, { text: `Vous n'avez pas les permissions requises pour modifier la photo du groupe.` }, { quoted: ms });
+    }
+
+    if (!verif_Ovl_Admin) {
+      return ovl.sendMessage(jid, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+    }
+
+    if (!msg_Repondu || !msg_Repondu.imageMessage) {
+      return ovl.sendMessage(jid, { text: `Mentionnez une image.` }, { quoted: ms });
+    }
+
+    try {
+      if (msg_Repondu?.imageMessage) {
+        const img = await ovl.dl_save_media_ms(msg_Repondu.imageMessage);
+        await ovl.updateProfilePicture(jid, { url: img });
+        ovl.sendMessage(jid, { text: "✅ La photo de profil du groupe a été mise à jour avec succès." }, { quoted: ms });
+    } }catch (error) {
+      console.error("Erreur lors du changement de PP :", error);
+      ovl.sendMessage(jid, { text: "❌ Une erreur est survenue lors de la modification de la photo du groupe." }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "removepp",
+    classe: "Groupe",
+    react: "🗑️",
+    desc: "Commande pour supprimer la photo de profil d'un groupe",
+    alias: ["rpp"]
+  },
+  async (jid, ovl, cmd_options) => {
+    const { verif_Groupe, verif_Admin, prenium_id, verif_Ovl_Admin, ms } = cmd_options;
+
+    if (!(verif_Admin || prenium_id)) {
+      return ovl.sendMessage(jid, { text: `Vous n'avez pas les permissions requises pour supprimer la photo du groupe.` }, { quoted: ms });
+    }
+
+    if (!verif_Ovl_Admin) {
+      return ovl.sendMessage(jid, { text: "Je dois être administrateur pour effectuer cette action." }, { quoted: ms });
+    }
+
+    try {
+      await ovl.removeProfilePicture(jid);
+      ovl.sendMessage(jid, { text: "✅ La photo de profil du groupe a été supprimée avec succès." }, { quoted: ms });
+    } catch (error) {
+      console.error("Erreur lors de la suppression de la PP :", error);
+      ovl.sendMessage(jid, { text: "❌ Une erreur est survenue lors de la suppression de la photo du groupe." }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "warn",
+    classe: "Groupe",
+    react: "⚠️",
+    desc: "Avertit un membre du groupe ou gère les avertissements.",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, getJid, infos_Groupe, arg, verif_Admin, verif_Ovl_Admin, prenium_id, dev_num, ms, auteur_Message, auteur_Msg_Repondu, repondre } = cmd_options;
+
+    if (!verif_Groupe)
+      return repondre("Commande utilisable uniquement dans les groupes.");
+
+    const membres = await infos_Groupe.participants;
+    const admins = membres.filter((m) => m.admin).map((m) => m.phoneNumber);
+
+    if (!arg[0] && !auteur_Msg_Repondu)
+      return repondre(
+        `⚠️ *Utilisation de la commande warn*\n\n` +
+        "• `warn @utilisateur` ou warn en répondant à un de ses messages : Ajouter un avertissement.\n" +
+        "• `warn reset @utilisateur` ou warn reset en répondant à un de ses messages : Réinitialiser les avertissements.\n" +
+        "• `warn limit <nombre>` : Définir la limite d'avertissements."
+      );
+
+    if (arg[0] === "limit") {
+      if (!prenium_id && !verif_Admin)
+        return repondre("Vous n'avez pas la permission.");
+
+      const newLimit = parseInt(arg[1]);
+      if (isNaN(newLimit) || newLimit < 1)
+        return repondre("Veuillez entrer une limite valide.");
+
+      await setLimit(newLimit);
+      return repondre(`✅ Limite d'avertissements définie à ${newLimit}.`);
+    }
+
+    if (arg[0] === "reset") {
+      if (!prenium_id && !verif_Admin)
+        return repondre("Vous n'avez pas la permission.");
+
+      const cbl = auteur_Msg_Repondu || (arg[1]?.includes("@") && `${arg[1].replace("@", "")}@lid`);
+      const membre = await getJid(cbl, ms_org, ovl);
+      await delWarn(membre);
+      return ovl.sendMessage(ms_org, {
+        text: `✅ Les avertissements de @${membre.split("@")[0]} ont été réinitialisés.`,
+        mentions: [membre]
+      }, { quoted: ms });
+    }
+
+    const cbl = auteur_Msg_Repondu || (arg[0]?.includes("@") && `${arg[0].replace("@", "")}@lid`);
+    const membre = await getJid(cbl, ms_org, ovl);
+
+    if (!prenium_id && !verif_Admin)
+      return repondre("Vous n'avez pas la permission.");
+
+    if (!verif_Ovl_Admin)
+      return repondre("Je dois être administrateur pour effectuer cette action.");
+
+    if (admins.includes(membre))
+      return repondre("Impossible d'avertir un administrateur.");
+
+    if (dev_num.includes(membre))
+      return repondre("Impossible d'avertir un développeur.");
+
+    const limit = await getLimit();
+    const warnData = await setWarn(membre);
+    const dateWarn = new Date().toLocaleString("fr-FR");
+
+    await ovl.sendMessage(ms_org, {
+      text: `⚠️ **Avertissement** ⚠️\n\n👤 Utilisateur : @${membre.split("@")[0]}\n📌 Warn par : @${auteur_Message.split("@")[0]}\n📅 Date : ${dateWarn}\n📊 Total warns : ${warnData.count}/${limit}`,
+      mentions: [membre, auteur_Message]
+    }, { quoted: ms });
+
+    if (warnData.count >= limit) {
+      try {
+        await ovl.groupParticipantsUpdate(ms_org, [membre], "remove");
+        ovl.sendMessage(ms_org, {
+          text: `🚫 @${membre.split("@")[0]} a été exclu pour avoir atteint la limite d'avertissements.`,
+          mentions: [membre]
+        }, { quoted: ms });
+        await delWarn(membre);
+      } catch {
+        repondre("Erreur lors de l'exclusion.");
+      }
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "vcf",
+    classe: "Groupe",
+    react: "📇",
+    desc: "Enregistre les contacts de tous les membres du groupe dans un fichier VCF",
+  },
+  async (ms_org, ovl, cmd_options) => {
+    const { verif_Groupe, prenium_id, ms } = cmd_options;
+
+    try {
+      if (!verif_Groupe)
+        return ovl.sendMessage(ms_org, { text: "Cette commande doit être utilisée dans un groupe." }, { quoted: ms });
+
+      if (!prenium_id)
+        return ovl.sendMessage(ms_org, { text: "Vous n'avez pas les permissions requises pour utiliser cette commande." }, { quoted: ms });
+
+      const groupMetadata = await ovl.groupMetadata(ms_org).catch(() => null);
+      if (!groupMetadata || !groupMetadata.participants)
+        return ovl.sendMessage(ms_org, { text: "Échec de la récupération des métadonnées du groupe ou de la liste des participants." }, { quoted: ms });
+
+      const participants = groupMetadata.participants;
+      const vcfData = [];
+
+      for (const participant of participants) {
+        const jid = participant.phoneNumber;
+        const number = jid.split("@")[0];
+
+        let name = number;
+        try {
+          const user = await Ranks.findOne({ where: { id: jid } }).catch(() => null);
+          if (user && user.name) {
+            name = user.name;
+          } else if (participant.notify) {
+            name = participant.notify;
+          }
+        } catch {
+          name = number;
+        }
+
+        vcfData.push(`BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nTEL;TYPE=CELL:${number}\nEND:VCARD`);
+      }
+
+      const groupName = groupMetadata.subject || `Groupe_${ms_org.key.remoteJid.replace(/[@.]/g, "_")}`;
+      const vcfFileName = `contacts_groupe_${groupName}.vcf`;
+      const vcfFilePath = `./${vcfFileName}`;
+
+      fs.writeFileSync(vcfFilePath, vcfData.join("\n"));
+
+      const message = `*TOUS LES CONTACTS DES MEMBRES ENREGISTRÉS*\nGroupe : *${groupName}*\nContacts : *${participants.length}*`;
+
+      await ovl.sendMessage(ms_org, {
+        document: fs.readFileSync(vcfFilePath),
+        mimetype: "text/vcard",
+        filename: vcfFileName,
+        caption: message,
+      }, { quoted: ms });
+
+      fs.unlinkSync(vcfFilePath);
+    } catch (error) {
+      console.error("Erreur lors du traitement de la commande vcf:", error);
+      return ovl.sendMessage(ms_org, { text: "Une erreur est survenue lors du traitement de la commande vcf." }, { quoted: ms });
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "antilink",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Active ou configure l'antilink pour les groupes",
+  },
+  async (jid, ovl, cmd_options) => {
+      const { ms, repondre, arg, verif_Groupe, verif_Admin } = cmd_options;
+    try {
+      
+      if (!verif_Groupe) {
+        return repondre("Cette commande ne fonctionne que dans les groupes");
+      }
+
+      if (!verif_Admin) {
+        return repondre("Seuls les administrateurs peuvent utiliser cette commande");
+      }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validModes = ['on', 'off'];
+      const validTypes = ['supp', 'warn', 'kick'];
+
+      const [settings] = await Antilink.findOrCreate({
+        where: { id: jid },
+        defaults: { id: jid, mode: 'non', type: 'supp' },
+      });
+
+      if (validModes.includes(sousCommande)) {
+        const newMode = sousCommande === 'on' ? 'oui' : 'non';
+        if (settings.mode === newMode) {
+          return repondre(`L'Antilink est déjà ${sousCommande}`);
+        }
+        settings.mode = newMode;
+        await settings.save();
+        return repondre(`L'Antilink ${sousCommande === 'on' ? 'activé' : 'désactivé'} avec succès !`);
+      }
+
+      if (validTypes.includes(sousCommande)) {
+        if (settings.mode !== 'oui') {
+          return repondre("Veuillez activer l'antilink d'abord en utilisant `antilink on`");
+        }
+        if (settings.type === sousCommande) {
+          return repondre(`L'action antilink est déjà définie sur ${sousCommande}`);
+        }
+        settings.type = sousCommande;
+        await settings.save();
+        return repondre(`L'Action de l'antilink définie sur ${sousCommande} avec succès !`);
+      }
+
+      return repondre(
+        "Utilisation :\n" +
+        "antilink on/off: Activer ou désactiver l'antilink\n" +
+        "antilink supp/warn/kick: Configurer l'action antilink"
+      );
+    } catch (error) {
+      console.error("Erreur lors de la configuration d'antilink :", error);
+      repondre("Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "antitag",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Active ou configure l'antitag pour les groupes",
+  },
+  async (jid, ovl, cmd_options) => {
+      const { ms, repondre, arg, verif_Groupe, verif_Admin } = cmd_options;
+    try {
+      
+      if (!verif_Groupe) {
+        return repondre("Cette commande ne fonctionne que dans les groupes");
+      }
+
+      if (!verif_Admin) {
+        return repondre("Seuls les administrateurs peuvent utiliser cette commande");
+      }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validModes = ['on', 'off'];
+      const validTypes = ['supp', 'warn', 'kick'];
+
+      const [settings] = await Antitag.findOrCreate({
+        where: { id: jid },
+        defaults: { id: jid, mode: 'non', type: 'supp' },
+      });
+
+      if (validModes.includes(sousCommande)) {
+        const newMode = sousCommande === 'on' ? 'oui' : 'non';
+        if (settings.mode === newMode) {
+          return repondre(`L'Antitag est déjà ${sousCommande}`);
+        }
+        settings.mode = newMode;
+        await settings.save();
+        return repondre(`L'Antitag ${sousCommande === 'on' ? 'activé' : 'désactivé'} avec succès !`);
+      }
+
+      if (validTypes.includes(sousCommande)) {
+        if (settings.mode !== 'oui') {
+          return repondre("Veuillez activer l'antitag d'abord en utilisant `antitag on`");
+        }
+        if (settings.type === sousCommande) {
+          return repondre(`L'action antitag est déjà définie sur ${sousCommande}`);
+        }
+        settings.type = sousCommande;
+        await settings.save();
+        return repondre(`L'Action de l'antitag définie sur ${sousCommande} avec succès !`);
+      }
+
+      return repondre(
+        "Utilisation :\n" +
+        "antitag on/off: Activer ou désactiver l'antitag\n" +
+        "antitag supp/warn/kick: Configurer l'action antitag"
+      );
+    } catch (error) {
+      console.error("Erreur lors de la configuration d'antitag :", error);
+      repondre("Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "antispam",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Active ou configure l'antispam pour les groupes",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { repondre, arg, verif_Groupe, verif_Admin } = cmd_options;
+
+    try {
+
+	  if (!verif_Groupe) {
+        return repondre("❌ Cette commande fonctionne uniquement dans les groupes.");
+	  }
+		
+      if (!verif_Admin) {
+        return repondre("❌ Seuls les administrateurs peuvent utiliser cette commande.");
+	  }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validModes = ["on", "off"];
+      const validTypes = ["supp", "warn", "kick"];
+
+      const [settings] = await Antispam.findOrCreate({
+        where: { id: jid },
+        defaults: { id: jid, mode: "non", type: "supp" },
+      });
+
+      if (validModes.includes(sousCommande)) {
+        const newMode = sousCommande === "on" ? "oui" : "non";
+        if (settings.mode === newMode) {
+          return repondre(`L'Antispam est déjà ${sousCommande}.`);
+        }
+        settings.mode = newMode;
+        await settings.save();
+        return repondre(`L'Antispam a été ${sousCommande === "on" ? "activé" : "désactivé"} avec succès !`);
+      }
+
+      if (validTypes.includes(sousCommande)) {
+        if (settings.mode !== "oui") {
+          return repondre("❌ Veuillez activer l'antispam d'abord avec `antispam on`.");
+        }
+        if (settings.type === sousCommande) {
+          return repondre(`⚠️ L'action antispam est déjà définie sur ${sousCommande}.`);
+        }
+        settings.type = sousCommande;
+        await settings.save();
+        return repondre(`✅ L'action antispam est maintenant définie sur ${sousCommande}.`);
+      }
+
+      return repondre(
+        "Utilisation :\n" +
+        "antispam on/off : Activer ou désactiver l'antispam.\n" +
+        "antispam supp/warn/kick : Configurer l'action antispam."
+      );
+    } catch (error) {
+      console.error("Erreur lors de la configuration d'antispam :", error);
+      return repondre("❌ Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "antibot",
+    classe: "Groupe",
+    react: "🔗",
+    desc: "Active ou configure l'antibot pour les groupes",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { repondre, arg, verif_Groupe, verif_Admin } = cmd_options;
+
+    try {
+      if (!verif_Groupe) {
+        return repondre("❌ Cette commande fonctionne uniquement dans les groupes.");
+      }
+
+      if (!verif_Admin) {
+        return repondre("❌ Seuls les administrateurs peuvent utiliser cette commande.");
+      }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validModes = ["on", "off"];
+      const validTypes = ["supp", "warn", "kick"];
+
+      const [settings] = await Antibot.findOrCreate({
+        where: { id: jid },
+        defaults: { id: jid, mode: "non", type: "supp" },
+      });
+
+      if (validModes.includes(sousCommande)) {
+        const newMode = sousCommande === "on" ? "oui" : "non";
+        if (settings.mode === newMode) {
+          return repondre(`L'Antibot est déjà ${sousCommande}.`);
+        }
+        settings.mode = newMode;
+        await settings.save();
+        return repondre(`L'Antibot a été ${sousCommande === "on" ? "activé" : "désactivé"} avec succès !`);
+      }
+
+      if (validTypes.includes(sousCommande)) {
+        if (settings.mode !== "oui") {
+          return repondre("❌ Veuillez activer l'antibot d'abord avec `antibot on`.");
+        }
+        if (settings.type === sousCommande) {
+          return repondre(`⚠️ L'action antibot est déjà définie sur ${sousCommande}.`);
+        }
+        settings.type = sousCommande;
+        await settings.save();
+        return repondre(`✅ L'action antibot est maintenant définie sur ${sousCommande}.`);
+      }
+
+      return repondre(
+        "Utilisation :\n" +
+          "antibot on/off : Activer ou désactiver l'antibot.\n" +
+          "antibot supp/warn/kick : Configurer l'action antibot."
+      );
+    } catch (error) {
+      console.error("Erreur lors de la configuration d'antibot :", error);
+      return repondre("❌ Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "antimentiongc",
+    classe: "Groupe",
+    react: "📢",
+    desc: "Active ou configure l'antimention pour les groupes",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { ms, repondre, arg, verif_Groupe, verif_Admin } = cmd_options;
+
+    try {
+      if (!verif_Groupe) {
+        return repondre("Cette commande ne fonctionne que dans les groupes.");
+      }
+
+      if (!verif_Admin) {
+        return repondre("Seuls les administrateurs peuvent utiliser cette commande.");
+      }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validModes = ['on', 'off'];
+      const validTypes = ['supp', 'warn', 'kick'];
+
+      const [settings] = await Antimention.findOrCreate({
+        where: { id: jid },
+        defaults: { id: jid, mode: 'non', type: 'supp' },
+      });
+
+      if (validModes.includes(sousCommande)) {
+        const newMode = sousCommande === 'on' ? 'oui' : 'non';
+        if (settings.mode === newMode) {
+          return repondre(`L'antimention est déjà ${sousCommande}.`);
+        }
+        settings.mode = newMode;
+        await settings.save();
+        return repondre(`L'antimention a été ${sousCommande === 'on' ? 'activé' : 'désactivé'} avec succès.`);
+      }
+
+      if (validTypes.includes(sousCommande)) {
+        if (settings.mode !== 'oui') {
+          return repondre("Veuillez d'abord activer l'antimention avec `antimention on`.");
+        }
+        if (settings.type === sousCommande) {
+          return repondre(`L'action antimention est déjà définie sur ${sousCommande}.`);
+        }
+        settings.type = sousCommande;
+        await settings.save();
+        return repondre(`Action antimention définie sur ${sousCommande} avec succès.`);
+      }
+
+      return repondre(
+        "Utilisation :\n" +
+        "- antimention on/off : Activer ou désactiver l'antimention\n" +
+        "- antimention supp/warn/kick : Définir l'action à appliquer"
+      );
+    } catch (error) {
+      console.error("Erreur lors de la configuration d'antimention :", error);
+      return repondre("Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+const welcomeGoodbyeCmd = (type) => {
+  const isWelcome = type === "welcome";
+
+  ovlcmd(
+    {
+      nom_cmd: type,
+      classe: "Groupe",
+      react: "👋",
+      desc: isWelcome
+        ? "Configurer ou activer les messages de bienvenue"
+        : "Configurer ou activer les messages d’adieu",
+    },
+    async (ms_org, ovl, { repondre, arg, verif_Admin, verif_Groupe, auteur_Message }) => {
+      try {
+        if (!verif_Groupe) return repondre("❌ Commande utilisable uniquement dans les groupes.");
+        if (!verif_Admin) return repondre("❌ Seuls les administrateurs peuvent utiliser cette commande.");
+
+        const sub = arg[0]?.toLowerCase();
+
+        const [settings] = await GroupSettings.findOrCreate({
+          where: { id: ms_org },
+          defaults: { id: ms_org, [type]: "non" },
+        });
+
+        const [eventData] = await Events2.findOrCreate({
+          where: { id: ms_org },
+          defaults: { id: ms_org },
+        });
+
+        const fieldName = isWelcome ? "welcome_msg" : "goodbye_msg";
+        const msgValue = eventData[fieldName];
+
+        if (!arg.length) {
+          return repondre(`🛠️ *Utilisation de la commande ${type}* :
+
+1️⃣ *${type} on/off* – Active ou désactive les messages de ${isWelcome ? "bienvenue" : "d’adieu"}.
+2️⃣ *${type} get* – Affiche le message ${isWelcome ? "de bienvenue" : "d’adieu"} personnalisé.
+3️⃣ *${type} Votre message...* – Définir un message personnalisé.
+4️⃣ *${type} défaut* – Réinitialise le message ${isWelcome ? "de bienvenue" : "d’adieu"}.
+
+📌 Variables disponibles :
+@user → Mention du membre
+#groupe → Nom du groupe
+#membre → Nombre de membres
+#desc → Description du groupe
+#url=lien → Utilise un média (image, vidéo)
+#pp → Utilise la photo de profil du membre
+#gpp → Utilise la photo de profil du groupe
+#audio=url → Utilise un audio`);
+        }
+
+        if (["on", "off"].includes(sub)) {
+          const mode = sub === "on" ? "oui" : "non";
+          if (settings[type] === mode) {
+            return repondre(`ℹ️ Le message ${isWelcome ? "de bienvenue" : "d’adieu"} est déjà ${sub === "on" ? "activé" : "désactivé"}.`);
+          }
+          settings[type] = mode;
+          await settings.save();
+          return repondre(`✅ Message ${isWelcome ? "de bienvenue" : "d’adieu"} ${sub === "on" ? "activé" : "désactivé"} avec succès.`);
+        }
+
+        if (sub === "get") {
+          if (!msgValue || !msgValue.trim()) {
+            return repondre(`⚠️ Aucun message ${isWelcome ? "de bienvenue" : "d’adieu"} personnalisé configuré.`);
+          }
+
+          const groupInfo = await ovl.groupMetadata(ms_org);
+          const groupName = groupInfo.subject || "Groupe";
+          const totalMembers = groupInfo.participants.length;
+          const groupDesc = groupInfo.desc || "Aucune description";
+          const userMention = `@${auteur_Message.split("@")[0]}`;
+
+          let msg = msgValue;
+
+          const mediaMatch = msg.match(/#url=(\S+)/i);
+          const audioMatch = msg.match(/#audio=(\S+)/i);
+          const usePP = msg.includes("#pp");
+          const useGPP = msg.includes("#gpp");
+
+          msg = msg
+            .replace(/#url=\S+/i, "")
+            .replace(/#audio=\S+/i, "")
+            .replace(/#pp/gi, "")
+            .replace(/#gpp/gi, "")
+            .replace(/@user/gi, userMention)
+            .replace(/#groupe/gi, groupName)
+            .replace(/#membre/gi, totalMembers)
+            .replace(/#desc/gi, groupDesc);
+
+          let sent = false;
+
+          if (mediaMatch) {
+            const url = mediaMatch[1];
+            const ext = url.split(".").pop().toLowerCase();
+            let media = null;
+            if (["mp4", "mov", "webm"].includes(ext)) media = { video: { url }, caption: msg.trim(), gifPlayback: true, mentions: [auteur_Message] };
+            else if (["jpg", "jpeg", "png", "webp"].includes(ext)) media = { image: { url }, caption: msg.trim(), mentions: [auteur_Message] };
+            if (media) {
+              await ovl.sendMessage(ms_org, media);
+              sent = true;
+            }
+          } else if (usePP) {
+            try {
+              const profileUrl = await ovl.profilePictureUrl(auteur_Message, "image");
+              await ovl.sendMessage(ms_org, { image: { url: profileUrl }, caption: msg.trim(), mentions: [auteur_Message] });
+              sent = true;
+            } catch {}
+          } else if (useGPP) {
+            try {
+              const gpp = await ovl.profilePictureUrl(ms_org, "image");
+              await ovl.sendMessage(ms_org, { image: { url: gpp }, caption: msg.trim(), mentions: [auteur_Message] });
+              sent = true;
+            } catch {}
+          }
+
+          if (audioMatch) {
+            const audioUrl = audioMatch[1];
+            await ovl.sendMessage(ms_org, { audio: { url: audioUrl }, mimetype: "audio/mpeg" });
+            sent = true;
+          }
+
+          if (!sent && msg.trim()) {
+            await ovl.sendMessage(ms_org, { text: msg.trim(), mentions: [auteur_Message] });
+          }
+
+          return;
+        }
+
+        if (sub === "défaut" || sub === "default") {
+          if (!msgValue) return repondre(`ℹ️ Aucun message ${isWelcome ? "de bienvenue" : "d’adieu"} n’est actuellement défini.`);
+          eventData[fieldName] = null;
+          await eventData.save();
+          return repondre(`✅ Message ${isWelcome ? "de bienvenue" : "d’adieu"} réinitialisé aux paramètres par défaut.`);
+        }
+
+        const newMsg = arg.join(" ").trim();
+        if (!newMsg) return repondre("❌ Le message ne peut pas être vide.");
+
+        eventData[fieldName] = newMsg;
+        await eventData.save();
+        return repondre(`✅ Nouveau message ${isWelcome ? "de bienvenue" : "d’adieu"} enregistré avec succès !`);
+      } catch (e) {
+        console.error(`❌ Erreur ${type} :`, e);
+        repondre("❌ Une erreur s’est produite.");
+      }
+    }
+  );
+};
+
+welcomeGoodbyeCmd("welcome");
+welcomeGoodbyeCmd("goodbye");
+
+const commands = [
+  {
+    nom_cmd: "antipromote",
+    colonne: "antipromote",
+    react: "🛑",
+    desc: "Active ou désactive l'antipromotion",
+    table: GroupSettings,
+  },
+  {
+    nom_cmd: "antidemote",
+    colonne: "antidemote",
+    react: "🛑",
+    desc: "Active ou désactive l'antidémotion",
+    table: GroupSettings,
+  },
+  {
+    nom_cmd: "promotealert",
+    colonne: "promoteAlert",
+    react: "⚠️",
+    desc: "Active ou désactive l'alerte de promotion",
+    table: Events2,
+  },
+  {
+    nom_cmd: "demotealert",
+    colonne: "demoteAlert",
+    react: "⚠️",
+    desc: "Active ou désactive l'alerte de rétrogradation",
+    table: Events2,
+  },
+];
+
+commands.forEach(({ nom_cmd, colonne, react, desc, table }) => {
+  ovlcmd(
+    {
+      nom_cmd,
+      classe: "Groupe",
+      react,
+      desc,
+    },
+    async (jid, ovl, { repondre, arg, verif_Groupe, verif_Admin }) => {
+      try {
+        if (!verif_Groupe) return repondre("❌ Cette commande fonctionne uniquement dans les groupes.");
+        if (!verif_Admin) return repondre("❌ Seuls les administrateurs peuvent utiliser cette commande.");
+
+        const sousCommande = arg[0]?.toLowerCase();
+        const validModes = ["on", "off"];
+
+        const [settings] = await table.findOrCreate({
+          where: { id: jid },
+          defaults: { id: jid, [colonne]: "non" },
+        });
+
+        if (validModes.includes(sousCommande)) {
+          const newMode = sousCommande === "on" ? "oui" : "non";
+          if (settings[colonne] === newMode) {
+            return repondre(`ℹ️ ${nom_cmd} est déjà ${sousCommande}.`);
+          }
+          settings[colonne] = newMode;
+          await settings.save();
+          return repondre(`✅ ${nom_cmd} ${sousCommande === "on" ? "activé" : "désactivé"} avec succès.`);
+        }
+
+        return repondre(`🛠️ Utilisation :\n> ${nom_cmd} on/off – ${desc.toLowerCase()}`);
+      } catch (error) {
+        console.error(`Erreur lors de la configuration de ${nom_cmd} :`, error);
+        return repondre("❌ Une erreur s'est produite lors de l'exécution de la commande.");
+      }
+    }
+  );
+});

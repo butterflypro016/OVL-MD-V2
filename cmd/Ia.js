@@ -1,1 +1,263 @@
-const _0x1ba12b=_0x398e;(function(_0x4a868c,_0x5bb275){const _0x307ea6=_0x398e,_0x3fcfe2=_0x4a868c();while(!![]){try{const _0x583466=-parseInt(_0x307ea6(0x11b))/0x1+parseInt(_0x307ea6(0xdf))/0x2*(parseInt(_0x307ea6(0xed))/0x3)+-parseInt(_0x307ea6(0xfa))/0x4*(-parseInt(_0x307ea6(0xda))/0x5)+parseInt(_0x307ea6(0xe9))/0x6+parseInt(_0x307ea6(0xdb))/0x7*(-parseInt(_0x307ea6(0x106))/0x8)+parseInt(_0x307ea6(0x119))/0x9*(parseInt(_0x307ea6(0x11c))/0xa)+-parseInt(_0x307ea6(0x105))/0xb*(-parseInt(_0x307ea6(0x121))/0xc);if(_0x583466===_0x5bb275)break;else _0x3fcfe2['push'](_0x3fcfe2['shift']());}catch(_0x1fcfb4){_0x3fcfe2['push'](_0x3fcfe2['shift']());}}}(_0x1e3d,0xcb59f));function _0x398e(_0xb858f4,_0x40b191){const _0xae042=_0x1e3d();return _0x398e=function(_0x5cf04f,_0x4cb21c){_0x5cf04f=_0x5cf04f-0xd4;let _0x1e3d89=_0xae042[_0x5cf04f];if(_0x398e['Nssxmw']===undefined){var _0x398e42=function(_0x5d90bb){const _0xab6163='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2db9dc='',_0x49712b='',_0x3b4dd0=_0x2db9dc+_0x398e42;for(let _0x2c2ccf=0x0,_0x31dc65,_0x226b1b,_0xf0ece7=0x0;_0x226b1b=_0x5d90bb['charAt'](_0xf0ece7++);~_0x226b1b&&(_0x31dc65=_0x2c2ccf%0x4?_0x31dc65*0x40+_0x226b1b:_0x226b1b,_0x2c2ccf++%0x4)?_0x2db9dc+=_0x3b4dd0['charCodeAt'](_0xf0ece7+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x31dc65>>(-0x2*_0x2c2ccf&0x6)):_0x2c2ccf:0x0){_0x226b1b=_0xab6163['indexOf'](_0x226b1b);}for(let _0xa6724f=0x0,_0x48177b=_0x2db9dc['length'];_0xa6724f<_0x48177b;_0xa6724f++){_0x49712b+='%'+('00'+_0x2db9dc['charCodeAt'](_0xa6724f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x49712b);};_0x398e['OwJCAM']=_0x398e42,_0xb858f4=arguments,_0x398e['Nssxmw']=!![];}const _0x2ecad7=_0xae042[0x0],_0x4b86f9=_0x5cf04f+_0x2ecad7,_0x31681a=_0xb858f4[_0x4b86f9];if(!_0x31681a){const _0x5a98d9=function(_0x197743){this['eFAXng']=_0x197743,this['USYXUx']=[0x1,0x0,0x0],this['ivwZAM']=function(){return'newState';},this['uTWabG']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['xiuXTT']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5a98d9['prototype']['OVwyvZ']=function(){const _0x5c47f2=new RegExp(this['uTWabG']+this['xiuXTT']),_0xcdcc11=_0x5c47f2['test'](this['ivwZAM']['toString']())?--this['USYXUx'][0x1]:--this['USYXUx'][0x0];return this['yrqMOG'](_0xcdcc11);},_0x5a98d9['prototype']['yrqMOG']=function(_0x3ed067){if(!Boolean(~_0x3ed067))return _0x3ed067;return this['cIATHw'](this['eFAXng']);},_0x5a98d9['prototype']['cIATHw']=function(_0x4fccef){for(let _0x269112=0x0,_0x4c06fe=this['USYXUx']['length'];_0x269112<_0x4c06fe;_0x269112++){this['USYXUx']['push'](Math['round'](Math['random']())),_0x4c06fe=this['USYXUx']['length'];}return _0x4fccef(this['USYXUx'][0x0]);},new _0x5a98d9(_0x398e)['OVwyvZ'](),_0x1e3d89=_0x398e['OwJCAM'](_0x1e3d89),_0xb858f4[_0x4b86f9]=_0x1e3d89;}else _0x1e3d89=_0x31681a;return _0x1e3d89;},_0x398e(_0xb858f4,_0x40b191);}const _0x4cb21c=(function(){let _0xca80dd=!![];return function(_0x474e09,_0x3a3c13){const _0x2f3e7c=_0xca80dd?function(){if(_0x3a3c13){const _0x15d415=_0x3a3c13['apply'](_0x474e09,arguments);return _0x3a3c13=null,_0x15d415;}}:function(){};return _0xca80dd=![],_0x2f3e7c;};}()),_0x5cf04f=_0x4cb21c(this,function(){const _0x3dd9e9=_0x398e,_0x5271d0={'ZzuqE':_0x3dd9e9(0x107)};return _0x5cf04f[_0x3dd9e9(0x116)]()['search'](_0x5271d0[_0x3dd9e9(0xfe)])[_0x3dd9e9(0x116)]()[_0x3dd9e9(0x11a)](_0x5cf04f)[_0x3dd9e9(0xee)](_0x5271d0[_0x3dd9e9(0xfe)]);});_0x5cf04f();const {ovlcmd}=require(_0x1ba12b(0xdc)),axios=require('axios');function _0x1e3d(){const _0x2a52bc=['ndaZn1HwuM9QrW','mJi4otu5mNnRzKLVra','kcGOlISPkYKRksSK','z2vTAw5P','A29SEMq','s1HvD0G','vxHQu3G','BgXHBwe','qNPPDM4','rxjYzxvYigrLihldQxbVBNnLigrLigWNqvbjieDLBwLUAs1qCM8U','AxfTuwe','u3H4r1y','vxrPBgLZzsbSj0fqssbdB3bPBg90ihbVDxiGz8oPBSoPCMvYigrLCYbYW6LWB25ZzxmU','u1bNCxu','wKzsEfm','z3b0','v0ffz3m','Dg9tDhjPBMC','rxjYzxvYieXSyw1HidO','rNfABhy','mZu5ndzez2LwCKG','y29UC3rYDwn0B3i','mtm3mduWofLIuuvkDG','ntGWwKTxChrl','uefysuC','vMv1AwXSzxOGzw50CMvYihvUihbYB21WDcbWB3vYigFdQw7dQxjLCIb1BMuGCSoPCg9UC2uU','rxjYzxvYieDqvca6','vxrPBgLZzsbSj0fqssbmBgfTysbWB3vYigFdQw7dQxjLCIbKzxmGCSoPCg9UC2vZlG','mZu1ntzsvfHYr2W','DgryEuW','AM9PBG','Bu9ZCwO','ru9ht2m','zxjYB3i','swT4sgG','zgf0yq','nu12qu54ta','mJH0sxbwAwm','lI4VBgLIl292BgnTza','DgnSzgK','C2vUze1LC3nHz2u','nZu2mtH2u0TxqM0','DMfJAMi','EvzlB2S','zufNvKS','ygbGug93zxjLzcbcEsbpvKWTtuqTvJjGyga','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSj2fWCgvSimoGigWNqvbjlG','zNfPveq','BgvUz3rO','Ahr0Chm6lY9HyI1JAgf0z3b0ng8UywjYywHHBwr3odGYlNDVCMTLCNmUzgv2lZ9Xpq','Ahr0Chm6lY9HCgKTDg94EgLJlNPVBMuUAwqVyxbPl2fPl2fPngnOyxq/ChjVBxb0pq','mJe5nZqXmeDsueLIzW','rxjYzxvYienVCgLSB3qGoG','vxrPBgLZzsbSj0fqssbNChqGCg91CIbNW6LUW6LYzxiGzgvZihldQxbVBNnLCY4','yuj1Du8','mJDwyMH2DwW','C2vHCMnO','vhn2Eu4','wffpsgy','Du9XDK8','r8oPBSoOCMuGzgvZigLTywDLCYbHDMvJierbteXfluuU','Ahr0Chm6lY9LBgL0zxbYB3rLy2GTyxbPCY56B25LlMLKl2DLBwLUAt9WCM9TChq9','rxjYzxvYigrLihldQxbVBNnLigrLigWNqvbjlG','Ahr0Chm6lY9LBgL0zxbYB3rLy2GTyxbPCY56B25LlMLKl2nVCgLSB3q/BwvZC2fNzt0','z2v0','rxjYzxvYierbteXfidO','zejzCvm','CMHdteu','nti5mdu2ofjyuKrUCG','vxrPBgLZzsbSj0fqssbdBgf1zguGCg91CIbNW6LUW6LYzxiGzgvZihldQxbVBNnLCY4','D3z1zvO','tLjwDfa','wNP1Cuu','ANHjD0m','tgvrrKy','vxrPBgLZzsbSj0fqssbIBgfJA2jVEcbWB3vYigFdQw7dQxjLCIbKzxmGCSoPCg9UC2vZlG','shbdyu8','y29WAwXVDa','CMvZCg9UC2u'];_0x1e3d=function(){return _0x2a52bc;};return _0x1e3d();}ovlcmd({'nom_cmd':_0x1ba12b(0x114),'classe':'IA','react':'🤖','desc':_0x1ba12b(0xeb)},async(_0x5071da,_0x4c082d,_0x49c95f)=>{const _0x3e0168=_0x1ba12b,_0x5713cf={'rjkiU':function(_0x288b13,_0x5ee042){return _0x288b13(_0x5ee042);},'ZFRxS':_0x3e0168(0x11e),'fqiTD':function(_0x7af740,_0x48ced2){return _0x7af740(_0x48ced2);},'Bzivn':_0x3e0168(0xf4),'tcldi':function(_0x480e84,_0x599366){return _0x480e84(_0x599366);},'SxxGV':_0x3e0168(0xe4)},{arg:_0x82e4d9,ms:_0xf2943b,repondre:_0x6e9027}=_0x49c95f;if(!_0x82e4d9[_0x3e0168(0xe6)])return _0x5713cf['rjkiU'](_0x6e9027,_0x5713cf[_0x3e0168(0x113)]);const _0x2d5ed2=_0x82e4d9[_0x3e0168(0xd4)]('\x20'),_0x10b907=_0x3e0168(0xe7)+_0x5713cf[_0x3e0168(0xe5)](encodeURIComponent,_0x2d5ed2);try{const _0x2cf361=await axios['get'](_0x10b907),_0x32c221=_0x2cf361[_0x3e0168(0xd9)]?.[_0x3e0168(0xd9)]||_0x5713cf[_0x3e0168(0x10d)];return _0x5713cf[_0x3e0168(0xe5)](_0x6e9027,_0x32c221);}catch(_0x3397f6){return console['error'](_0x3e0168(0x11f),_0x3397f6),_0x5713cf[_0x3e0168(0xdd)](_0x6e9027,_0x5713cf[_0x3e0168(0x110)]);}}),ovlcmd({'nom_cmd':'dalle','classe':'IA','react':'🎨','desc':_0x1ba12b(0xf2)},async(_0x2f276a,_0x44dfcd,_0x24e32e)=>{const _0x2929fb=_0x1ba12b,_0x134867={'EOGOc':function(_0x22f86a,_0x197b55){return _0x22f86a(_0x197b55);},'PAXIG':'Veuillez\x20entrer\x20une\x20description\x20pour\x20générer\x20une\x20image.','jxIwC':_0x2929fb(0xe3),'NRVtP':_0x2929fb(0xf7)},{arg:_0x4f88e2,ms:_0x4fa51b,repondre:_0x296bc8}=_0x24e32e;if(!_0x4f88e2['length'])return _0x134867[_0x2929fb(0xd6)](_0x296bc8,_0x134867[_0x2929fb(0x11d)]);try{const _0x3f55d5=_0x4f88e2[_0x2929fb(0xd4)]('\x20'),_0x433b2f=_0x2929fb(0xe8)+encodeURIComponent(_0x3f55d5),_0x374be3=await axios['get'](_0x433b2f);return _0x44dfcd[_0x2929fb(0xde)](_0x2f276a,{'image':{'url':_0x374be3[_0x2929fb(0xd9)][_0x2929fb(0xd9)]},'caption':_0x134867[_0x2929fb(0xff)]},{'quoted':_0x4fa51b});}catch(_0x582c81){return console[_0x2929fb(0xd7)](_0x134867[_0x2929fb(0xfd)],_0x582c81),_0x296bc8('Erreur\x20lors\x20de\x20la\x20génération\x20de\x20l\x27image.\x20Réessayez\x20plus\x20tard.');}}),ovlcmd({'nom_cmd':'blackbox','classe':'IA','react':'🖤','desc':_0x1ba12b(0x101)},async(_0x51e59c,_0x5656fd,_0x2cf583)=>{const _0x599bab=_0x1ba12b,_0x50b28d={'yVKok':function(_0x308b0e,_0x4d07af){return _0x308b0e(_0x4d07af);},'kolzd':_0x599bab(0xf4),'XQOHf':_0x599bab(0x11f),'MMnlJ':function(_0xabad0e,_0x3934df){return _0xabad0e(_0x3934df);},'wvueZ':'Une\x20erreur\x20est\x20survenue\x20lors\x20de\x20l\x27appel\x20à\x20l\x27API.'},{arg:_0x1559b8,ms:_0x17f53e,repondre:_0x2cb3b3}=_0x2cf583;if(!_0x1559b8[_0x599bab(0xe6)])return _0x50b28d[_0x599bab(0xe1)](_0x2cb3b3,_0x599bab(0x11e));const _0x20da1f=_0x1559b8[_0x599bab(0xd4)]('\x20'),_0x3b3515='https://api-toxxic.zone.id/api/ai/blackbox?prompt='+_0x50b28d['yVKok'](encodeURIComponent,_0x20da1f);try{const _0x29fcef=await axios[_0x599bab(0xf6)](_0x3b3515),_0x33c56d=_0x29fcef['data']?.[_0x599bab(0xd9)]||_0x50b28d[_0x599bab(0x109)];return _0x50b28d[_0x599bab(0xe1)](_0x2cb3b3,_0x33c56d);}catch(_0x57f8c8){return console[_0x599bab(0xd7)](_0x50b28d[_0x599bab(0xf0)],_0x57f8c8),_0x50b28d['MMnlJ'](_0x2cb3b3,_0x50b28d[_0x599bab(0xfc)]);}}),ovlcmd({'nom_cmd':_0x1ba12b(0x103),'classe':'IA','react':'🤖','desc':_0x1ba12b(0x111)},async(_0x19b5e9,_0x10974a,_0x440c32)=>{const _0x3d83e1=_0x1ba12b,_0x53e98a={'vacjb':function(_0x3a93f6,_0xa06380){return _0x3a93f6(_0xa06380);},'eAgVK':_0x3d83e1(0x11e),'WAEgs':_0x3d83e1(0xf4),'KXUwH':_0x3d83e1(0xe4)},{arg:_0x194b4c,ms:_0x24a9b7,repondre:_0x47efed}=_0x440c32;if(!_0x194b4c[_0x3d83e1(0xe6)])return _0x53e98a['vacjb'](_0x47efed,_0x53e98a[_0x3d83e1(0xe2)]);const _0x411c14=_0x194b4c[_0x3d83e1(0xd4)]('\x20'),_0xb6bd4e=_0x3d83e1(0xf5)+encodeURIComponent(_0x411c14);try{const _0x313239=await axios['get'](_0xb6bd4e),_0x2b6684=_0x313239[_0x3d83e1(0xd9)]?.['text']||_0x53e98a[_0x3d83e1(0x115)];return _0x53e98a[_0x3d83e1(0xe0)](_0x47efed,_0x2b6684);}catch(_0x368b29){return console['error'](_0x3d83e1(0xea),_0x368b29),_0x53e98a[_0x3d83e1(0xe0)](_0x47efed,_0x53e98a[_0x3d83e1(0x10a)]);}}),ovlcmd({'nom_cmd':_0x1ba12b(0x108),'classe':'IA','react':'🤖','desc':'Utilise\x20l\x27API\x20Gemini-Pro\x20pour\x20générer\x20des\x20réponses.'},async(_0x3ebc05,_0x93d024,_0x57b0b0)=>{const _0x1a6f4e=_0x1ba12b,_0x87ffd7={'uOqvO':function(_0x44414a,_0x368e3d){return _0x44414a(_0x368e3d);},'tdXyL':_0x1a6f4e(0x11e),'UxjSx':function(_0x3063c1,_0xcdb96e){return _0x3063c1(_0xcdb96e);},'gcMrK':function(_0x29f484,_0x4f5c3b){return _0x29f484(_0x4f5c3b);},'LeQFF':'Erreur\x20Gemini-Pro\x20:','dBYqS':_0x1a6f4e(0xe4)},{arg:_0x214933,ms:_0xb78ea6,repondre:_0x3d6771,auteur_Message:_0x5b8ca9}=_0x57b0b0;if(!_0x214933[_0x1a6f4e(0xe6)])return _0x87ffd7[_0x1a6f4e(0xf1)](_0x3d6771,_0x87ffd7[_0x1a6f4e(0x122)]);const _0x38479d=_0x214933['join']('\x20'),_0x1bf941=_0x1a6f4e(0xf3)+_0x87ffd7[_0x1a6f4e(0x10b)](encodeURIComponent,_0x38479d);try{const _0x35499b=await axios[_0x1a6f4e(0xf6)](_0x1bf941),_0x1d86b8=_0x35499b['data']?.['text']||_0x1a6f4e(0x10e);return _0x87ffd7['gcMrK'](_0x3d6771,_0x1d86b8);}catch(_0x31fb1f){return console['error'](_0x87ffd7[_0x1a6f4e(0x100)],_0x31fb1f),_0x87ffd7[_0x1a6f4e(0xf1)](_0x3d6771,_0x87ffd7[_0x1a6f4e(0xf8)]);}}),ovlcmd({'nom_cmd':_0x1ba12b(0x10c),'classe':'IA','react':'🤖','desc':_0x1ba12b(0x120)},async(_0x531bf8,_0x35329a,_0x504d3a)=>{const _0x2e33be=_0x1ba12b,_0x44f217={'HpCaO':function(_0x2cd1eb,_0x3cab32){return _0x2cd1eb(_0x3cab32);},'dKzls':_0x2e33be(0x11e),'FqZlv':function(_0x41a806,_0x23a4de){return _0x41a806(_0x23a4de);},'TsvyN':function(_0x20f3e7,_0x109f40){return _0x20f3e7(_0x109f40);},'VrtrE':_0x2e33be(0x117),'rhCLE':_0x2e33be(0xe4)},{arg:_0x1da6c1,repondre:_0x317c21}=_0x504d3a;if(!_0x1da6c1[_0x2e33be(0xe6)])return _0x44f217['HpCaO'](_0x317c21,_0x44f217['dKzls']);const _0x5261d3=_0x1da6c1[_0x2e33be(0xd4)]('\x20'),_0x45bfb8='https://api.gurusensei.workers.dev/llama?prompt='+_0x44f217[_0x2e33be(0x118)](encodeURIComponent,_0x5261d3);try{const _0x494f87=await axios['get'](_0x45bfb8),_0x9457e4=_0x494f87[_0x2e33be(0xd9)]?.[_0x2e33be(0x104)]?.[_0x2e33be(0x104)]||'Erreur\x20de\x20réponse\x20de\x20l\x27API\x20Llama.';return _0x44f217[_0x2e33be(0xef)](_0x317c21,_0x9457e4);}catch(_0x1205cd){return console['error'](_0x44f217['VrtrE'],_0x1205cd),_0x44f217[_0x2e33be(0x102)](_0x317c21,_0x44f217[_0x2e33be(0xf9)]);}}),ovlcmd({'nom_cmd':'claude','classe':'IA','react':'🖤','desc':_0x1ba12b(0xfb)},async(_0x16b546,_0x142844,_0x457f3b)=>{const _0x313148=_0x1ba12b,_0x4cab20={'aBuuO':function(_0x4fb2fd,_0x511fbd){return _0x4fb2fd(_0x511fbd);},'iqmQa':_0x313148(0xf4),'SPgqu':'Erreur\x20Claude\x20:','IkxHh':function(_0x1ed684,_0x498ce3){return _0x1ed684(_0x498ce3);},'mOsqj':'Une\x20erreur\x20est\x20survenue\x20lors\x20de\x20l\x27appel\x20à\x20l\x27API.'},{arg:_0x5876be,ms:_0x53c18f,repondre:_0x4d4e49}=_0x457f3b;if(!_0x5876be[_0x313148(0xe6)])return _0x4cab20[_0x313148(0xec)](_0x4d4e49,_0x313148(0x11e));const _0x536b86=_0x5876be[_0x313148(0xd4)]('\x20'),_0x2e85e8='https://api-toxxic.zone.id/api/ai/claude?prompt='+_0x4cab20[_0x313148(0xec)](encodeURIComponent,_0x536b86);try{const _0x4ec0c2=await axios[_0x313148(0xf6)](_0x2e85e8),_0x3860e6=_0x4ec0c2[_0x313148(0xd9)]?.[_0x313148(0xd9)]||_0x4cab20[_0x313148(0x10f)];return _0x4d4e49(_0x3860e6);}catch(_0x31d2ea){return console[_0x313148(0xd7)](_0x4cab20[_0x313148(0x112)],_0x31d2ea),_0x4cab20[_0x313148(0xd8)](_0x4d4e49,_0x4cab20[_0x313148(0xd5)]);}});
+const { ovlcmd } = require("../lib/ovlcmd");
+const axios = require("axios");
+
+ovlcmd(
+    {
+        nom_cmd: "gpt",
+        classe: "IA",
+        react: "🤖",
+        desc: "Utilise l'API gpt pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://ab-chatgpt4o.abrahamdw882.workers.dev/?q=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.data || "Erreur de réponse de l\'API.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur GPT :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "dalle",
+        classe: "IA",
+        react: "🎨",
+        desc: "Génère des images avec DALLE-E."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer une description pour générer une image.");
+        }
+
+        try {
+            const prompt = arg.join(" ");
+            const apiUrl = `https://api-toxxic.zone.id/api/ai/ai4chat?prompt=${encodeURIComponent(prompt)}`;
+            const result = await axios.get(apiUrl);
+
+            return ovl.sendMessage(
+                ms_org,
+                {
+                    image: { url: result.data.data },
+                    caption: "```Powered By OVL-MD-V2```"
+                },
+                { quoted: ms }
+            );
+
+        } catch (err) {
+            console.error("Erreur DALLE :", err);
+            return repondre("Erreur lors de la génération de l'image. Réessayez plus tard.");
+        }
+    }
+);
+
+
+ovlcmd(
+    {
+        nom_cmd: "blackbox",
+        classe: "IA",
+        react: "🖤",
+        desc: "Utilise l'API blackbox pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://api-toxxic.zone.id/api/ai/blackbox?prompt=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.data || "Erreur de réponse de l\'API.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur GPT :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "copilot",
+        classe: "IA",
+        react: "🤖",
+        desc: "Utilise l'API Copilot pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://eliteprotech-apis.zone.id/copilot?message=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.text || "Erreur de réponse de l\'API.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Copilot :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "gemini",
+        classe: "IA",
+        react: "🤖",
+        desc: "Utilise l'API Gemini-Pro pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre, auteur_Message } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://eliteprotech-apis.zone.id/gemini?prompt=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.text || "Erreur de réponse de l\'API Gemini-Pro.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Gemini-Pro :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "llama",
+        classe: "IA",
+        react: "🤖",
+        desc: "Utilise l'API Llama pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://api.gurusensei.workers.dev/llama?prompt=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.response?.response || "Erreur de réponse de l\'API Llama.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Llama :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+/*ovlcmd(
+    {
+        nom_cmd: "bard",
+        classe: "IA",
+        react: "🤖",
+        desc: "Faites appel à l'API Bard pour obtenir des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://api.diioffc.web.id/api/ai/bard?query=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.result?.message || "Erreur de réponse de l\'API Bard.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Bard :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+
+ovlcmd(
+    {
+        nom_cmd: "mixtral",
+        classe: "IA",
+        react: "🤖",
+        desc: "Faites appel à l'API Mistral pour obtenir des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://api.kenshiro.cfd/api/ai/mixtral?text=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.data?.response || "Erreur de réponse de l\'API Mixtral.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Mixtral :", error);
+            return repondre("Une erreur est survenue lors de l\'appel à l\'API.");
+        }
+    }
+);
+*/
+
+ovlcmd(
+    {
+        nom_cmd: "claude",
+        classe: "IA",
+        react: "🖤",
+        desc: "Utilise l'API Claude pour générer des réponses."
+    },
+    async (ms_org, ovl, cmd_options) => {
+        const { arg, ms, repondre } = cmd_options;
+
+        if (!arg.length) {
+            return repondre("Veuillez entrer un prompt pour générer une réponse.");
+        }
+
+        const prompt = arg.join(" ");
+        const apiUrl = `https://api-toxxic.zone.id/api/ai/claude?prompt=${encodeURIComponent(prompt)}`;
+
+        try {
+            const result = await axios.get(apiUrl);
+            const responseText = result.data?.data || "Erreur de réponse de l'API.";
+            return repondre(responseText);
+        } catch (error) {
+            console.error("Erreur Claude :", error);
+            return repondre("Une erreur est survenue lors de l'appel à l'API.");
+        }
+    }
+);

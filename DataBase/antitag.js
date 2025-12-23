@@ -1,1 +1,67 @@
-function _0x2912(_0x18f31f,_0x253126){const _0x15d4bc=_0x3913();return _0x2912=function(_0x265526,_0x4ca7aa){_0x265526=_0x265526-0x169;let _0x3913b9=_0x15d4bc[_0x265526];if(_0x2912['HxWREZ']===undefined){var _0x2912ad=function(_0x2e7469){const _0x4c064a='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x3b75ee='',_0x5a0bdf='',_0x134b7d=_0x3b75ee+_0x2912ad;for(let _0x134f6d=0x0,_0x206ba2,_0x7eb3d,_0x4bfcd1=0x0;_0x7eb3d=_0x2e7469['charAt'](_0x4bfcd1++);~_0x7eb3d&&(_0x206ba2=_0x134f6d%0x4?_0x206ba2*0x40+_0x7eb3d:_0x7eb3d,_0x134f6d++%0x4)?_0x3b75ee+=_0x134b7d['charCodeAt'](_0x4bfcd1+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x206ba2>>(-0x2*_0x134f6d&0x6)):_0x134f6d:0x0){_0x7eb3d=_0x4c064a['indexOf'](_0x7eb3d);}for(let _0x25b40a=0x0,_0x3af617=_0x3b75ee['length'];_0x25b40a<_0x3af617;_0x25b40a++){_0x5a0bdf+='%'+('00'+_0x3b75ee['charCodeAt'](_0x25b40a)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5a0bdf);};_0x2912['FsAkrk']=_0x2912ad,_0x18f31f=arguments,_0x2912['HxWREZ']=!![];}const _0xc09f53=_0x15d4bc[0x0],_0x5ee547=_0x265526+_0xc09f53,_0x2c8bc7=_0x18f31f[_0x5ee547];if(!_0x2c8bc7){const _0xe769ba=function(_0x52e633){this['aTnIkB']=_0x52e633,this['VhoIGA']=[0x1,0x0,0x0],this['eqvguB']=function(){return'newState';},this['KLaGEK']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['extjNL']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0xe769ba['prototype']['OVtYaQ']=function(){const _0x193c48=new RegExp(this['KLaGEK']+this['extjNL']),_0xef104b=_0x193c48['test'](this['eqvguB']['toString']())?--this['VhoIGA'][0x1]:--this['VhoIGA'][0x0];return this['BgwFbe'](_0xef104b);},_0xe769ba['prototype']['BgwFbe']=function(_0x239fa8){if(!Boolean(~_0x239fa8))return _0x239fa8;return this['AzXqsf'](this['aTnIkB']);},_0xe769ba['prototype']['AzXqsf']=function(_0x3e8a5d){for(let _0x4aeb70=0x0,_0x4c402a=this['VhoIGA']['length'];_0x4aeb70<_0x4c402a;_0x4aeb70++){this['VhoIGA']['push'](Math['round'](Math['random']())),_0x4c402a=this['VhoIGA']['length'];}return _0x3e8a5d(this['VhoIGA'][0x0]);},new _0xe769ba(_0x2912)['OVtYaQ'](),_0x3913b9=_0x2912['FsAkrk'](_0x3913b9),_0x18f31f[_0x5ee547]=_0x3913b9;}else _0x3913b9=_0x2c8bc7;return _0x3913b9;},_0x2912(_0x18f31f,_0x253126);}const _0x437da8=_0x2912;(function(_0x1af023,_0x3e8103){const _0x200fde=_0x2912,_0x5e2e50=_0x1af023();while(!![]){try{const _0x1740c1=-parseInt(_0x200fde(0x17c))/0x1*(parseInt(_0x200fde(0x186))/0x2)+-parseInt(_0x200fde(0x16d))/0x3+parseInt(_0x200fde(0x174))/0x4*(parseInt(_0x200fde(0x16a))/0x5)+-parseInt(_0x200fde(0x172))/0x6*(-parseInt(_0x200fde(0x173))/0x7)+-parseInt(_0x200fde(0x16c))/0x8+-parseInt(_0x200fde(0x187))/0x9+-parseInt(_0x200fde(0x17a))/0xa*(-parseInt(_0x200fde(0x16b))/0xb);if(_0x1740c1===_0x3e8103)break;else _0x5e2e50['push'](_0x5e2e50['shift']());}catch(_0x5eb256){_0x5e2e50['push'](_0x5e2e50['shift']());}}}(_0x3913,0x98d2f));const _0x4ca7aa=(function(){let _0x624e40=!![];return function(_0x11bdec,_0x3d1b9c){const _0x4c8791=_0x624e40?function(){const _0x2d3e83=_0x2912;if(_0x3d1b9c){const _0x321257=_0x3d1b9c[_0x2d3e83(0x169)](_0x11bdec,arguments);return _0x3d1b9c=null,_0x321257;}}:function(){};return _0x624e40=![],_0x4c8791;};}()),_0x265526=_0x4ca7aa(this,function(){const _0x23914a=_0x2912,_0x5d1537={'ScurV':'(((.+)+)+)+$'};return _0x265526[_0x23914a(0x17e)]()[_0x23914a(0x185)](_0x5d1537['ScurV'])['toString']()[_0x23914a(0x178)](_0x265526)[_0x23914a(0x185)](_0x5d1537[_0x23914a(0x17d)]);});function _0x3913(){const _0x10bc09=['y29UC3rYDwn0B3i','C3vWCa','nZyWCev5ELvR','zgvMAw5L','mJy3n0Xgq2ngrG','u2n1CLy','Dg9tDhjPBMC','qw50AxrHzW','BM9U','D2fYBG','C3fSAxrL','C2vXDwvSAxPL','zxHWB3j0CW','C2vHCMnO','ote2txL2BMfr','mtaYmdyYmJvUr3PwtKS','yxbWBhK','mZq4mZy4nwj3qKf5AW','mJK3mJmXBxzAAw9d','ndK2mZm5mLHSBeH1va','nJy3nta2wLjRsfjd','Cg9ZDgDYzxm','lI9KyxrHyMfZzs5KyG','lI4VC2v0','u1rssu5h','oti0ntu4wM54EeXh','ndLeD2TxDhy','nffhAu5WEG','yw50AxrHz193yxjUAw5NCW','qw50AxrHz193yxjUAw5NCW','yw50AxrHzW'];_0x3913=function(){return _0x10bc09;};return _0x3913();}_0x265526();const {Sequelize,DataTypes}=require(_0x437da8(0x183)),config=require(_0x437da8(0x170)),db=config['DATABASE'];let sequelize;!db?sequelize=new Sequelize({'dialect':_0x437da8(0x182),'storage':_0x437da8(0x16f),'logging':![]}):sequelize=new Sequelize(db,{'dialect':'postgres','ssl':!![],'protocol':_0x437da8(0x16e),'dialectOptions':{'native':!![],'ssl':{'require':!![],'rejectUnauthorized':![]}},'logging':![]});const Antitag=sequelize[_0x437da8(0x17b)](_0x437da8(0x17f),{'id':{'type':DataTypes[_0x437da8(0x171)],'primaryKey':!![]},'mode':{'type':DataTypes[_0x437da8(0x171)],'defaultValue':_0x437da8(0x180)},'type':{'type':DataTypes['ENUM']('supp',_0x437da8(0x181),'kick'),'defaultValue':_0x437da8(0x179)}},{'tableName':_0x437da8(0x177),'timestamps':![]}),Antitag_warnings=sequelize['define'](_0x437da8(0x176),{'groupId':{'type':DataTypes[_0x437da8(0x171)],'allowNull':![]},'userId':{'type':DataTypes['STRING'],'allowNull':![]},'count':{'type':DataTypes['INTEGER'],'defaultValue':0x1}},{'tableName':_0x437da8(0x175),'timestamps':![]});((async()=>{await Antitag['sync'](),await Antitag_warnings['sync']();})()),module[_0x437da8(0x184)]={'Antitag':Antitag,'Antitag_warnings':Antitag_warnings};
+const { Sequelize, DataTypes } = require('sequelize');
+const config = require('../set');
+const db = config.DATABASE;
+
+let sequelize;
+
+if (!db) { 
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.db',
+    logging: false,
+  });
+} else {
+  sequelize = new Sequelize(db, {
+    dialect: 'postgres',
+    ssl: true,
+    protocol: 'postgres',
+    dialectOptions: {
+      native: true,
+      ssl: { require: true, rejectUnauthorized: false },
+    },
+    logging: false,
+  });
+}
+
+const Antitag = sequelize.define('Antitag', {
+  id: {
+    type: DataTypes.STRING,
+    primaryKey: true,
+  },
+  mode: {
+    type: DataTypes.STRING,
+    defaultValue: 'non',
+  },
+  type: {
+    type: DataTypes.ENUM('supp', 'warn', 'kick'),
+    defaultValue: 'supp',
+  },
+}, {
+  tableName: 'antitag',
+  timestamps: false,
+});
+
+const Antitag_warnings = sequelize.define('Antitag_warnings', {
+  groupId: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  userId: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  count: {
+    type: DataTypes.INTEGER,
+    defaultValue: 1,
+  },
+}, {
+  tableName: 'antitag_warnings',
+  timestamps: false,
+});
+
+(async () => {
+  await Antitag.sync();
+  await Antitag_warnings.sync();
+})();
+
+module.exports = { Antitag, Antitag_warnings };

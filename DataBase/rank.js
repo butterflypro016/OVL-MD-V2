@@ -1,1 +1,73 @@
-const _0xc4cda0=_0x50fb;function _0x50fb(_0x4153cd,_0x46943a){const _0x488fad=_0x18ed();return _0x50fb=function(_0x39d909,_0x117826){_0x39d909=_0x39d909-0xc8;let _0x18ed6f=_0x488fad[_0x39d909];if(_0x50fb['DfAOYw']===undefined){var _0x50fb7e=function(_0x136bee){const _0x3c7603='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2de341='',_0x6f8354='',_0xca39a7=_0x2de341+_0x50fb7e;for(let _0x4c3050=0x0,_0x532759,_0x52cbd4,_0x2e5b6c=0x0;_0x52cbd4=_0x136bee['charAt'](_0x2e5b6c++);~_0x52cbd4&&(_0x532759=_0x4c3050%0x4?_0x532759*0x40+_0x52cbd4:_0x52cbd4,_0x4c3050++%0x4)?_0x2de341+=_0xca39a7['charCodeAt'](_0x2e5b6c+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x532759>>(-0x2*_0x4c3050&0x6)):_0x4c3050:0x0){_0x52cbd4=_0x3c7603['indexOf'](_0x52cbd4);}for(let _0x2d0464=0x0,_0x29b234=_0x2de341['length'];_0x2d0464<_0x29b234;_0x2d0464++){_0x6f8354+='%'+('00'+_0x2de341['charCodeAt'](_0x2d0464)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x6f8354);};_0x50fb['cNyYQR']=_0x50fb7e,_0x4153cd=arguments,_0x50fb['DfAOYw']=!![];}const _0x367daa=_0x488fad[0x0],_0x1a65c8=_0x39d909+_0x367daa,_0x5365a6=_0x4153cd[_0x1a65c8];if(!_0x5365a6){const _0x468937=function(_0x48c4fc){this['LOoTEW']=_0x48c4fc,this['lESnlB']=[0x1,0x0,0x0],this['ZySYHp']=function(){return'newState';},this['hwDmwx']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['McndOK']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x468937['prototype']['MseHSP']=function(){const _0x26ea98=new RegExp(this['hwDmwx']+this['McndOK']),_0x454b4e=_0x26ea98['test'](this['ZySYHp']['toString']())?--this['lESnlB'][0x1]:--this['lESnlB'][0x0];return this['hSUTrb'](_0x454b4e);},_0x468937['prototype']['hSUTrb']=function(_0x712035){if(!Boolean(~_0x712035))return _0x712035;return this['mMEkek'](this['LOoTEW']);},_0x468937['prototype']['mMEkek']=function(_0x267c17){for(let _0x4d83c2=0x0,_0x36c986=this['lESnlB']['length'];_0x4d83c2<_0x36c986;_0x4d83c2++){this['lESnlB']['push'](Math['round'](Math['random']())),_0x36c986=this['lESnlB']['length'];}return _0x267c17(this['lESnlB'][0x0]);},new _0x468937(_0x50fb)['MseHSP'](),_0x18ed6f=_0x50fb['cNyYQR'](_0x18ed6f),_0x4153cd[_0x1a65c8]=_0x18ed6f;}else _0x18ed6f=_0x5365a6;return _0x18ed6f;},_0x50fb(_0x4153cd,_0x46943a);}(function(_0x4d695f,_0x2cd334){const _0x380c97=_0x50fb,_0x171fc8=_0x4d695f();while(!![]){try{const _0x5ddcba=parseInt(_0x380c97(0xcd))/0x1+parseInt(_0x380c97(0xcb))/0x2*(-parseInt(_0x380c97(0xde))/0x3)+parseInt(_0x380c97(0xd4))/0x4+parseInt(_0x380c97(0xca))/0x5+parseInt(_0x380c97(0xd8))/0x6*(parseInt(_0x380c97(0xdd))/0x7)+-parseInt(_0x380c97(0xdf))/0x8+parseInt(_0x380c97(0xe4))/0x9;if(_0x5ddcba===_0x2cd334)break;else _0x171fc8['push'](_0x171fc8['shift']());}catch(_0x35f129){_0x171fc8['push'](_0x171fc8['shift']());}}}(_0x18ed,0xa4673));function _0x18ed(){const _0x4c435f=['Bgv2zwX1Ca','zgvMAw5L','ndjHCKL0D20','C2vXDwvSAxPL','C3fSAxrL','refuqujbu0u','lI9KyxrHyMfZzs5KyG','ndCXmZCZEw1NzuTH','mtvUwwrZDhe','otq2mdm1mKrVq1ryza','u1rssu5h','Cg9ZDgDYzxm','vevyva','Dg9tDhjPBMC','mZK0nta5nKXxDM14ua','kcGOlISPkYKRksSK','BM9U','nda1nJaZnxHlvKPAyW','mJK0nZK0zLncq1rp','su5uruDfuG','ntm4mZmYEe1Zu2Dz','y29UC3rYDwn0B3i','zxHWB3j0CW','C2vHCMnO','CMfUA3m','lI4VC2v0','C3LUyW','mtmZndy3mNvlDNH6Ea','tgv2zwX1Ca'];_0x18ed=function(){return _0x4c435f;};return _0x18ed();}const _0x117826=(function(){let _0x23069b=!![];return function(_0x335b0f,_0x27cb57){const _0x38bdb7=_0x23069b?function(){if(_0x27cb57){const _0x6208e9=_0x27cb57['apply'](_0x335b0f,arguments);return _0x27cb57=null,_0x6208e9;}}:function(){};return _0x23069b=![],_0x38bdb7;};}()),_0x39d909=_0x117826(this,function(){const _0x16abe7=_0x50fb,_0x467446={'MaHIU':_0x16abe7(0xc8)};return _0x39d909['toString']()[_0x16abe7(0xd0)](_0x467446['MaHIU'])[_0x16abe7(0xe3)]()[_0x16abe7(0xce)](_0x39d909)[_0x16abe7(0xd0)](_0x467446['MaHIU']);});_0x39d909();const {Sequelize,DataTypes}=require(_0xc4cda0(0xd9)),config=require(_0xc4cda0(0xd2)),db=config[_0xc4cda0(0xdb)];let sequelize;!db?sequelize=new Sequelize({'dialect':_0xc4cda0(0xda),'storage':_0xc4cda0(0xdc),'logging':![]}):sequelize=new Sequelize(db,{'dialect':'postgres','ssl':!![],'protocol':_0xc4cda0(0xe1),'dialectOptions':{'native':!![],'ssl':{'require':!![],'rejectUnauthorized':![]}},'logging':![]});const Ranks=sequelize[_0xc4cda0(0xd7)]('Ranks',{'id':{'type':DataTypes[_0xc4cda0(0xe0)],'primaryKey':!![]},'name':{'type':DataTypes[_0xc4cda0(0xe0)],'allowNull':![]},'level':{'type':DataTypes[_0xc4cda0(0xcc)],'defaultValue':0x0},'exp':{'type':DataTypes[_0xc4cda0(0xcc)],'defaultValue':0x0},'messages':{'type':DataTypes['INTEGER'],'defaultValue':0x0}},{'tableName':_0xc4cda0(0xd1),'timestamps':![]}),Levelup=sequelize['define'](_0xc4cda0(0xd5),{'id':{'type':DataTypes[_0xc4cda0(0xcc)],'autoIncrement':!![],'primaryKey':!![]},'levelup':{'type':DataTypes[_0xc4cda0(0xe2)],'allowNull':![],'defaultValue':_0xc4cda0(0xc9)}},{'tableName':_0xc4cda0(0xd6),'timestamps':![]});((async()=>{const _0x27fae9=_0xc4cda0;await Ranks['sync'](),await Levelup[_0x27fae9(0xd3)]();})()),module[_0xc4cda0(0xcf)]={'Ranks':Ranks,'Levelup':Levelup};
+const { Sequelize, DataTypes } = require('sequelize');
+const config = require('../set');
+const db = config.DATABASE;
+
+let sequelize;
+
+if (!db) {
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: './database.db',
+    logging: false,
+  });
+} else {
+  sequelize = new Sequelize(db, {
+    dialect: 'postgres',
+    ssl: true,
+    protocol: 'postgres',
+    dialectOptions: {
+      native: true,
+      ssl: { require: true, rejectUnauthorized: false },
+    },
+    logging: false,
+  });
+}
+
+const Ranks = sequelize.define('Ranks', {
+  id: {
+    type: DataTypes.STRING,
+    primaryKey: true,
+  },
+  name: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  level: {
+    type: DataTypes.INTEGER,
+    defaultValue: 0,
+  },
+  exp: {
+    type: DataTypes.INTEGER,
+    defaultValue: 0,
+  },
+  messages: {
+    type: DataTypes.INTEGER,
+    defaultValue: 0,
+  }
+}, {
+  tableName: 'ranks',
+  timestamps: false,
+});
+
+const Levelup = sequelize.define('Levelup', {
+  id: {
+    type: DataTypes.INTEGER,
+    autoIncrement: true,
+    primaryKey: true,
+  },
+  levelup: {
+    type: DataTypes.TEXT,
+    allowNull: false,
+    defaultValue: 'non'
+  }
+}, {
+  tableName: 'levelup',
+  timestamps: false,
+});
+
+(async () => {
+  await Ranks.sync();
+  await Levelup.sync();
+})();
+
+module.exports = { Ranks, Levelup };

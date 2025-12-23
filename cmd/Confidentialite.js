@@ -1,1 +1,288 @@
-const _0x379665=_0x3233;function _0x3233(_0x42f809,_0x35543b){const _0x4eeab0=_0x3fb8();return _0x3233=function(_0x32b689,_0x525e7e){_0x32b689=_0x32b689-0x168;let _0x3fb8de=_0x4eeab0[_0x32b689];if(_0x3233['soiHVD']===undefined){var _0x323322=function(_0x57a4f2){const _0x41db89='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x44b220='',_0x57e102='',_0x1b9baf=_0x44b220+_0x323322;for(let _0x48c4ee=0x0,_0x19cf19,_0x5e9c49,_0x134598=0x0;_0x5e9c49=_0x57a4f2['charAt'](_0x134598++);~_0x5e9c49&&(_0x19cf19=_0x48c4ee%0x4?_0x19cf19*0x40+_0x5e9c49:_0x5e9c49,_0x48c4ee++%0x4)?_0x44b220+=_0x1b9baf['charCodeAt'](_0x134598+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x19cf19>>(-0x2*_0x48c4ee&0x6)):_0x48c4ee:0x0){_0x5e9c49=_0x41db89['indexOf'](_0x5e9c49);}for(let _0x54825b=0x0,_0xe255ab=_0x44b220['length'];_0x54825b<_0xe255ab;_0x54825b++){_0x57e102+='%'+('00'+_0x44b220['charCodeAt'](_0x54825b)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x57e102);};_0x3233['teTDrN']=_0x323322,_0x42f809=arguments,_0x3233['soiHVD']=!![];}const _0x56b179=_0x4eeab0[0x0],_0x153c05=_0x32b689+_0x56b179,_0x5ae2f2=_0x42f809[_0x153c05];if(!_0x5ae2f2){const _0x12818c=function(_0x2b90ba){this['hRpxYi']=_0x2b90ba,this['LfNZlP']=[0x1,0x0,0x0],this['IlUnkw']=function(){return'newState';},this['myGgNl']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['iOLmAa']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x12818c['prototype']['SqnIbA']=function(){const _0x64584a=new RegExp(this['myGgNl']+this['iOLmAa']),_0x57ac9b=_0x64584a['test'](this['IlUnkw']['toString']())?--this['LfNZlP'][0x1]:--this['LfNZlP'][0x0];return this['QAJQLT'](_0x57ac9b);},_0x12818c['prototype']['QAJQLT']=function(_0x3cac20){if(!Boolean(~_0x3cac20))return _0x3cac20;return this['rweNMu'](this['hRpxYi']);},_0x12818c['prototype']['rweNMu']=function(_0x291548){for(let _0x5d000a=0x0,_0x303bbf=this['LfNZlP']['length'];_0x5d000a<_0x303bbf;_0x5d000a++){this['LfNZlP']['push'](Math['round'](Math['random']())),_0x303bbf=this['LfNZlP']['length'];}return _0x291548(this['LfNZlP'][0x0]);},new _0x12818c(_0x3233)['SqnIbA'](),_0x3fb8de=_0x3233['teTDrN'](_0x3fb8de),_0x42f809[_0x153c05]=_0x3fb8de;}else _0x3fb8de=_0x5ae2f2;return _0x3fb8de;},_0x3233(_0x42f809,_0x35543b);}(function(_0x2c0140,_0x3b385e){const _0x5e6b0d=_0x3233,_0x290335=_0x2c0140();while(!![]){try{const _0x5f35ce=-parseInt(_0x5e6b0d(0x1af))/0x1*(-parseInt(_0x5e6b0d(0x17f))/0x2)+-parseInt(_0x5e6b0d(0x1d2))/0x3*(-parseInt(_0x5e6b0d(0x169))/0x4)+-parseInt(_0x5e6b0d(0x1ee))/0x5+parseInt(_0x5e6b0d(0x171))/0x6+-parseInt(_0x5e6b0d(0x1b0))/0x7*(-parseInt(_0x5e6b0d(0x1a2))/0x8)+parseInt(_0x5e6b0d(0x1bf))/0x9*(-parseInt(_0x5e6b0d(0x17a))/0xa)+-parseInt(_0x5e6b0d(0x19b))/0xb*(parseInt(_0x5e6b0d(0x18e))/0xc);if(_0x5f35ce===_0x3b385e)break;else _0x290335['push'](_0x290335['shift']());}catch(_0x5ce0fc){_0x290335['push'](_0x290335['shift']());}}}(_0x3fb8,0x40b4f));const _0x525e7e=(function(){let _0x21f1da=!![];return function(_0x1bd828,_0x268bc7){const _0x464e98=_0x21f1da?function(){const _0x3acc7a=_0x3233;if(_0x268bc7){const _0x1f72a1=_0x268bc7[_0x3acc7a(0x1ea)](_0x1bd828,arguments);return _0x268bc7=null,_0x1f72a1;}}:function(){};return _0x21f1da=![],_0x464e98;};}()),_0x32b689=_0x525e7e(this,function(){const _0x23a482=_0x3233,_0x5cd13c={'mVOAa':_0x23a482(0x1e1)};return _0x32b689[_0x23a482(0x1df)]()[_0x23a482(0x191)](_0x5cd13c[_0x23a482(0x18a)])[_0x23a482(0x1df)]()[_0x23a482(0x199)](_0x32b689)[_0x23a482(0x191)](_0x5cd13c[_0x23a482(0x18a)]);});_0x32b689();const {ovlcmd}=require(_0x379665(0x177)),{WA_CONF}=require('../DataBase/wa_conf');ovlcmd({'nom_cmd':'presence','classe':'confidentialité','react':'👤','desc':_0x379665(0x1be)},async(_0xd04c40,_0x454fde,_0x2cd119)=>{const _0x3fd4fa=_0x379665,_0x35cf17={'cfXGh':_0x3fd4fa(0x173),'RlZbe':_0x3fd4fa(0x19d),'fnHba':_0x3fd4fa(0x1f5),'FCvsa':'non','wmRla':function(_0x25c1c5,_0x377bf5){return _0x25c1c5===_0x377bf5;},'CeBKx':function(_0x114b99,_0x134121){return _0x114b99(_0x134121);},'rNjhf':_0x3fd4fa(0x1f2),'QespW':function(_0x214718,_0x4980da){return _0x214718+_0x4980da;},'YnteC':_0x3fd4fa(0x196),'QAOqB':_0x3fd4fa(0x1bc),'BIPAd':_0x3fd4fa(0x1c1),'ZUeiZ':_0x3fd4fa(0x16c),'XMdyw':_0x3fd4fa(0x17d)},{ms:_0x35a4cd,repondre:_0x59e90f,arg:_0xd5e7ba,prenium_id:_0x5ac55d}=_0x2cd119;try{if(!_0x5ac55d)return _0x59e90f(_0x3fd4fa(0x179));const _0x2f5967=_0xd5e7ba[0x0]?.[_0x3fd4fa(0x19a)](),_0x4f5f44=[_0x3fd4fa(0x1b4),_0x3fd4fa(0x1f5),_0x35cf17['cfXGh'],_0x35cf17['RlZbe']],_0x244446={'1':_0x35cf17[_0x3fd4fa(0x184)],'2':_0x35cf17[_0x3fd4fa(0x190)],'3':_0x3fd4fa(0x19d)},[_0x562057]=await WA_CONF[_0x3fd4fa(0x175)]({'where':{'id':'1'},'defaults':{'id':'1','presence':_0x35cf17['FCvsa']}});if(_0x35cf17[_0x3fd4fa(0x1d1)](_0x2f5967,_0x3fd4fa(0x1b4)))return _0x562057[_0x3fd4fa(0x1ca)]=_0x35cf17[_0x3fd4fa(0x1c5)],await _0x562057[_0x3fd4fa(0x1ec)](),_0x35cf17['CeBKx'](_0x59e90f,_0x35cf17[_0x3fd4fa(0x1d3)]);if(_0x244446[_0x2f5967]){if(_0x562057[_0x3fd4fa(0x1ca)]===_0x244446[_0x2f5967])return _0x35cf17[_0x3fd4fa(0x1e7)](_0x59e90f,_0x3fd4fa(0x1f4)+_0x244446[_0x2f5967]);return _0x562057[_0x3fd4fa(0x1ca)]=_0x244446[_0x2f5967],await _0x562057[_0x3fd4fa(0x1ec)](),_0x59e90f('La\x20présence\x20est\x20maintenant\x20définie\x20sur\x20'+_0x244446[_0x2f5967]);}return _0x35cf17[_0x3fd4fa(0x1e7)](_0x59e90f,_0x35cf17[_0x3fd4fa(0x1d5)](_0x35cf17[_0x3fd4fa(0x1d5)](_0x35cf17[_0x3fd4fa(0x1d5)](_0x35cf17[_0x3fd4fa(0x1d5)]('Utilisation\x20:\x0a',_0x3fd4fa(0x1d4)),_0x35cf17[_0x3fd4fa(0x1db)]),_0x35cf17['QAOqB']),_0x35cf17[_0x3fd4fa(0x1bb)]));}catch(_0x52149a){console[_0x3fd4fa(0x18b)](_0x35cf17['ZUeiZ'],_0x52149a),_0x35cf17[_0x3fd4fa(0x1e7)](_0x59e90f,_0x35cf17[_0x3fd4fa(0x183)]);}}),ovlcmd({'nom_cmd':_0x379665(0x1eb),'classe':_0x379665(0x1a7),'react':'📋','desc':_0x379665(0x18c)},async(_0x3c4027,_0x227b4f,{repondre:_0x4d3275,prenium_id:_0x48481d,ms:_0x3bb8ed})=>{const _0x20a476=_0x379665,_0x5db904={'svnpZ':function(_0x50418c,_0x5097c1){return _0x50418c(_0x5097c1);},'zXTxL':'Vous\x20n\x27avez\x20pas\x20le\x20droit\x20d\x27exécuter\x20cette\x20commande.','tWuRZ':_0x20a476(0x1b9),'SZeTd':_0x20a476(0x1ad)};if(!_0x48481d)return _0x5db904[_0x20a476(0x1d9)](_0x4d3275,_0x5db904[_0x20a476(0x1b7)]);try{const {readreceipts:_0x479495,profile:_0x598e7a,status:_0x407d7b,online:_0x1df58b,last:_0x1cf1f7,groupadd:_0x3b826b,calladd:_0x1791bf}=await _0x227b4f[_0x20a476(0x1f6)](!![]),_0x298919=_0x20a476(0x1a5)+_0x3bb8ed[_0x20a476(0x182)]+_0x20a476(0x1a3)+_0x1df58b+_0x20a476(0x1a4)+_0x598e7a+'\x0a*ᝄ\x20Dernière\x20vue\x20:*\x20'+_0x1cf1f7+'\x0a*ᝄ\x20Confirmation\x20lecture\x20:*\x20'+_0x479495+_0x20a476(0x186)+_0x407d7b+_0x20a476(0x1b5)+_0x3b826b+_0x20a476(0x1e6)+_0x1791bf;let _0x425ca5;try{_0x425ca5=await _0x227b4f['profilePictureUrl'](_0x3c4027,_0x20a476(0x1e9));}catch{_0x425ca5=_0x5db904[_0x20a476(0x1e4)];}await _0x227b4f[_0x20a476(0x17e)](_0x3c4027,{'image':{'url':_0x425ca5},'caption':_0x298919},{'quoted':_0x3bb8ed});}catch(_0x13e67b){console[_0x20a476(0x18b)](_0x13e67b),await _0x4d3275(_0x5db904[_0x20a476(0x18d)]);}}),ovlcmd({'nom_cmd':_0x379665(0x1ab),'classe':_0x379665(0x1a7),'react':'✍️','desc':_0x379665(0x170)},async(_0x1b6586,_0x44b99f,{repondre:_0x577fa6,prenium_id:_0x13f8b9,arg:_0xd26070})=>{const _0x527970=_0x379665,_0x532109={'loHIN':function(_0x462fa0,_0x1e4df9){return _0x462fa0(_0x1e4df9);},'SMZpb':'Vous\x20n\x27avez\x20pas\x20le\x20droit\x20d\x27exécuter\x20cette\x20commande.','WxhWO':function(_0x4104e8,_0x588ee0){return _0x4104e8(_0x588ee0);}};if(!_0x13f8b9)return _0x532109['loHIN'](_0x577fa6,_0x532109[_0x527970(0x1cd)]);let _0x4ac536=_0xd26070[_0x527970(0x19c)]('\x20');if(!_0x4ac536)return _0x532109['WxhWO'](_0x577fa6,_0x527970(0x1dd));try{await _0x44b99f[_0x527970(0x1e8)](_0x4ac536),await _0x577fa6(_0x527970(0x197));}catch(_0x4e0140){console[_0x527970(0x18b)](_0x4e0140),await _0x532109[_0x527970(0x1f0)](_0x577fa6,_0x527970(0x1d6));}});const privacyValues={'lastseen':[{'key':'all','desc':_0x379665(0x195)},{'key':_0x379665(0x1c7),'desc':'Seulement\x20vos\x20contacts'},{'key':_0x379665(0x16d),'desc':_0x379665(0x1a6)},{'key':'none','desc':_0x379665(0x194)}],'online':[{'key':_0x379665(0x16b),'desc':_0x379665(0x1d8)},{'key':_0x379665(0x1a1),'desc':_0x379665(0x1c3)}],'profile':[{'key':_0x379665(0x16b),'desc':_0x379665(0x195)},{'key':_0x379665(0x1c7),'desc':_0x379665(0x1c2)},{'key':'contact_blacklist','desc':'Tous\x20sauf\x20certains'},{'key':_0x379665(0x1ac),'desc':'Personne'}],'status':[{'key':_0x379665(0x16b),'desc':_0x379665(0x195)},{'key':'contacts','desc':_0x379665(0x1c2)},{'key':_0x379665(0x16d),'desc':'Tous\x20sauf\x20certains'},{'key':_0x379665(0x1ac),'desc':_0x379665(0x194)}],'read':[{'key':_0x379665(0x16b),'desc':'Activé\x20(vous\x20voyez\x20qui\x20a\x20lu,\x20et\x20eux\x20aussi)'},{'key':_0x379665(0x1ac),'desc':_0x379665(0x17b)}],'groupadd':[{'key':'all','desc':'Tout\x20le\x20monde\x20peut\x20vous\x20ajouter'},{'key':_0x379665(0x1c7),'desc':'Seuls\x20vos\x20contacts\x20peuvent\x20vous\x20ajouter'},{'key':_0x379665(0x16d),'desc':_0x379665(0x1a6)},{'key':_0x379665(0x1ac),'desc':_0x379665(0x1e3)}]};async function handlePrivacyCommand({type:_0x3cd5b7,ovl:_0xe97453,repondre:_0x2bff49,arg:_0x1649df,prenium_id:_0x3f209a,updateFunction:_0x241342,label:_0x230a87}){const _0x4cc401=_0x379665,_0x5209e4={'WEvxq':_0x4cc401(0x1c6),'Kozzu':function(_0xe66cc1,_0x29768b){return _0xe66cc1(_0x29768b);},'JaHWZ':function(_0x59bcb7,_0x435d97){return _0x59bcb7(_0x435d97);},'MUvVO':function(_0x16f838,_0x3afafc){return _0x16f838(_0x3afafc);},'rIhTs':function(_0x52c327,_0x1361a2){return _0x52c327-_0x1361a2;},'lzfNX':function(_0x172a20,_0x12a7fb){return _0x172a20(_0x12a7fb);},'vetbp':'Option\x20invalide.\x20Veuillez\x20choisir\x20un\x20numéro\x20ou\x20une\x20valeur\x20valide.','pebjV':function(_0x2501b0,_0x347a0e){return _0x2501b0(_0x347a0e);}};if(!_0x3f209a)return _0x2bff49(_0x5209e4[_0x4cc401(0x1ba)]);const _0x131b15=privacyValues[_0x3cd5b7];let _0xb06d32=_0x1649df[0x0];if(!_0xb06d32||!isNaN(_0xb06d32)&&!_0x131b15[_0x5209e4['Kozzu'](Number,_0xb06d32)-0x1]){const _0x30ca15=[_0x4cc401(0x1da)+_0x230a87+_0x4cc401(0x188)];return _0x131b15[_0x4cc401(0x1ef)]((_0x3ae5f9,_0x33034f)=>{const _0x1f810b=_0x4cc401;_0x30ca15['push']('*'+(_0x33034f+0x1)+_0x1f810b(0x19f)+_0x3ae5f9[_0x1f810b(0x1d7)]+_0x1f810b(0x16a)+_0x3ae5f9['desc']+'_');}),_0x30ca15[_0x4cc401(0x193)](_0x4cc401(0x1a8)+_0x3cd5b7+'\x201'),_0x5209e4[_0x4cc401(0x189)](_0x2bff49,_0x30ca15[_0x4cc401(0x19c)]('\x0a'));}let _0x39b2b9;if(!_0x5209e4[_0x4cc401(0x1f3)](isNaN,_0xb06d32)){const _0x5a9bac=_0x5209e4[_0x4cc401(0x168)](_0x5209e4[_0x4cc401(0x17c)](Number,_0xb06d32),0x1);_0x39b2b9=_0x131b15[_0x5a9bac]?.[_0x4cc401(0x1d7)];}else _0x39b2b9=_0x131b15[_0x4cc401(0x1c8)](_0x45fce0=>_0x45fce0[_0x4cc401(0x1d7)]===_0xb06d32)?.[_0x4cc401(0x1d7)];if(!_0x39b2b9)return _0x2bff49(_0x5209e4[_0x4cc401(0x180)]);try{return await _0x241342(_0x39b2b9),_0x5209e4['pebjV'](_0x2bff49,_0x4cc401(0x1f1)+_0x230a87+_0x4cc401(0x187)+_0x39b2b9+'*');}catch(_0x10c5ba){return console[_0x4cc401(0x18b)](_0x10c5ba),_0x2bff49('Erreur\x20lors\x20de\x20la\x20mise\x20à\x20jour\x20de\x20*'+_0x230a87+'*');}}function _0x3fb8(){const _0x5f5140=['8j+uKcaQt3b0Aw9UCYbWB3vYia','ww50zum','DNzxsMO','zw50CMv6igXHigjPBWPfEgvTCgXLidOGC2v0yMLVifnHBhv0isaGAID1DgLSAxnLifDOyxrZqxbWlG','tgDMsgS','Dg9tDhjPBMC','vfbYAhe','kcGOlISPkYKRksSK','vK1ey0G','ugvYC29UBMuGBMuGCgv1Dcb2B3vZigfQB3v0zxi','DfD1uLO','qMT0AgW','cIRHNyqGqwPVDxqGyxbWzwWGoIOG','q2vcs3G','DxbKyxrLuhjVzMLSzvn0yxr1CW','Aw1Hz2u','yxbWBhK','z2v0ChjPDMfJEq','C2f2zq','z3jVDxbHzgq','nte2mtK1CgP0uMH0','zM9YrwfJAa','Bg9isu4','4PYfienVBMzPzgvUDgLHBgL0W6KGkG','tgeGChldQxnLBMnLigvZDcbTywLUDgvUyw50igtdQxnHy3rPDSoPzs4','tvv2vK8','tgeGChldQxnLBMnLigvZDcbKW6LQW6aGy29UzMLNDxldQwuGC3vYia','zw5SAwDUzq','zMv0y2HqCML2ywn5u2v0DgLUz3m','CKLOvhm','ntqXmJa0BwHkBwXt','ic0GxW','ywXS','rxjYzxvYigXVCNmGzguGBgeGy29UzMLNDxjHDgLVBIbKzsbWCMvZzw5Jzsa6','y29UDgfJDf9IBgfJA2XPC3q','tw9KAwzPzxiGBgeGy29UzMLKzw50AwfSAxtdQsbKzsbSysbKzxjUACoOCMuGDNvL','DxbKyxrLu3rHDhvZuhjPDMfJEq','tw9KAwzPzxiGDM90CMuGC3rHDhv0igrLihbYB2zPBa','mtK5ota4mevWsuz5ra','BKTcEui','zw5YzwDPC3rYzq','tw9KAwzPzxiGBgeGy29UzMLKzw50AwfSAxtdQsbKDsbZDgf0Dxq','zMLUze9Yq3jLyxrL','CgHVDg8GzguGChjVzMLS','lI4VBgLIl292BgnTza','ChjLBML1Bv9Pza','u2v1BhmGBgvZihv0AwXPC2f0zxvYCYbWCMvUAxvTihbLDxzLBNqGDxrPBgLZzxiGy2v0DguGy29TBwfUzgu','mtbOt1rUDvC','rmoPC2fJDgL2W6KGkhzVDxmGBMuGDMvYCMv6ihjPzw4Sigv1EcbUB24GCgX1CYK','BhPMtLG','vw5LigvYCMv1CIbZj2vZDcbWCM9KDwL0zsbSB3jZigrLigWNzxJdQwn1DgLVBIbKzsbSysbJB21Tyw5Kzs4','C2vUze1LC3nHz2u','otK3oti2wxnlt1zi','DMv0yNa','ChjVzMLSzq','ChvZAe5HBwu','we1KExC','zM5iyMe','tw9KAwzPzxiGBgeGy29UzMLKzw50AwfSAxtdQsbKj2fQB3v0igvUigDYB3vWzq','cIRHNyqGu3rHDhv0idOQia','kIbTAxnLimoGigPVDxiGzw4GkG','kIa6','sMfiv1O','Bvzpqwe','zxjYB3i','t2j0zw5PCIb2B3mGCgfYyw3dQhrYzxmGzguGy29UzMLKzw50AwfSAxtdQq','u1PLvgq','mta4ntK3nKDIuKzTtG','CgfKtLi','y2zyr2G','C2vHCMnO','C3rHDhv0','ChvZAa','ugvYC29UBMu','vg91DcbSzsbTB25Kzq','ChjLC2vUy2uGmJOGq29UzMLNDxjLCIbSysbWCSoPC2vUy2uGC3vYicDLBNjLz2LZDhjLjWO','u3rHDhv0igrLihbYB2zPBcbTAxmGW6aGAM91CI4','CMvWB25KCMu','y29UC3rYDwn0B3i','Dg9mB3DLCKnHC2u','mtfowef5vey','AM9PBG','zwnYAxq','zw4GBgLNBMu','lIOG','A1bHqKO','Bwf0y2HFBgfZDf9ZzwvU','nJCZntjlBuvjvhq','cIRHNyqGrw4GBgLNBMuGoIOG','cIRHNyqGuhjVzMLSidOQia','kUkzUIbnzxmGCgfYyw3dQhrYzxmGzguGy29UzMLKzw50AwfSAxtdQsOkcIRHNyqGtM9TidOQia','vg91CYbZyxvMignLCNrHAw5Z','y29UzMLKzw50AwfSAxtdQq','cIPfEgvTCgXLidOQia','DxbKyxrLr3jVDxbZqwrKuhjPDMfJEq','C09uvgS','C2v0yMLV','BM9Uzq','rxjYzxvYigXVCNmGzguGBgeGCSoPy3vWW6LYyxrPB24GzgvZihbHCMfTW6H0CMvZigrLignVBMzPzgvUDgLHBgL0W6KU','BgfZDhnLzw4','murnBhjgvW','n0nXquvNEq','BxLZDgf0Dxm','C3rHDhvZ','BxLWCa','B2zM','cIRHNyqGqwPVDxqGz3jVDxbLidOQia','DxbKyxrLuMvHzfjLy2vPChrZuhjPDMfJEq','ELHuEeW','B25SAw5L','Ahr0Chm6lY9MAwXLCY5JyxrIB3GUBw9Ll3vSD3f0CI5QCgC','v0v2Ehe','qKLqqwq','ChjLC2vUy2uGmZOGq29UzMLNDxjLCIbSysbWCSoPC2vUy2uGC3vYicDLy3jPDcCk','tw9KAwzPzxiGBgeGy29UzMLKzw50AwfSAxtdQsbKzxmGy29UzMLYBwf0Aw9UCYbKzsbSzwn0DxjL','qwn0AxzLig91ignVBMzPz3vYzsbSysbWCSoPC2vUy2uGC3vYifDOyxrZqxbW','ndy1mZC4m2TQC3nmva','ufjsANa','ChjLC2vUy2uGB2zMoIbeW6LZywn0AxzLCIbSysbWCSoPC2vUy2u','u2v1BgvTzw50ihzVCYbJB250ywn0CW','tCoQBwuGCxvLihzVDhjLihzPC2LIAwXPDmoPigrLigrLCM5PW6HYzsb2Dwu','yxjN','rKn2C2e','vM91CYbUj2f2zxOGCgfZigXLigrYB2L0igqNzxJdQwn1DgvYignLDhrLignVBw1HBMrLlG','y29UDgfJDhm','zMLUza','D0H3D0W','ChjLC2vUy2u','wLL4ugi','y2vhAwy','u01ACgi','y29UzMLYBwf0Aw9UigrLigXLy3r1CMu','CMvHza','DxbKyxrLuhjVzMLSzvbPy3r1CMvqCML2ywn5','D21sBge','m2TxzeLStq','CK5QAgy','ChjLC2vUy2uGmtOGq29UzMLNDxjLCIbSysbWCSoPC2vUy2uGC3vYicDLBMXPz25LjWO','uwvZCfC','rxjYzxvYigXVCNmGzguGBgeGBwLZzsddOcbQB3vYigr1ihn0yxr1Dc4','A2v5','vMLZAwjSzsbWB3vYihrVDxqGBguGBw9Uzgu','C3zUCfO'];_0x3fb8=function(){return _0x5f5140;};return _0x3fb8();}ovlcmd({'nom_cmd':'lastseen','classe':_0x379665(0x1a7),'react':'⏳','desc':_0x379665(0x16e)},async(_0xff88b9,_0x33640b,_0x17fc33)=>{const _0x125e41=_0x379665,_0x51910d={'ZYxPb':function(_0xd2c575,_0x419e1b){return _0xd2c575(_0x419e1b);},'wHwwL':_0x125e41(0x1ae),'sOTTk':'dernière\x20vue'};await _0x51910d[_0x125e41(0x1cb)](handlePrivacyCommand,{'type':_0x51910d[_0x125e41(0x1c9)],'ovl':_0x33640b,'repondre':_0x17fc33[_0x125e41(0x198)],'arg':_0x17fc33[_0x125e41(0x1c4)],'prenium_id':_0x17fc33[_0x125e41(0x178)],'updateFunction':_0x33640b['updateLastSeenPrivacy'],'label':_0x51910d[_0x125e41(0x1aa)]});}),ovlcmd({'nom_cmd':_0x379665(0x1b8),'classe':_0x379665(0x1a7),'react':'🟢','desc':'Modifier\x20la\x20confidentialité\x20en\x20ligne'},async(_0x3e790b,_0x427d8a,_0x370faa)=>{const _0x274223=_0x379665,_0x2beb6f={'ceGif':_0x274223(0x1b8),'kPaBJ':_0x274223(0x19e)};await handlePrivacyCommand({'type':_0x2beb6f[_0x274223(0x1cc)],'ovl':_0x427d8a,'repondre':_0x370faa['repondre'],'arg':_0x370faa[_0x274223(0x1c4)],'prenium_id':_0x370faa[_0x274223(0x178)],'updateFunction':_0x427d8a['updateOnlinePrivacy'],'label':_0x2beb6f[_0x274223(0x1a0)]});}),ovlcmd({'nom_cmd':_0x379665(0x1b3),'classe':_0x379665(0x1a7),'react':'🖼️','desc':'Modifier\x20la\x20confidentialité\x20de\x20la\x20photo\x20de\x20profil'},async(_0x39b168,_0x3c832e,_0x135735)=>{const _0x2a5ba0=_0x379665,_0xedab49={'VMDcH':function(_0x122faf,_0xed44b7){return _0x122faf(_0xed44b7);},'nKByB':_0x2a5ba0(0x181),'iuNNA':_0x2a5ba0(0x176)};await _0xedab49[_0x2a5ba0(0x1e2)](handlePrivacyCommand,{'type':_0xedab49[_0x2a5ba0(0x172)],'ovl':_0x3c832e,'repondre':_0x135735['repondre'],'arg':_0x135735[_0x2a5ba0(0x1c4)],'prenium_id':_0x135735[_0x2a5ba0(0x178)],'updateFunction':_0x3c832e[_0x2a5ba0(0x1d0)],'label':_0xedab49['iuNNA']});}),ovlcmd({'nom_cmd':_0x379665(0x1b1),'classe':_0x379665(0x1a7),'react':'📃','desc':_0x379665(0x174)},async(_0x6a6442,_0x54daa2,_0x165a29)=>{const _0x1af7cf=_0x379665,_0xec9c52={'Bkthl':function(_0x3e1c21,_0xefcea7){return _0x3e1c21(_0xefcea7);},'vvWJj':_0x1af7cf(0x192)};await _0xec9c52[_0x1af7cf(0x1e5)](handlePrivacyCommand,{'type':_0x1af7cf(0x1b2),'ovl':_0x54daa2,'repondre':_0x165a29[_0x1af7cf(0x198)],'arg':_0x165a29[_0x1af7cf(0x1c4)],'prenium_id':_0x165a29['prenium_id'],'updateFunction':_0x54daa2[_0x1af7cf(0x16f)],'label':_0xec9c52[_0x1af7cf(0x1dc)]});}),ovlcmd({'nom_cmd':_0x379665(0x1cf),'classe':_0x379665(0x1a7),'react':'📖','desc':_0x379665(0x1bd)},async(_0x40e4bb,_0x5f24ed,_0x5e7209)=>{const _0x4a3e39=_0x379665,_0x41b84a={'padNR':function(_0x3e5915,_0x1f1e59){return _0x3e5915(_0x1f1e59);},'LgfHk':_0x4a3e39(0x1cf),'PRRjp':_0x4a3e39(0x1ce)};await _0x41b84a[_0x4a3e39(0x18f)](handlePrivacyCommand,{'type':_0x41b84a[_0x4a3e39(0x1de)],'ovl':_0x5f24ed,'repondre':_0x5e7209['repondre'],'arg':_0x5e7209[_0x4a3e39(0x1c4)],'prenium_id':_0x5e7209[_0x4a3e39(0x178)],'updateFunction':_0x5f24ed[_0x4a3e39(0x1b6)],'label':_0x41b84a[_0x4a3e39(0x1c0)]});}),ovlcmd({'nom_cmd':_0x379665(0x1ed),'classe':_0x379665(0x1a7),'react':'➕','desc':_0x379665(0x185)},async(_0xd1231e,_0xc9f3b8,_0x3f9b15)=>{const _0x40c23a=_0x379665,_0x5dfa1d={'uJhAE':_0x40c23a(0x1ed),'TPrhq':'ajout\x20en\x20groupe'};await handlePrivacyCommand({'type':_0x5dfa1d['uJhAE'],'ovl':_0xc9f3b8,'repondre':_0x3f9b15[_0x40c23a(0x198)],'arg':_0x3f9b15[_0x40c23a(0x1c4)],'prenium_id':_0x3f9b15[_0x40c23a(0x178)],'updateFunction':_0xc9f3b8[_0x40c23a(0x1a9)],'label':_0x5dfa1d[_0x40c23a(0x1e0)]});});
+const { ovlcmd } = require("../lib/ovlcmd");
+const { WA_CONF } = require('../DataBase/wa_conf');
+
+ovlcmd(
+  {
+    nom_cmd: "presence",
+    classe: "confidentialité",
+    react: "👤",
+    desc: "Active ou configure la présence sur WhatsApp",
+  },
+  async (jid, ovl, cmd_options) => {
+    const { ms, repondre, arg, prenium_id } = cmd_options;
+    try {
+      if (!prenium_id) {
+        return repondre("Seuls les utilisateurs prenium peuvent utiliser cette commande");
+      }
+
+      const sousCommande = arg[0]?.toLowerCase();
+      const validtypes = ['off', 'enligne', 'enregistre', 'ecrit'];
+      const types = {
+        '1': 'enligne',
+        '2': 'enregistre',
+        '3': 'ecrit'
+      };
+
+      const [settings] = await WA_CONF.findOrCreate({
+        where: { id: '1' },
+        defaults: { id: '1', presence: 'non' },
+      });
+
+      if (sousCommande === 'off') {
+        settings.presence = 'non';
+        await settings.save();
+        return repondre("La présence est maintenant désactivée.");
+      }
+
+      if (types[sousCommande]) {
+        if (settings.presence === types[sousCommande]) {
+          return repondre(`La présence est déjà configurée sur ${types[sousCommande]}`);
+        }
+
+        settings.presence = types[sousCommande];
+        await settings.save();
+        return repondre(`La présence est maintenant définie sur ${types[sousCommande]}`);
+      }
+
+      return repondre("Utilisation :\n" +
+        "presence 1: Configurer la présence sur 'enligne'\n" +
+        "presence 2: Configurer la présence sur 'enregistre'\n" +
+        "presence 3: Configurer la présence sur 'ecrit'\n" +
+        "presence off: Désactiver la présence");
+    } catch (error) {
+      console.error("Erreur lors de la configuration de presence :", error);
+      repondre("Une erreur s'est produite lors de l'exécution de la commande.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "getprivacy",
+    classe: "confidentialité",
+    react: "📋",
+    desc: "Obtenir vos paramètres de confidentialité",
+  },
+  async (ms_org, ovl, { repondre, prenium_id, ms }) => {
+    if (!prenium_id) return repondre("Vous n'avez pas le droit d'exécuter cette commande.");
+
+    try {
+      const { readreceipts, profile, status, online, last, groupadd, calladd } = await ovl.fetchPrivacySettings(true);
+      const msg = `*♺ Mes paramètres de confidentialité*\n\n*ᝄ Nom :* ${ms.pushName}\n*ᝄ En ligne :* ${online}\n*ᝄ Profil :* ${profile}\n*ᝄ Dernière vue :* ${last}\n*ᝄ Confirmation lecture :* ${readreceipts}\n*ᝄ Statut :* ${status}\n*ᝄ Ajout groupe :* ${groupadd}\n*ᝄ Ajout appel :* ${calladd}`;
+      
+      let img;
+      try {
+        img = await ovl.profilePictureUrl(ms_org, "image");
+      } catch {
+        img = "https://files.catbox.moe/ulwqtr.jpg";
+      }
+
+      await ovl.sendMessage(ms_org, {image: {url: img}, caption: msg }, {quoted: ms});
+    } catch (e) {
+      console.error(e);
+      await repondre("Erreur lors de la récupération des paramètres de confidentialité.");
+    }
+  }
+);
+
+ovlcmd(
+  {
+    nom_cmd: "setbio",
+    classe: "confidentialité",
+    react: "✍️",
+    desc: "Modifier votre statut de profil",
+  },
+  async (ms_org, ovl, { repondre, prenium_id, arg }) => {
+    if (!prenium_id) return repondre("Vous n'avez pas le droit d'exécuter cette commande.");
+
+    let text = arg.join(" ");
+    if (!text) return repondre("entrez la bio\nExemple : setbio Salut!  j'utilise WhatsApp.");
+
+    try {
+      await ovl.updateProfileStatus(text);
+      await repondre("Statut de profil mis à jour.");
+    } catch (e) {
+      console.error(e);
+      await repondre("Erreur lors de la mise à jour du statut.");
+    }
+  }
+);
+
+const privacyValues = {
+  lastseen: [
+    { key: "all", desc: "Tout le monde" },
+    { key: "contacts", desc: "Seulement vos contacts" },
+    { key: "contact_blacklist", desc: "Tous sauf certains" },
+    { key: "none", desc: "Personne" },
+  ],
+  online: [
+    { key: "all", desc: "Visible pour tout le monde" },
+    { key: "match_last_seen", desc: "Même que votre visibilité de dernière vue" },
+  ],
+  profile: [
+    { key: "all", desc: "Tout le monde" },
+    { key: "contacts", desc: "Seulement vos contacts" },
+    { key: "contact_blacklist", desc: "Tous sauf certains" },
+    { key: "none", desc: "Personne" },
+  ],
+  status: [
+    { key: "all", desc: "Tout le monde" },
+    { key: "contacts", desc: "Seulement vos contacts" },
+    { key: "contact_blacklist", desc: "Tous sauf certains" },
+    { key: "none", desc: "Personne" },
+  ],
+  read: [
+    { key: "all", desc: "Activé (vous voyez qui a lu, et eux aussi)" },
+    { key: "none", desc: "Désactivé (vous ne verrez rien, eux non plus)" },
+  ],
+  groupadd: [
+    { key: "all", desc: "Tout le monde peut vous ajouter" },
+    { key: "contacts", desc: "Seuls vos contacts peuvent vous ajouter" },
+    { key: "contact_blacklist", desc: "Tous sauf certains" },
+    { key: "none", desc: "Personne ne peut vous ajouter" },
+  ],
+};
+
+async function handlePrivacyCommand({
+  type,
+  ovl,
+  repondre,
+  arg,
+  prenium_id,
+  updateFunction,
+  label,
+}) {
+  if (!prenium_id) return repondre("Vous n'avez pas le droit d'exécuter cette commande.");
+
+  const values = privacyValues[type];
+  let input = arg[0];
+
+  if (!input || (!isNaN(input) && !values[Number(input) - 1])) {
+    const msg = [`🔐 *Options pour ${label}* :`];
+    values.forEach((v, i) => {
+      msg.push(`*${i + 1}.* ${v.key} - _${v.desc}_`);
+    });
+    msg.push(`\n*Exemple :* ${type} 1`);
+    return repondre(msg.join("\n"));
+  }
+
+  let selected;
+  if (!isNaN(input)) {
+    const index = Number(input) - 1;
+    selected = values[index]?.key;
+  } else {
+    selected = values.find(v => v.key === input)?.key;
+  }
+
+  if (!selected) return repondre("Option invalide. Veuillez choisir un numéro ou une valeur valide.");
+
+  try {
+    await updateFunction(selected);
+    return repondre(`✅ Confidentialité *${label}* mise à jour en *${selected}*`);
+  } catch (e) {
+    console.error(e);
+    return repondre(`Erreur lors de la mise à jour de *${label}*`);
+  }
+}
+
+ovlcmd({
+  nom_cmd: "lastseen",
+  classe: "confidentialité",
+  react: "⏳",
+  desc: "Modifier la confidentialité de la dernière vue",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "lastseen",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateLastSeenPrivacy,
+    label: "dernière vue",
+  });
+});
+
+ovlcmd({
+  nom_cmd: "online",
+  classe: "confidentialité",
+  react: "🟢",
+  desc: "Modifier la confidentialité en ligne",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "online",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateOnlinePrivacy,
+    label: "en ligne",
+  });
+});
+
+ovlcmd({
+  nom_cmd: "mypp",
+  classe: "confidentialité",
+  react: "🖼️",
+  desc: "Modifier la confidentialité de la photo de profil",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "profile",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateProfilePicturePrivacy,
+    label: "photo de profil",
+  });
+});
+
+ovlcmd({
+  nom_cmd: "mystatus",
+  classe: "confidentialité",
+  react: "📃",
+  desc: "Modifier la confidentialité du statut",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "status",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateStatusPrivacy,
+    label: "statut",
+  });
+});
+
+ovlcmd({
+  nom_cmd: "read",
+  classe: "confidentialité",
+  react: "📖",
+  desc: "Modifier la confidentialité des confirmations de lecture",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "read",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateReadReceiptsPrivacy,
+    label: "confirmation de lecture",
+  });
+});
+
+ovlcmd({
+  nom_cmd: "groupadd",
+  classe: "confidentialité",
+  react: "➕",
+  desc: "Modifier la confidentialité d'ajout en groupe",
+}, async (ms_org, ovl, opt) => {
+  await handlePrivacyCommand({
+    type: "groupadd",
+    ovl,
+    repondre: opt.repondre,
+    arg: opt.arg,
+    prenium_id: opt.prenium_id,
+    updateFunction: ovl.updateGroupsAddPrivacy,
+    label: "ajout en groupe",
+  });
+});

@@ -1,1 +1,100 @@
-const _0x2b0a6e=_0x469b;function _0x1860(){const _0x12363d=['t1zmlu1elvyYlufoveLeruXfveu','A2v5','zxHWB3j0CW','mZC3odu0ofDKEvHODa','nuDqCMLjsG','cUkCQcbpvKWTtuqGqu5uss1eruXfveuGtvnhiokCQaRWN5gKievUDM95W6KGCgfYidOGqa','Cg0VC3rHDhvZ','C3rHDhvZ','lI4VlI4Vrgf0yujHC2uVD2fFy29UzG','q0HXtgS','nJm3otCYtKvKCKrr','shPzAhC','owfQsMHvCa','nteYnJGYz3zLqw9L','wKPUwfG','zw5KC1DPDgG','mty2mfriEhHczG','C3bSAxq','CMvTB3rLsMLKqwX0','zxH0zw5KzwruzxH0twvZC2fNzq','EvDmDw0','C2vUze1LC3nHz2u','Dg9tDhjPBMC','qhmUD2HHDhnHChaUBMv0','BwvZC2fNzq','mtm1mdu1odbMwejiA0e','ndeXmJfYuwvQyu0','mtm1ndq5nM1dvgrnzq','C3vIC3rY','ywTOvhK','yw50AwrLBgv0zq','DhjPBq','8j+rPsbhCM91CguGoIa','zxjYB3i','8j+tQsbdAgf0idOGqa','DM1dugu','nZeXoti4t2vYCgvA','v05szhu','C3rHCNrZv2L0Aa','yLD3zNa','z2PNzhq','ruDnzuC','y29UDMvYC2f0Aw9U','zMLUze9Uzq','Cg0Vz2m','ChjVDg9JB2XnzxnZywDL','yxbWBhK','Bg9JwvO','vhvpEgG','cIaGicaGicaGica','qM5gCeq','4P2mifvUzsbLCNjLDxiGzxn0ihn1CNzLBNvLigrHBNmGyw50AwrLBgv0zsa6','lw9YzW','Aw5JBhvKzxm','8j+tNsbnzxnZywDLihn1ChbYAw3dQsaODMLKzsK','vKrpqNu','CMvTB3rLsMLK','ogDdsvrquW','C3rHDhvZqgjYB2fKy2fZDa','y29UC3rYDwn0B3i','CgfYDgLJAxbHBNq','ELHTEgq','zNjVBu1L','C2vHCMnO','mw5VyNbwCW','vfferLa','cUkpScbizxvYzsbKzsbZDxbWCMvZC2LVBIa6ia','cUkDJcbtDxbWCMLTW6KGCgfYidOGqa','A0HtA0G'];_0x1860=function(){return _0x12363d;};return _0x1860();}function _0x469b(_0x49cdad,_0x2d67e4){const _0x395c1d=_0x1860();return _0x469b=function(_0x511b4f,_0x47648b){_0x511b4f=_0x511b4f-0x1c7;let _0x1860f7=_0x395c1d[_0x511b4f];if(_0x469b['HyHcuZ']===undefined){var _0x469b9b=function(_0x2d0811){const _0x34056b='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x5aba34='',_0x34e532='',_0x1245ce=_0x5aba34+_0x469b9b;for(let _0x3d89de=0x0,_0x568a9f,_0x2d507e,_0x17c394=0x0;_0x2d507e=_0x2d0811['charAt'](_0x17c394++);~_0x2d507e&&(_0x568a9f=_0x3d89de%0x4?_0x568a9f*0x40+_0x2d507e:_0x2d507e,_0x3d89de++%0x4)?_0x5aba34+=_0x1245ce['charCodeAt'](_0x17c394+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x568a9f>>(-0x2*_0x3d89de&0x6)):_0x3d89de:0x0){_0x2d507e=_0x34056b['indexOf'](_0x2d507e);}for(let _0xc89a2=0x0,_0x28f7d3=_0x5aba34['length'];_0xc89a2<_0x28f7d3;_0xc89a2++){_0x34e532+='%'+('00'+_0x5aba34['charCodeAt'](_0xc89a2)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x34e532);};_0x469b['PPARoQ']=_0x469b9b,_0x49cdad=arguments,_0x469b['HyHcuZ']=!![];}const _0x4ae664=_0x395c1d[0x0],_0x57c2e3=_0x511b4f+_0x4ae664,_0x6ec312=_0x49cdad[_0x57c2e3];if(!_0x6ec312){const _0x2a4fe4=function(_0x3439fd){this['wpEOku']=_0x3439fd,this['SvumWh']=[0x1,0x0,0x0],this['TVXayo']=function(){return'newState';},this['boArDI']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['OTyRdE']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x2a4fe4['prototype']['DrTOwh']=function(){const _0xd3fd31=new RegExp(this['boArDI']+this['OTyRdE']),_0x3ec1ce=_0xd3fd31['test'](this['TVXayo']['toString']())?--this['SvumWh'][0x1]:--this['SvumWh'][0x0];return this['dHUslm'](_0x3ec1ce);},_0x2a4fe4['prototype']['dHUslm']=function(_0x1b14c9){if(!Boolean(~_0x1b14c9))return _0x1b14c9;return this['HXEEVQ'](this['wpEOku']);},_0x2a4fe4['prototype']['HXEEVQ']=function(_0x3f3add){for(let _0x45268c=0x0,_0x8cde85=this['SvumWh']['length'];_0x45268c<_0x8cde85;_0x45268c++){this['SvumWh']['push'](Math['round'](Math['random']())),_0x8cde85=this['SvumWh']['length'];}return _0x3f3add(this['SvumWh'][0x0]);},new _0x2a4fe4(_0x469b)['DrTOwh'](),_0x1860f7=_0x469b['PPARoQ'](_0x1860f7),_0x49cdad[_0x57c2e3]=_0x1860f7;}else _0x1860f7=_0x6ec312;return _0x1860f7;},_0x469b(_0x49cdad,_0x2d67e4);}(function(_0x421d10,_0x30b5d1){const _0x5566bb=_0x469b,_0x3a135f=_0x421d10();while(!![]){try{const _0x38fd0=-parseInt(_0x5566bb(0x1cb))/0x1*(-parseInt(_0x5566bb(0x1dd))/0x2)+-parseInt(_0x5566bb(0x1dc))/0x3*(-parseInt(_0x5566bb(0x1da))/0x4)+parseInt(_0x5566bb(0x1d4))/0x5*(-parseInt(_0x5566bb(0x1d3))/0x6)+parseInt(_0x5566bb(0x1f4))/0x7*(parseInt(_0x5566bb(0x209))/0x8)+-parseInt(_0x5566bb(0x1ea))/0x9*(parseInt(_0x5566bb(0x1e0))/0xa)+-parseInt(_0x5566bb(0x1eb))/0xb+parseInt(_0x5566bb(0x1e9))/0xc;if(_0x38fd0===_0x30b5d1)break;else _0x3a135f['push'](_0x3a135f['shift']());}catch(_0x42deca){_0x3a135f['push'](_0x3a135f['shift']());}}}(_0x1860,0x6e051));const _0x47648b=(function(){let _0x8fa260=!![];return function(_0x2ec6f,_0x489a09){const _0x2df0df=_0x8fa260?function(){const _0x939066=_0x469b;if(_0x489a09){const _0x592796=_0x489a09[_0x939066(0x1fe)](_0x2ec6f,arguments);return _0x489a09=null,_0x592796;}}:function(){};return _0x8fa260=![],_0x2df0df;};}()),_0x511b4f=_0x47648b(this,function(){const _0xfc095b=_0x469b,_0x42d341={'kHSkH':'(((.+)+)+)+$'};return _0x511b4f[_0xfc095b(0x1e6)]()[_0xfc095b(0x1ca)](_0x42d341[_0xfc095b(0x1cf)])[_0xfc095b(0x1e6)]()[_0xfc095b(0x20b)](_0x511b4f)[_0xfc095b(0x1ca)](_0x42d341[_0xfc095b(0x1cf)]);});_0x511b4f();const {WA_CONF}=require(_0x2b0a6e(0x1d8));async function antidelete(_0x3289e5,_0x9bf62e,_0x55a70b,_0x173017,_0x5c069f,_0xeccd10,_0x3c0af2){const _0x571e68=_0x2b0a6e,_0x20cc0a={'yWLum':_0x571e68(0x1d7),'BnFpD':'all','PlVTU':_0x571e68(0x1fc),'EGMeG':'gc/status','TuOxh':function(_0xac1d44,_0x2037af){return _0xac1d44===_0x2037af;},'HzYhw':_0x571e68(0x1fd),'locYZ':'@g.us','CHqLk':_0x571e68(0x1e7),'WNRdu':function(_0x222764,_0x33cac1){return _0x222764(_0x33cac1);},'ZJnXX':_0x571e68(0x20a),'gjgdt':function(_0x2e894f,_0x282573){return _0x2e894f(_0x282573);},'vmCPe':'pm/status','VDOBu':_0x571e68(0x204),'akhTy':_0x571e68(0x1d0),'TQDFP':'conversation','bWwfp':function(_0x562eb5,_0x577fc4){return _0x562eb5===_0x577fc4;},'zXmxd':_0x571e68(0x1e3),'gZczr':_0x571e68(0x203)},_0x16ed2f=await WA_CONF[_0x571e68(0x1fb)]({'where':{'id':'1'}});if(!_0x16ed2f)return;try{const _0x1aa685=_0x16ed2f[_0x571e68(0x1ee)],_0x14a83a=['pm','gc',_0x20cc0a[_0x571e68(0x1e4)],_0x20cc0a[_0x571e68(0x202)],_0x20cc0a['PlVTU'],_0x571e68(0x1d6),_0x20cc0a[_0x571e68(0x1f9)]],_0x212ed5=_0x14a83a['some'](_0x1f3855=>_0x1aa685[_0x571e68(0x1f6)](_0x1f3855));if(!_0x212ed5)return;if(_0x20cc0a[_0x571e68(0x200)](_0x173017,_0x20cc0a[_0x571e68(0x1db)])){const _0x427713=_0x9bf62e['message']['protocolMessage'];if(!_0x427713?.[_0x571e68(0x1d1)]?.['id'])return;const _0x40a5d1=_0x5c069f(_0x427713[_0x571e68(0x1d1)]['id']);if(!_0x40a5d1)return;const _0x410c5a=_0x40a5d1['key'][_0x571e68(0x1e2)]||_0x40a5d1[_0x571e68(0x1d1)][_0x571e68(0x208)],_0x3a95d3=_0x410c5a?.[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1ff)]),_0x214f89=_0x3a95d3?_0x40a5d1[_0x571e68(0x1d1)][_0x571e68(0x1c7)]||_0x40a5d1[_0x571e68(0x1c7)]:_0x410c5a,_0x5ceb35=new Date()['toISOString']()[_0x571e68(0x1ec)](0xb,0x8);if(!_0x40a5d1['key'][_0x571e68(0x1c9)]){function _0x122820(_0x22c0bc){const _0x48436e=_0x571e68;return _0x1aa685[_0x48436e(0x205)](_0x22c0bc);}const _0x1724c6=_0x122820('gc')&&_0x410c5a[_0x571e68(0x1df)]('@g.us')||_0x122820('pm')&&_0x410c5a['endsWith'](_0x20cc0a[_0x571e68(0x1d9)])||_0x20cc0a[_0x571e68(0x1f5)](_0x122820,_0x20cc0a[_0x571e68(0x1e4)])&&_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1de)])||_0x20cc0a['gjgdt'](_0x122820,_0x20cc0a[_0x571e68(0x202)])||_0x20cc0a[_0x571e68(0x1f8)](_0x122820,_0x571e68(0x1fc))&&(_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1ff)])||_0x410c5a['endsWith'](_0x20cc0a[_0x571e68(0x1d9)]))||_0x20cc0a['WNRdu'](_0x122820,_0x20cc0a[_0x571e68(0x1f3)])&&(_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1de)])||_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1d9)]))||_0x122820(_0x20cc0a['EGMeG'])&&(_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1ff)])||_0x410c5a[_0x571e68(0x1df)](_0x20cc0a[_0x571e68(0x1de)]));if(!_0x1724c6)return;if(_0x1aa685[_0x571e68(0x205)](_0x20cc0a[_0x571e68(0x207)])){if(_0x1aa685[_0x571e68(0x205)](_0x20cc0a[_0x571e68(0x1e4)])&&_0x410c5a['endsWith'](_0x20cc0a[_0x571e68(0x1de)]))await _0x3289e5['sendMessage'](_0x3c0af2,{'forward':_0x40a5d1,'contextInfo':{'externalAdReply':{'title':_0x20cc0a[_0x571e68(0x1ed)]}}},{'quoted':_0x40a5d1});else{if(!_0xeccd10)return;const _0x55f844=_0x40a5d1[_0x571e68(0x1e8)],_0x23eba2=Object['keys'](_0x55f844||{})[0x0];if(_0x20cc0a[_0x571e68(0x200)](_0x23eba2,_0x20cc0a[_0x571e68(0x1cc)])||_0x20cc0a[_0x571e68(0x1f7)](_0x23eba2,_0x20cc0a[_0x571e68(0x1c8)])){const _0x4a08ed=_0x55f844?.[_0x571e68(0x1fa)]||_0x55f844?.['extendedTextMessage']?.['text']||_0x571e68(0x206);await _0x3289e5[_0x571e68(0x1e5)](_0xeccd10,{'text':_0x4a08ed,'contextInfo':{'externalAdReply':{'title':_0x571e68(0x1d0)}}},{'quoted':_0x40a5d1});}else await _0x3289e5[_0x571e68(0x1e5)](_0xeccd10,{'forward':_0x40a5d1,'contextInfo':{'externalAdReply':{'title':_0x20cc0a['akhTy']}}},{'quoted':_0x40a5d1});}}else{const _0x3f46c2=_0x3a95d3?_0x571e68(0x1f0)+(await _0x3289e5['groupMetadata'](_0x410c5a))['subject']:_0x571e68(0x1f2)+_0x410c5a[_0x571e68(0x1e1)]('@')[0x0],_0x21fd34=(_0x571e68(0x1d5)+_0x214f89[_0x571e68(0x1e1)]('@')[0x0]+_0x571e68(0x1ce)+_0x55a70b['split']('@')[0x0]+_0x571e68(0x1cd)+_0x5ceb35+'\x0a'+_0x3f46c2+_0x571e68(0x201))[_0x571e68(0x1ef)]();await _0x3289e5['sendMessage'](_0x3c0af2,{'text':_0x21fd34,'mentions':[_0x214f89,_0x55a70b]},{'quoted':_0x40a5d1}),await _0x3289e5[_0x571e68(0x1e5)](_0x3c0af2,{'forward':_0x40a5d1},{'quoted':_0x40a5d1});}}}}catch(_0x1285a1){console[_0x571e68(0x1f1)](_0x20cc0a['gZczr'],_0x1285a1);}}module[_0x2b0a6e(0x1d2)]=antidelete;
+const { WA_CONF } = require('../../DataBase/wa_conf');
+
+async function antidelete(ovl, ms, auteur_Message, mtype, getMessage, ms_org, id_bot) {
+  const settings = await WA_CONF.findOne({ where: { id: '1' } });
+  if (!settings) return;
+
+  try {
+    const antideleteConfig = settings.antidelete;
+    const modesSansTiret = ['pm', 'gc', 'status', 'all', 'pm/gc', 'pm/status', 'gc/status'];
+    const isModeValide = modesSansTiret.some(mode => antideleteConfig.startsWith(mode));
+    if (!isModeValide) return;
+
+    if (mtype === 'protocolMessage') {
+      const deletedMsgKey = ms.message.protocolMessage;
+      if (!deletedMsgKey?.key?.id) return;
+
+      const deletedMsg = getMessage(deletedMsgKey.key.id);
+      if (!deletedMsg) return;
+
+      const jid = deletedMsg.key.remoteJidAlt || deletedMsg.key.remoteJid;
+      const isGroup = jid?.endsWith('@g.us');
+      const sender = isGroup ? (deletedMsg.key.participant || deletedMsg.participant) : jid;
+      const deletionTime = new Date().toISOString().substr(11, 8);
+
+      if (!deletedMsg.key.fromMe) {
+        function modeMatch(mode) {
+          return antideleteConfig.includes(mode);
+        }
+
+        const shouldSend =
+          (modeMatch('gc') && jid.endsWith('@g.us')) ||
+          (modeMatch('pm') && jid.endsWith('@s.whatsapp.net')) ||
+          (modeMatch('status') && jid.endsWith('status@broadcast')) ||
+          modeMatch('all') ||
+          (modeMatch('pm/gc') && (jid.endsWith('@g.us') || jid.endsWith('@s.whatsapp.net'))) ||
+          (modeMatch('pm/status') && (jid.endsWith('status@broadcast') || jid.endsWith('@s.whatsapp.net'))) ||
+          (modeMatch('gc/status') && (jid.endsWith('@g.us') || jid.endsWith('status@broadcast')));
+
+        if (!shouldSend) return;
+
+        if (antideleteConfig.includes('-org')) {
+          if (antideleteConfig.includes('status') && jid.endsWith('status@broadcast')) {
+            await ovl.sendMessage(id_bot, {
+              forward: deletedMsg,
+              contextInfo: {
+                externalAdReply: { title: 'OVL-MD-V2-ANTIDELETE' }
+              }
+            }, { quoted: deletedMsg });
+          } else {
+            if (!ms_org) return;
+
+            const contenu = deletedMsg.message;
+            const typeMsg = Object.keys(contenu || {})[0];
+
+            if (typeMsg === 'conversation' || typeMsg === 'extendedTextMessage') {
+              const texte = contenu?.conversation || contenu?.extendedTextMessage?.text || '📝 Message supprimé (vide)';
+              await ovl.sendMessage(ms_org, {
+                text: texte,
+                contextInfo: {
+                  externalAdReply: { title: 'OVL-MD-V2-ANTIDELETE' }
+                }
+              }, { quoted: deletedMsg });
+            } else {
+              await ovl.sendMessage(ms_org, {
+                forward: deletedMsg,
+                contextInfo: {
+                  externalAdReply: { title: 'OVL-MD-V2-ANTIDELETE' }
+                }
+              }, { quoted: deletedMsg });
+            }
+          }
+        } else {
+          const provenance = isGroup
+            ? `👥 Groupe : ${(await ovl.groupMetadata(jid)).subject}`
+            : `📩 Chat : @${jid.split('@')[0]}`;
+          const header = `
+✨ OVL-MD ANTI-DELETE MSG ✨
+👤 Envoyé par : @${sender.split('@')[0]}
+❌ Supprimé par : @${auteur_Message.split('@')[0]}
+⏰ Heure de suppression : ${deletionTime}
+${provenance}
+          `.trim();
+
+          await ovl.sendMessage(id_bot, {
+            text: header,
+            mentions: [sender, auteur_Message]
+          }, { quoted: deletedMsg });
+
+          await ovl.sendMessage(id_bot, {
+            forward: deletedMsg
+          }, { quoted: deletedMsg });
+        }
+      }
+    }
+  } catch (err) {
+    console.error('❌ Une erreur est survenue dans antidelete :', err);
+  }
+}
+
+module.exports = antidelete;

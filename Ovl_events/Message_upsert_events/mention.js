@@ -1,1 +1,57 @@
-function _0x3f39(){const _0x5390de=['mJKXotyZn1rLAgrQuW','y29UC3rYDwn0B3i','qxvJDw4Gy29UDgvUDsb2AwtdQw8GzmoPzMLUAs4','nNbKv2f6tW','mtGXmta4ohLRAfjMBG','uMHzvhm','yxvKAw8','Aw1Hz2u','odKZnJzRtePUrg8','m0nfrxfHuq','C2vHCMnO','mtGWoxvPEMz4sW','twvUDgLVBIbHy3rPDSoPzsbTywLZigf1y3vUignVBNrLBNuGzmoPzMLUAs4','Bfjzv1i','kcGOlISPkYKRksSK','Dgv4Dgu','sg9PCNC','mta1mtyWoerlEhrqwa','Bw9Kzq','Dg9tDhjPBMC','mZyWnZC4rM9Ts3r0','A3ngCKm','rxjYzxvYigrHBNmGBwvUDgLVBJO','C2vUze1LC3nHz2u','qxvJDw4GBwvZC2fNzsb0zxH0zsbKW6LMAw5PlG','Ce1Lq3y','mJvsBfPdwxu','lI4VlI4Vrgf0yujHC2uVBwvUDgLVBG','otK3mhfitwzWAG','DNbWruW','vuTZufu','txjqrhi','yu5MCuy','tguGDhLWzsbKzsbTW6LKAweGzxn0igLUy29UBNuGB3uGBM9UihbYAxmGzw4Gy2HHCMDLlG','vNLUuvG','tfnuqMu','mJa3mti0B0nMv0PU','tu1fC04','yxbWBhK','ELvQEu0','yxvKAw8VBxbLzW'];_0x3f39=function(){return _0x5390de;};return _0x3f39();}const _0x14e760=_0x10ad;(function(_0x113574,_0x270d71){const _0x12b6cb=_0x10ad,_0x16ac0d=_0x113574();while(!![]){try{const _0x1938e3=-parseInt(_0x12b6cb(0x173))/0x1*(-parseInt(_0x12b6cb(0x172))/0x2)+parseInt(_0x12b6cb(0x152))/0x3+-parseInt(_0x12b6cb(0x165))/0x4*(parseInt(_0x12b6cb(0x15b))/0x5)+-parseInt(_0x12b6cb(0x16d))/0x6*(-parseInt(_0x12b6cb(0x16a))/0x7)+-parseInt(_0x12b6cb(0x16e))/0x8+-parseInt(_0x12b6cb(0x175))/0x9*(parseInt(_0x12b6cb(0x15d))/0xa)+parseInt(_0x12b6cb(0x155))/0xb;if(_0x1938e3===_0x270d71)break;else _0x16ac0d['push'](_0x16ac0d['shift']());}catch(_0x420fc6){_0x16ac0d['push'](_0x16ac0d['shift']());}}}(_0x3f39,0x3cbd2));const _0x68efc1=(function(){let _0x2feef0=!![];return function(_0x5b1419,_0xc6c4d5){const _0x532716=_0x2feef0?function(){const _0x83d192=_0x10ad;if(_0xc6c4d5){const _0x150b5f=_0xc6c4d5[_0x83d192(0x167)](_0x5b1419,arguments);return _0xc6c4d5=null,_0x150b5f;}}:function(){};return _0x2feef0=![],_0x532716;};}()),_0x27853c=_0x68efc1(this,function(){const _0x49338b=_0x10ad,_0x65a07d={'UKsPU':_0x49338b(0x14f)};return _0x27853c[_0x49338b(0x154)]()[_0x49338b(0x174)](_0x65a07d[_0x49338b(0x15f)])[_0x49338b(0x154)]()[_0x49338b(0x16b)](_0x27853c)['search'](_0x65a07d[_0x49338b(0x15f)]);});_0x27853c();function _0x10ad(_0x5ec8f7,_0x410c5f){const _0x4005d4=_0x3f39();return _0x10ad=function(_0x27853c,_0x68efc1){_0x27853c=_0x27853c-0x14f;let _0x3f39ce=_0x4005d4[_0x27853c];if(_0x10ad['akpzwC']===undefined){var _0x10ad18=function(_0x6b3413){const _0x37638d='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x17162b='',_0x508754='',_0x31469a=_0x17162b+_0x10ad18;for(let _0x4365fe=0x0,_0x1008f1,_0x19aa9b,_0x542468=0x0;_0x19aa9b=_0x6b3413['charAt'](_0x542468++);~_0x19aa9b&&(_0x1008f1=_0x4365fe%0x4?_0x1008f1*0x40+_0x19aa9b:_0x19aa9b,_0x4365fe++%0x4)?_0x17162b+=_0x31469a['charCodeAt'](_0x542468+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x1008f1>>(-0x2*_0x4365fe&0x6)):_0x4365fe:0x0){_0x19aa9b=_0x37638d['indexOf'](_0x19aa9b);}for(let _0x385deb=0x0,_0x56d91a=_0x17162b['length'];_0x385deb<_0x56d91a;_0x385deb++){_0x508754+='%'+('00'+_0x17162b['charCodeAt'](_0x385deb)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x508754);};_0x10ad['sIZRcZ']=_0x10ad18,_0x5ec8f7=arguments,_0x10ad['akpzwC']=!![];}const _0x1447b5=_0x4005d4[0x0],_0x4e9ab4=_0x27853c+_0x1447b5,_0x54054a=_0x5ec8f7[_0x4e9ab4];if(!_0x54054a){const _0x48dbed=function(_0x53cb93){this['LLGjGU']=_0x53cb93,this['ZgpfaW']=[0x1,0x0,0x0],this['wiNMAM']=function(){return'newState';},this['xtATPE']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['EMrKoD']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x48dbed['prototype']['VUSNTP']=function(){const _0x2abf75=new RegExp(this['xtATPE']+this['EMrKoD']),_0x39dff1=_0x2abf75['test'](this['wiNMAM']['toString']())?--this['ZgpfaW'][0x1]:--this['ZgpfaW'][0x0];return this['lXeGFq'](_0x39dff1);},_0x48dbed['prototype']['lXeGFq']=function(_0xaf41ed){if(!Boolean(~_0xaf41ed))return _0xaf41ed;return this['cewGyC'](this['LLGjGU']);},_0x48dbed['prototype']['cewGyC']=function(_0x385865){for(let _0x23d4bf=0x0,_0x514f82=this['ZgpfaW']['length'];_0x23d4bf<_0x514f82;_0x23d4bf++){this['ZgpfaW']['push'](Math['round'](Math['random']())),_0x514f82=this['ZgpfaW']['length'];}return _0x385865(this['ZgpfaW'][0x0]);},new _0x48dbed(_0x10ad)['VUSNTP'](),_0x3f39ce=_0x10ad['sIZRcZ'](_0x3f39ce),_0x5ec8f7[_0x4e9ab4]=_0x3f39ce;}else _0x3f39ce=_0x54054a;return _0x3f39ce;},_0x10ad(_0x5ec8f7,_0x410c5f);}const {getMention}=require(_0x14e760(0x15c)),getJid=require('./cache_jid');async function mention(_0x476572,_0x16fb30,_0x254394,_0x31c9da,_0x12a80b,_0x3241fc,_0x4b3429,_0x14f2c4){const _0x25323d=_0x14e760,_0x39ddfa={'zUjyM':function(_0x1ad596){return _0x1ad596();},'MMEsN':function(_0x36eb73,_0x3533b9){return _0x36eb73===_0x3533b9;},'QMqyl':'oui','pMeCv':function(_0x40e46,_0x5e8e57){return _0x40e46===_0x5e8e57;},'LSTBe':function(_0x4ed33e,_0x3f4a62){return _0x4ed33e(_0x3f4a62);},'pAnUH':_0x25323d(0x176),'zwhmK':function(_0x2ffae0,_0x494f9c){return _0x2ffae0||_0x494f9c;},'ksFrC':_0x25323d(0x169),'Hoirw':_0x25323d(0x171),'vppEL':function(_0x266719,_0x592614){return _0x266719||_0x592614;},'lRYWR':'video','MrPDr':_0x25323d(0x16c),'RhYTs':_0x25323d(0x150),'aNfqF':function(_0xeaafab,_0x17cdd5){return _0xeaafab(_0x17cdd5);},'VynQX':function(_0x3dbcb9,_0x323fea){return _0x3dbcb9||_0x323fea;},'eMzWJ':_0x25323d(0x162)};try{if(_0x14f2c4&&_0x14f2c4['includes'](_0x3241fc)){if(_0x12a80b){const _0x28160a=await _0x39ddfa[_0x25323d(0x168)](getMention);if(_0x28160a&&_0x39ddfa[_0x25323d(0x166)](_0x28160a[_0x25323d(0x153)],_0x39ddfa['QMqyl'])){const {url:_0x5ce4f2,text:_0x4c0008,type:_0x50a5c5}=_0x28160a;if((!_0x5ce4f2||_0x39ddfa[_0x25323d(0x15a)](_0x5ce4f2,''))&&(!_0x4c0008||_0x39ddfa[_0x25323d(0x166)](_0x4c0008,''))){_0x39ddfa[_0x25323d(0x164)](_0x4b3429,_0x39ddfa['pAnUH']);return;}switch(_0x50a5c5){case _0x25323d(0x170):if(!_0x5ce4f2)return _0x39ddfa[_0x25323d(0x164)](_0x4b3429,_0x39ddfa['zwhmK'](_0x4c0008,'Aucun\x20contenu\x20audio\x20défini.'));_0x476572[_0x25323d(0x158)](_0x16fb30,{'audio':{'url':_0x5ce4f2},'mimetype':_0x39ddfa[_0x25323d(0x156)]},{'quoted':_0x254394});break;case _0x39ddfa[_0x25323d(0x151)]:if(!_0x5ce4f2)return _0x39ddfa[_0x25323d(0x164)](_0x4b3429,_0x39ddfa[_0x25323d(0x15e)](_0x4c0008,'Aucun\x20contenu\x20image\x20défini.'));_0x476572[_0x25323d(0x158)](_0x16fb30,{'image':{'url':_0x5ce4f2},'caption':_0x4c0008||undefined},{'quoted':_0x254394});break;case _0x39ddfa[_0x25323d(0x177)]:if(!_0x5ce4f2)return _0x39ddfa[_0x25323d(0x164)](_0x4b3429,_0x4c0008||_0x39ddfa[_0x25323d(0x160)]);_0x476572['sendMessage'](_0x16fb30,{'video':{'url':_0x5ce4f2},'caption':_0x39ddfa[_0x25323d(0x15e)](_0x4c0008,undefined)},{'quoted':_0x254394});break;case _0x39ddfa[_0x25323d(0x16f)]:return _0x39ddfa[_0x25323d(0x161)](_0x4b3429,_0x39ddfa[_0x25323d(0x163)](_0x4c0008,_0x25323d(0x159)));default:_0x39ddfa[_0x25323d(0x161)](_0x4b3429,_0x39ddfa['eMzWJ']);}}}}}catch(_0x54294b){console['error'](_0x25323d(0x157),_0x54294b);}}module['exports']=mention;
+const { getMention } = require("../../DataBase/mention");
+const getJid = require("./cache_jid");
+
+async function mention(ovl, jid, ms, mtype, verif_Groupe, id_Bot, repondre, mention_JID) {
+  try {
+    if (mention_JID && mention_JID.includes(id_Bot)) {
+      if (verif_Groupe) {
+        const data = await getMention();
+
+        if (data && data.mode === "oui") {
+          const { url, text, type } = data;
+
+          if ((!url || url === "") && (!text || text === "")) {
+            repondre("Mention activée mais aucun contenu défini.");
+            return;
+          }
+
+          switch (type) {
+            case "audio":
+              if (!url) return repondre(text || "Aucun contenu audio défini.");
+              ovl.sendMessage(jid, {
+                audio: { url },
+                mimetype: "audio/mpeg",
+              }, { quoted: ms });
+              break;
+
+            case "image":
+              if (!url) return repondre(text || "Aucun contenu image défini.");
+              ovl.sendMessage(jid, {
+                image: { url },
+                caption: text || undefined,
+              }, { quoted: ms });
+              break;
+
+            case "video":
+              if (!url) return repondre(text || "Aucun contenu vidéo défini.");
+              ovl.sendMessage(jid, {
+                video: { url },
+                caption: text || undefined,
+              }, { quoted: ms });
+              break;
+
+            case "texte":
+              return repondre(text || "Aucun message texte défini.");
+
+            default:
+              repondre("Le type de média est inconnu ou non pris en charge.");
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.error("Erreur dans mention:", e);
+  }
+}
+
+module.exports = mention;
