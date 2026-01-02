@@ -1,13 +1,13 @@
 {
   "name": "OVL-MD-V2",
-  "version": "2.0.9",
+  "version": "2.1.0",
   "description": "Bot Whatsapp multi-appareil developpé par Ainz",
   "main": "Ovl.js",
   "type": "commonjs",
   "scripts": {
     "start": "pm2 start Ovl.js --attach --name ovl",
     "stop": "pm2 stop all",
-    "Ovl": "pm2 start Ovl.js --attach --name ovl"
+    "Ovl": "node Ovl.js"
   },
   "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
   "author": "Ainz-devs",
